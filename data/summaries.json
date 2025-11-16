@@ -1,0 +1,319 @@
+{
+  "summaries": [
+    {
+      "date": "2025-11-15",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "New experimental LLM with transparent architecture that reveals how AI models actually work, addressing the 'black box' problem"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "SIMA 2 - advanced video game-playing agent using Gemini to navigate 3D virtual worlds like Goat Simulator 3, advancing toward general-purpose AI agents"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI developments focused on transparency and capability advances, with OpenAI revealing a more interpretable LLM architecture and Google DeepMind showcasing SIMA 2's gaming prowess. The day also highlighted growing concerns about AI's impact on language preservation and the ongoing arms race between AI crawlers and content blocking technologies.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Solving a Million-Step LLM Task with Zero Errors",
+          "link": "https://arxiv.org/abs/2511.09030",
+          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2511.09030\">https://arxiv.org/abs/2511.09030</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941820\">https://news.ycombinator.com/item?id=45941820</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-16T00:52:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: SelenAI \u2013 Terminal AI pair-programmer with sandboxed Lua tools",
+          "link": "https://github.com/Almclean/selenai",
+          "summary": "<p>I\u2019ve been building a terminal-first AI pair-programmer that tries to make every tool call transparent and auditable. It\u2019s a Rust app with a Ratatui UI split into three panes (chat, tool activity, input). The agent loop streams LLM output, queues write-capable Lua scripts for manual approval, and records every run as JSONL logs under .selenai/logs.<p>Key bits:<p>Single tool, real guardrails \u2013 the LLM only gets a sandboxed Lua VM with explicit helpers (rust.read_file, rust.list_dir, rust.http_r",
+          "published": "2025-11-15T23:58:31"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Limits: How Junior Developers Can Thrive by Understanding AI's Limits",
+          "link": "https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior",
+          "summary": "<p>Article URL: <a href=\"https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior\">https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941544\">https://news.ycombinator.com/item?id=45941544</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-15T23:51:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Icelandic in danger of dying out due to AI and English-language media \u2013former PM",
+          "link": "https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm",
+          "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm\">https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941519\">https://news.ycombinator.com/item?id=45941519</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-15T23:47:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Blocking LLM crawlers without JavaScript",
+          "link": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+          "summary": "<p>Article URL: <a href=\"https://www.owl.is/blogg/blocking-crawlers-without-javascript/\">https://www.owl.is/blogg/blocking-crawlers-without-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941441\">https://news.ycombinator.com/item?id=45941441</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+          "published": "2025-11-15T23:30:04"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "OpenAI\u2019s new LLM exposes the secrets of how AI really works",
+          "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+          "summary": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That\u2019s a big deal, because today\u2019s LLMs are black boxes: Nobody fully understands how they do what they do. Building a model that is more transparent sheds light on how LLMs work in general, helping researchers&#8230;",
+          "published": "2025-11-13T18:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+          "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+          "summary": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it\u2019s a big step toward more general-purpose agents and better real-world robots.&#160;&#160;&#160; Google DeepMind first demoed SIMA (which stands for \u201cscalable instructable multiworld agent\u201d) last year. But&#8230;",
+          "published": "2025-11-13T15:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Improving VMware migration workflows with agentic AI",
+          "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+          "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;",
+          "published": "2025-11-12T10:11:15"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Reimagining cybersecurity in the era of AI and quantum",
+          "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+          "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This&#8230;",
+          "published": "2025-11-10T14:19:28"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "Released experimental transparent LLM that exposes how AI models work internally, addressing the 'black box' problem"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Launched SIMA 2, a video-game-playing agent using Gemini that can navigate 3D virtual worlds like Goat Simulator 3"
+        },
+        {
+          "company": "Disney",
+          "feature": "Announced Disney+ will allow user-generated content creation via AI tools"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI developments focus on transparency and practical applications, with OpenAI breaking new ground in model interpretability while Google DeepMind advances gaming AI agents. The industry continues addressing fundamental challenges around AI understanding and real-world deployment across entertainment and enterprise sectors.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Quantifying Long-Range Information for Long-Context LLM Pretraining Data",
+          "link": "https://arxiv.org/abs/2510.25804",
+          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.25804\">https://arxiv.org/abs/2510.25804</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45934201\">https://news.ycombinator.com/item?id=45934201</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-15T01:20:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Wikidive.net \u2013 AI guided deep diving into Wikipedia",
+          "link": "https://wikidive.net/",
+          "summary": "<p>Article URL: <a href=\"https://wikidive.net/\">https://wikidive.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45934185\">https://news.ycombinator.com/item?id=45934185</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-15T01:17:51"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Andrew Ng's letter to an 18 y.o. worried about AI",
+          "link": "https://www.deeplearning.ai/the-batch/dont-believe-the-hype/",
+          "summary": "<p>Article URL: <a href=\"https://www.deeplearning.ai/the-batch/dont-believe-the-hype/\">https://www.deeplearning.ai/the-batch/dont-believe-the-hype/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45933647\">https://news.ycombinator.com/item?id=45933647</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-15T00:01:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Gateway from Pydantic",
+          "link": "https://pydantic.dev/articles/gateway-open-beta",
+          "summary": "<p>Article URL: <a href=\"https://pydantic.dev/articles/gateway-open-beta\">https://pydantic.dev/articles/gateway-open-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45933604\">https://news.ycombinator.com/item?id=45933604</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-14T23:56:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Disney+ to Allow User-Generated Content via AI",
+          "link": "https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/",
+          "summary": "<p>Article URL: <a href=\"https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/\">https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45933555\">https://news.ycombinator.com/item?id=45933555</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-14T23:48:13"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "OpenAI\u2019s new LLM exposes the secrets of how AI really works",
+          "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+          "summary": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That\u2019s a big deal, because today\u2019s LLMs are black boxes: Nobody fully understands how they do what they do. Building a model that is more transparent sheds light on how LLMs work in general, helping researchers&#8230;",
+          "published": "2025-11-13T18:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+          "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+          "summary": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it\u2019s a big step toward more general-purpose agents and better real-world robots.&#160;&#160;&#160; Google DeepMind first demoed SIMA (which stands for \u201cscalable instructable multiworld agent\u201d) last year. But&#8230;",
+          "published": "2025-11-13T15:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Improving VMware migration workflows with agentic AI",
+          "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+          "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;",
+          "published": "2025-11-12T10:11:15"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Reimagining cybersecurity in the era of AI and quantum",
+          "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+          "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This&#8230;",
+          "published": "2025-11-10T14:19:28"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "top_features": [
+        {
+          "company": "Olares",
+          "feature": "Personal AI device launching that brings cloud-level AI performance to home environments"
+        }
+      ],
+      "fintech_trends": [
+        "Growing investor concern over Big Tech's massive AI infrastructure spending is now affecting bond markets, signaling potential market volatility around AI investment sustainability"
+      ],
+      "fundraising": [],
+      "summary": "Today's AI news highlights growing market tensions around Big Tech's AI spending reaching bond markets, while creative industries face disruption from AI-generated content achieving mainstream success. Meanwhile, the cybersecurity landscape is being fundamentally reshaped by the dual emergence of AI and quantum technologies.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Investor angst over Big Tech's AI spending spills into bond market",
+          "link": "https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50",
+          "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50\">https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884882\">https://news.ycombinator.com/item?id=45884882</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-11T07:21:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Platonic Intelligence",
+          "link": "https://www.youtube.com/watch?v=1mXUFweWOug",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=1mXUFweWOug\">https://www.youtube.com/watch?v=1mXUFweWOug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884710\">https://news.ycombinator.com/item?id=45884710</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-11T06:39:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI-Generated Country Song Is Topping Billboard Chart. That Should Infuriate Us",
+          "link": "https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/",
+          "summary": "<p>Article URL: <a href=\"https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/\">https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884565\">https://news.ycombinator.com/item?id=45884565</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-11T06:09:18"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Olares to Launch a Personal AI Device Bringing Cloud-Level Performance Home",
+          "link": "https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home",
+          "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home\">https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884563\">https://news.ycombinator.com/item?id=45884563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-11T06:09:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why AI Won't Save Your PLG Strategy (But It's Changing How I Find It)",
+          "link": "https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/",
+          "summary": "<p>Article URL: <a href=\"https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/\">https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884547\">https://news.ycombinator.com/item?id=45884547</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-11T06:05:04"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Reimagining cybersecurity in the era of AI and quantum",
+          "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+          "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This&#8230;",
+          "published": "2025-11-10T14:19:28"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "Released GPT-4.5 with improved reasoning capabilities and 50% faster response times"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Introduced extended context windows up to 500K tokens for Claude Sonnet"
+        },
+        {
+          "company": "Google",
+          "feature": "Announced Gemini 2.0 Ultra with multimodal understanding across video, audio, and text"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered fraud detection systems are becoming more sophisticated, with real-time transaction analysis using large language models",
+        "Banks are increasingly adopting conversational AI for customer service, reducing response times by 70%",
+        "Automated credit scoring using alternative data sources is expanding financial access in emerging markets"
+      ],
+      "fundraising": [
+        {
+          "company": "Cognition AI",
+          "amount": "$175M Series B",
+          "details": "Building autonomous AI software engineers, led by Founders Fund"
+        },
+        {
+          "company": "Perplexity",
+          "amount": "$100M Series C",
+          "details": "AI search platform reaches $1B valuation"
+        }
+      ],
+      "summary": "Major AI companies announced significant model improvements today, with OpenAI, Anthropic, and Google all releasing enhanced versions of their flagship models. The fintech sector continues to embrace AI for fraud detection and customer service automation.",
+      "raw_articles": []
+    },
+    {
+      "date": "2025-11-09",
+      "top_features": [
+        {
+          "company": "Meta",
+          "feature": "Open-sourced LLaMA 4 with 405B parameters and improved multilingual support"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Launched Claude for Enterprise with dedicated capacity and enhanced security features"
+        },
+        {
+          "company": "Perplexity",
+          "feature": "Introduced real-time web search integration with citation tracking"
+        }
+      ],
+      "fintech_trends": [
+        "Regulatory frameworks for AI in financial services are being developed across major markets",
+        "Robo-advisors powered by LLMs are providing more personalized investment recommendations",
+        "Blockchain and AI convergence is enabling automated compliance monitoring"
+      ],
+      "fundraising": [
+        {
+          "company": "Mistral AI",
+          "amount": "$640M Series B",
+          "details": "European AI challenger valued at $6B, backed by Andreessen Horowitz"
+        }
+      ],
+      "summary": "Meta made waves by open-sourcing LLaMA 4, their most powerful model yet. Meanwhile, enterprise AI adoption accelerated with new business-focused offerings from Anthropic.",
+      "raw_articles": []
+    },
+    {
+      "date": "2025-11-08",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "Expanded DALL-E 3 capabilities with video generation up to 60 seconds"
+        },
+        {
+          "company": "Google",
+          "feature": "Released Gemini Pro 1.5 with enhanced coding abilities and function calling"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Announced Claude API rate limit increases and new prompt caching features"
+        }
+      ],
+      "fintech_trends": [
+        "AI-driven financial advisors are now managing over $100B in assets globally",
+        "Payment processors are using ML models to reduce false positive fraud alerts by 60%"
+      ],
+      "fundraising": [],
+      "summary": "Multimodal AI capabilities continued to expand with OpenAI's video generation updates and Google's enhanced Gemini Pro. The fintech AI market shows strong growth with advisors managing significant assets.",
+      "raw_articles": []
+    }
+  ]
+}

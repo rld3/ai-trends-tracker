@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Test</title>
+</head>
+<body>
+    <h1>AI Trends Data Test</h1>
+    <div id="output"></div>
+    <script>
+        fetch('data/summaries.json?t=' + Date.now())
+            .then(r => r.json())
+            .then(data => {
+                const output = document.getElementById('output');
+                output.innerHTML = '<h2>Loaded ' + data.summaries.length + ' summaries</h2>';
+                data.summaries.forEach(s => {
+                    output.innerHTML += '<div style="border:1px solid #ccc; padding:10px; margin:10px 0;">';
+                    output.innerHTML += '<h3>Date: ' + s.date + '</h3>';
+                    output.innerHTML += '<p>' + s.summary + '</p>';
+                    output.innerHTML += '</div>';
+                });
+            })
+            .catch(e => {
+                document.getElementById('output').innerHTML = '<p style="color:red;">Error: ' + e + '</p>';
+            });
+    </script>
+</body>
+</html>

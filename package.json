@@ -1,0 +1,16 @@
+{
+  "name": "ai-trends-tracker",
+  "version": "1.0.0",
+  "description": "AI trends tracking dashboard with automated summaries",
+  "main": "update.js",
+  "type": "module",
+  "scripts": {
+    "update": "node update.js",
+    "test": "node update.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}

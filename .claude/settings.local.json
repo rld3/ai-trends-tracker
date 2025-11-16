@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(pip3 install:*)",
+      "Bash(if [ -z \"$ANTHROPIC_API_KEY\" ])",
+      "Bash(then echo \"NOT_SET\")",
+      "Bash(else echo \"API_KEY_IS_SET\")",
+      "Bash(fi)",
+      "Bash(open index.html)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
