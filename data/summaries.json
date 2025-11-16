@@ -5,17 +5,42 @@
       "top_features": [
         {
           "company": "OpenAI",
-          "feature": "New experimental LLM with transparent architecture that reveals how AI models actually work, addressing the 'black box' problem"
+          "feature": "Released experimental transparent LLM that exposes internal workings, making AI decision-making processes more interpretable and auditable"
         },
         {
           "company": "Google DeepMind",
-          "feature": "SIMA 2 - advanced video game-playing agent using Gemini to navigate 3D virtual worlds like Goat Simulator 3, advancing toward general-purpose AI agents"
+          "feature": "Launched SIMA 2, an advanced video-game-playing agent using Gemini that can navigate 3D virtual worlds and solve complex problems across multiple game environments"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Enhanced agentic AI capabilities for enterprise VMware-to-cloud migration workflows, automating dependency mapping and legacy application transitions"
         }
       ],
       "fintech_trends": [],
       "fundraising": [],
-      "summary": "Today's AI developments focused on transparency and capability advances, with OpenAI revealing a more interpretable LLM architecture and Google DeepMind showcasing SIMA 2's gaming prowess. The day also highlighted growing concerns about AI's impact on language preservation and the ongoing arms race between AI crawlers and content blocking technologies.",
+      "summary": "Today's AI developments focus heavily on transparency and practical applications, with OpenAI releasing an interpretable LLM that reveals how AI makes decisions, while Google DeepMind advances multi-environment gaming agents and enterprise migration tools. The day also saw several innovative indie projects including AI tarot readings, terminal-based programming assistants, and messaging-integrated AI tools.",
       "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI Tarot Reading \u2013 get instant 1/3-card or (past/now/future) readings",
+          "link": "https://www.randomtarotcard.org/ai-tarot-reading",
+          "summary": "<p>Description:\nI built AI Tarot Reading, a simple web tool that lets you pull a tarot card (or three cards representing past / now / future) and ask a question to get a reading. The idea is to make the tarot experience accessible, quick, and just a little mystical \u2014 whether you\u2019re just curious, seeking insight, or playing around.<p>Key features:<p>Choose 1 card (for a focused answer) or 3 cards (past-, present-, future-style)<p>Enter your question and then the cards are drawn instantly<p>Readab",
+          "published": "2025-11-16T02:47:27"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "EDCA-OS: A new expression-driven cognitive architecture for deterministic AI",
+          "link": "https://github.com/yuer-dsl/EDCA-OS",
+          "summary": "<p>Article URL: <a href=\"https://github.com/yuer-dsl/EDCA-OS\">https://github.com/yuer-dsl/EDCA-OS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45942340\">https://news.ycombinator.com/item?id=45942340</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2025-11-16T02:47:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI assistant that lives in your messages",
+          "link": "https://textit2.me/",
+          "summary": "<p>Article URL: <a href=\"https://textit2.me/\">https://textit2.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45942303\">https://news.ycombinator.com/item?id=45942303</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-16T02:39:32"
+        },
         {
           "source": "Hacker News AI",
           "title": "Solving a Million-Step LLM Task with Zero Errors",
@@ -29,27 +54,6 @@
           "link": "https://github.com/Almclean/selenai",
           "summary": "<p>I\u2019ve been building a terminal-first AI pair-programmer that tries to make every tool call transparent and auditable. It\u2019s a Rust app with a Ratatui UI split into three panes (chat, tool activity, input). The agent loop streams LLM output, queues write-capable Lua scripts for manual approval, and records every run as JSONL logs under .selenai/logs.<p>Key bits:<p>Single tool, real guardrails \u2013 the LLM only gets a sandboxed Lua VM with explicit helpers (rust.read_file, rust.list_dir, rust.http_r",
           "published": "2025-11-15T23:58:31"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Limits: How Junior Developers Can Thrive by Understanding AI's Limits",
-          "link": "https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior",
-          "summary": "<p>Article URL: <a href=\"https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior\">https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941544\">https://news.ycombinator.com/item?id=45941544</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-15T23:51:41"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Icelandic in danger of dying out due to AI and English-language media \u2013former PM",
-          "link": "https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm",
-          "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm\">https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941519\">https://news.ycombinator.com/item?id=45941519</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-15T23:47:04"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Blocking LLM crawlers without JavaScript",
-          "link": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
-          "summary": "<p>Article URL: <a href=\"https://www.owl.is/blogg/blocking-crawlers-without-javascript/\">https://www.owl.is/blogg/blocking-crawlers-without-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45941441\">https://news.ycombinator.com/item?id=45941441</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
-          "published": "2025-11-15T23:30:04"
         },
         {
           "source": "MIT Tech Review AI",
