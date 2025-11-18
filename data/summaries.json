@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-11-18",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 with 'vibe-coding' responses, improved reasoning, enhanced multimodal capabilities, and built-in agent functionality"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Experimental transparent LLM that exposes AI reasoning processes, making the typically black-box model more interpretable"
+        },
+        {
+          "company": "Microsoft",
+          "feature": "Windows 11 agentic AI capabilities with security warnings about potential malware installation risks"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered network intelligence solutions are emerging for real-time monitoring and analysis, as demonstrated by Kentik AI Advisor for network operations",
+        "Multi-cloud distributed AI infrastructure is becoming critical for scalable fintech operations, enabling better resource distribution and cost optimization"
+      ],
+      "fundraising": [],
+      "summary": "Major AI developments today centered on Google's Gemini 3 launch with advanced reasoning and agent capabilities, alongside growing concerns about AI security risks in consumer applications. The industry is also seeing increased focus on AI transparency and interpretability, with OpenAI's experimental transparent LLM offering insights into how AI models actually work.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Microsoft warns that Windows 11's agentic AI could install malware on your PC",
+          "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-warns-security-risks-agentic-os-windows-11-xpia-malware",
+          "summary": "<p>Article URL: <a href=\"https://www.windowscentral.com/microsoft/windows-11/microsoft-warns-security-risks-agentic-os-windows-11-xpia-malware\">https://www.windowscentral.com/microsoft/windows-11/microsoft-warns-security-risks-agentic-os-windows-11-xpia-malware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45968910\">https://news.ycombinator.com/item?id=45968910</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-18T16:59:40"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Text-Based Scams and AI",
+          "link": "https://www.law.georgetown.edu/tech-institute/insights/tech-brief-text-based-scams-ai/",
+          "summary": "<p>Article URL: <a href=\"https://www.law.georgetown.edu/tech-institute/insights/tech-brief-text-based-scams-ai/\">https://www.law.georgetown.edu/tech-institute/insights/tech-brief-text-based-scams-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45968874\">https://news.ycombinator.com/item?id=45968874</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-18T16:57:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Open Source Distributed Multi-Cloud AI Stack",
+          "link": "https://docs.netbird.io/use-cases/distributed-multi-cloud-ai-argocd-microk8s-vllm",
+          "summary": "<p>Article URL: <a href=\"https://docs.netbird.io/use-cases/distributed-multi-cloud-ai-argocd-microk8s-vllm\">https://docs.netbird.io/use-cases/distributed-multi-cloud-ai-argocd-microk8s-vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45968787\">https://news.ycombinator.com/item?id=45968787</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-18T16:51:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Kentik AI Advisor: The Future of Network Intelligence",
+          "link": "https://www.kentik.com/blog/ai-advisor/",
+          "summary": "<p>Article URL: <a href=\"https://www.kentik.com/blog/ai-advisor/\">https://www.kentik.com/blog/ai-advisor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45968760\">https://news.ycombinator.com/item?id=45968760</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-18T16:50:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Does AI-Assisted Coding Deliver? A Study of Cursor's Impact on Software Projects",
+          "link": "https://arxiv.org/abs/2511.04427",
+          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2511.04427\">https://arxiv.org/abs/2511.04427</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45968758\">https://news.ycombinator.com/item?id=45968758</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-18T16:50:19"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Networking for AI: Building the foundation for real-time intelligence",
+          "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
+          "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
+          "published": "2025-11-18T16:03:14"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Realizing value with AI inference at scale and in production",
+          "link": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
+          "summary": "Training an AI model to predict equipment failures is an engineering achievement. But it&#8217;s not until prediction meets action\u2014the moment that model successfully flags a malfunctioning machine\u2014that true business transformation occurs. One technical milestone lives in a proof-of-concept deck; the other meaningfully contributes to the bottom line. Craig Partridge, senior director worldwide of Digital Next&#8230;",
+          "published": "2025-11-18T16:02:16"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Google\u2019s new Gemini 3 \u201cvibe-codes\u201d its responses and comes with its own agent",
+          "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
+          "summary": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across voice, text or images), and will work like an agent.&#160; The previous model, Gemini 2.5, supports multimodal input. Users can feed it&#8230;",
+          "published": "2025-11-18T16:00:07"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The State of AI: How war will be changed forever",
+          "link": "https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/",
+          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this conversation, Helen Warrell, FT investigations reporter and former defense and security editor, and James O\u2019Donnell, MIT Technology Review\u2019s&#8230;",
+          "published": "2025-11-17T16:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "OpenAI\u2019s new LLM exposes the secrets of how AI really works",
+          "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+          "summary": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That\u2019s a big deal, because today\u2019s LLMs are black boxes: Nobody fully understands how they do what they do. Building a model that is more transparent sheds light on how LLMs work in general, helping researchers&#8230;",
+          "published": "2025-11-13T18:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-11-17",
       "top_features": [
         {
