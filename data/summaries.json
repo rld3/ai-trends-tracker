@@ -1,6 +1,97 @@
 {
   "summaries": [
     {
+      "date": "2025-11-24",
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "AlphaFold evolution discussed by Nobel laureate John Jumper, indicating continued development in protein structure prediction AI"
+        },
+        {
+          "company": "DeepSeek",
+          "feature": "R1 reasoning model has been compressed and 'de-censored' by quantum physicists at Multiverse Computing, creating a 55% smaller variant called DeepSeek R1 Slim"
+        }
+      ],
+      "fintech_trends": [
+        "AI bonds are flooding markets and adding pressure to financial markets, indicating significant capital raising activity in the AI sector through debt instruments",
+        "Growing focus on AI's economic impact with legislative efforts to track AI-related job displacement through mandatory reporting requirements"
+      ],
+      "fundraising": [],
+      "summary": "Today's AI news focuses on regulatory and market pressures, with congressional bills targeting AI job impact reporting and AI bond issuances stressing financial markets. Technical developments include advances in protein folding AI and compressed reasoning models, while privacy concerns around AI companions gain attention.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Bill to require reports regarding AI-related job impacts",
+          "link": "https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&format=txt",
+          "summary": "<p>Article URL: <a href=\"https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&amp;format=txt\">https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&amp;format=txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036219\">https://news.ycombinator.com/item?id=46036219</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-24T17:00:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Flood of AI Bonds Adds to Pressure on Markets",
+          "link": "https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995",
+          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995\">https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036191\">https://news.ycombinator.com/item?id=46036191</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-24T16:58:16"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The State of AI: Chatbot companions and the future of our privacy",
+          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+          "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/\">https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036154\">https://news.ycombinator.com/item?id=46036154</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-24T16:54:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI and the Ironies of Automation",
+          "link": "https://www.ufried.com/blog/ironies_of_ai_1/",
+          "summary": "<p>Article URL: <a href=\"https://www.ufried.com/blog/ironies_of_ai_1/\">https://www.ufried.com/blog/ironies_of_ai_1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036059\">https://news.ycombinator.com/item?id=46036059</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-24T16:46:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI MCP for Product Designers \u2013 Make your design system machine-readable",
+          "link": "https://www.nikitisza.com/writing/mcp-for-product-designers",
+          "summary": "<p>Article URL: <a href=\"https://www.nikitisza.com/writing/mcp-for-product-designers\">https://www.nikitisza.com/writing/mcp-for-product-designers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036003\">https://news.ycombinator.com/item?id=46036003</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-24T16:42:05"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
+          "published": "2025-11-24T16:21:12"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Designing digital resilience in the agentic AI era",
+          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
+          "published": "2025-11-20T14:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Scaling innovation in manufacturing with AI",
+          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
+          "published": "2025-11-19T16:54:55"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
+          "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+          "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
+          "published": "2025-11-19T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Networking for AI: Building the foundation for real-time intelligence",
+          "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
+          "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
+          "published": "2025-11-18T16:03:14"
+        }
+      ]
+    },
+    {
       "date": "2025-11-19",
       "top_features": [
         {
