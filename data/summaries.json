@@ -1,6 +1,94 @@
 {
   "summaries": [
     {
+      "date": "2025-11-25",
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "AlphaFold protein structure prediction advancements discussed by Nobel laureate John Jumper, moving beyond gaming AI to biological applications"
+        },
+        {
+          "company": "DeepSeek",
+          "feature": "R1 reasoning model compressed and 'de-censored' by Multiverse Computing, creating a 55% smaller version called DeepSeek R1 Slim"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news highlighted significant developments in specialized applications, with Google DeepMind's AlphaFold continuing to advance protein prediction capabilities and new compressed versions of reasoning models like DeepSeek R1 being developed. The industry also grappled with fundamental questions about AI's true impact and the ethics of blocking AI bots from websites.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: Have you used an LLM for grief support?",
+          "link": "https://news.ycombinator.com/item?id=46047833",
+          "summary": "<p>My wife of 14 years recently told me she wants to end our marriage. One of the main reasons is that she has felt overwhelmed in a long\u2011term caregiving role: I have generalized anxiety disorder, and although I\u2019ve been in counseling for years (EMDR, family\u2011systems work), take an SSRI, meditate daily, and avoid alcohol/drugs, I still sometimes panic when I think I might upset someone. I\u2019m actively working on it, but this news has been devastating.<p>Emotionally, it feels similar to grief after a",
+          "published": "2025-11-25T16:57:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Lessons from testing three AI agents on the same complex task",
+          "link": "https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/",
+          "summary": "<p>Article URL: <a href=\"https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/\">https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047694\">https://news.ycombinator.com/item?id=46047694</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-25T16:46:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "You probably shouldn't block AI bots from your website",
+          "link": "https://kerkour.com/dont-block-bots",
+          "summary": "<p>Article URL: <a href=\"https://kerkour.com/dont-block-bots\">https://kerkour.com/dont-block-bots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047673\">https://news.ycombinator.com/item?id=46047673</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-25T16:44:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI Industry Is Built on a Big Unproven Assumption",
+          "link": "https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption",
+          "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption\">https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047527\">https://news.ycombinator.com/item?id=46047527</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-25T16:35:31"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Is AI Eating the World?",
+          "link": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
+          "summary": "<p>Article URL: <a href=\"https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/\">https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047506\">https://news.ycombinator.com/item?id=46047506</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-25T16:33:37"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The State of AI: Chatbot companions and the future of our privacy",
+          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this week&#8217;s conversation MIT Technology Review\u2019s senior reporter for features and investigations, Eileen Guo, and FT tech correspondent Melissa&#8230;",
+          "published": "2025-11-24T16:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
+          "published": "2025-11-24T16:21:12"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Designing digital resilience in the agentic AI era",
+          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
+          "published": "2025-11-20T14:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Scaling innovation in manufacturing with AI",
+          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
+          "published": "2025-11-19T16:54:55"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
+          "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+          "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
+          "published": "2025-11-19T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-11-24",
       "top_features": [
         {
