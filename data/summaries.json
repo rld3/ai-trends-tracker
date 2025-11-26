@@ -1,6 +1,94 @@
 {
   "summaries": [
     {
+      "date": "2025-11-26",
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "AlphaFold continues evolution in protein structure prediction with Nobel laureate John Jumper discussing future developments"
+        },
+        {
+          "company": "Palantir",
+          "feature": "AI newsroom tools being developed for Fox News to enhance media operations"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news highlights growing concerns about AI-generated content proliferation, with over half of new internet articles now being AI-written, while technical discussions focus on autonomous AI agents' security capabilities and the emerging role of AI environment architects. The industry continues to grapple with distinguishing AI hype from reality as chatbot companions raise new privacy concerns.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Autonomous RCE using an AI agent: a technical case study",
+          "link": "https://aliasrobotics.com/case-study-selfhack.php",
+          "summary": "<p>Article URL: <a href=\"https://aliasrobotics.com/case-study-selfhack.php\">https://aliasrobotics.com/case-study-selfhack.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059481\">https://news.ycombinator.com/item?id=46059481</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-26T16:53:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Smells on Medium",
+          "link": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
+          "summary": "<p>Article URL: <a href=\"https://rmoff.net/2025/11/25/ai-smells-on-medium/\">https://rmoff.net/2025/11/25/ai-smells-on-medium/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059433\">https://news.ycombinator.com/item?id=46059433</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-26T16:49:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Fox News hires Palantir to build AI newsroom tools",
+          "link": "https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools",
+          "summary": "<p>Article URL: <a href=\"https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools\">https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059215\">https://news.ycombinator.com/item?id=46059215</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-26T16:34:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "From Software Engineer to AI Environment Architect",
+          "link": "https://infini-ai-lab.github.io/ai-environment-architect/",
+          "summary": "<p>Article URL: <a href=\"https://infini-ai-lab.github.io/ai-environment-architect/\">https://infini-ai-lab.github.io/ai-environment-architect/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059185\">https://news.ycombinator.com/item?id=46059185</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-26T16:32:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "More than half of new articles on the internet are being written by AI",
+          "link": "https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354",
+          "summary": "<p>Article URL: <a href=\"https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354\">https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059134\">https://news.ycombinator.com/item?id=46059134</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-26T16:29:08"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The AI Hype Index: The people can\u2019t get enough of AI slop",
+          "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
+          "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Last year, the fantasy author Joanna Maciejewska went viral (if such a thing is still possible on X) with a post saying \u201cI&#8230;",
+          "published": "2025-11-26T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The State of AI: Chatbot companions and the future of our privacy",
+          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this week&#8217;s conversation MIT Technology Review\u2019s senior reporter for features and investigations, Eileen Guo, and FT tech correspondent Melissa&#8230;",
+          "published": "2025-11-24T16:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
+          "published": "2025-11-24T16:21:12"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Designing digital resilience in the agentic AI era",
+          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
+          "published": "2025-11-20T14:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Scaling innovation in manufacturing with AI",
+          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
+          "published": "2025-11-19T16:54:55"
+        }
+      ]
+    },
+    {
       "date": "2025-11-25",
       "top_features": [
         {
