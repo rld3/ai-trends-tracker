@@ -4,147 +4,202 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Trends Tracker</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px 0;
-        }
-        .dashboard-container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .main-card {
-            background: white;
-            border-radius: 15px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #f0f2f5;
+            color: #1a1a1a;
+            display: flex;
+            height: 100vh;
             overflow: hidden;
         }
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 30px;
-            text-align: center;
+        .sidebar {
+            width: 280px;
+            background: #fff;
+            border-right: 1px solid #dde1e6;
+            padding: 32px 24px;
+            overflow-y: auto;
+            flex-shrink: 0;
         }
-        .header h1 {
-            font-size: 2.5rem;
+        .logo {
+            font-size: 20px;
             font-weight: 700;
-            margin-bottom: 10px;
+            margin-bottom: 32px;
+            color: #1a1a1a;
         }
-        .header p {
-            opacity: 0.9;
-            margin: 0;
+        .nav-section {
+            margin-bottom: 32px;
         }
-        .summary-card {
-            border-left: 4px solid #667eea;
-            margin-bottom: 20px;
-            transition: transform 0.2s, box-shadow 0.2s;
+        .nav-title {
+            font-size: 11px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
         }
-        .summary-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        .nav-item {
+            padding: 10px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #666;
+            cursor: pointer;
+            margin-bottom: 4px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: none;
+            background: none;
+            width: 100%;
+            text-align: left;
         }
-        .badge-category {
-            font-size: 0.85rem;
-            padding: 6px 12px;
+        .nav-item:hover {
+            background: #f0f2f5;
+            color: #000;
+        }
+        .nav-item.active {
+            background: #0066cc;
+            color: #fff;
+        }
+        .main-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 48px;
+        }
+        .content-header {
+            margin-bottom: 32px;
+        }
+        h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        .subtitle {
+            font-size: 16px;
+            color: #666;
+        }
+        .summary-section {
+            background: white;
+            border: 1px solid #dde1e6;
+            border-radius: 8px;
+            padding: 32px;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .section-date {
+            font-size: 12px;
+            color: #999;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+        .section-summary {
+            font-size: 16px;
+            line-height: 1.7;
+            color: #333;
+            margin-bottom: 24px;
+        }
+        .feature-list {
+            border-top: 1px solid #f0f2f5;
+            padding-top: 20px;
+            margin-top: 16px;
+        }
+        .feature-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: #0066cc;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
         .feature-item {
-            padding: 10px;
-            background: #f8f9fa;
-            border-radius: 8px;
-            margin-bottom: 10px;
-            border-left: 3px solid #667eea;
+            padding: 12px 0;
+            border-bottom: 1px solid #f8f9fa;
         }
-        .trend-item {
-            padding: 10px;
-            background: #f0f8ff;
-            border-radius: 8px;
-            margin-bottom: 10px;
-            border-left: 3px solid #28a745;
+        .feature-item:last-child {
+            border-bottom: none;
         }
-        .funding-item {
-            padding: 10px;
-            background: #fff5f5;
-            border-radius: 8px;
-            margin-bottom: 10px;
-            border-left: 3px solid #dc3545;
+        .feature-company {
+            font-weight: 600;
+            color: #000;
+            font-size: 14px;
         }
-        .filter-bar {
-            background: #f8f9fa;
-            padding: 20px;
-            border-bottom: 1px solid #dee2e6;
-        }
-        .view-toggle {
-            display: flex;
-            gap: 10px;
-        }
-        .aggregation-card {
-            background: #fff9e6;
-            border: 2px solid #ffc107;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
+        .feature-desc {
+            font-size: 14px;
+            color: #666;
+            margin-top: 4px;
         }
         .empty-state {
             text-align: center;
             padding: 60px 20px;
             color: #6c757d;
         }
-        .empty-state i {
-            font-size: 4rem;
+        .aggregation-card {
+            background: white;
+            border: 1px solid #dde1e6;
+            border-radius: 8px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .aggregation-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .aggregation-meta {
+            font-size: 13px;
+            color: #999;
             margin-bottom: 20px;
-            opacity: 0.5;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 13px;
+            color: #666;
+            border-top: 1px solid #f0f2f5;
+            margin-top: 40px;
         }
     </style>
 </head>
 <body>
-    <div class="dashboard-container">
-        <div class="main-card">
-            <!-- Header -->
-            <div class="header">
-                <h1><i class="bi bi-robot"></i> AI Trends Tracker</h1>
-                <p>Stay up-to-date with the latest AI features, trends, and funding</p>
-            </div>
+    <div class="sidebar">
+        <div class="logo">AI Trends</div>
 
-            <!-- Filter Bar -->
-            <div class="filter-bar">
-                <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <div class="view-toggle">
-                            <button class="btn btn-primary" id="viewDaily">
-                                <i class="bi bi-calendar-day"></i> Daily
-                            </button>
-                            <button class="btn btn-outline-primary" id="viewWeekly">
-                                <i class="bi bi-calendar-week"></i> Weekly
-                            </button>
-                            <button class="btn btn-outline-primary" id="viewMonthly">
-                                <i class="bi bi-calendar-month"></i> Monthly
-                            </button>
-                        </div>
-                    </div>
-                    <div class="col-md-6 text-end">
-                        <button class="btn btn-success" id="refreshData">
-                            <i class="bi bi-arrow-clockwise"></i> Refresh
-                        </button>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Content Area -->
-            <div id="content" class="p-4">
-                <!-- Daily summaries will be loaded here -->
-            </div>
+        <div class="nav-section">
+            <div class="nav-title">Views</div>
+            <button class="nav-item active" id="viewDaily">
+                <span>📅</span> Daily
+            </button>
+            <button class="nav-item" id="viewWeekly">
+                <span>📊</span> Weekly
+            </button>
+            <button class="nav-item" id="viewMonthly">
+                <span>📈</span> Monthly
+            </button>
         </div>
 
-        <!-- Footer -->
-        <div class="text-center mt-4 text-white">
-            <small>Powered by Claude AI | Last updated: <span id="lastUpdated">-</span></small>
+        <div class="nav-section">
+            <div class="nav-title">About</div>
+            <div style="font-size: 13px; color: #666; line-height: 1.6;">
+                Automated daily summaries of AI trends, powered by Claude.
+                <div style="margin-top: 12px; font-size: 12px;">
+                    Last updated: <span id="lastUpdated">-</span>
+                </div>
+            </div>
         </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <div class="main-content" id="content">
+        <!-- Content will be loaded here -->
+    </div>
+
     <script>
         let allSummaries = [];
         let currentView = 'daily';
@@ -159,19 +214,14 @@
             document.getElementById('viewDaily').addEventListener('click', () => switchView('daily'));
             document.getElementById('viewWeekly').addEventListener('click', () => switchView('weekly'));
             document.getElementById('viewMonthly').addEventListener('click', () => switchView('monthly'));
-            document.getElementById('refreshData').addEventListener('click', loadData);
         }
 
         function switchView(view) {
             currentView = view;
-            document.querySelectorAll('.view-toggle button').forEach(btn => {
-                btn.classList.remove('btn-primary');
-                btn.classList.add('btn-outline-primary');
+            document.querySelectorAll('.nav-item').forEach(btn => {
+                btn.classList.remove('active');
             });
-            if (view === 'daily') document.getElementById('viewDaily').classList.add('btn-primary');
-            if (view === 'weekly') document.getElementById('viewWeekly').classList.add('btn-primary');
-            if (view === 'monthly') document.getElementById('viewMonthly').classList.add('btn-primary');
-
+            document.getElementById('view' + view.charAt(0).toUpperCase() + view.slice(1)).classList.add('active');
             renderContent();
         }
 
@@ -222,11 +272,13 @@
         function renderDailySummaries() {
             console.log('renderDailySummaries called');
             const content = document.getElementById('content');
-            let html = '<h3 class="mb-4"><i class="bi bi-calendar-day"></i> Daily Summaries</h3>';
+            let html = '<div class="content-header"><h1>Daily Summaries</h1><p class="subtitle">Latest AI trends and developments</p></div>';
 
             allSummaries.forEach(summary => {
                 html += createSummaryCard(summary);
             });
+
+            html += '<div class="footer">Powered by Claude AI</div>';
 
             console.log('Setting innerHTML with', html.length, 'characters');
             content.innerHTML = html;
@@ -236,18 +288,19 @@
             const content = document.getElementById('content');
             const weeks = groupByWeek(allSummaries);
 
-            let html = '<h3 class="mb-4"><i class="bi bi-calendar-week"></i> Weekly Aggregation</h3>';
+            let html = '<div class="content-header"><h1>Weekly Summaries</h1><p class="subtitle">Aggregated AI trends by week</p></div>';
 
             weeks.forEach(week => {
                 html += '<div class="aggregation-card">';
-                html += `<h5><i class="bi bi-calendar-range"></i> Week of ${week.start}</h5>`;
-                html += `<p class="text-muted mb-3">${week.summaries.length} day(s) of data</p>`;
+                html += `<div class="aggregation-title">Week of ${week.start}</div>`;
+                html += `<div class="aggregation-meta">${week.summaries.length} day(s) of data</div>`;
 
                 const aggregated = aggregateWeekData(week.summaries);
                 html += renderAggregatedData(aggregated);
                 html += '</div>';
             });
 
+            html += '<div class="footer">Powered by Claude AI</div>';
             content.innerHTML = html;
         }
 
@@ -255,18 +308,19 @@
             const content = document.getElementById('content');
             const months = groupByMonth(allSummaries);
 
-            let html = '<h3 class="mb-4"><i class="bi bi-calendar-month"></i> Monthly Aggregation</h3>';
+            let html = '<div class="content-header"><h1>Monthly Summaries</h1><p class="subtitle">Aggregated AI trends by month</p></div>';
 
             months.forEach(month => {
                 html += '<div class="aggregation-card">';
-                html += `<h5><i class="bi bi-calendar3"></i> ${month.name}</h5>`;
-                html += `<p class="text-muted mb-3">${month.summaries.length} day(s) of data</p>`;
+                html += `<div class="aggregation-title">${month.name}</div>`;
+                html += `<div class="aggregation-meta">${month.summaries.length} day(s) of data</div>`;
 
                 const aggregated = aggregateWeekData(month.summaries);
                 html += renderAggregatedData(aggregated);
                 html += '</div>';
             });
 
+            html += '<div class="footer">Powered by Claude AI</div>';
             content.innerHTML = html;
         }
 
@@ -277,44 +331,50 @@
                 weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
             });
 
-            let html = '<div class="card summary-card mb-4">';
-            html += '<div class="card-body">';
-            html += `<h5 class="card-title">${date}</h5>`;
+            let html = '<div class="summary-section">';
+            html += `<div class="section-date">${date}</div>`;
 
             if (summary.summary) {
-                html += `<p class="text-muted">${summary.summary}</p>`;
+                html += `<div class="section-summary">${summary.summary}</div>`;
             }
 
             // Top Features
             if (summary.top_features && summary.top_features.length > 0) {
-                html += '<h6 class="mt-3 mb-2"><i class="bi bi-star"></i> Top Features & Announcements</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Top Features & Announcements</div>';
                 summary.top_features.forEach(feature => {
                     html += '<div class="feature-item">';
-                    html += `<strong>${feature.company}:</strong> ${feature.feature}`;
+                    html += `<div class="feature-company">${feature.company}</div>`;
+                    html += `<div class="feature-desc">${feature.feature}</div>`;
                     html += '</div>';
                 });
+                html += '</div>';
             }
 
             // Fintech Trends
             if (summary.fintech_trends && summary.fintech_trends.length > 0) {
-                html += '<h6 class="mt-3 mb-2"><i class="bi bi-graph-up"></i> Fintech/AI Trends</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Fintech/AI Trends</div>';
                 summary.fintech_trends.forEach(trend => {
-                    html += `<div class="trend-item">${trend}</div>`;
+                    html += `<div class="feature-item"><div class="feature-desc">${trend}</div></div>`;
                 });
+                html += '</div>';
             }
 
             // Fundraising
             if (summary.fundraising && summary.fundraising.length > 0) {
-                html += '<h6 class="mt-3 mb-2"><i class="bi bi-currency-dollar"></i> Fundraising</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Fundraising</div>';
                 summary.fundraising.forEach(fund => {
-                    html += '<div class="funding-item">';
-                    html += `<strong>${fund.company}:</strong> ${fund.amount}`;
-                    if (fund.details) html += ` - ${fund.details}`;
+                    html += '<div class="feature-item">';
+                    html += `<div class="feature-company">${fund.company}: ${fund.amount}</div>`;
+                    if (fund.details) html += `<div class="feature-desc">${fund.details}</div>`;
                     html += '</div>';
                 });
+                html += '</div>';
             }
 
-            html += '</div></div>';
+            html += '</div>';
             return html;
         }
 
@@ -322,24 +382,30 @@
             let html = '';
 
             if (data.features.length > 0) {
-                html += '<h6 class="mt-2 mb-2"><i class="bi bi-star"></i> Key Features</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Key Features</div>';
                 data.features.slice(0, 10).forEach(f => {
-                    html += `<div class="feature-item"><strong>${f.company}:</strong> ${f.feature}</div>`;
+                    html += `<div class="feature-item"><div class="feature-company">${f.company}</div><div class="feature-desc">${f.feature}</div></div>`;
                 });
+                html += '</div>';
             }
 
             if (data.trends.length > 0) {
-                html += '<h6 class="mt-3 mb-2"><i class="bi bi-graph-up"></i> Trends</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Trends</div>';
                 data.trends.slice(0, 10).forEach(t => {
-                    html += `<div class="trend-item">${t}</div>`;
+                    html += `<div class="feature-item"><div class="feature-desc">${t}</div></div>`;
                 });
+                html += '</div>';
             }
 
             if (data.fundraising.length > 0) {
-                html += '<h6 class="mt-3 mb-2"><i class="bi bi-currency-dollar"></i> Fundraising</h6>';
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">Fundraising</div>';
                 data.fundraising.forEach(f => {
-                    html += `<div class="funding-item"><strong>${f.company}:</strong> ${f.amount}</div>`;
+                    html += `<div class="feature-item"><div class="feature-company">${f.company}: ${f.amount}</div></div>`;
                 });
+                html += '</div>';
             }
 
             return html;
@@ -408,7 +474,6 @@
             const content = document.getElementById('content');
             content.innerHTML = `
                 <div class="empty-state">
-                    <i class="bi bi-inbox"></i>
                     <h4>No Data Yet</h4>
                     <p>Run <code>python3 update.py</code> to fetch and generate your first AI trends summary.</p>
                     <p class="text-muted"><small>Make sure to set your ANTHROPIC_API_KEY environment variable first.</small></p>
