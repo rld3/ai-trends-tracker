@@ -166,6 +166,36 @@
             border-top: 1px solid #f0f2f5;
             margin-top: 40px;
         }
+        .sources-list {
+            border-top: 1px solid #f0f2f5;
+            padding-top: 20px;
+            margin-top: 20px;
+        }
+        .source-link {
+            display: block;
+            padding: 8px 0;
+            font-size: 13px;
+            color: #0066cc;
+            text-decoration: none;
+            transition: color 0.2s;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .source-link:hover {
+            color: #0052a3;
+            text-decoration: underline;
+        }
+        .source-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            background: #e8edf3;
+            border-radius: 4px;
+            font-size: 11px;
+            color: #0066cc;
+            margin-right: 8px;
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -370,6 +400,19 @@
                     html += `<div class="feature-company">${fund.company}: ${fund.amount}</div>`;
                     if (fund.details) html += `<div class="feature-desc">${fund.details}</div>`;
                     html += '</div>';
+                });
+                html += '</div>';
+            }
+
+            // Source Articles
+            if (summary.raw_articles && summary.raw_articles.length > 0) {
+                html += '<div class="sources-list">';
+                html += '<div class="feature-title">Source Articles</div>';
+                summary.raw_articles.forEach(article => {
+                    html += `<a href="${article.link}" target="_blank" rel="noopener noreferrer" class="source-link">`;
+                    html += `<span class="source-badge">${article.source}</span>`;
+                    html += `${article.title}`;
+                    html += '</a>';
                 });
                 html += '</div>';
             }

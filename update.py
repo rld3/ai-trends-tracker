@@ -13,12 +13,20 @@ from pathlib import Path
 
 # Configuration
 RSS_FEEDS = {
+    # Company Blogs (Direct Sources)
     "OpenAI": "https://openai.com/blog/rss",
     "Anthropic": "https://anthropic.com/news/rss",
+    "Google AI": "https://blog.google/technology/ai/rss/",
+    "Meta AI": "https://ai.meta.com/blog/rss/",
+    "DeepMind": "https://deepmind.google/blog/rss.xml",
+
+    # Tech News Sites
     "TechCrunch AI": "https://techcrunch.com/tag/artificial-intelligence/feed/",
+    "The Verge AI": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
     "VentureBeat AI": "https://venturebeat.com/ai/feed/",
     "Hacker News AI": "https://hnrss.org/newest?q=AI+OR+artificial+intelligence+OR+GPT+OR+LLM",
     "MIT Tech Review AI": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "Ars Technica AI": "https://feeds.arstechnica.com/arstechnica/technology-lab",
 }
 
 DATA_DIR = Path("data")
