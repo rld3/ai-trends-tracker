@@ -27,6 +27,9 @@ RSS_FEEDS = {
     "Hacker News AI": "https://hnrss.org/newest?q=AI+OR+artificial+intelligence+OR+GPT+OR+LLM",
     "MIT Tech Review AI": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "Ars Technica AI": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+
+    # Analysis & Commentary
+    "Stratechery": "https://stratechery.com/feed/",
 }
 
 DATA_DIR = Path("data")
