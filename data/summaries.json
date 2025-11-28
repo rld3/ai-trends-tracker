@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-11-28",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 release with CEO Sundar Pichai providing in-depth discussion on capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ironwood TPU chips launch - latest generation of tensor processing units for AI workloads"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Opus 4.5 model release representing a significant breakthrough aligned with enterprise strategy"
+        }
+      ],
+      "fintech_trends": [
+        "AI adoption rates are beginning to plateau across industries, suggesting the market may be reaching maturity in initial implementation phases",
+        "Companies are increasingly selling crypto stockpiles to fund share buybacks and shore up stock prices, indicating a shift from crypto speculation to traditional financial strategies"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with multiple product releases including Gemini 3 and new Ironwood TPU chips, while Anthropic launched its breakthrough Opus 4.5 model. Industry analysis suggests AI adoption rates may be plateauing as the technology moves from hype to practical implementation.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+          "published": "2025-11-25T23:39:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The Google guide for holiday help",
+          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+          "published": "2025-11-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "4 ways to refine your content in Flow",
+          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
+          "published": "2025-11-25T17:40:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "3 things to know about Ironwood, our latest TPU",
+          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
+          "published": "2025-11-25T16:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Hacker News AI newsletter \u2013 weekly round up of the most popular AI links from HN",
+          "link": "https://hackernewsai.com",
+          "summary": "<p>Article URL: <a href=\"https://hackernewsai.com\">https://hackernewsai.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46080376\">https://news.ycombinator.com/item?id=46080376</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-28T16:56:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: An AI powered Welcome Note Generator in Go (Moderation and LLM and UI)",
+          "link": "https://github.com/vnaveen-mh/welcome-note-generator",
+          "summary": "<p>Article URL: <a href=\"https://github.com/vnaveen-mh/welcome-note-generator\">https://github.com/vnaveen-mh/welcome-note-generator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46080138\">https://news.ycombinator.com/item?id=46080138</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-28T16:34:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Adoption Rates Starting to Flatten Out",
+          "link": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
+          "summary": "<p>Article URL: <a href=\"https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/\">https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46079987\">https://news.ycombinator.com/item?id=46079987</a></p>\n<p>Points: 40</p>\n<p># Comments: 17</p>",
+          "published": "2025-11-28T16:21:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Artificial Computation",
+          "link": "https://cultureandcommunication.org/galloway/artificial-computation",
+          "summary": "<p>Article URL: <a href=\"https://cultureandcommunication.org/galloway/artificial-computation\">https://cultureandcommunication.org/galloway/artificial-computation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46079975\">https://news.ycombinator.com/item?id=46079975</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-28T16:20:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Methodology: Using Encapsulation",
+          "link": "https://deadend.dev/posts/ai-agents-and-encapsulation/",
+          "summary": "<p>Article URL: <a href=\"https://deadend.dev/posts/ai-agents-and-encapsulation/\">https://deadend.dev/posts/ai-agents-and-encapsulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46079957\">https://news.ycombinator.com/item?id=46079957</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-28T16:18:13"
+        }
+      ]
+    },
+    {
       "date": "2025-11-27",
       "top_features": [
         {
