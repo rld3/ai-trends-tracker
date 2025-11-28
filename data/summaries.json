@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-11-27",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 discussed in-depth by CEO Sundar Pichai on AI Release Notes podcast"
+        },
+        {
+          "company": "Google",
+          "feature": "Ironwood TPU - latest tensor processing unit for AI workloads"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Opus 4.5 appears to be a significant breakthrough aligned with enterprise strategy"
+        }
+      ],
+      "fintech_trends": [
+        "Companies are selling crypto stockpiles to fund share buybacks and shore up stock prices as crypto market volatility impacts corporate balance sheets",
+        "AI-driven cost optimization strategies are being implemented across enterprises, with HP planning significant layoffs while ramping up AI adoption to save millions"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with updates on Gemini 3 and new Ironwood TPUs, while Anthropic's Opus 4.5 emerged as a potential breakthrough for enterprise AI. The intersection of AI and traditional business continues to evolve, with companies leveraging AI for cost optimization and operational efficiency.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+          "published": "2025-11-25T23:39:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The Google guide for holiday help",
+          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+          "published": "2025-11-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "4 ways to refine your content in Flow",
+          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
+          "published": "2025-11-25T17:40:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "3 things to know about Ironwood, our latest TPU",
+          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
+          "published": "2025-11-25T16:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: A1 \u2013 Local Sandbox and JIT Compiler for AI Agents",
+          "link": "https://github.com/stanford-mast/a1",
+          "summary": "<p>Article URL: <a href=\"https://github.com/stanford-mast/a1\">https://github.com/stanford-mast/a1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46071068\">https://news.ycombinator.com/item?id=46071068</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-27T16:59:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "SSE sucks for transporting LLM tokens",
+          "link": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
+          "summary": "<p>Article URL: <a href=\"https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/\">https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46070986\">https://news.ycombinator.com/item?id=46070986</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-27T16:48:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Tell HN: It should be okay to use AI for code and papers",
+          "link": "https://news.ycombinator.com/item?id=46070929",
+          "summary": "<p>Mulling over some thoughts before Thanksgiving dinner.<p>As long as someone isn\u2019t plagiarizing or putting out falsehoods which bring down institutional or industry standards or norms, prompt-engineered AI-composed code and academic writing should be acceptable.<p>LLMs have access to a lot more information than any group of people combined, depending on the knowledge domains under consideration. If you have access to foundation models fine-tuned on in-house or secret data, those models are sti",
+          "published": "2025-11-27T16:44:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Readit \u2013 Portable, dynamic context for AI Agents",
+          "link": "https://readit.md/",
+          "summary": "<p>Article URL: <a href=\"https://readit.md/\">https://readit.md/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46070919\">https://news.ycombinator.com/item?id=46070919</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-27T16:43:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Lifetime access to AI-for-evil WormGPT 4 costs just $220",
+          "link": "https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/",
+          "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/\">https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46070844\">https://news.ycombinator.com/item?id=46070844</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-27T16:36:12"
+        }
+      ]
+    },
+    {
       "date": "2025-11-26",
       "top_features": [
         {
