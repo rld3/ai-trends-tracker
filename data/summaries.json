@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-11-30",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 discussed by CEO Sundar Pichai, marking the next major iteration of Google's flagship AI model"
+        },
+        {
+          "company": "Google",
+          "feature": "Ironwood TPU announced - Google's latest tensor processing unit for AI workloads with enhanced performance"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Opus 4.5 represents a significant breakthrough in AI capabilities, positioned for enterprise strategy alignment"
+        }
+      ],
+      "fintech_trends": [
+        "Crypto market volatility with companies dumping tokens to fund share buybacks and shore up stock prices, indicating AI-driven financial strategies",
+        "Government investment in AI infrastructure with UK's $130M push to boost AI sector through guaranteed payments for British AI hardware startups"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated today's AI announcements with Gemini 3 insights from CEO Sundar Pichai and the unveiling of their new Ironwood TPU, while Anthropic's Opus 4.5 breakthrough signals major progress in enterprise AI capabilities. The industry continues to grapple with AI detection challenges and the proliferation of AI-generated content across platforms.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+          "published": "2025-11-25T23:39:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The Google guide for holiday help",
+          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+          "published": "2025-11-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "4 ways to refine your content in Flow",
+          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
+          "published": "2025-11-25T17:40:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "3 things to know about Ironwood, our latest TPU",
+          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
+          "published": "2025-11-25T16:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI agents that validate your product idea by talking to real users",
+          "link": "https://app.holyshift.ai/ai/project",
+          "summary": "<p>I built a tool to solve a problem I kept running into:\nI was making product decisions based on guessing instead of real users. I kept building stuff nobody wanted as I was usually wrong.<p>So, I built HolyShift:\nAI agents that validate product ideas by talking to real people on Reddit, HN, X, and LinkedIn \u2026 then generate a detailed GTM and \u201cShould we build this?\u201d report.<p>No synthetic data (ChatGPT).\nNo predictions.\nOnly real conversations from real people.<p>What it does\n \u2022 Posts platform-n",
+          "published": "2025-11-30T17:03:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Party in the AI Lab (Parody of Parody \"Party in the CIA.\" By Weird Al Yankovic) [video]",
+          "link": "https://www.youtube.com/watch?v=b8yeQnP_ftw",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=b8yeQnP_ftw\">https://www.youtube.com/watch?v=b8yeQnP_ftw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098283\">https://news.ycombinator.com/item?id=46098283</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-30T16:55:34"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Can you spot AI videos from real ones? Take our quiz",
+          "link": "https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz",
+          "summary": "<p>Article URL: <a href=\"https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz\">https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098220\">https://news.ycombinator.com/item?id=46098220</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-11-30T16:50:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Geo / AI SEO Robots.txt Audit Tool",
+          "link": "https://ai-robots-txt.franzai.com/#domain=nytimes.com",
+          "summary": "<p>Article URL: <a href=\"https://ai-robots-txt.franzai.com/#domain=nytimes.com\">https://ai-robots-txt.franzai.com/#domain=nytimes.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098114\">https://news.ycombinator.com/item?id=46098114</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-11-30T16:40:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Using Petri nets as a formal language for LLM-assisted development",
+          "link": "https://github.com/pflow-xyz/go-pflow",
+          "summary": "<p>Article URL: <a href=\"https://github.com/pflow-xyz/go-pflow\">https://github.com/pflow-xyz/go-pflow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46097855\">https://news.ycombinator.com/item?id=46097855</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2025-11-30T16:15:28"
+        }
+      ]
+    },
+    {
       "date": "2025-11-29",
       "top_features": [
         {
