@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-12-02",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro rolling out to Google Search in more countries worldwide"
+        },
+        {
+          "company": "Google",
+          "feature": "Flow content refinement tool with 4 new ways to refine video content"
+        },
+        {
+          "company": "Amazon",
+          "feature": "Nova AI models launched on AWS Bedrock for building highly reliable AI agents"
+        }
+      ],
+      "fintech_trends": [
+        "Companies are selling crypto stockpiles to fund share buybacks and shore up stock prices as crypto shares tumble",
+        "AI surveillance expansion into financial crimes with models trained on communications data for predictive crime prevention"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Gemini 3 Pro's global expansion and new Flow video tools, while security concerns emerged around AI jailbreaking techniques and surveillance applications. Meanwhile, market pressures led companies to divest crypto holdings and HP announced AI-driven cost-cutting through workforce reductions.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+          "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp\" />We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world.",
+          "published": "2025-12-01T20:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+          "published": "2025-11-25T23:39:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The Google guide for holiday help",
+          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+          "published": "2025-11-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "4 ways to refine your content in Flow",
+          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
+          "published": "2025-11-25T17:40:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Elevated Errors on Claude.ai",
+          "link": "https://status.claude.com/incidents/qj71q3gqvvlk",
+          "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/qj71q3gqvvlk\">https://status.claude.com/incidents/qj71q3gqvvlk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123291\">https://news.ycombinator.com/item?id=46123291</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-02T16:54:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "New Amazon Nova AI models that help build highly reliable AI agents",
+          "link": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
+          "summary": "<p>Article URL: <a href=\"https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models\">https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123222\">https://news.ycombinator.com/item?id=46123222</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-02T16:49:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Twinning: A Simple Jailbreak That Bypasses AI Image Protections",
+          "link": "https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections",
+          "summary": "<p>Article URL: <a href=\"https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections\">https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123085\">https://news.ycombinator.com/item?id=46123085</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-02T16:39:45"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I open sourced my AI Research platform after long time of development",
+          "link": "https://news.ycombinator.com/item?id=46123079",
+          "summary": "<p>Hello everyone,<p>I've been working on Introlix for some months now. Last week I open sourced it, and I'm excited to share it with more communities. It was a really hard time building it as a student and a solo developer. This project is not finished yet but it's on that stage I can show it to others and ask others for help in developing it.<p>What I built:<p>Introlix is an AI-powered research platform. Think of it as \"GitHub Copilot meets Google Docs\" for research work.<p>Features:\nResearch ",
+          "published": "2025-12-02T16:39:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Amazon Prime Video removes controversial AI anime dubs",
+          "link": "https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/",
+          "summary": "<p>Article URL: <a href=\"https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/\">https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46122983\">https://news.ycombinator.com/item?id=46122983</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-02T16:32:24"
+        }
+      ]
+    },
+    {
       "date": "2025-12-01",
       "top_features": [
         {
