@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2025-12-01",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 model discussed in depth by CEO Sundar Pichai on AI Release Notes podcast"
+        },
+        {
+          "company": "Google",
+          "feature": "Ironwood TPU - latest tensor processing unit for AI workloads with improved performance"
+        },
+        {
+          "company": "Google",
+          "feature": "Flow content refinement capabilities - 4 new ways to refine AI-generated videos including weather changes"
+        }
+      ],
+      "fintech_trends": [
+        "AI-driven e-commerce sales reached $3B on Black Friday 2025, demonstrating significant impact on retail transactions and consumer purchasing behavior",
+        "Enterprise debt concerns emerging around AI infrastructure spending, with Oracle facing increased debt risk due to heavy AI investments"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Gemini 3 insights from CEO Sundar Pichai and new Ironwood TPU hardware, while the industry grapples with mixed signals of AI's commercial success ($3B Black Friday sales) versus growing concerns about an AI winter and enterprise spending sustainability.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+          "published": "2025-11-25T23:39:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The Google guide for holiday help",
+          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+          "published": "2025-11-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "4 ways to refine your content in Flow",
+          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
+          "published": "2025-11-25T17:40:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "3 things to know about Ironwood, our latest TPU",
+          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
+          "published": "2025-11-25T16:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I shipped multi-tenant SaaS in 15 days with AI. Here's everything that broke",
+          "link": "https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught",
+          "summary": "<p>Article URL: <a href=\"https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught\">https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109747\">https://news.ycombinator.com/item?id=46109747</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-01T16:57:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Drove $3B Sales on Black Friday 2025",
+          "link": "https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/",
+          "summary": "<p>Article URL: <a href=\"https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/\">https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109697\">https://news.ycombinator.com/item?id=46109697</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-01T16:54:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "A New AI Winter Is Coming",
+          "link": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
+          "summary": "<p>Article URL: <a href=\"https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/\">https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109534\">https://news.ycombinator.com/item?id=46109534</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+          "published": "2025-12-01T16:42:15"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Oracle's debt risk reaches high amid AI spending concerns",
+          "link": "https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/",
+          "summary": "<p>Article URL: <a href=\"https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/\">https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109396\">https://news.ycombinator.com/item?id=46109396</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-01T16:32:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Sub-tools \u2013 AI-powered subtitle generation using WhisperX and Gemini",
+          "link": "https://github.com/dohyeondk/sub-tools",
+          "summary": "<p>Article URL: <a href=\"https://github.com/dohyeondk/sub-tools\">https://github.com/dohyeondk/sub-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109355\">https://news.ycombinator.com/item?id=46109355</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-01T16:29:52"
+        }
+      ]
+    },
+    {
       "date": "2025-11-30",
       "top_features": [
         {
