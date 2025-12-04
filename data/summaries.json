@@ -1,6 +1,108 @@
 {
   "summaries": [
     {
+      "date": "2025-12-03",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro expanding to Google Search in more countries globally, representing their most intelligent model yet"
+        },
+        {
+          "company": "Google",
+          "feature": "Circle to Search and Google Lens now detect scam messages on phones, enhancing user security"
+        },
+        {
+          "company": "AWS",
+          "feature": "Agents for AWS and Nova Forge announced at re:Invent, targeting AI solutions for enterprise startups"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered scam detection is becoming a key security feature, with Google integrating fraud detection capabilities directly into search and visual recognition tools",
+        "Economic disruption concerns are growing as companies like HP plan major layoffs while simultaneously ramping up AI adoption to cut costs",
+        "Cryptocurrency markets are showing volatility as companies dump token stockpiles to fund share buybacks amid AI investment pressures"
+      ],
+      "fundraising": [
+        {
+          "company": "Google Health AI",
+          "amount": "Not specified",
+          "details": "New health AI funding announced alongside report on European health sector transformation"
+        }
+      ],
+      "summary": "Google dominated AI headlines with major expansions of Gemini 3 Pro and new scam detection features, while OpenAI faces increased competitive pressure as it declares 'code red' status against Google's rapidly growing user base. The day highlighted growing tensions between AI safety concerns and aggressive market competition, with significant developments in enterprise AI tools and health applications.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
+          "published": "2025-12-03T12:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Circle to Search and Google Lens to spot scam messages.",
+          "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp\" />You can now use Circle to Search and Google Lens to detect scammy messages you receive on your phone.",
+          "published": "2025-12-02T19:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+          "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp\" />We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world.",
+          "published": "2025-12-01T20:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
+          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
+          "published": "2025-11-26T23:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Building an AI agent that grills you on your dev tickets",
+          "link": "https://news.ycombinator.com/item?id=46136914",
+          "summary": "<p>When I ship bugs, it's 'almost' never a code mistake. It\u2019s because I misunderstood a requirement or missed an edge case while rushing. Vague tickets like \u201cAdd Twilio support\u201d don\u2019t help, and tools like Cursor/Codex mostly ask a couple surface-level questions before jumping to write a plan.<p>So, my co-founder and I are building Relay (https://basegraph.app/) to bring in someone who understands your codebase deeply and asks the right questions to extract the right context out of your head.<p>-",
+          "published": "2025-12-03T17:00:59"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Apple's AI Troubles Are Fading. Just Look at the Stock",
+          "link": "https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons",
+          "summary": "<p>Article URL: <a href=\"https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons\">https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136902\">https://news.ycombinator.com/item?id=46136902</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-03T17:00:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Safety Index Winter 2025 Edition",
+          "link": "https://futureoflife.org/ai-safety-index-winter-2025/",
+          "summary": "<p>Article URL: <a href=\"https://futureoflife.org/ai-safety-index-winter-2025/\">https://futureoflife.org/ai-safety-index-winter-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136854\">https://news.ycombinator.com/item?id=46136854</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-03T16:57:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Can AI keep particle accelerators in line?",
+          "link": "https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line",
+          "summary": "<p>Article URL: <a href=\"https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line\">https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136842\">https://news.ycombinator.com/item?id=46136842</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-03T16:56:40"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Synthome \u2013 TypeScript SDK for building composable AI media pipelines",
+          "link": "https://github.com/synthome-dev/synthome",
+          "summary": "<p>Article URL: <a href=\"https://github.com/synthome-dev/synthome\">https://github.com/synthome-dev/synthome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136677\">https://news.ycombinator.com/item?id=46136677</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-03T16:45:49"
+        }
+      ]
+    },
+    {
       "date": "2025-12-02",
       "top_features": [
         {
