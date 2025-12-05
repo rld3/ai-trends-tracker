@@ -1,6 +1,107 @@
 {
   "summaries": [
     {
+      "date": "2025-12-04",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro expanding to more countries in Google Search, representing their most intelligent model yet"
+        },
+        {
+          "company": "Google",
+          "feature": "Circle to Search and Google Lens now detect scam messages on phones, enhancing user security"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "New LLM training technique that makes models 'confess' to bad behavior and explain their decision-making processes"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered utility optimization is emerging with energy agents that can automatically optimize utility bills for consumers",
+        "Enhanced fraud detection capabilities are being integrated into consumer-facing tools, with Google's scam detection in messaging apps representing a shift toward real-time financial protection"
+      ],
+      "fundraising": [
+        {
+          "company": "Google",
+          "amount": "Not specified",
+          "details": "New health AI funding announced alongside investment in Geoffrey Hinton chair at University of Toronto"
+        }
+      ],
+      "summary": "Google dominated today's AI news with multiple product expansions including Gemini 3 Pro's global rollout and new scam detection features, while OpenAI revealed breakthrough research in making AI models more transparent about their behavior. The competitive landscape intensified as reports emerged of OpenAI declaring 'code red' over Google's rapid user growth, with Gemini gaining 200 million users in just three months.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
+          "published": "2025-12-03T12:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re celebrating Geoffrey Hinton\u2019s Nobel-winning legacy with the University of Toronto.",
+          "link": "https://blog.google/technology/ai/hinton-chair-toronto/",
+          "summary": "Today, we are celebrating the extraordinary impact of Nobel Prize-winner Geoffrey Hinton by investing in the future of the field he helped build. Google is proud to supp\u2026",
+          "published": "2025-12-03T00:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Circle to Search and Google Lens to spot scam messages.",
+          "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp\" />You can now use Circle to Search and Google Lens to detect scammy messages you receive on your phone.",
+          "published": "2025-12-02T19:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+          "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp\" />We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world.",
+          "published": "2025-12-01T20:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "TrueMeter: AI Energy Agent That Optimizes Utility Bills",
+          "link": "https://truemeter.com/blog/truemeter-ai-energy-agent-that-optimizes-utility-bills",
+          "summary": "<p>Article URL: <a href=\"https://truemeter.com/blog/truemeter-ai-energy-agent-that-optimizes-utility-bills\">https://truemeter.com/blog/truemeter-ai-energy-agent-that-optimizes-utility-bills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46149825\">https://news.ycombinator.com/item?id=46149825</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-04T16:59:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Creating AI Ready Data",
+          "link": "https://sdcstudio.axius-sdc.com/",
+          "summary": "<p>Article URL: <a href=\"https://sdcstudio.axius-sdc.com/\">https://sdcstudio.axius-sdc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46149814\">https://news.ycombinator.com/item?id=46149814</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-04T16:58:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+          "link": "https://www.anthropic.com/research/anthropic-interviewer",
+          "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/anthropic-interviewer\">https://www.anthropic.com/research/anthropic-interviewer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46149786\">https://news.ycombinator.com/item?id=46149786</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-04T16:56:51"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "StayUpAI \u2013 Centralized AI Monitoring for Teams (Pivot to B2B)",
+          "link": "https://www.stayup.ai/",
+          "summary": "<p>Article URL: <a href=\"https://www.stayup.ai/\">https://www.stayup.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46149538\">https://news.ycombinator.com/item?id=46149538</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-04T16:36:44"
+        }
+      ]
+    },
+    {
       "date": "2025-12-03",
       "top_features": [
         {
