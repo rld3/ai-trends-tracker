@@ -1,6 +1,109 @@
 {
   "summaries": [
     {
+      "date": "2025-12-05",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro: Advanced vision AI capabilities representing the frontier of visual AI technology"
+        },
+        {
+          "company": "Google",
+          "feature": "Google Photos 2025 Recap: AI-powered year-end photo summary and memory compilation feature"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "LLM confession training: New method to make large language models explain their processes and admit to bad behavior for improved transparency"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Geoffrey Hinton AI Research",
+          "amount": "Undisclosed",
+          "details": "Google investing in new AI chair at University of Toronto to celebrate Nobel Prize winner Geoffrey Hinton's legacy"
+        },
+        {
+          "company": "Health AI initiatives",
+          "amount": "Undisclosed",
+          "details": "Google announcing new health AI funding while reporting indicates turning point for health AI adoption in Europe"
+        }
+      ],
+      "summary": "Google continues its AI dominance with major releases including Gemini 3 Pro vision AI and enhanced Photos features, while OpenAI faces competitive pressure and declares 'code red' as Google's Gemini rapidly gains 200 million users. The day highlighted growing enterprise AI adoption challenges, with most organizations still stuck in pilot phases despite massive investments.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Pro: the frontier of vision AI",
+          "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+          "summary": "Image with black background and Gemini 3 Pro logo",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
+          "published": "2025-12-03T12:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re celebrating Geoffrey Hinton\u2019s Nobel-winning legacy with the University of Toronto.",
+          "link": "https://blog.google/technology/ai/hinton-chair-toronto/",
+          "summary": "Today, we are celebrating the extraordinary impact of Nobel Prize-winner Geoffrey Hinton by investing in the future of the field he helped build. Google is proud to supp\u2026",
+          "published": "2025-12-03T00:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Reversing AI Model Collapse by Simulating Bounded Rationality",
+          "link": "https://arxiv.org/abs/2512.01354",
+          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.01354\">https://arxiv.org/abs/2512.01354</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163966\">https://news.ycombinator.com/item?id=46163966</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-05T16:59:35"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Talking about the Future of AI in Law with David Wakeling",
+          "link": "https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on",
+          "summary": "<p>Article URL: <a href=\"https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on\">https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163900\">https://news.ycombinator.com/item?id=46163900</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-05T16:55:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Revumatic \u2013 AI Growth Loop for SMBs Tired of Yelp, Google Ads, and Groupon",
+          "link": "https://revumatic.com",
+          "summary": "<p>Article URL: <a href=\"https://revumatic.com\">https://revumatic.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163466\">https://news.ycombinator.com/item?id=46163466</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-05T16:25:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "A Burp-Like HTTP Repeater Inside Chrome DevTools, Supercharged with AI",
+          "link": "https://twitter.com/BourAbdelhadi/status/1992622964077179229",
+          "summary": "<p>Article URL: <a href=\"https://twitter.com/BourAbdelhadi/status/1992622964077179229\">https://twitter.com/BourAbdelhadi/status/1992622964077179229</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163442\">https://news.ycombinator.com/item?id=46163442</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-05T16:23:20"
+        }
+      ]
+    },
+    {
       "date": "2025-12-04",
       "top_features": [
         {
