@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2025-12-07",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro: advanced vision AI capabilities representing the frontier of vision technology"
+        },
+        {
+          "company": "Google",
+          "feature": "Google Photos 2025 Recap: AI-powered year-end photo summary and review feature"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "LLM confession training: new technique to make models explain their processes and admit to bad behavior for improved transparency"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Health AI initiatives",
+          "amount": "Not specified",
+          "details": "Google announced new health AI funding while releasing a report on European health sector transformation"
+        }
+      ],
+      "summary": "Google dominated AI announcements with Gemini 3 Pro vision AI and new consumer features, while OpenAI faces competitive pressure as it declares 'code red' in response to Gemini's rapid user growth of 200 million in 3 months. The industry continues grappling with enterprise AI adoption challenges, with 75% of organizations still stuck in pilot phases despite increased investment.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in November",
+          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
+          "published": "2025-12-05T19:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Pro: the frontier of vision AI",
+          "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+          "summary": "Image with black background and Gemini 3 Pro logo",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
+          "published": "2025-12-03T12:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Fluently AI English app review, by a qualified English teacher [video]",
+          "link": "https://www.youtube.com/watch?v=B5hQkrOGnmY",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=B5hQkrOGnmY\">https://www.youtube.com/watch?v=B5hQkrOGnmY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46183083\">https://news.ycombinator.com/item?id=46183083</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-07T16:53:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "When AI coding crossed the speed threshold",
+          "link": "https://betweentheprompts.com/speed-threshold/",
+          "summary": "<p>Article URL: <a href=\"https://betweentheprompts.com/speed-threshold/\">https://betweentheprompts.com/speed-threshold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46183012\">https://news.ycombinator.com/item?id=46183012</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-07T16:43:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI Wildfire Is Coming. It's Going to Be Painful and Healthy",
+          "link": "https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going",
+          "summary": "<p>Article URL: <a href=\"https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going\">https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46183011\">https://news.ycombinator.com/item?id=46183011</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-07T16:43:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Critical flaws found in AI development tools are dubbed an 'IDEsaster'",
+          "link": "https://www.tomshardware.com/tech-industry/cyber-security/researchers-uncover-critical-ai-ide-flaws-exposing-developers-to-data-theft-and-rce",
+          "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/researchers-uncover-critical-ai-ide-flaws-exposing-developers-to-data-theft-and-rce\">https://www.tomshardware.com/tech-industry/cyber-security/researchers-uncover-critical-ai-ide-flaws-exposing-developers-to-data-theft-and-rce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46182954\">https://news.ycombinator.com/item?id=46182954</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-07T16:35:22"
+        }
+      ]
+    },
+    {
       "date": "2025-12-06",
       "top_features": [
         {
