@@ -1,6 +1,107 @@
 {
   "summaries": [
     {
+      "date": "2025-12-06",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro launched as frontier vision AI model with advanced visual understanding capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Google Photos 2025 Recap feature providing AI-powered year-end summaries of user photos"
+        },
+        {
+          "company": "AWS",
+          "feature": "Nova Forge and Agents for AWS announced at re:Invent, targeting AI workload deployment across multiple clouds"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered crypto trading platforms are emerging, with systems like ThinkMoon allowing LLMs to execute real trades on exchanges like Binance Futures using live market data",
+        "Professional services billing models are being disrupted by AI automation, with the traditional billable hour model potentially becoming obsolete as AI handles routine tasks"
+      ],
+      "fundraising": [
+        {
+          "company": "Google Health AI",
+          "amount": "Not specified",
+          "details": "New health AI funding announced alongside report on European health AI developments"
+        }
+      ],
+      "summary": "Google dominated AI news with the launch of Gemini 3 Pro and various product updates, while OpenAI reportedly declared 'code red' as Google's Gemini reached 200 million users in three months. The day highlighted increasing competition in AI models and growing concerns about AI's impact on elections and professional services.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in November",
+          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
+          "published": "2025-12-05T19:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Pro: the frontier of vision AI",
+          "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+          "summary": "Image with black background and Gemini 3 Pro logo",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
+          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
+          "published": "2025-12-03T12:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Stop Paying for 4 AI Models",
+          "link": "https://riskparody.substack.com/p/stop-paying-for-4-ai-models",
+          "summary": "<p>Article URL: <a href=\"https://riskparody.substack.com/p/stop-paying-for-4-ai-models\">https://riskparody.substack.com/p/stop-paying-for-4-ai-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46174439\">https://news.ycombinator.com/item?id=46174439</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-06T16:15:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Energy Score v2: Refreshed Leaderboard, Now with Reasoning",
+          "link": "https://huggingface.co/blog/sasha/ai-energy-score-v2",
+          "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/sasha/ai-energy-score-v2\">https://huggingface.co/blog/sasha/ai-energy-score-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46174417\">https://news.ycombinator.com/item?id=46174417</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-06T16:13:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Say Goodbye to the Billable Hour, Thanks to AI",
+          "link": "https://www.wsj.com/tech/ai/ai-goodbye-to-billable-hours-cba198fe",
+          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/ai-goodbye-to-billable-hours-cba198fe\">https://www.wsj.com/tech/ai/ai-goodbye-to-billable-hours-cba198fe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46174397\">https://news.ycombinator.com/item?id=46174397</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-06T16:10:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: ThinkMoon \u2013 AI Trading Assistant Using LLMs for Live Crypto Trading",
+          "link": "https://demo.thinkmoon.ai/",
+          "summary": "<p>I built ThinkMoon because I wanted to see if LLMs could actually make money trading crypto, not just talk about it.<p>It's an AI-powered trading platform where you can connect models from OpenRouter, OpenAI, or Anthropic to real markets and let them execute actual trades on Binance Futures.<p>How it works: the AI gets real-time market data (candles, order book, ticker), analyzes it, and outputs structured trading decisions. Then it actually executes - long/short positions with leverage up to ",
+          "published": "2025-12-06T15:48:16"
+        }
+      ]
+    },
+    {
       "date": "2025-12-05",
       "top_features": [
         {
