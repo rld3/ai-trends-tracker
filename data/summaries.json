@@ -1,6 +1,102 @@
 {
   "summaries": [
     {
+      "date": "2025-12-09",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 and Nano Banana Pro models announced in November updates, along with enhanced trip planning capabilities"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "AlphaFold being used to engineer heat-tolerant crops by strengthening photosynthesis enzymes for climate resilience"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Co-founded the Agentic AI Foundation under the Linux Foundation to advance agentic AI development"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are being deployed for autonomous cryptocurrency trading, with platforms like ThinkMoon enabling users to build custom trading bots using multiple LLM providers and real-time market data",
+        "Multi-agent AI systems are being developed for financial reliability and failure recovery, with frameworks like ARF using specialized agents for anomaly detection and root cause analysis to prevent costly production incidents",
+        "Cryptographic identity systems for AI agents are emerging to ensure accountability and traceability in automated financial operations"
+      ],
+      "fundraising": [],
+      "summary": "Today's AI news highlights significant developments in agentic AI systems, with OpenAI launching a new foundation for collaborative development and Google advancing both conversational AI models and scientific applications. The intersection of AI and fintech continues to evolve with new autonomous trading platforms and reliability frameworks addressing enterprise production challenges.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "2025 at Google",
+          "link": "https://blog.google/technology/ai/look-back-2025/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025.",
+          "published": "2025-12-09T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re supporting the next generation of innovators",
+          "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
+          "summary": "mp4 of \"AI QUESTS\" with a stylized Earth, \"Accept mission\" button. Google Research and Stanford Accelerator logos.",
+          "published": "2025-12-08T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Transforming Nordic classrooms through responsible AI partnerships",
+          "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+          "summary": "A bald male teacher with glasses and a black shirt leans over to point at a computer monitor, instructing a male student. Other students are seated at computers along a row of desks in a brightly lit classroom.",
+          "published": "2025-12-08T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in November",
+          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
+          "published": "2025-12-05T19:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OpenAI Co-Founds the Agentic AI Foundation Under the Linux Foundation",
+          "link": "https://openai.com/index/agentic-ai-foundation",
+          "summary": "<p>Article URL: <a href=\"https://openai.com/index/agentic-ai-foundation\">https://openai.com/index/agentic-ai-foundation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46207383\">https://news.ycombinator.com/item?id=46207383</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-09T17:02:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "TChat \u2013 A Privacy-First Terminal AI Assistant Built with Go, Genkit, and Ollama",
+          "link": "https://github.com/vnaveen-mh/tchat",
+          "summary": "<p>Article URL: <a href=\"https://github.com/vnaveen-mh/tchat\">https://github.com/vnaveen-mh/tchat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46207362\">https://news.ycombinator.com/item?id=46207362</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-09T17:01:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Agentic Reliability Framework \u2013 Multi-agent AI self-heals failures",
+          "link": "https://github.com/petterjuan/agentic-reliability-framework",
+          "summary": "<p>Hey HN! I'm Juan, former reliability engineer at NetApp where I handled 60+ critical incidents per month for Fortune 500 clients.<p>I built ARF after seeing the same pattern repeatedly: production AI systems fail silently, humans wake up at 3 AM, take 30-60 minutes to recover, and companies lose \\$50K-\\$250K per incident.<p>ARF uses 3 specialized AI agents:<p>Detective: Anomaly detection via FAISS vector memory\n Diagnostician: Root cause analysis with causal reasoning  \n Predictive: Forecasts",
+          "published": "2025-12-09T16:55:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Moss \u2013 Cryptographic signing for AI agents",
+          "link": "https://mosscomputing.com",
+          "summary": "<p>I've spent 20 years building identity and security systems (EA, Nexon IPO, two patents in cryptographic auth). Started building multi-agent pipelines last year and hit a problem: when something breaks, there's no way to know which agent produced what.<p>MOSS gives agents cryptographic identities and signs their outputs. Each signature includes ML-DSA-44 (post-quantum, FIPS 204), a sequence number for replay detection, and a SHA-256 payload hash.<p><pre><code>    pip install moss-sdk\n\n    from",
+          "published": "2025-12-09T16:53:49"
+        }
+      ]
+    },
+    {
       "date": "2025-12-08",
       "top_features": [
         {
