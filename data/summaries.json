@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-08",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Pro - frontier of vision AI with enhanced visual processing capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Google Photos 2025 Recap - AI-powered yearly photo summary feature"
+        },
+        {
+          "company": "Google",
+          "feature": "AlphaFold application for engineering heat-tolerant crops by strengthening photosynthesis enzymes"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated today's AI news with multiple product launches including Gemini 3 Pro for vision AI and practical applications like Photos Recap, while the industry faces challenges with Microsoft reportedly struggling with AI product adoption and OpenAI declaring a 'code red' situation. The focus appears to be shifting from experimental pilots to production-ready AI solutions that can demonstrate clear enterprise value.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Transforming Nordic classrooms through responsible AI partnerships",
+          "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+          "summary": "A bald male teacher with glasses and a black shirt leans over to point at a computer monitor, instructing a male student. Other students are seated at computers along a row of desks in a brightly lit classroom.",
+          "published": "2025-12-08T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in November",
+          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
+          "published": "2025-12-05T19:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Pro: the frontier of vision AI",
+          "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+          "summary": "Image with black background and Gemini 3 Pro logo",
+          "published": "2025-12-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Look back on your 2025 with Google Photos Recap",
+          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+          "summary": "Animation showing Google Photos Recap 2025",
+          "published": "2025-12-03T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Do These AI-Generated Food Images Look Appetizing to You?",
+          "link": "https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering",
+          "summary": "<p>Article URL: <a href=\"https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering\">https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46194723\">https://news.ycombinator.com/item?id=46194723</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-08T17:01:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Microsoft has a problem: nobody wants to buy or use its shoddy AI products",
+          "link": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+          "summary": "<p>Article URL: <a href=\"https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai\">https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46194615\">https://news.ycombinator.com/item?id=46194615</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-08T16:54:31"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: A1 \u2013 compiler for AI agents into maximally deterministic code",
+          "link": "https://github.com/stanford-mast/a1",
+          "summary": "<p>Article URL: <a href=\"https://github.com/stanford-mast/a1\">https://github.com/stanford-mast/a1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46194577\">https://news.ycombinator.com/item?id=46194577</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-08T16:52:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Don't know what to wear? Design your outfit with gen AI and then shop it",
+          "link": "https://apps.apple.com/us/app/seen-make-shop-share-looks/id6752500965",
+          "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/seen-make-shop-share-looks/id6752500965\">https://apps.apple.com/us/app/seen-make-shop-share-looks/id6752500965</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46194574\">https://news.ycombinator.com/item?id=46194574</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-08T16:52:03"
+        }
+      ]
+    },
+    {
       "date": "2025-12-07",
       "top_features": [
         {
