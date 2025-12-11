@@ -1,6 +1,108 @@
 {
   "summaries": [
     {
+      "date": "2025-12-10",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "New AI workplace research report and Gemini integration showing transformative results for organizations implementing AI"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "AlphaFold application for engineering heat-tolerant crops by strengthening photosynthesis enzymes for climate resilience"
+        },
+        {
+          "company": "Microsoft",
+          "feature": "Scaling back AI sales targets and Copilot adoption goals due to lower than expected enterprise uptake"
+        }
+      ],
+      "fintech_trends": [
+        "Enterprise AI adoption remains challenging with 75% of organizations stuck in pilot phase despite high investment levels",
+        "AI career coaching and professional development tools are emerging as a niche market for mid-career transitions",
+        "Production readiness remains a major bottleneck for AI applications, with context management and integration complexity being key challenges"
+      ],
+      "fundraising": [
+        {
+          "company": "Empromptu",
+          "amount": "$2M",
+          "details": "Pre-seed funding from Precursor Ventures for AI application builder with self-managing context technology"
+        }
+      ],
+      "summary": "Today's AI news highlights a mixed reality for enterprise AI adoption, with Google showcasing workplace transformation successes while Microsoft scales back ambitious targets due to low Copilot usage. Meanwhile, innovative applications like climate-resilient crop engineering demonstrate AI's potential beyond traditional business use cases.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Learn more about AI in the workplace in our new research report.",
+          "link": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp\" />A new global survey of executives, decision makers and knowledge workers reveals that organizations truly transforming with AI are seeing real results that move their bu\u2026",
+          "published": "2025-12-09T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "2025 at Google",
+          "link": "https://blog.google/technology/ai/look-back-2025/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025.",
+          "published": "2025-12-09T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re supporting the next generation of innovators",
+          "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
+          "summary": "mp4 of \"AI QUESTS\" with a stylized Earth, \"Accept mission\" button. Google Research and Stanford Accelerator logos.",
+          "published": "2025-12-08T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Transforming Nordic classrooms through responsible AI partnerships",
+          "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+          "summary": "A bald male teacher with glasses and a black shirt leans over to point at a computer monitor, instructing a male student. Other students are seated at computers along a row of desks in a brightly lit classroom.",
+          "published": "2025-12-08T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in November",
+          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
+          "published": "2025-12-05T19:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Engineering more resilient crops for a warming climate",
+          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+          "published": "2025-12-04T16:23:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How People Use AI at Work",
+          "link": "https://dejan.ai/blog/report-ai-workplace/",
+          "summary": "<p>Article URL: <a href=\"https://dejan.ai/blog/report-ai-workplace/\">https://dejan.ai/blog/report-ai-workplace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46220231\">https://news.ycombinator.com/item?id=46220231</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-10T17:01:28"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Vocation: AI Career Coach for Mid-Career Transitions",
+          "link": "https://www.joinvocation.com/",
+          "summary": "<p>We've taken a decade of research and over 1,000 interviews to build a career coach that helps mid-career professionals figure out their next move.<p>My own career is a winding one - from CPU design, to education research, to supporting Clay Christensen ('disruptive innovation'), and later venture capital.<p>When you want work to mean something, but you enjoy a lot of things, it's hard to navigate next steps. Vocation guides you through that process of discovery.<p>There are tons of AI-slop ca",
+          "published": "2025-12-10T16:57:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot",
+          "link": "https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot",
+          "summary": "<p>Article URL: <a href=\"https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot\">https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46220108\">https://news.ycombinator.com/item?id=46220108</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-10T16:54:49"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Empromptu ($2M pre-seed): AI application builder with Self-Managing Context",
+          "link": "https://news.ycombinator.com/item?id=46220076",
+          "summary": "<p>Hey HN,<p>I'm Shanea, founder of Empromptu. We just raised $2M from Precursor Ventures to solve a problem I kept hitting: most AI features never make it to production.<p>The problem: You can prototype AI features in hours now, but getting them production-ready is still brutal. Context windows explode past 100+ documents. Accuracy drifts. Integration with existing codebases is messy. Most teams either rewrite their platform or hire specialized AI engineers.<p>What we built: An AI application b",
+          "published": "2025-12-10T16:53:02"
+        }
+      ]
+    },
+    {
       "date": "2025-12-09",
       "top_features": [
         {
