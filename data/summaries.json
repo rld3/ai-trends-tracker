@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-18",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Flash - new frontier intelligence model built for speed at a fraction of the cost"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Google Translate with state-of-the-art Gemini translation capabilities"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Image 1.5 - new image generator allowing detailed conversational image editing"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominates today's AI announcements with the launch of Gemini 3 Flash, improved translation capabilities, and enhanced voice experiences across Search and other products. Meanwhile, concerns about AI safety and data privacy continue to grow, with new browser extensions emerging to prevent data leaks to LLM tools and ongoing discussions about psychological safety in AI adoption.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
+          "published": "2025-12-18T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://blog.google/products/gemini/gemini-3-flash/",
+          "summary": "Gemini 3 Flash text",
+          "published": "2025-12-17T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We\u2019re publishing an AI playbook to help others with sustainability reporting.",
+          "link": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp\" />We\u2019re sharing a practical playbook to help organizations streamline and enhance sustainability reporting with AI.Corporate transparency is essential, but navigating frag\u2026",
+          "published": "2025-12-15T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
+          "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversation in AI Mode to get real-time help and quickly find relevant sites across the web. And now, \u2026",
+          "published": "2025-12-12T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
+          "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
+          "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice",
+          "published": "2025-12-12T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+          "published": "2025-12-17T11:58:17"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Improved Gemini audio models for powerful voice experiences",
+          "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+          "summary": "",
+          "published": "2025-12-12T17:50:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: A lightweight DLP browser extension to prevent data leaks in LLM tools",
+          "link": "https://www.asturic.com/",
+          "summary": "<p>Hi HN, I\u2019m a student working at a small company. I noticed some of my colleagues were accidentally pasting sensitive data and internal docs into ChatGPT, Gemini, etc.<p>Enterprise DLPs were a bit too expensive and complex for us, so I built this browser extension. It scans prompts and docs in real-time, alerts the user, and can anonymize data before it\u2019s sent.<p>I\u2019d love to hear your thoughts on the technical approach (browser-native vs network level) and if you find this useful.</p>\n<hr />\n<",
+          "published": "2025-12-18T16:29:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Call Santa AI with your kids. My new side project",
+          "link": "https://callsantatonight.com/",
+          "summary": "<p>I created a simple app that lets your kid call Santa AI via video call. Parents can use this webpage to schedule a 5-minute or 10-minute call with Santa, who will speak to their child.<p>Very, very realistic and could support a dialogue, ask questions, and even tell if there is a gift for a kid.<p>I use the HeyGen AI avatar, and I DO NOT record any video. Would you show this to your kid? Could you give me some feedback?<p><a href=\"https://CallSantaTonight.com\" rel=\"nofollow\">https://CallSanta",
+          "published": "2025-12-18T16:28:56"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Principles of AI Product Design: Keep the User in the Driver's Seat",
+          "link": "https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3",
+          "summary": "<p>Article URL: <a href=\"https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3\">https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46314759\">https://news.ycombinator.com/item?id=46314759</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-18T16:24:55"
+        }
+      ]
+    },
+    {
       "date": "2025-12-17",
       "top_features": [
         {
