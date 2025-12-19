@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-19",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost, powering Google Search with Generative UI"
+        },
+        {
+          "company": "Google",
+          "feature": "SynthID video verification in Gemini app - users can now verify if videos were created or edited with Google AI tools"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Image 1.5 - new image generator that allows detailed conversational image editing, making photo manipulation more accessible"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated AI news with the launch of Gemini 3 Flash for faster, cost-effective AI and new video verification tools, while OpenAI released ChatGPT Image 1.5 for advanced image editing. The industry continues to focus on AI safety and transparency tools, with growing discussions about resetting expectations for AI capabilities amid concerns about low-quality AI-generated content.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now verify Google AI-generated videos in the Gemini app.",
+          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
+          "published": "2025-12-18T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
+          "published": "2025-12-18T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
+          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
+          "published": "2025-12-18T00:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+          "published": "2025-12-17T11:58:17"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+          "published": "2025-12-16T10:14:24"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Improved Gemini audio models for powerful voice experiences",
+          "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+          "summary": "",
+          "published": "2025-12-12T17:50:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Romeo&juliet \u2013 AI powered matchmaking app",
+          "link": "https://www.romeojuliet.love",
+          "summary": "<p>Article URL: <a href=\"https://www.romeojuliet.love\">https://www.romeojuliet.love</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46328003\">https://news.ycombinator.com/item?id=46328003</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-19T16:54:16"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The Comforting Myth of Effortless AI",
+          "link": "https://www.insidevoice.ai/p/effortless-ai",
+          "summary": "<p>Article URL: <a href=\"https://www.insidevoice.ai/p/effortless-ai\">https://www.insidevoice.ai/p/effortless-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46327932\">https://news.ycombinator.com/item?id=46327932</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-19T16:49:50"
+        }
+      ]
+    },
+    {
       "date": "2025-12-18",
       "top_features": [
         {
