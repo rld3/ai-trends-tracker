@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-20",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost"
+        },
+        {
+          "company": "Google",
+          "feature": "AI-generated video verification now available in Gemini app with SynthID technology"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Image 1.5 - new image generator enabling detailed conversational image editing"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated AI news with major releases including Gemini 3 Flash for high-speed processing and expanded content verification tools, while OpenAI launched ChatGPT Image 1.5 for advanced image editing. The industry continues to grapple with AI safety concerns and the growing challenge of detecting AI-generated content, as evidenced by growing security tools and transparency initiatives.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now verify Google AI-generated videos in the Gemini app.",
+          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
+          "published": "2025-12-18T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
+          "published": "2025-12-18T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
+          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
+          "published": "2025-12-18T00:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+          "published": "2025-12-17T11:58:17"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+          "published": "2025-12-16T10:14:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I got ripped off by YouTube \"coach\" using AI and how you might avoid it [video]",
+          "link": "https://www.youtube.com/watch?v=l8yvsHFbzMI",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=l8yvsHFbzMI\">https://www.youtube.com/watch?v=l8yvsHFbzMI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46337559\">https://news.ycombinator.com/item?id=46337559</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-20T16:59:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Code assistants has made completing side projects so easy",
+          "link": "https://news.ycombinator.com/item?id=46337414",
+          "summary": "<p>I am a full stack developer with a full time job. I try to work on side projects like a lot of other developers.<p>In last ~10 years I have started 20+ projects and for each project spent anywhere between 2 weeks to 6 months. I have completed just 2 projects which were fairly short(~4 week). So recently when started some big side project, There was almost no chance of me completing it. I was just doing it for fun.<p>All this changed with AI code assistants. I picked a fairly big project which",
+          "published": "2025-12-20T16:42:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Sigma Runtime \u2013 550-cycle identity stability benchmark on GPT-5.2",
+          "link": "https://github.com/sigmastratum/documentation/blob/main/sigma-runtime/SR-EI-037/SIGMA_Runtime_0_3_7_CVR.md",
+          "summary": "<p>We recently completed validation of SIGMA Runtime v0.3.7 \u2014 a cognitive architecture for LLM identity stabilization.\nAcross 550 cycles on GPT-5.2 (five runs \u00d7 110 cycles), the system maintained 100% persona coherence with an average 33% token reduction and 13% latency improvement.<p>The key finding: runtime parameters act as cognitive control levers, enabling dynamic trade-offs between semantic depth and efficiency.<p>Discussion welcome \u2014 especially from those working on long-horizon coherence",
+          "published": "2025-12-20T16:39:37"
+        }
+      ]
+    },
+    {
       "date": "2025-12-19",
       "top_features": [
         {
