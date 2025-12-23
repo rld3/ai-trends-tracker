@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2025-12-23",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Flash - frontier intelligence model built for speed at a fraction of the cost"
+        },
+        {
+          "company": "Google",
+          "feature": "Video verification in Gemini app using SynthID to identify AI-generated content"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Image 1.5 - advanced conversational image editing and generation capabilities"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Databricks",
+          "amount": "$4B",
+          "details": "Raised at $134B valuation as AI business accelerates"
+        }
+      ],
+      "summary": "Google dominated AI news with major releases including Gemini 3 Flash and enhanced content verification tools, while OpenAI launched improved image generation capabilities. The day also highlighted growing concerns about AI safety and transparency, with discussions around AI boosterism and the need for better content identification tools.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now verify Google AI-generated videos in the Gemini app.",
+          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
+          "published": "2025-12-18T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
+          "published": "2025-12-18T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "8 areas with research breakthroughs in 2025",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+          "published": "2025-12-17T11:58:17"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI Productivity Gap with Keith Townsend [video]",
+          "link": "https://www.youtube.com/watch?v=5xMlF-pqmzM",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5xMlF-pqmzM\">https://www.youtube.com/watch?v=5xMlF-pqmzM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46366767\">https://news.ycombinator.com/item?id=46366767</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-23T16:43:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Databricks raises $4B at $134B valuation as its AI business heats up",
+          "link": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
+          "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/\">https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46366758\">https://news.ycombinator.com/item?id=46366758</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-23T16:42:51"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "She thought a predator was grooming her daughter. It was an AI chatbot",
+          "link": "https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/",
+          "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/\">https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46366634\">https://news.ycombinator.com/item?id=46366634</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-23T16:29:10"
+        }
+      ]
+    },
+    {
       "date": "2025-12-22",
       "top_features": [
         {
