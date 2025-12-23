@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2025-12-22",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost"
+        },
+        {
+          "company": "Google",
+          "feature": "AI-generated video verification in Gemini app using SynthID for content transparency"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Image 1.5 - enhanced conversational image editing and generation capabilities"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "iRobot",
+          "amount": "Not specified",
+          "details": "Acquired by Shenzhen-based Picea Robotics after filing for bankruptcy"
+        }
+      ],
+      "summary": "Google dominated AI news with the launch of Gemini 3 Flash offering frontier intelligence at lower costs and new video verification tools, while OpenAI released ChatGPT Image 1.5 for advanced image editing. The day also highlighted growing concerns about AI content transparency and the need for better safety measures as AI capabilities rapidly advance.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now verify Google AI-generated videos in the Gemini app.",
+          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
+          "published": "2025-12-18T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Inside Kaggle's AI Agents intensive course with Google",
+          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
+          "published": "2025-12-18T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
+          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
+          "published": "2025-12-18T00:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Flash: frontier intelligence built for speed",
+          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+          "published": "2025-12-17T11:58:17"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+          "published": "2025-12-16T10:14:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Data Agents L0-L5: Understanding the New Autonomy Hierarchy That's Reshaping AI",
+          "link": "https://techlife.blog/posts/data-agents/",
+          "summary": "<p>Article URL: <a href=\"https://techlife.blog/posts/data-agents/\">https://techlife.blog/posts/data-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46355920\">https://news.ycombinator.com/item?id=46355920</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-22T16:59:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Utter \u2013 System-wide dictation on macOS with AI prompts (free / BYOK)",
+          "link": "https://utter.to",
+          "summary": "<p>Hi HN,<p>I built Utter, a native macOS dictation app, and wanted to share it here to get feedback.<p>The motivation was that Apple Dictation works for short notes, but for longer or technical input it often produces a wall of text that takes more time to clean up than typing. I wanted dictation that could understand context and produce structured output directly.<p>Utter works system-wide: you press a global hotkey, speak, and the text is inserted directly at your cursor in any app. Before in",
+          "published": "2025-12-22T16:53:40"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Scraping and the Open Web",
+          "link": "https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/",
+          "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/\">https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46355722\">https://news.ycombinator.com/item?id=46355722</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-22T16:44:38"
+        }
+      ]
+    },
+    {
       "date": "2025-12-21",
       "top_features": [
         {
