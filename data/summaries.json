@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-24",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "SynthID video verification in Gemini app - users can now verify if videos were created or edited with Google AI"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT Image 1.5 generator with detailed conversational image editing capabilities"
+        },
+        {
+          "company": "Tesla/Nvidia",
+          "feature": "FSD v14 reportedly becomes first AI to pass the 'Physical Turing Test' according to Nvidia's Director of Robotics"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news is dominated by Google's comprehensive year-end reviews showcasing research breakthroughs and product announcements, while OpenAI's new image generator raises concerns about photo manipulation capabilities. The day also highlights growing focus on AI transparency tools and autonomous driving milestones.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
+          "published": "2025-12-23T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "You can now verify Google AI-generated videos in the Gemini app.",
+          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
+          "published": "2025-12-18T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI that edits your files directly, no approvals",
+          "link": "https://news.ycombinator.com/item?id=46377239",
+          "summary": "<p>Hey HN, I'm building Aye Chat (<a href=\"https://github.com/acrotron/aye-chat\" rel=\"nofollow\">https://github.com/acrotron/aye-chat</a>), an open source AI-powered terminal workspace that lets you edit files, run shell commands, and ask AI to modify your codebase directly, all in one REPL session.<p>I built this because I got tired of the \"suggest -> review -> approve\" loop in existing AI coding tools. As models improve and generate proper code more often than not, manual approval started to fe",
+          "published": "2025-12-24T17:04:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Productivity and AI: it's the tool, not the model",
+          "link": "https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/",
+          "summary": "<p>Article URL: <a href=\"https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/\">https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46377142\">https://news.ycombinator.com/item?id=46377142</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-24T16:52:37"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How AI Fixed My Procrastination",
+          "link": "https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/",
+          "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/\">https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46377071\">https://news.ycombinator.com/item?id=46377071</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-24T16:44:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Nvidia Dir of Robotics:FSDv14 Is the First AI to Pass the \"Physical Turing Test\"",
+          "link": "https://www.teslarati.com/nvidia-director-of-robotics-tesla-fsd-v14-passes-physical-turing-test/",
+          "summary": "<p>Article URL: <a href=\"https://www.teslarati.com/nvidia-director-of-robotics-tesla-fsd-v14-passes-physical-turing-test/\">https://www.teslarati.com/nvidia-director-of-robotics-tesla-fsd-v14-passes-physical-turing-test/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46377044\">https://news.ycombinator.com/item?id=46377044</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-24T16:41:23"
+        }
+      ]
+    },
+    {
       "date": "2025-12-23",
       "top_features": [
         {
