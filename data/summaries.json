@@ -1,6 +1,87 @@
 {
   "summaries": [
     {
+      "date": "2025-12-25",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "8 major research breakthroughs achieved in 2025 across various AI domains"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5 reportedly used by mathematicians to solve 10 previously unsolved mathematical problems"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news focuses on year-end retrospectives, with Google highlighting 2025 research achievements and discussions around AI hype culture following controversial claims about GPT-5's mathematical capabilities. The holiday period has led to reduced posting schedules across major AI publications and analysis platforms.",
+      "raw_articles": [
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Gift for Kids \u2013 Live Santa AI Video Call",
+          "link": "https://callsantatonight.com/christmas-gift-for-kids-santa-ai-video-call",
+          "summary": "<p>Article URL: <a href=\"https://callsantatonight.com/christmas-gift-for-kids-santa-ai-video-call\">https://callsantatonight.com/christmas-gift-for-kids-santa-ai-video-call</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385679\">https://news.ycombinator.com/item?id=46385679</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-25T17:11:31"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Observability dashboard for an arbitrary LLM langgraph",
+          "link": "https://github.com/xbt-a4224j/langgraph-observer",
+          "summary": "<p>Article URL: <a href=\"https://github.com/xbt-a4224j/langgraph-observer\">https://github.com/xbt-a4224j/langgraph-observer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385577\">https://news.ycombinator.com/item?id=46385577</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-25T16:58:56"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI #148: Christmas Break",
+          "link": "https://thezvi.substack.com/p/ai-148-christmas-break",
+          "summary": "<p>Article URL: <a href=\"https://thezvi.substack.com/p/ai-148-christmas-break\">https://thezvi.substack.com/p/ai-148-christmas-break</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385559\">https://news.ycombinator.com/item?id=46385559</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-25T16:57:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Why many AI-generated websites don't show up on Google",
+          "link": "https://pagesmith.ai/seo-for-ai-generated-sites",
+          "summary": "<p>We\u2019ve been experimenting quite a bit with AI website builders and kept seeing the same pattern:<p>Sites often look finished to users \u2014 modern UI, fast loads, everything appears \u201cdone\u201d \u2014 but when search engines crawl them, much of the main content isn\u2019t actually present yet.<p>In many cases the issue isn\u2019t SEO basics, keywords, or content quality. It\u2019s simply when the HTML is generated and what Google receives on first visit.<p>We wrote up a calm, non-marketing explanation of what\u2019s going on, ",
+          "published": "2025-12-25T16:39:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why FedRAMP Authorization and CMMC Level 2 Are Now Table Stakes for GovCon AI",
+          "link": "https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai",
+          "summary": "<p>Article URL: <a href=\"https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai\">https://blog.procurementsciences.com/psci_blogs/why-fedramp-authorization-and-cmmc-level-2-are-now-table-stakes-for-govcon-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385335\">https://news.ycombinator.com/item?id=46385335</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-25T16:28:43"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
+          "published": "2025-12-25T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How social media encourages the worst of AI boosterism",
+          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
+          "published": "2025-12-23T10:00:00"
+        },
+        {
+          "source": "Stratechery",
+          "title": "Winter Break: December 22nd to January 2nd",
+          "link": "https://stratechery.com/2025/winter-break-december-22nd-to-january-2nd/",
+          "summary": "Stratechery is on holiday from December 22, 2025 to January 2, 2026; the next Stratechery Update will be on Monday, January 5. In addition, Sharp Tech, Sharp China, and Dithering will all return the week of January 5. Greatest of All Talk&#160;and&#160;Asianometry&#160;will post through the holidays on a reduced schedule. The full Stratechery posting schedule [&#8230;]",
+          "published": "2025-12-22T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-12-24",
       "top_features": [
         {
