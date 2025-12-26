@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-26",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 model announcement as part of 8 major research breakthroughs in 2025"
+        },
+        {
+          "company": "Google",
+          "feature": "60 major AI announcements released throughout 2025, indicating significant product development momentum"
+        },
+        {
+          "company": "Google",
+          "feature": "AI agents transformation roadmap for workplace applications in 2026"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news was dominated by Google's comprehensive year-end reviews, highlighting major research breakthroughs including Gemini 3 and showcasing 60 significant AI announcements from 2025. The community also reflected on broader AI industry trends, with discussions about potential market corrections and the mixed reception of AI adoption in Hollywood throughout the year.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
+          "published": "2025-12-23T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "40 of our most helpful AI tips from 2025",
+          "link": "https://blog.google/technology/ai/ai-tips-2025/",
+          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
+          "published": "2025-12-19T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 ways AI agents will transform the way we work in 2026",
+          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+          "summary": "AI agent trends report 2026 graphic",
+          "published": "2025-12-19T14:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Loki Mode \u2013 37 AI agents that autonomously build your startup",
+          "link": "https://github.com/asklokesh/claudeskill-loki-mode",
+          "summary": "<p>Article URL: <a href=\"https://github.com/asklokesh/claudeskill-loki-mode\">https://github.com/asklokesh/claudeskill-loki-mode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393705\">https://news.ycombinator.com/item?id=46393705</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2025-12-26T16:44:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "When it all comes crashing down: The aftermath of the AI boom",
+          "link": "https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/",
+          "summary": "<p>Article URL: <a href=\"https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/\">https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393704\">https://news.ycombinator.com/item?id=46393704</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-26T16:44:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Interviewing for ML/AI Engineers",
+          "link": "https://www.moderndescartes.com/essays/ml_eng_interviewing/",
+          "summary": "<p>Article URL: <a href=\"https://www.moderndescartes.com/essays/ml_eng_interviewing/\">https://www.moderndescartes.com/essays/ml_eng_interviewing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393532\">https://news.ycombinator.com/item?id=46393532</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-26T16:27:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+          "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025\">https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393524\">https://news.ycombinator.com/item?id=46393524</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-26T16:26:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Aegis Memory \u2013 Open-source memory layer for multi-agent AI systems",
+          "link": "https://github.com/quantifylabs/aegis-memory",
+          "summary": "<p>Article URL: <a href=\"https://github.com/quantifylabs/aegis-memory\">https://github.com/quantifylabs/aegis-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393373\">https://news.ycombinator.com/item?id=46393373</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-26T16:09:33"
+        }
+      ]
+    },
+    {
       "date": "2025-12-25",
       "top_features": [
         {
