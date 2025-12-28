@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-28",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 model revealed as part of 2025 research breakthroughs spanning 8 major areas"
+        },
+        {
+          "company": "Google",
+          "feature": "60 major AI announcements throughout 2025, representing significant AI product developments"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5 model demonstrated solving 10 previously unsolved mathematical problems"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated AI news with year-end recaps showcasing major breakthroughs including Gemini 3 and 60 significant announcements in 2025. Meanwhile, public sentiment reveals growing concerns about AI safety, with two-thirds of Americans expecting major harm from AI within 20 years, highlighting the tension between rapid AI advancement and public trust.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
+          "published": "2025-12-23T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]",
+          "link": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf",
+          "summary": "<p>Article URL: <a href=\"https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf\">https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412411\">https://news.ycombinator.com/item?id=46412411</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-28T16:53:34"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Is Causing Layoffs, Just Not in the Way You Think",
+          "link": "https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in",
+          "summary": "<p>Article URL: <a href=\"https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in\">https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412372\">https://news.ycombinator.com/item?id=46412372</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-28T16:48:45"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Aegis Memory v1.2 \u2013 We solved \"what's worth remembering\" for AI agents",
+          "link": "https://github.com/quantifylabs/aegis-memory",
+          "summary": "<p>Aegis Memory is an open-source, self-hostable memory layer for multi-agent AI systems.<p>v1.2 adds Smart Memory - a two-stage pipeline that automatically decides what's worth storing:\n1. Fast rule-based filter catches obvious noise (greetings, \"thanks\", etc.)\n2. LLM extracts atomic facts only when the filter passes<p>This saves ~70% of extraction costs while keeping memory high-quality.<p>Try it in 15 seconds:\n  pip install aegis-memory\n  aegis demo<p>GitHub: <a href=\"https://github.com/quant",
+          "published": "2025-12-28T16:45:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How do you secure AI coding agents?",
+          "link": "https://news.ycombinator.com/item?id=46412347",
+          "summary": "<p>I\u2019ve been using agentic coding tools  Windsurf / Claude Code\u2013style) and ran into a security problem I can\u2019t really ignore anymore.<p>These tools don\u2019t just suggest code they can read local files and run shell commands. That\u2019s very powerful, but it also means a prompt injection (or poisoned context) can turn a \u201chelpful assistant\u201d into something that looks a lot like an attacker\u2019s shell.<p>I noticed that  Cursor has publicly patched prompt-injection issues, including ones that opened paths to a",
+          "published": "2025-12-28T16:45:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Open Source AI Reclaims the Digital Commons",
+          "link": "https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital",
+          "summary": "<p>Article URL: <a href=\"https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital\">https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412325\">https://news.ycombinator.com/item?id=46412325</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-28T16:43:04"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
+          "published": "2025-12-25T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How social media encourages the worst of AI boosterism",
+          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
+          "published": "2025-12-23T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-12-27",
       "top_features": [
         {
