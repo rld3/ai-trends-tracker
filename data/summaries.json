@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-27",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 model and comprehensive 2025 research breakthroughs across 8 key areas"
+        },
+        {
+          "company": "Microsoft/VSCode",
+          "feature": "Rebranded VSCode as 'The open source AI code editor' emphasizing AI integration"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5 demonstrated capability to help solve 10 previously unsolved mathematical problems"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated the news with comprehensive year-end reviews showcasing Gemini 3 and major research breakthroughs across multiple AI domains. Meanwhile, developer tools are increasingly positioning themselves as AI-first platforms, with VSCode rebranding to emphasize its AI capabilities, while the community continues to debate AI hype versus genuine breakthroughs in mathematical and scientific applications.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
+          "published": "2025-12-23T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I'm 15. I built an offline AI Terminal Agent that fixes errors",
+          "link": "https://github.com/TaklaXBR/zai-shell",
+          "summary": "<p>Article URL: <a href=\"https://github.com/TaklaXBR/zai-shell\">https://github.com/TaklaXBR/zai-shell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46403131\">https://news.ycombinator.com/item?id=46403131</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-27T16:57:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "'Artificial intelligence' myths have existed for centuries",
+          "link": "https://theconversation.com/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot-270175",
+          "summary": "<p>Article URL: <a href=\"https://theconversation.com/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot-270175\">https://theconversation.com/artificial-intelligence-myths-have-existed-for-centuries-from-the-ancient-greeks-to-a-popes-chatbot-270175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46403112\">https://news.ycombinator.com/item?id=46403112</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-27T16:55:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "VSCode rebrands as \"The open source AI code editor\"",
+          "link": "https://code.visualstudio.com",
+          "summary": "<p>Article URL: <a href=\"https://code.visualstudio.com\">https://code.visualstudio.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46403073\">https://news.ycombinator.com/item?id=46403073</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+          "published": "2025-12-27T16:51:01"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Memelang: Token-efficient LLM query language",
+          "link": "https://arxiv.org/abs/2512.17967",
+          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.17967\">https://arxiv.org/abs/2512.17967</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46402799\">https://news.ycombinator.com/item?id=46402799</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-27T16:15:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: LLM Sorter \u2013 Python package to sort lists of items using LLM calls",
+          "link": "https://github.com/kalolad1/llm-sorter",
+          "summary": "<p>Just a quick experiment I thought of building. Limited practical usage, for sure.<p>A Python library that uses LLMs as comparators for semantic sorting. Sort any list by meaning, tone, complexity, urgency, or any criteria expressible in natural language. This library uses an OpenRouter API key to interface with LLM providers.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46402797\">https://news.ycombinator.com/item?id=46402797</a></p>\n<p>Points: 1</p>\n<p># Comments:",
+          "published": "2025-12-27T16:14:45"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
+          "published": "2025-12-25T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How social media encourages the worst of AI boosterism",
+          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
+          "published": "2025-12-23T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-12-26",
       "top_features": [
         {
