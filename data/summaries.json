@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2025-12-29",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 model announcement as part of their 2025 research breakthroughs across 8 key areas"
+        },
+        {
+          "company": "Google",
+          "feature": "60 major AI announcements throughout 2025, representing significant product and research milestones"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5 model demonstrated solving 10 previously unsolved mathematical problems according to MIT Tech Review"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Google dominated today's AI news with comprehensive year-end reviews highlighting major breakthroughs including Gemini 3 and 60 significant AI announcements in 2025. Meanwhile, industry discussions focused on AI evaluation benchmarks and concerns about social media hype around AI capabilities, particularly regarding OpenAI's GPT-5 mathematical problem-solving claims.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
+          "published": "2025-12-23T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "60 of our biggest AI announcements in 2025",
+          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
+          "published": "2025-12-22T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+          "summary": "Google 2025 recap: Research breakthroughs of the year",
+          "published": "2025-12-23T17:01:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Survey State of Angel Investing in AI 2026",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform",
+          "summary": "<p>Article URL: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422441\">https://news.ycombinator.com/item?id=46422441</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-29T16:45:33"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "PostTrainBench: Measuring how well AI agents can post-train language models",
+          "link": "https://posttrainbench.com/",
+          "summary": "<p>Article URL: <a href=\"https://posttrainbench.com/\">https://posttrainbench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422435\">https://news.ycombinator.com/item?id=46422435</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-29T16:45:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Firefox browser falls to AI. What do we do now?",
+          "link": "https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/",
+          "summary": "<p>Article URL: <a href=\"https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/\">https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422308\">https://news.ycombinator.com/item?id=46422308</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published": "2025-12-29T16:35:17"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta's internal solution to its AI needs: Google it",
+          "link": "https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it",
+          "summary": "<p>Article URL: <a href=\"https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it\">https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422126\">https://news.ycombinator.com/item?id=46422126</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2025-12-29T16:20:01"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI-SDK for Rust",
+          "link": "https://aisdk.rs/",
+          "summary": "<p>Article URL: <a href=\"https://aisdk.rs/\">https://aisdk.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422082\">https://news.ycombinator.com/item?id=46422082</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+          "published": "2025-12-29T16:15:33"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
+          "published": "2025-12-25T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How social media encourages the worst of AI boosterism",
+          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
+          "published": "2025-12-23T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-12-28",
       "top_features": [
         {
