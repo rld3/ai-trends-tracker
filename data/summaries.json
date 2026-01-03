@@ -5,12 +5,15 @@
       "top_features": [
         {
           "company": "Google",
-          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search bar functionality"
+          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search capabilities"
         }
       ],
-      "fintech_trends": [],
+      "fintech_trends": [
+        "AI-powered resale valuation tools are emerging, with applications that can instantly assess item values by analyzing photos and cross-referencing marketplace data",
+        "AI classification systems are being developed for better product understanding and search functionality, potentially improving e-commerce and marketplace experiences"
+      ],
       "fundraising": [],
-      "summary": "Today's AI news focused on infrastructure and educational developments, with Google announcing December AI updates and Harvard's CS50 expanding into AI education. Key concerns emerged around AI model collapse and data quality issues as the internet becomes increasingly populated with AI-generated content.",
+      "summary": "Today's AI news highlights practical applications and developer tools, with Google announcing December AI updates while independent developers showcase faster development tools and AI-powered valuation systems. There's growing focus on AI's role in mental health therapy and product valuation, indicating AI's expansion into specialized professional domains.",
       "raw_articles": [
         {
           "source": "Google AI",
@@ -21,38 +24,38 @@
         },
         {
           "source": "Hacker News AI",
-          "title": "CS50x 2026: Artificial Intelligence [video]",
-          "link": "https://www.youtube.com/watch?v=-9bo8HlSxwQ",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-9bo8HlSxwQ\">https://www.youtube.com/watch?v=-9bo8HlSxwQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477405\">https://news.ycombinator.com/item?id=46477405</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T14:58:19"
+          "title": "Show HN: I built a 30x faster svelte-check in 2 days with AI",
+          "link": "https://svelte-check-rs.vercel.app/",
+          "summary": "<p>I built a Rust drop-in replacement for svelte-check that's 10-30x faster for Svelte 5 projects.<p>What it does:<p>- Parses Svelte files with a custom Rust parser\n- Transforms them to TSX in parallel using Rayon\n- Runs type-checking via Microsoft's tsgo (the native Go port of TypeScript)\n- Maps errors back to original .svelte locations via source maps<p>Why it's fast:<p>The official svelte-check uses TypeScript's Language Service API optimized for IDEs with persistent connections. Great for au",
+          "published": "2026-01-03T16:51:41"
         },
         {
           "source": "Hacker News AI",
-          "title": "Internet is eating itself. What's next? Model collapse and AI data crisis",
-          "link": "https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next",
-          "summary": "<p>Article URL: <a href=\"https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next\">https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477333\">https://news.ycombinator.com/item?id=46477333</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-01-03T14:53:25"
+          "title": "Show HN: Underpriced AI \u2013 Snap a photo, get instant resale value with AI",
+          "link": "https://underpricedai.com",
+          "summary": "<p><p><pre><code>  Hey HN,\n\n  I built Underpriced AI to solve a problem I had as a part-time reseller: standing in a thrift store trying to figure out if something is worth buying.\n\n  How it works:\n  - Snap a photo of any item\n  - AI identifies the brand, model, maker, era, etc.\n  - Pulls recent sold prices from eBay and other marketplaces\n  - Gives you an instant valuation with confidence score\n\n  You can also generate SEO-optimized eBay listings and publish directly from the app.\n\n  Tech stack",
+          "published": "2026-01-03T16:47:38"
         },
         {
           "source": "Hacker News AI",
-          "title": "LLM Sitemap: A New Idea for AI-Readable Site Architecture",
-          "link": "https://growtika.com/blog/llm-sitemap",
-          "summary": "<p>Article URL: <a href=\"https://growtika.com/blog/llm-sitemap\">https://growtika.com/blog/llm-sitemap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46476563\">https://news.ycombinator.com/item?id=46476563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T13:47:58"
+          "title": "Show HN: A diagnostic tool to see how AI systems understand your product",
+          "link": "https://llmready.site/",
+          "summary": "<p>AI systems learn from public explanations across the web.<p>LLM Ready is a diagnostic tool that estimates how consistently AI systems can understand and describe a product based on public information.<p>It does not track live AI responses, rankings, or prompts. It focuses on structural clarity, reference sources, documentation, community discussions, and educational content.<p>I built this after seeing many early products misrepresented by AI due to missing or fragmented explanations.<p>Feedb",
+          "published": "2026-01-03T16:39:36"
         },
         {
           "source": "Hacker News AI",
-          "title": "Ask HN: AI progress \u2013 what are the main ways people measure it?",
-          "link": "https://news.ycombinator.com/item?id=46476555",
-          "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a  list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect by design. I\u2019m not assuming they\u2019re \u201cgood\u201d or that they cleanly map to real-world capability.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whet",
-          "published": "2026-01-03T13:47:07"
+          "title": "LLM classication based search engine",
+          "link": "https://news.ycombinator.com/item?id=46478330",
+          "summary": "<p>Hi all,<p>A long time ago I stumbled upon this post: https://news.ycombinator.com/item?id=36564042#36565438 which discussed using Dewey Decimal Classification to provide a website index. Well, it took me some time to implement this, and it might be too little, too late, but I'm having a lot of fun developing it. Here's a website link: https://llmc.domainsproject.org<p>Criticism is welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46478330\">https://news.ycombin",
+          "published": "2026-01-03T16:15:42"
         },
         {
           "source": "Hacker News AI",
-          "title": "Show HN: AGent Based Access Control Agbac for AI Agents and IAM",
-          "link": "https://news.ycombinator.com/item?id=46476434",
-          "summary": "<p>Today I am releasing AGent Based Access Control (AGBAC) under Apache 2.0. This is a new Access Control Security Specification that introduces the concept of dual-subject authentication. Included is AGBAC-Min, which allows you to implement agent and human aware authentication today (right now!) with your existing IAM Solution!<p><a href=\"https://github.com/kahalewai/agbac\" rel=\"nofollow\">https://github.com/kahalewai/agbac</a><p>AI agents broke one of the oldest assumptions in identity. For as ",
-          "published": "2026-01-03T13:35:26"
+          "title": "Ask HN: What are the main measures of AI progress?",
+          "link": "https://news.ycombinator.com/item?id=46478160",
+          "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect. My goal is discovery and understanding, not to defend or attack any particular framework.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whether)",
+          "published": "2026-01-03T16:02:43"
         },
         {
           "source": "MIT Tech Review AI",
