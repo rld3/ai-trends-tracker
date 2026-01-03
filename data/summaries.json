@@ -1,6 +1,69 @@
 {
   "summaries": [
     {
+      "date": "2026-01-03",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search integration"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news focused on technical infrastructure and emerging challenges, with Google announcing December AI updates while the community discussed critical issues like AI data crisis from model collapse and the need for better AI progress measurement methodologies. Educational initiatives and security frameworks for AI agents also gained attention.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in December",
+          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
+          "published": "2025-12-29T18:15:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "CS50x 2026: Artificial Intelligence [video]",
+          "link": "https://www.youtube.com/watch?v=-9bo8HlSxwQ",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-9bo8HlSxwQ\">https://www.youtube.com/watch?v=-9bo8HlSxwQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477405\">https://news.ycombinator.com/item?id=46477405</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-03T14:58:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Internet is eating itself. What's next? Model collapse and AI data crisis",
+          "link": "https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next",
+          "summary": "<p>Article URL: <a href=\"https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next\">https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477333\">https://news.ycombinator.com/item?id=46477333</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-03T14:53:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "LLM Sitemap: A New Idea for AI-Readable Site Architecture",
+          "link": "https://growtika.com/blog/llm-sitemap",
+          "summary": "<p>Article URL: <a href=\"https://growtika.com/blog/llm-sitemap\">https://growtika.com/blog/llm-sitemap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46476563\">https://news.ycombinator.com/item?id=46476563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-03T13:47:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: AI progress \u2013 what are the main ways people measure it?",
+          "link": "https://news.ycombinator.com/item?id=46476555",
+          "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a  list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect by design. I\u2019m not assuming they\u2019re \u201cgood\u201d or that they cleanly map to real-world capability.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whet",
+          "published": "2026-01-03T13:47:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AGent Based Access Control Agbac for AI Agents and IAM",
+          "link": "https://news.ycombinator.com/item?id=46476434",
+          "summary": "<p>Today I am releasing AGent Based Access Control (AGBAC) under Apache 2.0. This is a new Access Control Security Specification that introduces the concept of dual-subject authentication. Included is AGBAC-Min, which allows you to implement agent and human aware authentication today (right now!) with your existing IAM Solution!<p><a href=\"https://github.com/kahalewai/agbac\" rel=\"nofollow\">https://github.com/kahalewai/agbac</a><p>AI agents broke one of the oldest assumptions in identity. For as ",
+          "published": "2026-01-03T13:35:26"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The ascent of the AI therapist",
+          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
+          "published": "2025-12-30T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2025-12-30",
       "top_features": [
         {
