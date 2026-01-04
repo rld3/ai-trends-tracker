@@ -1,6 +1,93 @@
 {
   "summaries": [
     {
+      "date": "2025-12-30",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "December AI updates including AI chess interface, Gemini 3 Flash, and enhanced Google search integration"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered valuation tools are emerging for niche markets like reseller businesses, using computer vision to identify items and pull comparable sales data",
+        "PostgreSQL is experiencing renewed adoption for AI workloads, suggesting a shift in database preferences for AI applications"
+      ],
+      "fundraising": [],
+      "summary": "The AI industry showed signs of maturation in 2025 as lofty promises gave way to practical applications, while new niche tools like AI-powered valuations and compiler development demonstrate AI's expanding reach into specialized domains. Mental health applications and infrastructure considerations around databases are becoming key focus areas for AI deployment.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in December",
+          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
+          "published": "2025-12-29T18:15:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why AI Gave Me the Wrong Answer While Knowing the Right One",
+          "link": "https://andreyandrade.com/static/ai-wrong-answer/",
+          "summary": "<p>Article URL: <a href=\"https://andreyandrade.com/static/ai-wrong-answer/\">https://andreyandrade.com/static/ai-wrong-answer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46489783\">https://news.ycombinator.com/item?id=46489783</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-04T16:56:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Underpriced AI \u2013 AI-powered valuations for resellers",
+          "link": "https://underpricedai.com",
+          "summary": "<p><p><pre><code>  I built this to help resellers (people who buy items at thrift stores/estate sales and flip them on eBay) figure out what things are worth before buying.\n\n  You take a photo, the app identifies the item and pulls comparable sales data to estimate value. It also generates listing titles and descriptions.\n\n  Tech stack: Next.js 16, React 19, Claude API for vision/analysis, Postgres, hosted on Vercel. iOS app is Capacitor.\n\n  The core problem: resellers make money on information ",
+          "published": "2026-01-04T16:53:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why AI Workloads Are Fueling a Move Back to Postgres",
+          "link": "https://thenewstack.io/why-ai-workloads-are-fueling-a-move-back-to-postgres/",
+          "summary": "<p>Article URL: <a href=\"https://thenewstack.io/why-ai-workloads-are-fueling-a-move-back-to-postgres/\">https://thenewstack.io/why-ai-workloads-are-fueling-a-move-back-to-postgres/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46489578\">https://news.ycombinator.com/item?id=46489578</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-04T16:38:30"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built a platform to validate that users want AI agents",
+          "link": "https://github.com/CharmAIOS/Charm",
+          "summary": "<p>Article URL: <a href=\"https://github.com/CharmAIOS/Charm\">https://github.com/CharmAIOS/Charm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46489477\">https://news.ycombinator.com/item?id=46489477</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-04T16:27:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Full optimizing compiler in a week with AI",
+          "link": "https://blog.paulbiggar.com/full-optimizing-compiler-with-ai/",
+          "summary": "<p>Article URL: <a href=\"https://blog.paulbiggar.com/full-optimizing-compiler-with-ai/\">https://blog.paulbiggar.com/full-optimizing-compiler-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46489341\">https://news.ycombinator.com/item?id=46489341</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-04T16:14:11"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The ascent of the AI therapist",
+          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
+          "published": "2025-12-30T11:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
+          "published": "2025-12-31T13:15:40"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "From prophet to product: How AI came back down to earth in 2025",
+          "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+          "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
+          "published": "2025-12-31T12:00:31"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Cond\u00e9 Nast user database reportedly breached, Ars unaffected",
+          "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+          "summary": "A serious data breach has occurred, but Ars users have nothing to worry about.",
+          "published": "2025-12-30T18:45:54"
+        }
+      ]
+    },
+    {
       "date": "2026-01-03",
       "top_features": [
         {
