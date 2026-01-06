@@ -1,6 +1,83 @@
 {
   "summaries": [
     {
+      "date": "2026-01-06",
+      "top_features": [
+        {
+          "company": "Nvidia",
+          "feature": "Licensed Groq's inference technology and hired most of Groq employees in a strategic acquisition-like deal"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "The AI industry is experiencing a maturation phase with Nvidia making strategic moves to acquire inference capabilities through its Groq deal, while broader discussions emerge about AI's practical applications versus earlier hype. Privacy concerns continue to mount as new regulations take effect, and AI therapy applications gain attention amid global mental health challenges.",
+      "raw_articles": [
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The ascent of the AI therapist",
+          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
+          "published": "2025-12-30T11:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
+          "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+          "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
+          "published": "2026-01-05T21:42:14"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
+          "published": "2025-12-31T13:15:40"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "From prophet to product: How AI came back down to earth in 2025",
+          "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+          "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
+          "published": "2025-12-31T12:00:31"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Cond\u00e9 Nast user database reportedly breached, Ars unaffected",
+          "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+          "summary": "A serious data breach has occurred, but Ars users have nothing to worry about.",
+          "published": "2025-12-30T18:45:54"
+        },
+        {
+          "source": "Stratechery",
+          "title": "Nvidia and Groq, A Stinkily Brilliant Deal, Why This Deal Makes Sense",
+          "link": "https://stratechery.com/2026/nvidia-and-groq-a-stinkily-brilliant-deal-why-this-deal-makes-sense/",
+          "summary": "Nvidia is licensing Groq's technology and hiring most of its employees; it's the most potent application of tech's don't-call-it-an-acquisition deal model yet.",
+          "published": "2026-01-06T11:00:00"
+        },
+        {
+          "source": "Stratechery",
+          "title": "AI and the Human Condition",
+          "link": "https://stratechery.com/2026/ai-and-the-human-condition/",
+          "summary": "AI might replace all of the jobs; that's only a problem if you think that humans will care, but if they care, they will create new jobs.",
+          "published": "2026-01-05T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-01-05",
       "top_features": [
         {
