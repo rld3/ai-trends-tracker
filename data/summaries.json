@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2026-01-05",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search capabilities"
+        },
+        {
+          "company": "Open Source Community",
+          "feature": "lscode - TypeScript's LanguageService integration for AI coding agents, enabling advanced code editing capabilities like 'find references' and 'rename symbol'"
+        },
+        {
+          "company": "Open Source Community",
+          "feature": "AI-powered domain name generator with real-time WHOIS availability checking"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "The AI industry continues its transition from hype to practical applications, with Google announcing December updates and developers creating tools to enhance AI coding capabilities. Meanwhile, discussions around AI's societal impact intensify, including debates about taxation in a strong AI world and the growing role of AI in mental health therapy.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in December",
+          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
+          "published": "2025-12-29T18:15:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Taxation in a Strong AI World",
+          "link": "https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html",
+          "summary": "<p>Article URL: <a href=\"https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html\">https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46501315\">https://news.ycombinator.com/item?id=46501315</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-05T16:57:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Aphoristic Intelligence Beats Artificial Intelligence",
+          "link": "https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/",
+          "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/\">https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46501082\">https://news.ycombinator.com/item?id=46501082</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-05T16:44:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: lscode \u2013 TypeScript's LanguageService for AI Coding Agents",
+          "link": "https://github.com/kazushisan/lscode",
+          "summary": "<p>I've been adopting to developing with AI coding agents, but I've been feeling the limitation of these agents because they mostly work with plain-text editing and don't have much access to all the tools humans use that are available in editors like \"find references\" or \"rename symbol\".<p>So I ended up building `lscode`, a command-line that exposes TypeScript language-tools for coding agents to use.<p>While I know there are some attempts that provide a language-agnostic wrapper around LSP, `lsc",
+          "published": "2026-01-05T16:29:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI-powered domain name generator with real-time WHOIS availability checking",
+          "link": "https://github.com/idimetrix/find-my-domain",
+          "summary": "<p>Article URL: <a href=\"https://github.com/idimetrix/find-my-domain\">https://github.com/idimetrix/find-my-domain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46500791\">https://news.ycombinator.com/item?id=46500791</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-05T16:28:34"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Is the World Ready for Another Programming Language in 2026, Now AI Writes Code?",
+          "link": "https://github.com/jamesd-comelang/come-lang",
+          "summary": "<p>Article URL: <a href=\"https://github.com/jamesd-comelang/come-lang\">https://github.com/jamesd-comelang/come-lang</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46500731\">https://news.ycombinator.com/item?id=46500731</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-05T16:25:12"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The ascent of the AI therapist",
+          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
+          "published": "2025-12-30T11:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
+          "published": "2025-12-31T13:15:40"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "From prophet to product: How AI came back down to earth in 2025",
+          "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+          "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
+          "published": "2025-12-31T12:00:31"
+        }
+      ]
+    },
+    {
       "date": "2025-12-30",
       "top_features": [
         {
