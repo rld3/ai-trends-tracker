@@ -1,6 +1,94 @@
 {
   "summaries": [
     {
+      "date": "2026-01-07",
+      "top_features": [
+        {
+          "company": "Nvidia",
+          "feature": "Licensing deal with Groq for technology acquisition and hiring most employees in strategic 'don't-call-it-an-acquisition' move"
+        },
+        {
+          "company": "Nvidia",
+          "feature": "CES announcements focused on AI-native storage infrastructure and enterprise solutions rather than consumer products"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news was dominated by Nvidia's strategic acquisition of Groq's technology and talent, while the broader industry continues to focus on practical applications with new open-source tools for LLM optimization and code indexing. The discourse is shifting from AI hype to real-world utility, with emphasis on accuracy in customer support applications and the technical fundamentals of LLM parameters.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Task-free intelligence testing of LLMs",
+          "link": "https://www.marble.onl/posts/tapping/index.html",
+          "summary": "<p>Article URL: <a href=\"https://www.marble.onl/posts/tapping/index.html\">https://www.marble.onl/posts/tapping/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46528918\">https://news.ycombinator.com/item?id=46528918</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-07T17:01:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Opik Optimizer \u2013 open-source agents for self-improving LLM applications",
+          "link": "https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer",
+          "summary": "<p>Article URL: <a href=\"https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer\">https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46528743\">https://news.ycombinator.com/item?id=46528743</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-07T16:50:16"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Bind.ly \u2013 Persistent memory for AI across tools",
+          "link": "https://bind.ly",
+          "summary": "<p>Hi HN,<p>I\u2019m a product designer by background, not a traditional software engineer.<p>Over the last year, tools like Claude and ChatGPT completely changed how I work.\nI started with small internal tools, and now I\u2019m \u201cvibe coding\u201d multiple highly personalized apps.<p>As I iterated between Claude Code (implementation) and ChatGPT (ideation / thinking),\nI kept running into the same problem.<p>To think clearly, I had to repeatedly re-explain:\n- what the code currently does,\n- what changed recentl",
+          "published": "2026-01-07T16:49:37"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Customer Support with AI \u2013 Accuracy is all that matters",
+          "link": "https://blog.buywhitelabel.com/customer-support-with-ai-in-2026-accuracy-is-all-that-matters/",
+          "summary": "<p>Article URL: <a href=\"https://blog.buywhitelabel.com/customer-support-with-ai-in-2026-accuracy-is-all-that-matters/\">https://blog.buywhitelabel.com/customer-support-with-ai-in-2026-accuracy-is-all-that-matters/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46528678\">https://news.ycombinator.com/item?id=46528678</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-07T16:46:16"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Arbor \u2013 A graph-native code indexer in Rust for LLM context (MCP)",
+          "link": "https://github.com/Anandb71/arbor",
+          "summary": "<p>Article URL: <a href=\"https://github.com/Anandb71/arbor\">https://github.com/Anandb71/arbor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46528547\">https://news.ycombinator.com/item?id=46528547</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-07T16:39:41"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
+          "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. I am writing this because one of my editors woke up in the middle of the night and scribbled on a bedside notepad: \u201cWhat is a&#8230;",
+          "published": "2026-01-07T11:23:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
+          "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+          "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
+          "published": "2026-01-05T21:42:14"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
+          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
+          "published": "2025-12-31T13:15:40"
+        }
+      ]
+    },
+    {
       "date": "2026-01-06",
       "top_features": [
         {
