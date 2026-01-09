@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2026-01-09",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Health - allows users to connect medical and wellness records to AI chatbot for health-related queries"
+        },
+        {
+          "company": "Meta",
+          "feature": "Nuclear power partnerships with Vistra, Oklo, and TerraPower to energize AI data centers and support growing computational demands"
+        },
+        {
+          "company": "Nvidia",
+          "feature": "Licensing deal with Groq - acquiring Groq's technology and hiring most employees in a strategic 'don't-call-it-an-acquisition' move"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news highlighted major infrastructure moves with Meta securing nuclear power for data centers and Nvidia's strategic acquisition of Groq, while OpenAI launched ChatGPT Health despite ongoing concerns about AI hallucinations in medical contexts. The industry continues grappling with fundamental questions about AI adoption necessity, market sustainability, and the balance between innovation and reliability.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "AI bubble",
+          "link": "https://en.wikipedia.org/wiki/AI_bubble",
+          "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/AI_bubble\">https://en.wikipedia.org/wiki/AI_bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46555957\">https://news.ycombinator.com/item?id=46555957</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-09T16:59:49"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+          "link": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+          "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/\">https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46555877\">https://news.ycombinator.com/item?id=46555877</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-09T16:54:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: MCP Vault (mcpv) \u2013 Performance booster for MCP-based AI agents",
+          "link": "https://github.com/thekeunpie-hash/mcpvault",
+          "summary": "<p>Hi HN,<p>I\u2019ve been heavily using AI Agents (specifically the Antigravity environment) for coding, but I ran into three major engineering frustrations that made the experience painful on Windows:<p>Infinite Loading: Without a dedicated GPU setup, the agent was unresponsive for ~58s out of every minute.<p>Context Bloat: The agent kept requesting the full codebase context (repomix) repeatedly whenever it loaded MCP tools, locking up my local servers.<p>UI Lag & Zombie Processes: On Windows, the ",
+          "published": "2026-01-09T16:48:01"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Using AI is no longer optional",
+          "link": "https://ma.ttias.be/ai-no-longer-optional/",
+          "summary": "<p>Article URL: <a href=\"https://ma.ttias.be/ai-no-longer-optional/\">https://ma.ttias.be/ai-no-longer-optional/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46555679\">https://news.ycombinator.com/item?id=46555679</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-09T16:41:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta lines up supply of nuclear power to energize AI data centers",
+          "link": "https://apnews.com/article/facebook-meta-zuckerberg-ai-vistra-oklo-terrapower-0eb051a9a11d96f7ce200e186ad13476",
+          "summary": "<p>Article URL: <a href=\"https://apnews.com/article/facebook-meta-zuckerberg-ai-vistra-oklo-terrapower-0eb051a9a11d96f7ce200e186ad13476\">https://apnews.com/article/facebook-meta-zuckerberg-ai-vistra-oklo-terrapower-0eb051a9a11d96f7ce200e186ad13476</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46555640\">https://news.ycombinator.com/item?id=46555640</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-09T16:38:36"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
+          "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. I am writing this because one of my editors woke up in the middle of the night and scribbled on a bedside notepad: \u201cWhat is a&#8230;",
+          "published": "2026-01-07T11:23:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+          "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+          "summary": "New feature will allow users to link medical and wellness records to AI chatbot.",
+          "published": "2026-01-08T18:00:52"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+          "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+          "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+          "published": "2026-01-08T14:00:07"
+        }
+      ]
+    },
+    {
       "date": "2026-01-08",
       "top_features": [
         {
