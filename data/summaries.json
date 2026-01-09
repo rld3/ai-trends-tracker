@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2026-01-08",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "AI Inbox for Gmail that automatically summarizes emails"
+        },
+        {
+          "company": "Nvidia",
+          "feature": "CES announcements focused on AI infrastructure and licensing deal with Groq technology"
+        },
+        {
+          "company": "Character.AI",
+          "feature": "Settlement agreement with Google over teen suicide lawsuits (safety/regulatory update)"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news was dominated by Google's new Gmail AI summarization feature and Nvidia's strategic moves including a licensing deal with Groq and CES infrastructure announcements. The industry also grappled with safety concerns as Google and Character.AI settled lawsuits related to teen suicides, while security researchers demonstrated new data-pilfering attacks against ChatGPT.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built an AI personal diary inspired by Harry Potter [video]",
+          "link": "https://www.youtube.com/shorts/elNtTJnl86k",
+          "summary": "<p>Hi HN,<p>I spent the last few weeks building an AI diary inspired by Tom Riddle\u2019s diary from Harry Potter. You write and an AI responds in cursive handwriting, just like the movie.<p>I used an ESP32 and a TFT Touchscreen display, and 3D printed the case, basilisk fang, and corners.<p>Finding a font for the AI response was tricky. Since I wanted the response to look as if it was handwritten, I needed to use single-stroke fonts but there were very few online. Eventually, I stumbled upon Hershey",
+          "published": "2026-01-08T16:59:51"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Snake 3D Meet Tron Legacy Online",
+          "link": "https://www.flappysnake.com/",
+          "summary": "<p>Article URL: <a href=\"https://www.flappysnake.com/\">https://www.flappysnake.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46543306\">https://news.ycombinator.com/item?id=46543306</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-08T16:54:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI Security Shakedown \u2013 Jim Nielsen's Blog",
+          "link": "https://blog.jim-nielsen.com/2026/ai-security-shakedown/",
+          "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-security-shakedown/\">https://blog.jim-nielsen.com/2026/ai-security-shakedown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46543189\">https://news.ycombinator.com/item?id=46543189</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-08T16:45:59"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Google Is Adding an 'AI Inbox' to Gmail That Summarizes Emails",
+          "link": "https://www.wired.com/story/google-ai-inbox-gmail/",
+          "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/google-ai-inbox-gmail/\">https://www.wired.com/story/google-ai-inbox-gmail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46543143\">https://news.ycombinator.com/item?id=46543143</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-08T16:42:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Google and Character.AI agree to settle lawsuits over teen suicides",
+          "link": "https://www.axios.com/2026/01/07/google-character-ai-lawsuits-teen-suicides",
+          "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/01/07/google-character-ai-lawsuits-teen-suicides\">https://www.axios.com/2026/01/07/google-character-ai-lawsuits-teen-suicides</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46543128\">https://news.ycombinator.com/item?id=46543128</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-08T16:40:55"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
+          "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. I am writing this because one of my editors woke up in the middle of the night and scribbled on a bedside notepad: \u201cWhat is a&#8230;",
+          "published": "2026-01-07T11:23:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+          "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+          "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+          "published": "2026-01-08T14:00:07"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
+          "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
+          "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
+          "published": "2026-01-05T21:42:14"
+        }
+      ]
+    },
+    {
       "date": "2026-01-07",
       "top_features": [
         {
