@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2026-01-10",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Health - allows users to connect medical and wellness records to the AI chatbot for health-related queries"
+        },
+        {
+          "company": "Nvidia",
+          "feature": "CES announcements including Vera Rubin AI-native storage infrastructure and consumer-focused AI developments"
+        },
+        {
+          "company": "Nvidia",
+          "feature": "Technology licensing deal with Groq, acquiring most of Groq's employees in a strategic acquisition-like arrangement"
+        }
+      ],
+      "fintech_trends": [
+        "AI is serving as a stress test for existing business models, forcing companies to reevaluate their fundamental economic assumptions and value propositions",
+        "Growing concern about AI's impact on traditional wealth distribution mechanisms, as AI potentially makes human labor optional and challenges wage-based economic models"
+      ],
+      "fundraising": [],
+      "summary": "Today's AI news focused heavily on infrastructure and economic implications, with OpenAI launching ChatGPT Health despite concerns about AI hallucinations in medical contexts, and Nvidia making strategic moves through a quasi-acquisition of Groq. The industry continues grappling with fundamental questions about AI's long-term economic impact and the transition mechanisms between current capitalism and potential post-labor economies.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "What happens to an economy when AI makes most human labor optional",
+          "link": "https://news.ycombinator.com/item?id=46567421",
+          "summary": "<p>I keep seeing two extreme futures discussed around AI.<p>One is techno utopia: AI does everything, productivity explodes, humans are free to create and chill.<p>The other is collapse: AI replaces jobs, wealth concentrates, consumption dies, society implodes.<p>What I don\u2019t see discussed enough is the mechanism between those states.<p>If AI systems genuinely outperform humans at most economically valuable tasks, wages are no longer the primary distribution mechanism. But capitalism today assum",
+          "published": "2026-01-10T16:58:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Snowtree: Review-Driven Safe AI Coding",
+          "link": "https://www.bohutang.me/2026/01/10/snowtree-review-driven-safe-ai-coding/",
+          "summary": "<p>Article URL: <a href=\"https://www.bohutang.me/2026/01/10/snowtree-review-driven-safe-ai-coding/\">https://www.bohutang.me/2026/01/10/snowtree-review-driven-safe-ai-coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46567404\">https://news.ycombinator.com/item?id=46567404</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-10T16:57:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI is a business model stress test",
+          "link": "https://dri.es/ai-is-a-business-model-stress-test",
+          "summary": "<p>Article URL: <a href=\"https://dri.es/ai-is-a-business-model-stress-test\">https://dri.es/ai-is-a-business-model-stress-test</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46567392\">https://news.ycombinator.com/item?id=46567392</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-10T16:56:34"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built a visualization of top AI X account interactions",
+          "link": "https://ai-kol-network-analysis.youware.app/",
+          "summary": "<p>Article URL: <a href=\"https://ai-kol-network-analysis.youware.app/\">https://ai-kol-network-analysis.youware.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46567289\">https://news.ycombinator.com/item?id=46567289</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-10T16:48:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "When AI Speaks, Evidence Becomes the Control Surface",
+          "link": "https://www.aivojournal.org/when-ai-speaks-evidence-becomes-the-control-surface/",
+          "summary": "<p>Article URL: <a href=\"https://www.aivojournal.org/when-ai-speaks-evidence-becomes-the-control-surface/\">https://www.aivojournal.org/when-ai-speaks-evidence-becomes-the-control-surface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46566996\">https://news.ycombinator.com/item?id=46566996</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-10T16:21:22"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
+          "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. I am writing this because one of my editors woke up in the middle of the night and scribbled on a bedside notepad: \u201cWhat is a&#8230;",
+          "published": "2026-01-07T11:23:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+          "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+          "summary": "New feature will allow users to link medical and wellness records to AI chatbot.",
+          "published": "2026-01-08T18:00:52"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+          "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+          "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+          "published": "2026-01-08T14:00:07"
+        }
+      ]
+    },
+    {
       "date": "2026-01-09",
       "top_features": [
         {
