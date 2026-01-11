@@ -1,6 +1,90 @@
 {
   "summaries": [
     {
+      "date": "2026-01-11",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Health - allows users to connect medical and wellness records to the AI chatbot for health-related queries"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news highlights growing concerns about data security and industry pushback, with AI insiders launching data poisoning initiatives while OpenAI expands into healthcare with ChatGPT Health despite ongoing hallucination risks. The broader discourse focuses on AI's economic impact and the widening digital divide in global AI adoption.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "AI industry insiders launch site to poison the data that feeds them",
+          "link": "https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/",
+          "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/\">https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46577464\">https://news.ycombinator.com/item?id=46577464</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-11T17:05:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Global AI Adoption in 2025: A Widening Digital Divide",
+          "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/global-ai-adoption-2025/",
+          "summary": "<p>Article URL: <a href=\"https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/global-ai-adoption-2025/\">https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/global-ai-adoption-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46577462\">https://news.ycombinator.com/item?id=46577462</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-11T17:05:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI revolution is here. Will the economy survive the transition?",
+          "link": "https://post.substack.com/p/the-ai-revolution-is-here-will-the",
+          "summary": "<p>Article URL: <a href=\"https://post.substack.com/p/the-ai-revolution-is-here-will-the\">https://post.substack.com/p/the-ai-revolution-is-here-will-the</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46577235\">https://news.ycombinator.com/item?id=46577235</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-11T16:42:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Slim \u2013 50% fewer tokens than JSON for LLM applications",
+          "link": "https://github.com/matteuccimarco/slim-protocol-core",
+          "summary": "<p>I built SLIM because JSON wastes tokens on repeated keys. Every object in an array repeats \"id\", \"name\", \"email\"...<p>SLIM defines the schema once, then just data rows:<p>JSON: {\"id\":1,\"name\":\"Alice\"},{\"id\":2,\"name\":\"Bob\"}\nSLIM: |id#,name$|1,Alice|2,Bob<p>Results: 50%+ token savings, still human-readable, LLMs understand it without parsing.<p>MIT licensed, zero dependencies, TypeScript.<p>Would love feedback from the HN community.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.",
+          "published": "2026-01-11T16:41:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How artificial intelligence is reshaping the future of war",
+          "link": "https://thehill.com/policy/defense/5683359-artificial-intelligence-future-war/",
+          "summary": "<p>Article URL: <a href=\"https://thehill.com/policy/defense/5683359-artificial-intelligence-future-war/\">https://thehill.com/policy/defense/5683359-artificial-intelligence-future-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46576968\">https://news.ycombinator.com/item?id=46576968</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-11T16:14:54"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "LLMs contain a LOT of parameters. But what\u2019s a parameter?",
+          "link": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. I am writing this because one of my editors woke up in the middle of the night and scribbled on a bedside notepad: \u201cWhat is a&#8230;",
+          "published": "2026-01-07T11:23:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why AI predictions are so hard",
+          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
+          "published": "2026-01-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What\u2019s next for AI in 2026",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
+          "published": "2026-01-05T11:04:46"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+          "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+          "summary": "New feature will allow users to link medical and wellness records to AI chatbot.",
+          "published": "2026-01-08T18:00:52"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+          "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+          "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+          "published": "2026-01-08T14:00:07"
+        }
+      ]
+    },
+    {
       "date": "2026-01-10",
       "top_features": [
         {
