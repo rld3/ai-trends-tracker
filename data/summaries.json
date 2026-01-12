@@ -1,6 +1,94 @@
 {
   "summaries": [
     {
+      "date": "2026-01-12",
+      "top_features": [
+        {
+          "company": "Apple/Google",
+          "feature": "Apple selects Google's Gemini AI to power major Siri upgrade with enhanced personalization capabilities"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Health feature allows users to connect medical records directly to the AI chatbot for health-related queries"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news highlights major partnerships and product integrations, with Apple choosing Google's Gemini for Siri improvements and OpenAI expanding into healthcare with ChatGPT Health. MIT Tech Review also released their breakthrough AI technologies for 2026, emphasizing hyperscale data centers, AI companions, and generative coding as key developments.",
+      "raw_articles": [
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI in SolidWorks",
+          "link": "https://www.trylad.com",
+          "summary": "<p>Hey HN! We\u2019re Will and Jorge, and we\u2019ve built LAD (Language-Aided Design), a SolidWorks add-in that uses LLMs to create sketches, features, assemblies, and macros from conversational inputs (<a href=\"https://www.trylad.com/\" rel=\"nofollow\">https://www.trylad.com/</a>).<p>We come from software engineering backgrounds where tools like Claude Code and Cursor have come to dominate, but when poking around CAD systems a few months back we realized there's no way to go from a text prompt input to a ",
+          "published": "2026-01-12T16:56:17"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I spent my winter break teaching an LLM to play Diplomacy with RL",
+          "link": "https://www.benglickenhaus.com/blog/diplomacy_rl_part_1",
+          "summary": "<p>Article URL: <a href=\"https://www.benglickenhaus.com/blog/diplomacy_rl_part_1\">https://www.benglickenhaus.com/blog/diplomacy_rl_part_1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590949\">https://news.ycombinator.com/item?id=46590949</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-12T16:45:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Apple picks Google's Gemini AI for its big Siri upgrade",
+          "link": "https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization",
+          "summary": "<p>Article URL: <a href=\"https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization\">https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590881\">https://news.ycombinator.com/item?id=46590881</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-12T16:41:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Pi Monorepo: AI agent toolkit",
+          "link": "https://github.com/badlogic/pi-mono",
+          "summary": "<p>Article URL: <a href=\"https://github.com/badlogic/pi-mono\">https://github.com/badlogic/pi-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590828\">https://news.ycombinator.com/item?id=46590828</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-12T16:38:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Kavia AI now supports Bitbucket (agent-driven code analysis and regression diff)",
+          "link": "https://www.youtube.com/watch?v=r3la8vo_G0E",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=r3la8vo_G0E\">https://www.youtube.com/watch?v=r3la8vo_G0E</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46590780\">https://news.ycombinator.com/item?id=46590780</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-12T16:35:39"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Meet the new biologists treating LLMs like aliens",
+          "link": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+          "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there\u2019s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it\u2014every block and intersection, every neighborhood and park, as far as you can see\u2014covered in sheets of paper. Now&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+          "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infrastructure: supercomputers designed to train and run large language models at mind-\u00adbending scale, complete with their own specialized chips, cooling systems, and even energy&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+          "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly what they can and can\u2019t do\u2014not even the people who build them. Weird, right? It\u2019s also a problem. Without a clear&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI companions: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+          "summary": "Chatbots are skilled at crafting sophisticated dialogue and mimicking empathetic behavior. They never get tired of chatting. It\u2019s no wonder, then, that so many people now use them for companionship\u2014forging friendships or even romantic relationships.&#160; According to a study from the nonprofit Common Sense Media, 72% of US teenagers have used AI for companionship. Although&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Generative coding: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+          "summary": "Generative AI\u2019s ability to write software code has quickly created one of the technology\u2019s first real use cases for business. Professional software engineers and novices alike are using AI coding assistants to produce, test, edit, and debug code, reducing the amount of time it takes to complete the often tedious steps required to finish projects.&#8230;",
+          "published": "2026-01-12T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-01-11",
       "top_features": [
         {
