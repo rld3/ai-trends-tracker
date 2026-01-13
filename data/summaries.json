@@ -1,6 +1,107 @@
 {
   "summaries": [
     {
+      "date": "2026-01-13",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Veo 3.1 video generation model with improved consistency, creativity and control, including vertical video support"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT Health feature allowing users to connect medical records to AI chatbot for health analysis"
+        },
+        {
+          "company": "Google",
+          "feature": "AI health summaries in Google search results (though some were removed due to dangerous inaccuracies)"
+        }
+      ],
+      "fintech_trends": [
+        "Universal Commerce Protocol by Google represents a new approach to digital commerce infrastructure, potentially disrupting traditional payment and transaction systems",
+        "Growing integration of AI in healthcare applications raises questions about financial liability and regulatory oversight in medical AI tools"
+      ],
+      "fundraising": [
+        {
+          "company": "Converge Bio",
+          "amount": "$25M",
+          "details": "Series A led by Bessemer Venture Partners for AI drug discovery startup, with backing from Meta, OpenAI, and Wiz executives"
+        }
+      ],
+      "summary": "Major AI developments today include Google's Veo 3.1 video generation breakthrough and OpenAI's controversial ChatGPT Health feature, while concerns grow about AI accuracy in critical applications like healthcare. The day also highlighted significant infrastructure investments in AI data centers and continued funding momentum in AI-powered biotech applications.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+          "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+          "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+          "published": "2026-01-13T11:30:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AxonFlow \u2013 a control plane for production LLM and agent workflows",
+          "link": "https://github.com/getaxonflow/axonflow",
+          "summary": "<p>Article URL: <a href=\"https://github.com/getaxonflow/axonflow\">https://github.com/getaxonflow/axonflow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46603800\">https://news.ycombinator.com/item?id=46603800</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-13T17:00:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The readiness of AI for management of complex space missions",
+          "link": "https://blog.satsearch.co/2026-01-13-the-readiness-of-ai-for-management-of-complex-space-missions-with-epsilon3",
+          "summary": "<p>Article URL: <a href=\"https://blog.satsearch.co/2026-01-13-the-readiness-of-ai-for-management-of-complex-space-missions-with-epsilon3\">https://blog.satsearch.co/2026-01-13-the-readiness-of-ai-for-management-of-complex-space-missions-with-epsilon3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46603693\">https://news.ycombinator.com/item?id=46603693</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-13T16:56:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Seagate Introduces 32TB Exos, SkyHawk AI, and IronWolf Pro Drives",
+          "link": "https://www.storagereview.com/news/seagate-introduces-32tb-exos-skyhawk-ai-and-ironwolf-pro-drives",
+          "summary": "<p>Article URL: <a href=\"https://www.storagereview.com/news/seagate-introduces-32tb-exos-skyhawk-ai-and-ironwolf-pro-drives\">https://www.storagereview.com/news/seagate-introduces-32tb-exos-skyhawk-ai-and-ironwolf-pro-drives</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46603567\">https://news.ycombinator.com/item?id=46603567</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-13T16:49:11"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Debug your AI application in web browser",
+          "link": "https://github.com/yiouli/pixie-sdk-py",
+          "summary": "<p>Hi HN,<p>I'm Bryan, an ex-big-tech engineer that's been tinkering with AI for the past two years. \nI made Pixie, an open-source project that allows you to debug your AI application interactively in the web browser, with just a few lines of setup.<p>## Why<p>I started this project because I find debugging my AI applications time-consuming and cumbersome. A lot of my projects are experimental, so it doesn\u2019t make sense for me to build the frontend just to test, or setup automated tests/evals. So",
+          "published": "2026-01-13T16:26:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "War Department Launches AI Acceleration Strategy to Secure AI Dominance",
+          "link": "https://www.war.gov/News/Releases/Release/Article/4376420/war-department-launches-ai-acceleration-strategy-to-secure-american-military-ai/",
+          "summary": "<p>Article URL: <a href=\"https://www.war.gov/News/Releases/Release/Article/4376420/war-department-launches-ai-acceleration-strategy-to-secure-american-military-ai/\">https://www.war.gov/News/Releases/Release/Article/4376420/war-department-launches-ai-acceleration-strategy-to-secure-american-military-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46603101\">https://news.ycombinator.com/item?id=46603101</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-13T16:22:22"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "CES showed me why Chinese tech companies feel so optimistic",
+          "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. I decided to go to CES kind of at the last minute. Over the holiday break, contacts from China kept messaging me about their travel plans. After the umpteenth \u201cSee you in&#8230;",
+          "published": "2026-01-12T17:01:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Meet the new biologists treating LLMs like aliens",
+          "link": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+          "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there\u2019s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it\u2014every block and intersection, every neighborhood and park, as far as you can see\u2014covered in sheets of paper. Now&#8230;",
+          "published": "2026-01-12T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-01-12",
       "top_features": [
         {
