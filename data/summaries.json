@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2026-01-14",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Veo 3.1 Ingredients to Video - Enhanced AI video generation with improved consistency, creativity, control, and vertical video support"
+        },
+        {
+          "company": "Google",
+          "feature": "Community Benchmarks on Kaggle - New platform for developers to benchmark AI models including Gemini"
+        },
+        {
+          "company": "Meta",
+          "feature": "Meta Compute - Major infrastructure initiative positioning Meta to compete in AI through computing infrastructure dominance"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Converge Bio",
+          "amount": "$25M",
+          "details": "Series A led by Bessemer Venture Partners for AI drug discovery, with backing from Meta, OpenAI, and Wiz executives"
+        }
+      ],
+      "summary": "Google dominated today's AI announcements with the launch of Veo 3.1's enhanced video generation capabilities and new Kaggle benchmarking tools, while Meta unveiled its Meta Compute infrastructure strategy to compete in the AI race. The day also highlighted growing concerns around AI security and energy consumption, with new tools emerging to scan AI models for vulnerabilities and Microsoft promising to cover full power costs for energy-hungry data centers.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+          "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+          "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+          "published": "2026-01-13T11:30:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The lethal trifecta for AI agents",
+          "link": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+          "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/\">https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46618532\">https://news.ycombinator.com/item?id=46618532</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-14T16:56:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Stop trusting torch.load() \u2013 I built a tool to scan AI models for RCE",
+          "link": "https://github.com/ArseniiBrazhnyk/Veritensor",
+          "summary": "<p>Article URL: <a href=\"https://github.com/ArseniiBrazhnyk/Veritensor\">https://github.com/ArseniiBrazhnyk/Veritensor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46618526\">https://news.ycombinator.com/item?id=46618526</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-14T16:56:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AIOStack \u2013 Using eBPF to Secure AI Services in Kubernetes",
+          "link": "https://aurva.io",
+          "summary": "<p>Hey HN! We built a tool that uses eBPF to discover AI services and their data flows in Kubernetes clusters.<p>Modern AI apps often follow this pattern:\n1. Service receives request\n2. Queries database (PostgreSQL/Redis/MongoDB)\n3. Sends data to LLM API (OpenAI/Anthropic/Bedrock)\n4. Consumes or returns the AI generated response<p>Security teams often don't know:\n- Which services are making AI calls\n- What databases they're accessing first\n- Whether PII is being sent to third-party APIs\n- What l",
+          "published": "2026-01-14T16:52:53"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Matthew McConaughey trademarks himself to fight AI misuse",
+          "link": "https://www.msn.com/en-in/entertainment/celebrities/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse/ar-AA1UaVvt",
+          "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-in/entertainment/celebrities/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse/ar-AA1UaVvt\">https://www.msn.com/en-in/entertainment/celebrities/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse/ar-AA1UaVvt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46618407\">https://news.ycombinator.com/item?id=46618407</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-14T16:48:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Hive: Engineering at the Speed of AI",
+          "link": "https://dust.tt/blog/engineering-at-the-speed-of-ai",
+          "summary": "<p>Article URL: <a href=\"https://dust.tt/blog/engineering-at-the-speed-of-ai\">https://dust.tt/blog/engineering-at-the-speed-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46618192\">https://news.ycombinator.com/item?id=46618192</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-14T16:34:45"
+        }
+      ]
+    },
+    {
       "date": "2026-01-13",
       "top_features": [
         {
