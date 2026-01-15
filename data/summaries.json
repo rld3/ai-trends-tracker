@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2026-01-15",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Veo 3.1 Ingredients to Video - Enhanced AI video generation with improved consistency, creativity and control, including vertical video support"
+        },
+        {
+          "company": "Google",
+          "feature": "Community Benchmarks on Kaggle - New platform feature allowing developers to benchmark AI models through community-driven testing"
+        },
+        {
+          "company": "Meta",
+          "feature": "Meta Compute announcement - Major infrastructure investment positioning Meta to compete directly with OpenAI through AI infrastructure dominance"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Converge Bio",
+          "amount": "$25M",
+          "details": "Series A led by Bessemer Venture Partners for AI drug discovery platform, with backing from Meta, OpenAI, and Wiz executives"
+        }
+      ],
+      "summary": "Google dominated AI announcements with major updates to Veo 3.1 video generation and new Kaggle benchmarking tools, while Meta pivoted heavily toward AI infrastructure with Meta Compute. The day highlighted growing enterprise AI adoption in education and creative industries, alongside continued investment in AI-powered biotech solutions.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+          "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+          "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+          "published": "2026-01-13T11:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "CES showed me why Chinese tech companies feel so optimistic",
+          "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. I decided to go to CES kind of at the last minute. Over the holiday break, contacts from China kept messaging me about their travel plans. After the umpteenth \u201cSee you in&#8230;",
+          "published": "2026-01-12T17:01:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Meet the new biologists treating LLMs like aliens",
+          "link": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+          "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there\u2019s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it\u2014every block and intersection, every neighborhood and park, as far as you can see\u2014covered in sheets of paper. Now&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+          "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infrastructure: supercomputers designed to train and run large language models at mind-\u00adbending scale, complete with their own specialized chips, cooling systems, and even energy&#8230;",
+          "published": "2026-01-12T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+          "link": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+          "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly what they can and can\u2019t do\u2014not even the people who build them. Weird, right? It\u2019s also a problem. Without a clear&#8230;",
+          "published": "2026-01-12T11:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-01-14",
       "top_features": [
         {
