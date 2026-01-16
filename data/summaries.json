@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2026-01-16",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Veo 3.1 Ingredients to Video - Enhanced AI video generation with improved consistency, creativity, and control, now supporting vertical video format"
+        },
+        {
+          "company": "Google",
+          "feature": "Community Benchmarks on Kaggle - New platform feature allowing developers to test and benchmark AI models including Gemini variants"
+        },
+        {
+          "company": "Meta",
+          "feature": "Meta Compute infrastructure investment - Major bet on AI infrastructure to compete with OpenAI, involving scaling back Reality Labs investments"
+        }
+      ],
+      "fintech_trends": [
+        "Legal sector AI risks are materializing with UK law firms facing consequences from AI-generated fake legal cases, highlighting the need for better AI validation in professional services",
+        "Enterprise AI integration challenges persist as companies struggle with 'AI PC' adoption and general AI implementation, with wavering interest noted across business sectors"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with major updates to its video generation capabilities through Veo 3.1 and new developer tools on Kaggle, while Meta announced significant infrastructure investments to compete in the AI race. The day also highlighted growing concerns about AI reliability in professional sectors, particularly legal services facing real consequences from AI-generated misinformation.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "How Nano Banana got its name",
+          "link": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+          "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas",
+          "published": "2026-01-15T16:06:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Fake cases, real consequences: The AI crisis facing UK law firms",
+          "link": "https://vinciworks.com/blog/fake-cases-real-consequences-the-ai-crisis-facing-uk-law-firms/",
+          "summary": "<p>Article URL: <a href=\"https://vinciworks.com/blog/fake-cases-real-consequences-the-ai-crisis-facing-uk-law-firms/\">https://vinciworks.com/blog/fake-cases-real-consequences-the-ai-crisis-facing-uk-law-firms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46648925\">https://news.ycombinator.com/item?id=46648925</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-16T17:17:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I'm giving LLM's and agents access to all of your favorite content",
+          "link": "https://scrollwise.ai",
+          "summary": "<p>I got tired of Claude being wicked smart but only being able to access out-of-date information that isn't super pertinent to my research. So I'm building a way to give everything from Claude Code to the base Opus models access to your favorite tweets, video transcripts, research articles and more.<p>This is a solid v0.1 for ScrollWise AI. I'll be working hard on PDF uploads, YouTube video transcript extraction and more coming up next. The ultimate goal is to make it work in a browser extensio",
+          "published": "2026-01-16T17:11:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI and Copyright Law",
+          "link": "https://www.sfchronicle.com/opinion/openforum/article/ai-copyright-research-law-21282101.php",
+          "summary": "<p>Article URL: <a href=\"https://www.sfchronicle.com/opinion/openforum/article/ai-copyright-research-law-21282101.php\">https://www.sfchronicle.com/opinion/openforum/article/ai-copyright-research-law-21282101.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46648824\">https://news.ycombinator.com/item?id=46648824</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-16T17:08:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: YC Advisor \u2013 AI grounded in 434 YC essays, interviews, and lectures",
+          "link": "https://www.agent37.com/yc",
+          "summary": "<p>I wanted startup advice that was actually grounded in real YC content, not generic ChatGPT responses. So I scraped and transcribed the YC Library and built an AI advisor on top of it.<p>What's in there:                                                                                             \n  - Paul Graham's essays                                                                                       \n  - YC founder interviews                                                                ",
+          "published": "2026-01-16T17:06:40"
+        }
+      ]
+    },
+    {
       "date": "2026-01-15",
       "top_features": [
         {
