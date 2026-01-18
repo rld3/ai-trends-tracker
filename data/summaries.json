@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2026-01-17",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Veo 3.1 video generation model with enhanced consistency, creativity and control, supporting vertical video generation"
+        },
+        {
+          "company": "Google",
+          "feature": "Community Benchmarks on Kaggle platform for developer AI model evaluation and testing"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Introduction of advertisements in ChatGPT free tier and new $8/month ChatGPT Go plan in the US"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Converge Bio",
+          "amount": "$25M",
+          "details": "Series A funding led by Bessemer Venture Partners for AI drug discovery startup, with backing from Meta, OpenAI, and Wiz executives"
+        }
+      ],
+      "summary": "Google dominated AI announcements with the launch of Veo 3.1 video generation capabilities and new Kaggle community benchmarks, while OpenAI moves toward monetization by testing ads in ChatGPT. The day also saw significant investment in AI healthcare applications with Converge Bio's $25M funding round for drug discovery.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "How Nano Banana got its name",
+          "link": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+          "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas",
+          "published": "2026-01-15T16:06:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+          "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+          "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+          "published": "2026-01-13T11:30:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI is speeding into healthcare. Who should regulate it?",
+          "link": "https://news.harvard.edu/gazette/story/2026/01/ai-is-speeding-into-healthcare-who-should-regulate-it/",
+          "summary": "<p>Article URL: <a href=\"https://news.harvard.edu/gazette/story/2026/01/ai-is-speeding-into-healthcare-who-should-regulate-it/\">https://news.harvard.edu/gazette/story/2026/01/ai-is-speeding-into-healthcare-who-should-regulate-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46659520\">https://news.ycombinator.com/item?id=46659520</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-17T16:50:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Will we forget what pre-LLM era looked like?",
+          "link": "https://invertedpassion.com/will-we-forget-what-pre-llm-era-looked-like/",
+          "summary": "<p>Article URL: <a href=\"https://invertedpassion.com/will-we-forget-what-pre-llm-era-looked-like/\">https://invertedpassion.com/will-we-forget-what-pre-llm-era-looked-like/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46659489\">https://news.ycombinator.com/item?id=46659489</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-17T16:47:11"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "World models could unlock the next revolution in artificial intelligence",
+          "link": "https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/",
+          "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/\">https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46659311\">https://news.ycombinator.com/item?id=46659311</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-17T16:27:34"
+        }
+      ]
+    },
+    {
       "date": "2026-01-16",
       "top_features": [
         {
