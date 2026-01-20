@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2026-01-19",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Veo 3.1 Ingredients to Video - Enhanced AI video generation with improved consistency, creativity and control, including vertical video support"
+        },
+        {
+          "company": "Google",
+          "feature": "Community Benchmarks on Kaggle - New platform for developers to test and benchmark AI models in a collaborative environment"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT advertising integration - Testing ads in ChatGPT free tier and new $8/month ChatGPT Go plan as company seeks revenue diversification"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Converge Bio",
+          "amount": "$25M",
+          "details": "Series A funding led by Bessemer Venture Partners for AI drug discovery platform, with backing from Meta, OpenAI, and Wiz executives"
+        }
+      ],
+      "summary": "Google dominated AI announcements with major updates to its Veo video generation platform and new Kaggle benchmarking tools, while OpenAI moves toward monetization by testing ads in ChatGPT. The day also highlighted growing enterprise AI infrastructure needs and the challenge of moving AI pilots into production.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "How Nano Banana got its name",
+          "link": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+          "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas",
+          "published": "2026-01-15T16:06:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+          "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed.",
+          "published": "2026-01-13T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+          "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+          "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging \u2014 and supports vertical video generation.",
+          "published": "2026-01-13T17:00:18"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+          "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+          "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+          "published": "2026-01-13T11:30:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Antigravity-usage \u2013 CLI to check your AI quota without opening your IDE",
+          "link": "https://github.com/skainguyen1412/antigravity-usage",
+          "summary": "<p>I built a simple, lightweight CLI to check Antigravity AI quotas. As you probably know, the official tool doesn't actually show your remaining limits or reset times, which makes it hard to manage your usage.<p>I developed this to add a few things I was missing:<p>1. No IDE needed: It has a \"Cloud Mode\" so you can check your status even when VS Code or JetBrains is closed.\n2. Auto-wakeup: Since the quota is \"use-it-or-lose-it\" every few hours, it can set up a system cron (macOS/Linux) to autom",
+          "published": "2026-01-19T16:58:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AskSary \u2013 All-in-One AI Platform with GPT-5.2, Grok, and Coding Canvas",
+          "link": "https://www.asksary.com",
+          "summary": "<p>Article URL: <a href=\"https://www.asksary.com\">https://www.asksary.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46681261\">https://news.ycombinator.com/item?id=46681261</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-19T16:53:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "GoCrazyAI \u2013 AI image and video generator",
+          "link": "https://news.ycombinator.com/item?id=46680960",
+          "summary": "<p>I\u2019m building an AI image & video generator.\nCurious how others here think about it.<p>For context: https://gocrazyai.com</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46680960\">https://news.ycombinator.com/item?id=46680960</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-19T16:35:23"
+        }
+      ]
+    },
+    {
       "date": "2026-01-17",
       "top_features": [
         {
