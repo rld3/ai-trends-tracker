@@ -1,6 +1,109 @@
 {
   "summaries": [
     {
+      "date": "2026-01-21",
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "Testing ads in ChatGPT with new $8/month ChatGPT Go plan in US as company burns through billions in costs"
+        },
+        {
+          "company": "Google",
+          "feature": "Launched Community Benchmarks on Kaggle allowing developers to evaluate AI models with community-driven testing standards"
+        },
+        {
+          "company": "Meta",
+          "feature": "Announced Meta Compute infrastructure initiative to compete with OpenAI, while retreating from Reality Labs investments"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "UK AI Scientists",
+          "amount": "Not specified",
+          "details": "UK government's ARIA agency provided additional funding to startups building AI scientists that can design and run lab experiments autonomously"
+        },
+        {
+          "company": "AI Infrastructure",
+          "amount": "$1.3 trillion by 2030",
+          "details": "Governments globally plan massive investment in sovereign AI infrastructure including domestic data centers and locally trained models"
+        }
+      ],
+      "summary": "Major AI companies are pivoting toward monetization and infrastructure investment, with OpenAI introducing ads to ChatGPT and Meta launching compute infrastructure initiatives. Meanwhile, governments are committing $1.3 trillion toward sovereign AI capabilities, while enterprises struggle with only 5% of AI pilots delivering measurable business value.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Building a community-led future for AI in film with Sundance Institute",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+          "summary": "Illustration of a cinematographer filming with a professional video camera mounted on a tripod, positioned next to a studio light and a film clapboard.",
+          "published": "2026-01-20T20:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Nano Banana got its name",
+          "link": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+          "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas",
+          "published": "2026-01-15T16:06:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Community Benchmarks on Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+          "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1",
+          "published": "2026-01-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Announcing the winner of the Global AI Film Award",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+          "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster.",
+          "published": "2026-01-14T10:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Genie AI Is Hiring a Founding Engineer/ CTO(AI Social Media Copywriting Systems)",
+          "link": "https://news.ycombinator.com/item?id=46708299",
+          "summary": "<p>Genie AI is an early-stage product that generates social media content using AI. We focus on multi-frame posts like carousels and threads, creating content that maintains structure, pacing, and brand voice rather than generic outputs.<p>This role is about designing the core AI system that powers copy generation. It is not an infra-only role, not a prompt-only role, and not about single-line captions. The work involves translating persuasion and human judgment into scalable AI systems.<p>The p",
+          "published": "2026-01-21T16:59:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Phases in my LLM use for programming",
+          "link": "https://www.asfaload.com/blog/ai_use/",
+          "summary": "<p>Article URL: <a href=\"https://www.asfaload.com/blog/ai_use/\">https://www.asfaload.com/blog/ai_use/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46708265\">https://news.ycombinator.com/item?id=46708265</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-21T16:56:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Study: Human brain processes language similarly to AI models",
+          "link": "https://www.afhu.org/2025/12/22/how-the-human-brain-understands-language-may-be-more-like-ai-than-we-ever-imagined/",
+          "summary": "<p>Article URL: <a href=\"https://www.afhu.org/2025/12/22/how-the-human-brain-understands-language-may-be-more-like-ai-than-we-ever-imagined/\">https://www.afhu.org/2025/12/22/how-the-human-brain-understands-language-may-be-more-like-ai-than-we-ever-imagined/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46708184\">https://news.ycombinator.com/item?id=46708184</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-21T16:50:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Self-hosted AI data workflow: DB and Ollama and SQL",
+          "link": "https://exasol.github.io/developer-documentation/main/gen_ai/ai_text_summary/index.html",
+          "summary": "<p>Article URL: <a href=\"https://exasol.github.io/developer-documentation/main/gen_ai/ai_text_summary/index.html\">https://exasol.github.io/developer-documentation/main/gen_ai/ai_text_summary/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46708002\">https://news.ycombinator.com/item?id=46708002</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-21T16:36:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI future will be nothing like present",
+          "link": "https://distantprovince.by/posts/ai-future-will-be-nothing-like-present/",
+          "summary": "<p>Article URL: <a href=\"https://distantprovince.by/posts/ai-future-will-be-nothing-like-present/\">https://distantprovince.by/posts/ai-future-will-be-nothing-like-present/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46707873\">https://news.ycombinator.com/item?id=46707873</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-21T16:26:57"
+        }
+      ]
+    },
+    {
       "date": "2026-01-20",
       "top_features": [
         {
