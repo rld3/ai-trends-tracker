@@ -1,6 +1,107 @@
 {
   "summaries": [
     {
+      "date": "2026-01-22",
+      "top_features": [
+        {
+          "company": "Google AI",
+          "feature": "Personal Intelligence in AI Mode for Search - personalized AI search experience that addresses users by name and provides uniquely tailored assistance"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "D4RT (4D Reconstruction and Tracking) - AI system that can see and understand the world in four dimensions, up to 300x faster than previous methods"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Ads integration in ChatGPT - testing advertisements in free tier and new $8/month ChatGPT Go plan as the company seeks new revenue streams"
+        }
+      ],
+      "fintech_trends": [
+        "AI monetization challenges - developers are struggling with pricing models, cost calculation, and usage prediction for AI products, indicating maturation pressures in the AI market",
+        "Enterprise AI agent adoption - AI agents are moving beyond basic chatbots into core business operations including lead generation and supply chain management, with promising ROI but requiring careful data governance"
+      ],
+      "fundraising": [
+        {
+          "company": "AI Scientists/Lab Automation Startups",
+          "amount": "Undisclosed",
+          "details": "UK government's ARIA agency provided additional funding to multiple startups building AI scientists that can design and run autonomous lab experiments"
+        }
+      ],
+      "summary": "Google dominated AI announcements with personalized search intelligence and breakthrough 4D vision capabilities, while OpenAI announced ads coming to ChatGPT amid financial pressures. The AI industry shows signs of maturation with growing focus on monetization strategies and enterprise agent deployment, though concerns about AI authenticity and creative rights continue to surface in developer communities.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\"",
+          "published": "2026-01-22T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Building a community-led future for AI in film with Sundance Institute",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+          "summary": "Illustration of a cinematographer filming with a professional video camera mounted on a tripod, positioned next to a studio light and a film clapboard.",
+          "published": "2026-01-20T20:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Nano Banana got its name",
+          "link": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+          "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas",
+          "published": "2026-01-15T16:06:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+          "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+          "summary": "Teacher using a computer with students",
+          "published": "2026-01-15T11:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "D4RT: Teaching AI to see the world in four dimensions",
+          "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+          "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+          "published": "2026-01-16T10:39:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I'm tired of my LLM bullshitting. So I fixed it",
+          "link": "https://news.ycombinator.com/item?id=46721773",
+          "summary": "<p>As a handsome local AI enjoyer\u2122 you\u2019ve probably noticed one of the big flaws with LLMs:<p>It lies. Confidently. <i>ALL THE TIME.</i><p>I\u2019m autistic and extremely allergic to vibes-based tooling, so \u2026 I built a thing. Maybe it\u2019s useful to you too.<p>The thing: llama-conductor<p>llama-conductor is a router that sits between your <i>frontend</i> (eg: OWUI) & <i>backend</i> (llama.cpp + llama-swap). Local-first but it should talk to anything OpenAI-compatible if you point it there (note: experime",
+          "published": "2026-01-22T16:50:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Humanizer: A Claude Code skill that removes signs of AI-generated writing",
+          "link": "https://github.com/blader/humanizer",
+          "summary": "<p>Article URL: <a href=\"https://github.com/blader/humanizer\">https://github.com/blader/humanizer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46721568\">https://news.ycombinator.com/item?id=46721568</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-01-22T16:36:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How do you think about pricing and monetization for your AI product?",
+          "link": "https://news.ycombinator.com/item?id=46721426",
+          "summary": "<p>how do you calculate costs, predict usage, set limits on users, etc.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46721426\">https://news.ycombinator.com/item?id=46721426</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-22T16:27:44"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Quiz Genius \u2013 AI Flashcards",
+          "link": "https://quizgenius.app/en/",
+          "summary": "<p>Article URL: <a href=\"https://quizgenius.app/en/\">https://quizgenius.app/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46721396\">https://news.ycombinator.com/item?id=46721396</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-22T16:25:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Stealing Isn't Innovation \u2013 America's creative community message against AI",
+          "link": "https://www.stealingisntinnovation.com",
+          "summary": "<p>Article URL: <a href=\"https://www.stealingisntinnovation.com\">https://www.stealingisntinnovation.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46721388\">https://news.ycombinator.com/item?id=46721388</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-22T16:24:57"
+        }
+      ]
+    },
+    {
       "date": "2026-01-21",
       "top_features": [
         {
