@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2026-01-23",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Personal Intelligence in AI Mode for Search - personalized AI search assistance with 'Hi [name], what's on your mind?' interface"
+        },
+        {
+          "company": "DeepMind",
+          "feature": "D4RT - unified 4D reconstruction and tracking system that's up to 300x faster than previous methods for AI spatial understanding"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Ads coming to ChatGPT - monetization strategy for the platform used by 230 million people for various queries including medical information"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are being regulated by major platforms like eBay, which now requires permission for 'buy for me' AI tools and automated shopping bots, indicating growing concern over AI-driven commerce automation",
+        "Healthcare AI is evolving beyond 'Dr. Google' as 230 million people now use LLMs like ChatGPT for medical information seeking, potentially disrupting traditional health information services"
+      ],
+      "fundraising": [],
+      "summary": "Major developments include Google's personalized AI search, DeepMind's breakthrough 4D tracking technology, and OpenAI's move toward ad monetization. Meanwhile, industry debates intensify around AI regulation, with platforms like eBay restricting AI agents and concerns growing about AI's impact on jobs and sovereignty.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\"",
+          "published": "2026-01-22T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Building a community-led future for AI in film with Sundance Institute",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+          "summary": "Illustration of a cinematographer filming with a professional video camera mounted on a tripod, positioned next to a studio light and a film clapboard.",
+          "published": "2026-01-20T20:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "D4RT: Teaching AI to see the world in four dimensions",
+          "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+          "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+          "published": "2026-01-16T10:39:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "America\u2019s coming war over AI regulation",
+          "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In the final weeks of 2025, the battle over regulating artificial intelligence in the US reached a boiling point. On December 11, after Congress failed twice&#8230;",
+          "published": "2026-01-23T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "\u201cDr. Google\u201d had its issues. Can ChatGPT Health do better?",
+          "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
+          "summary": "For the past two decades, there\u2019s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice was so common that it gained the pejorative moniker \u201cDr. Google.\u201d But times are changing, and many medical-information seekers are now using LLMs. According to OpenAI, 230 million people ask&#8230;",
+          "published": "2026-01-22T17:38:09"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Yann LeCun\u2019s new venture is a contrarian bet against large language models",
+          "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+          "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry\u2019s current obsession with large language models is wrong-headed and will ultimately fail to solve many pressing problems.&#160; Instead, he thinks we should be betting on world&#8230;",
+          "published": "2026-01-22T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Rethinking AI\u2019s future in an augmented workplace",
+          "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
+          "summary": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and misallocated capital. On the other end, it\u2019s cast as a dystopian force, destined to eliminate jobs on a large scale and destabilize economies. Markets oscillate between skepticism and&#8230;",
+          "published": "2026-01-21T15:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Everyone wants AI sovereignty. No one can truly have it.",
+          "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
+          "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds include financing for domestic data centers, locally trained models, independent supply chains, and national talent pipelines. This is a response to real&#8230;",
+          "published": "2026-01-21T14:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+          "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+          "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
+          "published": "2026-01-22T22:46:30"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+          "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+          "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform.",
+          "published": "2026-01-22T15:56:33"
+        }
+      ]
+    },
+    {
       "date": "2026-01-22",
       "top_features": [
         {
