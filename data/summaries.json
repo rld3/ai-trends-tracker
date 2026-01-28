@@ -1,6 +1,98 @@
 {
   "summaries": [
     {
+      "date": "2026-01-27",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Personal Intelligence in AI Mode for Search - personalized AI search experience that provides help uniquely tailored to individual users"
+        },
+        {
+          "company": "Google",
+          "feature": "AI-powered animation collaboration showcased in 'Dear Upstairs Neighbors' - demonstrating AI tools for creative filmmaking"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Detailed technical specifications released for AI coding agent (Codex) - providing transparency into how their autonomous coding system operates"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "summary": "Today's AI news was dominated by Google's push into personalized AI search and creative applications, while Pinterest announced significant layoffs to redirect resources toward AI initiatives. The industry continues to grapple with practical challenges like AI-generated spam overwhelming bug bounty programs and the growing need for age verification in AI chatbots.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "How animators and AI researchers made \u2018Dear Upstairs Neighbors\u2019",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+          "summary": "A movie poster for a film titled \u201cDear Upstairs Neighbors\u201d, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes",
+          "published": "2026-01-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\"",
+          "published": "2026-01-22T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Building a community-led future for AI in film with Sundance Institute",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+          "summary": "Illustration of a cinematographer filming with a professional video camera mounted on a tripod, positioned next to a studio light and a film clapboard.",
+          "published": "2026-01-20T20:30:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: promptmeter \u2013 LLM powered terminal load testing via prompts",
+          "link": "https://github.com/onurkanbakirci/prompmeter",
+          "summary": "<p>Article URL: <a href=\"https://github.com/onurkanbakirci/prompmeter\">https://github.com/onurkanbakirci/prompmeter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46782638\">https://news.ycombinator.com/item?id=46782638</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-27T16:55:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Kalibr \u2013 Autonomous Routing for AI Agents",
+          "link": "https://news.ycombinator.com/item?id=46782579",
+          "summary": "<p>Hey HN, we\u2019re Devon and Alex from Kalibr (<a href=\"https://kalibr.systems\" rel=\"nofollow\">https://kalibr.systems</a>).<p>Kalibr is an autonomous routing system for AI agents. It replaces human debugging with an outcome-driven learning loop. On every agent run, it decides which execution path to use based on what is actually working in production.<p>An execution path is a full strategy, not just a model: model + tools + parameters.<p>Most agents hardcode one path. When that path degrades or fa",
+          "published": "2026-01-27T16:51:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Pinterest to lay off 15% of staff to redirect resources to AI",
+          "link": "https://techcrunch.com/2026/01/27/pinterest-to-lay-off-15-of-staff-to-redirect-resources-to-ai/",
+          "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/27/pinterest-to-lay-off-15-of-staff-to-redirect-resources-to-ai/\">https://techcrunch.com/2026/01/27/pinterest-to-lay-off-15-of-staff-to-redirect-resources-to-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46782559\">https://news.ycombinator.com/item?id=46782559</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-27T16:49:39"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+          "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+          "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl\">https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46782482\">https://news.ycombinator.com/item?id=46782482</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-27T16:45:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Training an AI on my own writing so the computers can replace me",
+          "link": "https://satyrs.eu/garden/2025/xainthe",
+          "summary": "<p>Article URL: <a href=\"https://satyrs.eu/garden/2025/xainthe\">https://satyrs.eu/garden/2025/xainthe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46782354\">https://news.ycombinator.com/item?id=46782354</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-27T16:39:20"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Inside OpenAI\u2019s big play for science",
+          "link": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+          "summary": "In the three years since ChatGPT\u2019s explosive debut, OpenAI\u2019s technology has upended a remarkable range of everyday activities at home, at work, in schools\u2014anywhere people have a browser open or a phone out, which is everywhere. Now OpenAI is making an explicit play for scientists. In October, the firm announced that it had launched a&#8230;",
+          "published": "2026-01-26T18:32:15"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why chatbots are starting to check your age",
+          "link": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. How do tech companies check if their users are kids? This question has taken on new urgency recently thanks to growing concern about the dangers that can arise when children talk to&#8230;",
+          "published": "2026-01-26T17:05:00"
+        }
+      ]
+    },
+    {
       "date": "2026-01-26",
       "top_features": [
         {
