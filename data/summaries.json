@@ -1,6 +1,100 @@
 {
   "summaries": [
     {
+      "date": "2026-01-28",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Google AI Plus expanded to 35 new countries including the US, now available everywhere Google AI plans are offered"
+        },
+        {
+          "company": "Google",
+          "feature": "Personal Intelligence in AI Mode for Search - personalized AI assistance drawing from Gmail, photos, search, and YouTube histories"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Prism - free LLM-powered tool for scientists that embeds ChatGPT in a text editor for writing scientific papers"
+        }
+      ],
+      "fintech_trends": [
+        "Prediction markets gaining traction as demonstrated by Kalshi's growth, representing a new intersection of AI-powered analytics and financial betting platforms"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated today's AI news with major expansions of AI Plus globally and new personalized search capabilities, while OpenAI made a strategic push into the scientific research market with its new Prism tool. The day also highlighted growing concerns about AI security risks and the challenge of managing AI-generated spam across platforms.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+          "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.",
+          "published": "2026-01-27T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Just ask anything: a seamless new Search experience",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+          "summary": "A centered, elongated oval shape resembling a search bar with the text \"Ask anything\" inside it.",
+          "published": "2026-01-27T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "In our latest podcast, hear how the \u201cSmokejumpers\u201d team brings Gemini to billions of people.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp\" />The latest episode of the Google AI: Release Notes podcast focuses on how the Gemini team built one of the world\u2019s leading AI coding models.Host Logan Kilpatrick chats w\u2026",
+          "published": "2026-01-27T10:28:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How animators and AI researchers made \u2018Dear Upstairs Neighbors\u2019",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+          "summary": "A movie poster for a film titled \u201cDear Upstairs Neighbors\u201d, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes",
+          "published": "2026-01-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\"",
+          "published": "2026-01-22T16:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Agent Hallucinations: Causes, Types, and How to Prevent Tool Errors",
+          "link": "https://manveerc.substack.com/p/ai-agent-hallucinations-prevention",
+          "summary": "<p>Article URL: <a href=\"https://manveerc.substack.com/p/ai-agent-hallucinations-prevention\">https://manveerc.substack.com/p/ai-agent-hallucinations-prevention</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46798053\">https://news.ycombinator.com/item?id=46798053</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-28T16:59:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI First Designer School",
+          "link": "https://www.skool.com/ai-design/about",
+          "summary": "<p>Article URL: <a href=\"https://www.skool.com/ai-design/about\">https://www.skool.com/ai-design/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797858\">https://news.ycombinator.com/item?id=46797858</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-28T16:48:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "My Take on AI Coding",
+          "link": "https://quickchat.ai/post/my-take-on-ai-coding",
+          "summary": "<p>Article URL: <a href=\"https://quickchat.ai/post/my-take-on-ai-coding\">https://quickchat.ai/post/my-take-on-ai-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797695\">https://news.ycombinator.com/item?id=46797695</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-28T16:38:33"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Moltbot-safe: a minimal, permissioned, sandboxed execution engine for AI agents",
+          "link": "https://github.com/titanicprime/moltbot-safe",
+          "summary": "<p>Article URL: <a href=\"https://github.com/titanicprime/moltbot-safe\">https://github.com/titanicprime/moltbot-safe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797377\">https://news.ycombinator.com/item?id=46797377</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-28T16:20:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Software as Props for Social Media Creators",
+          "link": "https://seanthielen.substack.com/p/ai-software-as-props-for-social-media",
+          "summary": "<p>Article URL: <a href=\"https://seanthielen.substack.com/p/ai-software-as-props-for-social-media\">https://seanthielen.substack.com/p/ai-software-as-props-for-social-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797360\">https://news.ycombinator.com/item?id=46797360</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-28T16:19:29"
+        }
+      ]
+    },
+    {
       "date": "2026-01-27",
       "top_features": [
         {
