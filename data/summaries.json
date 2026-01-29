@@ -1,6 +1,102 @@
 {
   "summaries": [
     {
+      "date": "2026-01-29",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Google AI Plus expanded to 35 new countries including the US, now available everywhere Google AI plans are offered"
+        },
+        {
+          "company": "Google",
+          "feature": "Personal Intelligence in AI Mode for Search - personalized AI interactions drawing from Gmail, photos, search, and YouTube histories"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Prism - a free LLM-powered scientific writing tool that embeds ChatGPT in a text editor for research papers"
+        }
+      ],
+      "fintech_trends": [
+        "AI-assisted development is gaining traction in fintech companies like Block, indicating broader adoption of AI tools in financial services development workflows",
+        "Privacy concerns around AI memory and personalization are becoming critical as AI systems remember user preferences and financial data interactions",
+        "Prediction markets are emerging as a significant AI-adjacent trend, with platforms like Kalshi demonstrating the intersection of AI-driven insights and financial forecasting"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with major expansions of AI Plus globally and new personalized search features, while OpenAI launched Prism for scientific writing. The day highlighted growing concerns about AI consciousness, privacy, and security as AI systems become more integrated into daily workflows.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+          "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.",
+          "published": "2026-01-27T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Just ask anything: a seamless new Search experience",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+          "summary": "A centered, elongated oval shape resembling a search bar with the text \"Ask anything\" inside it.",
+          "published": "2026-01-27T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "In our latest podcast, hear how the \u201cSmokejumpers\u201d team brings Gemini to billions of people.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp\" />The latest episode of the Google AI: Release Notes podcast focuses on how the Gemini team built one of the world\u2019s leading AI coding models.Host Logan Kilpatrick chats w\u2026",
+          "published": "2026-01-27T10:28:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How animators and AI researchers made \u2018Dear Upstairs Neighbors\u2019",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+          "summary": "A movie poster for a film titled \u201cDear Upstairs Neighbors\u201d, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes",
+          "published": "2026-01-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\"",
+          "published": "2026-01-22T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+          "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+          "published": "2026-01-29T17:01:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI-Assisted Development at Block",
+          "link": "https://engineering.block.xyz/blog/ai-assisted-development-at-block",
+          "summary": "<p>Article URL: <a href=\"https://engineering.block.xyz/blog/ai-assisted-development-at-block\">https://engineering.block.xyz/blog/ai-assisted-development-at-block</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812893\">https://news.ycombinator.com/item?id=46812893</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-01-29T17:00:44"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic",
+          "link": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+          "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html\">https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812653\">https://news.ycombinator.com/item?id=46812653</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+          "published": "2026-01-29T16:46:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Our command line tool to transpile AI Inference from Python to C++",
+          "link": "https://github.com/muna-ai/muna-py",
+          "summary": "<p>Hey all! We're a small (semi-stealth) team that's been working on a tool to rewrite AI inference code from Python to C++ (similar to llama.cpp, whisper.cpp, and so on). Today, we're launching `muna transpile`.<p>It takes a Python function and generates a self-contained, header-only C++ library and a corresponding CMakeLists.txt file. It pulls in required libraries automatically (e.g. llama.cpp, onnxruntime, mlx, and so on). You can then use it to build and ship an application or library.<p>Tr",
+          "published": "2026-01-29T16:39:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Measuring runtime strain in autonomous AI systems",
+          "link": "https://github.com/willshacklett/gvai-safety-systems",
+          "summary": "<p>This is a small runtime safety primitive I\u2019ve been working on.<p>It computes a bounded \u201cGV\u201d signal from live agent behavior (token velocity, tool calls, errors, recursion, repetition) and emits:\ngreen / yellow / red \u2192 continue / slow / halt.<p>The goal is runtime survivability rather than training-time alignment.\nNo model introspection, deterministic scoring, and designed to be embedded directly into agent loops.<p>There\u2019s a short demo script in the repo that simulates an agent going unstable",
+          "published": "2026-01-29T16:39:07"
+        }
+      ]
+    },
+    {
       "date": "2026-01-28",
       "top_features": [
         {
