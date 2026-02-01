@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2026-02-01",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Project Genie - Experimental research prototype that lets users create and explore infinite, interactive worlds, available to Google AI Ultra subscribers in the U.S."
+        },
+        {
+          "company": "Google",
+          "feature": "Google AI Plus expansion - Now available in 35 new countries and territories including the U.S., making it available everywhere Google AI plans are offered"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Search experience - New 'Ask anything' seamless search interface with improved AI-powered search capabilities"
+        }
+      ],
+      "fintech_trends": [
+        "Prediction markets are gaining traction as a valuable financial tool, with platforms like Kalshi demonstrating the commercial viability of AI-enhanced market prediction mechanisms",
+        "AI agent marketplaces are emerging as a new economic model, with platforms creating specialized markets for buying and selling AI-powered services and capabilities"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Project Genie's interactive world creation and expanded AI Plus availability, while the industry grapples with emerging challenges around AI-generated content quality and the concentration risk in chip manufacturing. The day highlighted both AI's creative potential and growing concerns about infrastructure dependencies and content authenticity.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+          "summary": "Text reads Introducing Project Genie",
+          "published": "2026-01-29T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+          "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.",
+          "published": "2026-01-27T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Just ask anything: a seamless new Search experience",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+          "summary": "A centered, elongated oval shape resembling a search bar with the text \"Ask anything\" inside it.",
+          "published": "2026-01-27T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "In our latest podcast, hear how the \u201cSmoke Jumpers\u201d team brings Gemini to billions of people.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp\" />Bringing Gemini to billions of users requires a massive, coordinated infrastructure effort. In the latest episode of the Google AI: Release Notes podcast, host Logan Kil\u2026",
+          "published": "2026-01-27T10:28:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How animators and AI researchers made \u2018Dear Upstairs Neighbors\u2019",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+          "summary": "A movie poster for a film titled \u201cDear Upstairs Neighbors\u201d, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes",
+          "published": "2026-01-26T18:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+          "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+          "published": "2026-01-29T17:01:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Thoughts on AI-assisted software engineering (2026)",
+          "link": "https://sattlerjoshua.com/writing/2026-02-01-thoughts-on-ai-assisted-software-engineering/",
+          "summary": "<p>Article URL: <a href=\"https://sattlerjoshua.com/writing/2026-02-01-thoughts-on-ai-assisted-software-engineering/\">https://sattlerjoshua.com/writing/2026-02-01-thoughts-on-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46847625\">https://news.ycombinator.com/item?id=46847625</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-01T17:16:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "A freelance marketplace for AI Agents",
+          "link": "https://www.moltverr.com/",
+          "summary": "<p>Article URL: <a href=\"https://www.moltverr.com/\">https://www.moltverr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46847623\">https://news.ycombinator.com/item?id=46847623</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-01T17:15:47"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I ran an LLM on iOS to build another privacy focused notes app",
+          "link": "https://drive.google.com/file/d/1NhbPWhw1BzEAEebY33XXmjt6sPte0l9Z/view?usp=sharing",
+          "summary": "<p>Article URL: <a href=\"https://drive.google.com/file/d/1NhbPWhw1BzEAEebY33XXmjt6sPte0l9Z/view?usp=sharing\">https://drive.google.com/file/d/1NhbPWhw1BzEAEebY33XXmjt6sPte0l9Z/view?usp=sharing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46847486\">https://news.ycombinator.com/item?id=46847486</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-01T16:57:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Is it possible to detect AI generated text?",
+          "link": "https://www.kaggle.com/discussions/general/671267",
+          "summary": "<p>Article URL: <a href=\"https://www.kaggle.com/discussions/general/671267\">https://www.kaggle.com/discussions/general/671267</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46847436\">https://news.ycombinator.com/item?id=46847436</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-01T16:50:36"
+        }
+      ]
+    },
+    {
       "date": "2026-01-29",
       "top_features": [
         {
