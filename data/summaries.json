@@ -1,6 +1,104 @@
 {
   "summaries": [
     {
+      "date": "2026-02-05",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Project Genie - experimental research prototype allowing users to create and explore infinite, interactive worlds, available to Google AI Ultra subscribers in the U.S."
+        },
+        {
+          "company": "Google",
+          "feature": "Game Arena - advancing AI benchmarking through interactive gaming environments for model evaluation"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Ad-free chatbot positioning - publicly commits to keeping AI chatbots advertisement-free, contrasting with competitors"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [
+        {
+          "company": "Nvidia/OpenAI",
+          "amount": "$100 billion",
+          "details": "Previously announced investment deal has reportedly fizzled out and vanished, shaking market confidence between the two AI giants"
+        }
+      ],
+      "summary": "Google dominated AI news with Project Genie's interactive world creation and new benchmarking tools, while a major $100 billion Nvidia-OpenAI investment deal apparently collapsed. The industry continues grappling with fundamental challenges around AI safety, deepfake regulation, and the growing arms race between AI bots and detection systems.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+          "published": "2026-02-02T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Advancing AI benchmarking with Game Arena",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+          "published": "2026-02-02T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+          "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+          "published": "2026-01-29T17:01:05"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "This is the most misunderstood graph in AI",
+          "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn\u2019t exhale until METR, an AI&#8230;",
+          "published": "2026-02-05T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "From guardrails to governance: A CEO\u2019s guide for securing agentic systems",
+          "link": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+          "summary": "The previous article in this series, \u201cRules fail at the prompt, succeed at the boundary,\u201d focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What do we do about agent risk? Across&#8230;",
+          "published": "2026-02-04T14:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "What we\u2019ve been getting wrong about AI\u2019s truth crisis",
+          "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about\u2014where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;",
+          "published": "2026-02-02T18:09:57"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The crucial first step for designing a successful enterprise AI system",
+          "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+          "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes\u2014but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Whether it\u2019s increasing CX productivity with Cisco, building a more&#8230;",
+          "published": "2026-02-02T14:20:29"
+        }
+      ]
+    },
+    {
       "date": "2026-02-04",
       "top_features": [
         {
