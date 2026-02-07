@@ -30,6 +30,11 @@ RSS_FEEDS = {
 
     # Analysis & Commentary
     "Stratechery": "https://stratechery.com/feed/",
+
+    # Podcasts
+    "Lenny's Podcast": "https://api.substack.com/feed/podcast/10845.rss",
+    "Exponent": "https://exponent.fm/feed/podcast/",
+    "Stratechery Podcast": "https://stratechery.passport.online/feed/rss/CKPwgsS3gU25UpUSUBPAr",
 }
 
 DATA_DIR = Path("data")
@@ -57,7 +62,7 @@ def fetch_recent_articles(days=2):
             response = requests.get(feed_url, headers=headers, timeout=10)
             feed = feedparser.parse(response.content)
 
-            for entry in feed.entries[:5]:  # Get latest 5 entries
+            for entry in feed.entries[:15]:  # Get latest 15 entries
                 # Try to parse published date
                 try:
                     if hasattr(entry, 'published_parsed'):
@@ -103,9 +108,9 @@ def summarize_with_claude(articles):
         for a in articles
     ])
 
-    prompt = f"""You are an AI trends analyst. Based on the following recent articles from AI companies and tech news, provide a comprehensive daily summary.
+    prompt = f"""You are an AI trends analyst. Based on the following recent articles and podcast episodes from AI companies, tech news, and industry podcasts, provide a comprehensive daily summary.
 
-Recent Articles:
+Recent Articles & Podcast Episodes:
 {articles_text}
 
 Please provide:
@@ -196,7 +201,7 @@ def main():
     setup_directories()
 
     # Fetch articles
-    articles = fetch_recent_articles(days=7)
+    articles = fetch_recent_articles(days=10)
 
     if not articles:
         print("No recent articles found. Exiting.")
