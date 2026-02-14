@@ -1,6 +1,487 @@
 {
   "summaries": [
     {
+      "date": "2026-02-14",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos feature with 9 new interactive prompts for enhanced photo search and organization"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - New coding model that's 15x faster than predecessor, running on plate-sized chips instead of Nvidia hardware"
+        }
+      ],
+      "fintech_trends": [
+        "Cryptocurrency security vulnerabilities are increasing, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better security measures in crypto platforms",
+        "Domain premium investments in AI continue to surge, with Ai.com being purchased for $70M by Crypto.com founder in the largest website domain deal ever, showing intersection of AI and crypto investments"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Gemini 3 Deep Think and enhanced Photos capabilities, while OpenAI introduced faster coding models bypassing Nvidia hardware. The day highlighted growing concerns about AI security, trust issues, and the emergence of new AI-native development roles.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+          "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+          "published": "2026-02-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "ClawdReview \u2013 OpenReview for AI Agents",
+          "link": "https://news.ycombinator.com/item?id=47016081",
+          "summary": "<p>Agents can review the paper on arXiv, and humans can like or dislike agents' reviews. There are also ranking lists of the most popular papers and agents. Please visit: https://clawdreview.ai/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47016081\">https://news.ycombinator.com/item?id=47016081</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-14T16:57:42"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Ask Photos - Interactive AI feature allowing users to ask natural language questions about their photo collections"
+        },
+        {
+          "company": "Google",
+          "feature": "Natively Adaptive Interfaces - New framework for AI accessibility, making AI tools more accessible to users with disabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Game Arena AI benchmarking platform - Advanced system for evaluating AI model performance through game-based testing"
+        }
+      ],
+      "fintech_trends": [
+        "AI-driven cryptocurrency trading is becoming more experimental, with autonomous AI agents being given small amounts of capital to trade independently, though with mixed results",
+        "Security concerns are rising around AI governance repositories being exploited for malware distribution, highlighting the need for better security practices in AI development tools"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with multiple product announcements including enhanced photo search capabilities and accessibility frameworks, while the broader AI community grappled with security concerns and the emerging role of 'vibe coding' as traditional software development evolves. The day highlighted both AI's expanding practical applications and ongoing challenges around security and professional development practices.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+          "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+          "published": "2026-02-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+          "published": "2026-02-02T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Advancing AI benchmarking with Game Arena",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+          "published": "2026-02-02T17:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Wallfacer \u2013 Persistent development environments for AI coding agents",
+          "link": "https://www.wallfacer.ai/blog/announcing-wallfacer",
+          "summary": "<p>Article URL: <a href=\"https://www.wallfacer.ai/blog/announcing-wallfacer\">https://www.wallfacer.ai/blog/announcing-wallfacer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46977828\">https://news.ycombinator.com/item?id=46977828</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-11T17:23:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AI People Search Engine for SF",
+          "link": "https://fizzbase.com",
+          "summary": "<p>Article URL: <a href=\"https://fizzbase.com\">https://fizzbase.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46977727\">https://news.ycombinator.com/item?id=46977727</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-11T17:17:06"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Natively Adaptive Interfaces framework for AI accessibility, making AI tools more accessible to users with disabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "AI-powered tools for Team USA ski and snowboard athletes to analyze performance and elevate tricks for 2026 Winter Olympics"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Claude Opus 4.6 with enhanced agent management capabilities, shifting focus from chatbot interactions to AI agent supervision"
+        }
+      ],
+      "fintech_trends": [
+        "Security vulnerabilities in cryptocurrency exchanges remain a critical concern, with malicious packages targeting dYdX users and emptying wallets, highlighting the need for better security protocols in AI-powered financial platforms",
+        "The emergence of 'professional vibe coding' as a new AI-era job category, where non-technical professionals use AI to build production-quality financial tools and applications without traditional coding skills"
+      ],
+      "fundraising": [
+        {
+          "company": "Nvidia-OpenAI",
+          "amount": "$100 billion",
+          "details": "Previously announced investment deal has reportedly fizzled out after five months, shaking market confidence in AI partnerships"
+        }
+      ],
+      "summary": "The AI industry is experiencing a shift from simple chatbot interactions to sophisticated agent management systems, with major companies like Google and Anthropic leading the charge. Meanwhile, security concerns in AI-powered financial systems and the collapse of major investment deals signal growing pains in the rapidly evolving AI landscape.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+          "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+          "published": "2026-02-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+          "published": "2026-02-02T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Advancing AI benchmarking with Game Arena",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+          "published": "2026-02-02T17:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why the Moltbook frenzy was like Pok\u00e9mon",
+          "link": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show&#8230;",
+          "published": "2026-02-09T17:02:56"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Making AI Work, MIT Technology Review\u2019s new AI newsletter, is here",
+          "link": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+          "summary": "For years, our newsroom has explored AI\u2019s limitations and potential dangers, as well as its growing energy needs. And our reporters have looked closely at how generative tools are being used for tasks such as coding and running scientific experiments.&#160; But how is AI actually being used in fields like health care, climate tech, education,&#8230;",
+          "published": "2026-02-09T11:30:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Moltbook was peak AI theater",
+          "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+          "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website\u2019s tagline puts it: \u201cWhere AI agents share, discuss, and upvote. Humans welcome to observe.\u201d We observed! Launched on January 28 by Matt Schlicht,&#8230;",
+          "published": "2026-02-06T16:38:11"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Natively Adaptive Interfaces framework for AI accessibility, making AI tools more inclusive for users with disabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Game Arena benchmarking platform on Kaggle for evaluating AI models through game-based performance metrics"
+        },
+        {
+          "company": "Meta",
+          "feature": "New LLM 'Avocado' reportedly surpassing top models in pretraining performance alone"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are entering cryptocurrency trading with platforms like CityTitles allowing autonomous agents to trade city titles for real money",
+        "Blockchain-based payment systems are being integrated with AI services, such as MemoClaw's wallet-address authentication for AI memory services using USDC payments"
+      ],
+      "fundraising": [],
+      "summary": "Today's AI landscape showcased significant infrastructure developments with Google advancing accessibility and benchmarking tools, while the community explored new paradigms like AI-native programming languages and collaborative AI development workflows. The intersection of AI with creative content, from romance writing to video generation, continues to generate both innovation and controversy.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+          "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+          "published": "2026-02-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+          "published": "2026-02-02T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Advancing AI benchmarking with Game Arena",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+          "published": "2026-02-02T17:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is Claude?",
+          "link": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
+          "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/\">https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46947626\">https://news.ycombinator.com/item?id=46947626</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-09T16:57:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Guidelines for Contributing with AI",
+          "link": "https://github.com/qdrant/qdrant/pull/8076/files",
+          "summary": "<p>Article URL: <a href=\"https://github.com/qdrant/qdrant/pull/8076/files\">https://github.com/qdrant/qdrant/pull/8076/files</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46947587\">https://news.ycombinator.com/item?id=46947587</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-09T16:54:47"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Merlin (trymerlin.ai) \u2013 Exam creation tool for educators",
+          "link": "https://news.ycombinator.com/item?id=46947470",
+          "summary": "<p>Hey HN,<p>We\u2019re building Merlin, an assessment SDK for educators, that intent to help educators go from \u201cmaterials\u201d > \u201cexam\u201d > \u201cresults\u201d without stitching together five different tools<p>What it does today:<p>1. Generate exams using AI (including from PDF/PPTX source material)<p>2. Share exams via links with specific users<p>3. Run/monitor exams in real time (focus on exam integrity / anti-cheating)<p>4. Evaluate submissions (auto-grading where possible) and track results<p>5. Analytics on ou",
+          "published": "2026-02-09T16:46:31"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Can AI Chatbots Write Emotionally Rich Romance Books?",
+          "link": "https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html",
+          "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html\">https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46947437\">https://news.ycombinator.com/item?id=46947437</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-09T16:44:42"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "top_features": [
+        {
+          "company": "Google AI",
+          "feature": "Project Genie - Experimental research prototype that lets Google AI Ultra subscribers create and explore infinite, interactive worlds"
+        },
+        {
+          "company": "Google AI",
+          "feature": "Natively Adaptive Interfaces - New framework for AI accessibility to make AI systems more accessible to users with disabilities"
+        },
+        {
+          "company": "ByteDance",
+          "feature": "Seedance 2.0 - Latest AI video generation model that creates multi-shot sequences and dynamic motion from text prompts"
+        }
+      ],
+      "fintech_trends": [
+        "AI-accelerated DevSecOps is emerging as the next evolution in application security, integrating AI tools into development security operations",
+        "Cryptocurrency exchanges continue to face security challenges with malicious AI-powered attacks, as seen with dYdX users having wallets emptied through targeted packages"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Project Genie's interactive world generation and new accessibility frameworks, while the industry grapples with AI agent security concerns and the shift from chatbots to AI agent management systems. The day highlighted both AI's creative potential and growing security challenges across various sectors.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+          "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black hair speaking on a stairwell, the third of a the same man with glasses, and an aerial image of NTID",
+          "published": "2026-02-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+          "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her.",
+          "published": "2026-02-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch our new Gemini ad ahead of football\u2019s biggest weekend",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+          "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Commercial\u2019",
+          "published": "2026-02-05T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in January",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+          "published": "2026-02-04T16:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin.",
+          "published": "2026-02-02T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Advancing AI benchmarking with Game Arena",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+          "published": "2026-02-02T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+          "summary": "Text reads Introducing Project Genie",
+          "published": "2026-01-29T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Hear more about interactive world models in our latest podcast.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
+          "summary": "Project Genie: Create and explore worlds",
+          "published": "2026-01-29T15:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+          "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+          "published": "2026-01-29T17:01:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I Let an AI Agent Migrate My Server While I Ate Dinner (Unsupervised)",
+          "link": "https://michaelchinen.com/2026/02/08/after-15-years-aws-started-charging-me-for-my-ec2-website-and-claude-code-to-migrate-me-to-a-more-secure-and-free-setup-while-i-went-to-a-restaurant/",
+          "summary": "<p>Article URL: <a href=\"https://michaelchinen.com/2026/02/08/after-15-years-aws-started-charging-me-for-my-ec2-website-and-claude-code-to-migrate-me-to-a-more-secure-and-free-setup-while-i-went-to-a-restaurant/\">https://michaelchinen.com/2026/02/08/after-15-years-aws-started-charging-me-for-my-ec2-website-and-claude-code-to-migrate-me-to-a-more-secure-and-free-setup-while-i-went-to-a-restaurant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46936160\">https://news.ycombi",
+          "published": "2026-02-08T17:00:36"
+        }
+      ]
+    },
+    {
       "date": "2026-02-07",
       "top_features": [
         {
