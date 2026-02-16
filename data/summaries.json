@@ -1,6 +1,101 @@
 {
   "summaries": [
     {
+      "date": "2026-02-16",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning mode for solving complex science, research and engineering challenges with specialized mathematical and scientific discovery capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos enhancement with 9 new interactive query capabilities for better photo search and organization"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15x faster than its predecessor, running on custom plate-sized chips instead of Nvidia hardware"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered cryptocurrency security vulnerabilities are escalating, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better AI-driven security measures in crypto platforms",
+        "Investment firms are predicting a major consolidation in software companies due to AI disruption, with top-performing funds suggesting few traditional software firms will survive the AI transformation"
+      ],
+      "fundraising": [],
+      "summary": "Google dominates today's AI news with the launch of Gemini 3 Deep Think for advanced scientific reasoning, while OpenAI counters with a 15x faster coding model that bypasses Nvidia chips. The day also highlighted growing concerns about AI security vulnerabilities in fintech and predictions of major software industry consolidation due to AI disruption.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: DroidClaw \u2013 Turn old Android phones into AI agents",
+          "link": "https://droidclaw.ai",
+          "summary": "<p>Hey all, I built an open-source tool that lets you give an Android phone a goal in plain English. It reads the accessibility tree, sends the UI state to an LLM, executes actions via ADB, and loops until the task is done.<p>The core loop: dump accessibility tree via uiautomator \u2192 parse and filter to ~40 relevant elements \u2192 LLM returns {think, plan, action} \u2192 execute via ADB \u2192 repeat.<p>Some technical decisions worth noting:<p>- Primary input is the accessibility tree, not vision. Vision (scree",
+          "published": "2026-02-16T17:05:20"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Chrome extension to detect AI-written text and anonymous chat to any website",
+          "link": "https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome",
+          "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome\">https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037423\">https://news.ycombinator.com/item?id=47037423</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-16T17:02:30"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Bengt Hires a Human\u2013Towards a Happy Future with AI Employers",
+          "link": "https://andonlabs.com/blog/bengt-hires-a-human",
+          "summary": "<p>Article URL: <a href=\"https://andonlabs.com/blog/bengt-hires-a-human\">https://andonlabs.com/blog/bengt-hires-a-human</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037399\">https://news.ycombinator.com/item?id=47037399</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-16T17:00:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "If AI writes most of the code, understanding codebases becomes the bottleneck",
+          "link": "https://app.tryarchaic.com/",
+          "summary": "<p>Article URL: <a href=\"https://app.tryarchaic.com/\">https://app.tryarchaic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037379\">https://news.ycombinator.com/item?id=47037379</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-16T16:59:28"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: CabbageSEO: Check if AI mentions your business, then fix it if not",
+          "link": "https://www.cabbageseo.com/",
+          "summary": "<p>I built a tool that scans AI platforms with buyer questions relevant to your domain and shows you whether they mention you or not.<p>Enter your domain, it generates queries based on your space, sends them to ChatGPT, Perplexity, and Google AI, then scores you out of 100 based on how often you show up in the responses.<p>The part I think is actually useful: it doesn't just tell you the problem. It shows you which queries you're missing from, why, and gives you fix pages (structured content des",
+          "published": "2026-02-16T16:53:11"
+        }
+      ]
+    },
+    {
       "date": "2026-02-15",
       "top_features": [
         {
