@@ -2,26 +2,233 @@
   "summaries": [
     {
       "date": "2026-02-16",
+      "summary": "AI development is rapidly transforming software engineering with OpenAI engineers using fleets of 10-20 parallel AI agents, while Google launched Gemini 3 Deep Think for advanced scientific reasoning. The industry faces growing concerns about AI's impact on open source, cybersecurity threats, and the widening productivity gap between AI power users and traditional workers.",
+      "podcast_highlights": [
+        {
+          "title": "\"Engineers are becoming sorcerers\" | The future of software development with OpenAI's Sherwin Wu",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "95% of OpenAI engineers use Codex, often working with fleets of 10 to 20 parallel AI agents",
+            "OpenAI reduced code review times from 10-15 minutes to 2-3 minutes using AI",
+            "The productivity gap between AI power users and everyone else is rapidly widening"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers"
+        },
+        {
+          "title": "Sequoia CEO coach: Why it's never been easier to start a company, and never been harder to scale one | Brian Halligan",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Introduced LOCKS framework for evaluating founders and scaling strategies",
+            "Advocates hiring 'spicy' candidates over consensus picks for better team dynamics",
+            "Believes enterprise sales will be the last white-collar job AI replaces"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "OpenClaw is an open-source AI agent framework that became the fastest-growing project in GitHub history",
+            "Represents a breakthrough in AI agent capabilities and open-source development",
+            "Demonstrates the viral potential of well-designed AI agent frameworks"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "AI incidents, audits, and the limits of benchmarks",
+          "source": "Practical AI",
+          "key_points": [
+            "Traditional benchmarks often fall short in evaluating real-world AI safety and performance",
+            "Red-teaming at DEF CON reveals significant machine learning risks that standard testing misses",
+            "Organizations need better verification and evaluation methods as AI moves from research to deployment"
+          ],
+          "link": "https://share.transistor.fm/s/1b8e65f4"
+        }
+      ],
       "top_features": [
         {
           "company": "Google/DeepMind",
-          "feature": "Gemini 3 Deep Think - Advanced reasoning mode for solving complex science, research and engineering challenges with specialized mathematical and scientific discovery capabilities"
+          "feature": "Gemini 3 Deep Think - Advanced reasoning mode for science, research and engineering challenges"
         },
         {
           "company": "Google",
-          "feature": "Ask Photos enhancement with 9 new interactive query capabilities for better photo search and organization"
+          "feature": "Ask Photos - Enhanced AI-powered photo search and query capabilities"
         },
         {
           "company": "OpenAI",
-          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15x faster than its predecessor, running on custom plate-sized chips instead of Nvidia hardware"
+          "feature": "GPT-5.3-Codex-Spark - 15x faster coding model running on specialized plate-sized chips"
         }
       ],
       "fintech_trends": [
-        "AI-powered cryptocurrency security vulnerabilities are escalating, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better AI-driven security measures in crypto platforms",
-        "Investment firms are predicting a major consolidation in software companies due to AI disruption, with top-performing funds suggesting few traditional software firms will survive the AI transformation"
+        "Development of constrained DSLs for reliable LLM decision-making in quantitative finance, focusing on schema-driven prompts and validation loops to prevent hallucinations",
+        "Growing concern about AI-powered financial crimes and malicious packages targeting cryptocurrency exchanges, with incidents like dYdX wallet drainage highlighting security vulnerabilities"
       ],
       "fundraising": [],
-      "summary": "Google dominates today's AI news with the launch of Gemini 3 Deep Think for advanced scientific reasoning, while OpenAI counters with a 15x faster coding model that bypasses Nvidia chips. The day also highlighted growing concerns about AI security vulnerabilities in fintech and predictions of major software industry consolidation due to AI disruption.",
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Sequoia CEO coach: Why it\u2019s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "summary": "<p><strong>Brian Halligan</strong> co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia\u2019s fastest-growing founders as their in-house CEO coach.</p><p></p><p><strong>We discuss:</strong></p><p>1. His LOCKS framework for evaluating founders</p><p>2. Why you should build your team like the 2004 Red Sox</p><p>3. Why hiring \u201cspicy\u201d candidates beats consensus picks</p><p>4. Why enterprise sales will be the last white-collar job AI replaces</p><p>5. Some of my favorite \u201cHalliga",
+          "published": "2026-02-15T13:31:20"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "\u201cEngineers are becoming sorcerers\u201d | The future of software development with OpenAI\u2019s Sherwin Wu",
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+          "summary": "<p><strong>Sherwin Wu</strong> leads engineering for OpenAI\u2019s API platform, where roughly 95% of engineers use Codex, often working with fleets of 10 to 20 parallel AI agents.</p><p></p><p><strong>We discuss:</strong></p><p>1. What OpenAI did to cut code review times from 10-15 minutes to 2-3 minutes</p><p>2. How AI is changing the role of managers</p><p>3. Why the productivity gap between AI power users and everyone else is widening</p><p>4. Why \u201cmodels will eat your scaffolding for breakfast\u201d<",
+          "published": "2026-02-12T13:31:43"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026",
+          "summary": "<p>Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep490-sc\">https://lexfridman.com/sponsors/ep490-sc</a><br />\nSee below for tim",
+          "published": "2026-02-01T02:46:43"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
+          "link": "",
+          "summary": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix\u2019s Rohan Bhasin and Voxel51\u2019s Dan Gural explain how neural reconstruction, scenario-driven data curation, and NVIDIA-powered pipelines turn ordinary drive logs into high-fidelity simulations that close the last-mile gap in AV performance.\n\n\n\nGTC is the premier global AI conference. Learn more at nvidia.com/gtc",
+          "published": "2026-02-11T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI-Powered Holograms Are Reimagining Fan Experiences at the Big Game - Ep. 288",
+          "link": "",
+          "summary": "How are real\u2011time 4K holograms that look, sound, and respond like people changing fan engagement? Jia Li, co\u2011founder, president, and chief AI officer of LiveX AI, shares how human\u2011like AI agents bridge the digital and physical worlds\u2014from greeting travelers at airports to guiding fans through fan zones and supporting wayfinding at major sports events.\n\n\n\nJoin the world's premier AI conference: NVIDIA GTC",
+          "published": "2026-02-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Constrained DSL for Reliable LLM Decisions",
+          "link": "https://github.com/myinvestpilot/ai-architecture/blob/main/docs/01_ai_native_primitives_engine.md",
+          "summary": "<p>Hi HN,\nPersonal notes on a constrained DSL to make LLMs generate reliable decision logic for quant (no arbitrary Python, no hallucinations). Schema-driven prompts, validation loop, deterministic execution.<p>Article + diagrams + public schema:\n<a href=\"https://github.com/myinvestpilot/ai-architecture/blob/main/docs/01_ai_native_primitives_engine.md\" rel=\"nofollow\">https://github.com/myinvestpilot/ai-architecture/blob/main/d...</a><p>Repo (complete 4-article series, EN/ZH): <a href=\"https://gi",
+          "published": "2026-02-17T02:02:33"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "An AI CEO said something honest: ExperiencedDevs",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/1r6olcv/an_ai_ceo_finally_said_something_honest/",
+          "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/ExperiencedDevs/comments/1r6olcv/an_ai_ceo_finally_said_something_honest/\">https://old.reddit.com/r/ExperiencedDevs/comments/1r6olcv/an_ai_ceo_finally_said_something_honest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042788\">https://news.ycombinator.com/item?id=47042788</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:59:40"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Shard \u2013 A Distributed P2P AI Network for Shared Inference",
+          "link": "https://github.com/TrentPierce/Shard",
+          "summary": "<p>Article URL: <a href=\"https://github.com/TrentPierce/Shard\">https://github.com/TrentPierce/Shard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042729\">https://news.ycombinator.com/item?id=47042729</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T01:51:30"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta patented an AI that lets you keep posting from beyond the grave",
+          "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
+          "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2\">https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042629\">https://news.ycombinator.com/item?id=47042629</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published": "2026-02-17T01:37:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I don't think AI performance will plateau",
+          "link": "https://honnibal.dev/blog/ai-bubble",
+          "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/ai-bubble\">https://honnibal.dev/blog/ai-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042606\">https://news.ycombinator.com/item?id=47042606</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-02-17T01:33:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
+          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
+          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:24:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
+          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
+          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-02-17T01:24:12"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with improved mathematical and scientific discovery capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos enhancement with 9 new interactive query capabilities for improved photo search and organization"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - 15x faster coding model that sidesteps Nvidia chips, running on plate-sized hardware for improved development speed"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered cryptocurrency security vulnerabilities are increasing, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better AI-driven security measures in DeFi",
+        "Post-quantum cryptography integration with AI is emerging, as seen in the Elara protocol combining quantum-resistant validation with Rust-based AI systems for enhanced blockchain security"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Gemini 3 Deep Think's scientific reasoning capabilities and enhanced photo search features, while concerns grew around AI security vulnerabilities in crypto and open-source projects. The industry continues grappling with AI's impact on development workflows, from faster coding models to governance challenges in agent deployments.",
       "raw_articles": [
         {
           "source": "Google AI",
@@ -60,38 +267,133 @@
         },
         {
           "source": "Hacker News AI",
-          "title": "Show HN: DroidClaw \u2013 Turn old Android phones into AI agents",
-          "link": "https://droidclaw.ai",
-          "summary": "<p>Hey all, I built an open-source tool that lets you give an Android phone a goal in plain English. It reads the accessibility tree, sends the UI state to an LLM, executes actions via ADB, and loops until the task is done.<p>The core loop: dump accessibility tree via uiautomator \u2192 parse and filter to ~40 relevant elements \u2192 LLM returns {think, plan, action} \u2192 execute via ADB \u2192 repeat.<p>Some technical decisions worth noting:<p>- Primary input is the accessibility tree, not vision. Vision (scree",
-          "published": "2026-02-16T17:05:20"
+          "title": "Meta patented an AI that lets you keep posting from beyond the grave",
+          "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
+          "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2\">https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042629\">https://news.ycombinator.com/item?id=47042629</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:37:38"
         },
         {
           "source": "Hacker News AI",
-          "title": "Chrome extension to detect AI-written text and anonymous chat to any website",
-          "link": "https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome",
-          "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome\">https://chromewebstore.google.com/detail/hiyo/nocfklgnphddgdaengibolefpmombome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037423\">https://news.ycombinator.com/item?id=47037423</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-02-16T17:02:30"
+          "title": "I don't think AI performance will plateau",
+          "link": "https://honnibal.dev/blog/ai-bubble",
+          "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/ai-bubble\">https://honnibal.dev/blog/ai-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042606\">https://news.ycombinator.com/item?id=47042606</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T01:33:21"
         },
         {
           "source": "Hacker News AI",
-          "title": "Bengt Hires a Human\u2013Towards a Happy Future with AI Employers",
-          "link": "https://andonlabs.com/blog/bengt-hires-a-human",
-          "summary": "<p>Article URL: <a href=\"https://andonlabs.com/blog/bengt-hires-a-human\">https://andonlabs.com/blog/bengt-hires-a-human</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037399\">https://news.ycombinator.com/item?id=47037399</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-02-16T17:00:52"
+          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
+          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
+          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:24:41"
         },
         {
           "source": "Hacker News AI",
-          "title": "If AI writes most of the code, understanding codebases becomes the bottleneck",
-          "link": "https://app.tryarchaic.com/",
-          "summary": "<p>Article URL: <a href=\"https://app.tryarchaic.com/\">https://app.tryarchaic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47037379\">https://news.ycombinator.com/item?id=47037379</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-          "published": "2026-02-16T16:59:28"
+          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
+          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
+          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-02-17T01:24:12"
         },
         {
           "source": "Hacker News AI",
-          "title": "Show HN: CabbageSEO: Check if AI mentions your business, then fix it if not",
-          "link": "https://www.cabbageseo.com/",
-          "summary": "<p>I built a tool that scans AI platforms with buyer questions relevant to your domain and shows you whether they mention you or not.<p>Enter your domain, it generates queries based on your space, sends them to ChatGPT, Perplexity, and Google AI, then scores you out of 100 based on how often you show up in the responses.<p>The part I think is actually useful: it doesn't just tell you the problem. It shows you which queries you're missing from, why, and gives you fix pages (structured content des",
-          "published": "2026-02-16T16:53:11"
+          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
+          "link": "https://github.com/karpathy/nanochat/discussions/481",
+          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:15:18"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with enhanced mathematical and scientific discovery capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos enhancement - 9 new interactive query capabilities for Google Photos allowing users to ask natural language questions about their photo collections"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15x faster than its predecessor, running on specialized plate-sized chips instead of traditional Nvidia hardware"
+        }
+      ],
+      "fintech_trends": [
+        "Cryptocurrency exchange security vulnerabilities are escalating, with dYdX being targeted for the third time through malicious packages that empty user wallets, highlighting the need for better AI-powered security monitoring",
+        "Post-quantum cryptography protocols like Elara are emerging, combining Rust-based virtual machines with AI to create more secure validation systems for financial transactions"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with the launch of Gemini 3 Deep Think for scientific research and enhanced Google Photos capabilities, while OpenAI introduced a significantly faster coding model that bypasses Nvidia chips. The day also highlighted growing concerns about AI's impact on open source development and cybersecurity vulnerabilities in cryptocurrency platforms.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
+          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
+          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:24:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
+          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
+          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T01:24:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
+          "link": "https://github.com/karpathy/nanochat/discussions/481",
+          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:15:18"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Bulwark \u2013 Open-source governance layer for AI agents (Rust, MCP-native)",
+          "link": "https://github.com/bpolania/bulwark",
+          "summary": "<p>Hi HN!<p>I built Bulwark because I kept running into the same problem: I need to give AI agents access to my GitHub token, my AWS credentials, my database access, etc. They can do anything I can do. And when something goes wrong, there's no audit trail.<p>Bulwark is a governance proxy that sits between agents and the tools they call. It works as an MCP gateway (for Claude Code, OpenClaw) or as an HTTP forward proxy (for Codex, curl). Every request goes through:<p>Session validation \u2192 Content ",
+          "published": "2026-02-17T01:12:27"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Lack of measurement invariance in mental health across intelligence levels",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662",
+          "summary": "<p>Article URL: <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662\">https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042416\">https://news.ycombinator.com/item?id=47042416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:04:07"
         }
       ]
     },

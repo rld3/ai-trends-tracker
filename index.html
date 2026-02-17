@@ -364,8 +364,31 @@
             let html = '<div class="summary-section">';
             html += `<div class="section-date">${date}</div>`;
 
+            // Overall Summary
             if (summary.summary) {
                 html += `<div class="section-summary">${summary.summary}</div>`;
+            }
+
+            // Podcast Highlights (NEW!)
+            if (summary.podcast_highlights && summary.podcast_highlights.length > 0) {
+                html += '<div class="feature-list">';
+                html += '<div class="feature-title">🎧 Podcast Highlights</div>';
+                summary.podcast_highlights.forEach(podcast => {
+                    html += '<div class="feature-item">';
+                    html += `<div class="feature-company">${podcast.source}: ${podcast.title}</div>`;
+                    if (podcast.key_points && podcast.key_points.length > 0) {
+                        html += '<ul style="margin: 8px 0; padding-left: 20px; color: #666;">';
+                        podcast.key_points.forEach(point => {
+                            html += `<li style="margin: 4px 0; font-size: 14px;">${point}</li>`;
+                        });
+                        html += '</ul>';
+                    }
+                    if (podcast.link) {
+                        html += `<a href="${podcast.link}" target="_blank" rel="noopener noreferrer" style="font-size: 13px; color: #0066cc; text-decoration: none;">Listen →</a>`;
+                    }
+                    html += '</div>';
+                });
+                html += '</div>';
             }
 
             // Top Features

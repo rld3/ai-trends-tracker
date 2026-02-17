@@ -35,6 +35,10 @@ RSS_FEEDS = {
     "Lenny's Podcast": "https://api.substack.com/feed/podcast/10845.rss",
     "Exponent": "https://exponent.fm/feed/podcast/",
     "Stratechery Podcast": "https://stratechery.passport.online/feed/rss/CKPwgsS3gU25UpUSUBPAr",
+    "Lex Fridman Podcast": "https://lexfridman.com/feed/podcast/",
+    "NVIDIA AI Podcast": "https://feeds.soundcloud.com/users/soundcloud:users:264034133/sounds.rss",
+    "Practical AI": "https://changelog.com/practicalai/feed",
+    "The AI Daily Brief": "https://feeds.buzzsprout.com/2168220.rss",
 }
 
 DATA_DIR = Path("data")
@@ -48,7 +52,18 @@ def fetch_recent_articles(days=2):
     """Fetch recent articles from all RSS feeds"""
     print("Fetching articles from RSS feeds...")
     articles = []
+    podcast_articles = []  # Separate list for podcasts
     cutoff_date = datetime.now() - timedelta(days=days)
+
+    # Temporarily disable proxy to avoid blocking RSS feeds
+    # Save original proxy settings
+    original_proxies = {}
+    proxy_vars = ['HTTP_PROXY', 'HTTPS_PROXY', 'http_proxy', 'https_proxy',
+                  'ALL_PROXY', 'all_proxy', 'GRPC_PROXY', 'grpc_proxy']
+    for var in proxy_vars:
+        if var in os.environ:
+            original_proxies[var] = os.environ[var]
+            del os.environ[var]
 
     # Use proper headers to avoid being blocked
     headers = {
@@ -58,9 +73,12 @@ def fetch_recent_articles(days=2):
     for source, feed_url in RSS_FEEDS.items():
         try:
             print(f"  - Fetching from {source}...")
-            # Fetch with headers first
+            # Fetch with headers (proxy already disabled via environment)
             response = requests.get(feed_url, headers=headers, timeout=10)
             feed = feedparser.parse(response.content)
+
+            is_podcast = 'Podcast' in source or source in ['Lenny\'s Podcast', 'Exponent']
+            podcast_episodes_added = 0
 
             for entry in feed.entries[:15]:  # Get latest 15 entries
                 # Try to parse published date
@@ -74,20 +92,32 @@ def fetch_recent_articles(days=2):
                 except:
                     pub_date = datetime.now()
 
-                # Only include recent articles
-                if pub_date >= cutoff_date:
-                    articles.append({
-                        'source': source,
-                        'title': entry.get('title', 'No title'),
-                        'link': entry.get('link', ''),
-                        'summary': entry.get('summary', '')[:500],  # Truncate long summaries
-                        'published': pub_date.isoformat(),
-                    })
+                article = {
+                    'source': source,
+                    'title': entry.get('title', 'No title'),
+                    'link': entry.get('link', ''),
+                    'summary': entry.get('summary', '')[:500],  # Truncate long summaries
+                    'published': pub_date.isoformat(),
+                }
+
+                # For podcasts: always include at least the 2 most recent episodes
+                if is_podcast and podcast_episodes_added < 2:
+                    podcast_articles.append(article)
+                    podcast_episodes_added += 1
+                # For regular news: only include if within date range
+                elif not is_podcast and pub_date >= cutoff_date:
+                    articles.append(article)
         except Exception as e:
             print(f"    Error fetching {source}: {e}")
 
-    print(f"Fetched {len(articles)} recent articles")
-    return articles
+    # Restore original proxy settings
+    for var, value in original_proxies.items():
+        os.environ[var] = value
+
+    # Combine articles and podcasts (podcasts first so they appear in dashboard)
+    all_content = podcast_articles + articles
+    print(f"Fetched {len(articles)} recent articles and {len(podcast_articles)} podcast episodes")
+    return all_content
 
 def summarize_with_claude(articles):
     """Use Claude to generate intelligent summaries"""
@@ -114,15 +144,37 @@ Recent Articles & Podcast Episodes:
 {articles_text}
 
 Please provide:
-1. **Top 3 Features/Announcements** - List the 3 most significant product features or announcements from major AI companies (OpenAI, Anthropic, Perplexity, Google, Meta). Include the company name and feature.
+1. **Overall Summary** - A 2-3 sentence summary of the day's AI news, including key takeaways from podcasts
 
-2. **Fintech/AI Trends** - Identify and summarize 2-3 key trends in the intersection of Fintech and AI based on the articles.
+2. **Podcast Highlights** - For each podcast episode included, provide:
+   - Episode title
+   - 2-3 bullet points with key insights, quotes, or takeaways
+   - The episode link
+   Focus on unique perspectives, interviews, or discussions that add depth beyond news articles.
 
-3. **Fundraising Highlights** - List any significant fundraising announcements or investment rounds mentioned (company name and amount).
+3. **Top 3 Features/Announcements** - List the 3 most significant product features or announcements from major AI companies (OpenAI, Anthropic, Perplexity, Google, Meta). Include the company name and feature.
+
+4. **Fintech/AI Trends** - Identify and summarize 2-3 key trends in the intersection of Fintech and AI based on the articles.
+
+5. **Fundraising Highlights** - List any significant fundraising announcements or investment rounds mentioned (company name and amount).
 
 Format your response as JSON with this structure:
 {{
   "date": "{datetime.now().strftime('%Y-%m-%d')}",
+  "summary": "A 2-3 sentence overall summary of the day's AI news including podcast takeaways",
+  "podcast_highlights": [
+    {{
+      "title": "Episode title",
+      "source": "Podcast name",
+      "key_points": [
+        "Key insight or takeaway 1",
+        "Key insight or takeaway 2",
+        "Key insight or takeaway 3"
+      ],
+      "link": "Episode URL"
+    }},
+    ...
+  ],
   "top_features": [
     {{"company": "Company Name", "feature": "Brief description"}},
     ...
@@ -134,11 +186,10 @@ Format your response as JSON with this structure:
   "fundraising": [
     {{"company": "Company Name", "amount": "Amount", "details": "Brief details"}},
     ...
-  ],
-  "summary": "A 2-3 sentence overall summary of the day's AI news"
+  ]
 }}
 
-If there's no relevant information for a category, use an empty array []. Be concise but informative."""
+If there's no relevant information for a category, use an empty array [] or empty string "". Be concise but informative."""
 
     try:
         response = client.messages.create(
@@ -212,7 +263,7 @@ def main():
 
     if summary:
         # Add raw articles to summary
-        summary['raw_articles'] = articles[:10]  # Keep top 10 for reference
+        summary['raw_articles'] = articles[:20]  # Keep top 20 for reference (includes podcasts)
 
         # Save to file
         save_summaries(summary)
