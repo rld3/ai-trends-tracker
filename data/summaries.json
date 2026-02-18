@@ -1,6 +1,214 @@
 {
   "summaries": [
     {
+      "date": "2026-02-18",
+      "summary": "AI development is accelerating rapidly with Google announcing Gemini 3 Deep Think for advanced scientific reasoning, while Chinese AI labs released seven models in three weeks, intensifying global competition. Meanwhile, enterprise concerns are growing around AI security vulnerabilities, data privacy issues, and the widening productivity gap between AI power users and traditional workers.",
+      "podcast_highlights": [
+        {
+          "title": "Engineers are becoming sorcerers | The future of software development with OpenAI's Sherwin Wu",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "OpenAI cut code review times from 10-15 minutes to 2-3 minutes using AI, with 95% of engineers using Codex",
+            "Engineers now work with fleets of 10-20 parallel AI agents, fundamentally changing development workflows",
+            "The productivity gap between AI power users and traditional developers is rapidly widening, creating new organizational challenges"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers"
+        },
+        {
+          "title": "Sequoia CEO coach: Why it's never been easier to start a company, and never been harder to scale one | Brian Halligan",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Enterprise sales will be the last white-collar job AI replaces due to relationship complexity",
+            "Companies should hire 'spicy' candidates over consensus picks for competitive advantage",
+            "The LOCKS framework helps evaluate founders across key dimensions for scalability"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been"
+        },
+        {
+          "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Machine learning researchers discuss current scaling laws and their implications for AGI timelines",
+            "China's rapid AI development is creating new competitive dynamics in the global AI race",
+            "GPU constraints and coding capabilities remain key bottlenecks in AI development"
+          ],
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026"
+        },
+        {
+          "title": "AI incidents, audits, and the limits of benchmarks",
+          "source": "Practical AI",
+          "key_points": [
+            "Traditional AI benchmarks often fall short in real-world deployment scenarios",
+            "Red-teaming at DEF CON reveals significant machine learning risks that standard evaluation misses",
+            "AI safety verification requires moving beyond benchmarks to comprehensive auditing frameworks"
+          ],
+          "link": "https://share.transistor.fm/s/1b8e65f4"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning mode for solving complex science, research and engineering challenges"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15 times faster than its predecessor, running on plate-sized chips"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Ask Photos functionality with 9 new conversational query types for photo search and organization"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered security vulnerabilities are becoming a major concern for financial services, with Microsoft's Office bug exposing confidential emails to Copilot AI highlighting enterprise data protection challenges",
+        "The emergence of AI agent permission systems and audit trails (like Agentpriv and Air black box) suggests growing demand for controlled AI deployment in financial applications",
+        "LLM-generated passwords are proving dangerously insecure, creating new cybersecurity risks that financial institutions must address as AI adoption increases"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Sequoia CEO coach: Why it\u2019s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "summary": "<p><strong>Brian Halligan</strong> co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia\u2019s fastest-growing founders as their in-house CEO coach.</p><p></p><p><strong>We discuss:</strong></p><p>1. His LOCKS framework for evaluating founders</p><p>2. Why you should build your team like the 2004 Red Sox</p><p>3. Why hiring \u201cspicy\u201d candidates beats consensus picks</p><p>4. Why enterprise sales will be the last white-collar job AI replaces</p><p>5. Some of my favorite \u201cHalliga",
+          "published": "2026-02-15T13:31:20"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "\u201cEngineers are becoming sorcerers\u201d | The future of software development with OpenAI\u2019s Sherwin Wu",
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+          "summary": "<p><strong>Sherwin Wu</strong> leads engineering for OpenAI\u2019s API platform, where roughly 95% of engineers use Codex, often working with fleets of 10 to 20 parallel AI agents.</p><p></p><p><strong>We discuss:</strong></p><p>1. What OpenAI did to cut code review times from 10-15 minutes to 2-3 minutes</p><p>2. How AI is changing the role of managers</p><p>3. Why the productivity gap between AI power users and everyone else is widening</p><p>4. Why \u201cmodels will eat your scaffolding for breakfast\u201d<",
+          "published": "2026-02-12T13:31:43"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026",
+          "summary": "<p>Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep490-sc\">https://lexfridman.com/sponsors/ep490-sc</a><br />\nSee below for tim",
+          "published": "2026-02-01T02:46:43"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
+          "link": "",
+          "summary": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix\u2019s Rohan Bhasin and Voxel51\u2019s Dan Gural explain how neural reconstruction, scenario-driven data curation, and NVIDIA-powered pipelines turn ordinary drive logs into high-fidelity simulations that close the last-mile gap in AV performance.\n\n\n\nGTC is the premier global AI conference. Learn more at nvidia.com/gtc",
+          "published": "2026-02-11T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI-Powered Holograms Are Reimagining Fan Experiences at the Big Game - Ep. 288",
+          "link": "",
+          "summary": "How are real\u2011time 4K holograms that look, sound, and respond like people changing fan engagement? Jia Li, co\u2011founder, president, and chief AI officer of LiveX AI, shares how human\u2011like AI agents bridge the digital and physical worlds\u2014from greeting travelers at airports to guiding fans through fan zones and supporting wayfinding at major sports events.\n\n\n\nJoin the world's premier AI conference: NVIDIA GTC",
+          "published": "2026-02-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "AI Impact Summit 2026: How we\u2019re partnering to make AI work for everyone",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+          "summary": "a picture of a conference with interactive displays and screens",
+          "published": "2026-02-18T10:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "AI Impact Summit 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+          "published": "2026-02-18T10:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Our 2026 Responsible AI Progress Report",
+          "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+          "summary": "an illustration of blue and white cubes",
+          "published": "2026-02-17T22:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating discovery in India through AI-powered science and education",
+          "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+          "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+          "published": "2026-02-17T13:42:20"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Agentpriv \u2013 Sudo for AI Agents",
+          "link": "https://github.com/nichkej/agentpriv",
+          "summary": "<p>AI agents call tools autonomously, but some calls (delete_db, reset_state) shouldn't run unchecked.<p>agentpriv is a tiny permission layer: wrap any callable with allow/deny/ask and it gates execution before the function runs.<p>Zero dependencies, ~100 lines, works with any framework or plain Python. Happy to hear what's missing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47062146\">https://news.ycombinator.com/item?id=47062146</a></p>\n<p>Points: 1</p>\n<p># Comme",
+          "published": "2026-02-18T15:37:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "What Cooking Tells Us About AI",
+          "link": "https://nik.art/what-cooking-tells-us-about-ai/",
+          "summary": "<p>Article URL: <a href=\"https://nik.art/what-cooking-tells-us-about-ai/\">https://nik.art/what-cooking-tells-us-about-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47062067\">https://news.ycombinator.com/item?id=47062067</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-18T15:29:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "After Microsoft's AI overreach, Gentoo begins its march away from GitHub",
+          "link": "https://www.pcgamer.com/software/linux/after-microsoft-couldnt-keep-its-ai-hands-to-itself-a-notoriously-complex-linux-distro-has-started-its-long-march-away-from-github/",
+          "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/linux/after-microsoft-couldnt-keep-its-ai-hands-to-itself-a-notoriously-complex-linux-distro-has-started-its-long-march-away-from-github/\">https://www.pcgamer.com/software/linux/after-microsoft-couldnt-keep-its-ai-hands-to-itself-a-notoriously-complex-linux-distro-has-started-its-long-march-away-from-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47062007\">https://news.ycombinator.com/item?id=47062007</a></",
+          "published": "2026-02-18T15:25:11"
+        }
+      ]
+    },
+    {
       "date": "2026-02-17",
       "summary": "Google's Gemini 3 Deep Think emerges as a major reasoning model advancement targeting science and research applications, while industry discussions highlight the growing productivity gap between AI power users and traditional workers. The day also features significant discourse on AI's impact on enterprise sales, autonomous vehicles, and the ongoing debate about AI as a sustainable technology versus a bubble.",
       "podcast_highlights": [
@@ -8396,37 +8604,6 @@
         }
       ],
       "summary": "Major AI companies announced significant model improvements today, with OpenAI, Anthropic, and Google all releasing enhanced versions of their flagship models. The fintech sector continues to embrace AI for fraud detection and customer service automation.",
-      "raw_articles": []
-    },
-    {
-      "date": "2025-11-09",
-      "top_features": [
-        {
-          "company": "Meta",
-          "feature": "Open-sourced LLaMA 4 with 405B parameters and improved multilingual support"
-        },
-        {
-          "company": "Anthropic",
-          "feature": "Launched Claude for Enterprise with dedicated capacity and enhanced security features"
-        },
-        {
-          "company": "Perplexity",
-          "feature": "Introduced real-time web search integration with citation tracking"
-        }
-      ],
-      "fintech_trends": [
-        "Regulatory frameworks for AI in financial services are being developed across major markets",
-        "Robo-advisors powered by LLMs are providing more personalized investment recommendations",
-        "Blockchain and AI convergence is enabling automated compliance monitoring"
-      ],
-      "fundraising": [
-        {
-          "company": "Mistral AI",
-          "amount": "$640M Series B",
-          "details": "European AI challenger valued at $6B, backed by Andreessen Horowitz"
-        }
-      ],
-      "summary": "Meta made waves by open-sourcing LLaMA 4, their most powerful model yet. Meanwhile, enterprise AI adoption accelerated with new business-focused offerings from Anthropic.",
       "raw_articles": []
     }
   ]
