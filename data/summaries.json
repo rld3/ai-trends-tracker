@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-02-17",
+      "summary": "Google's Gemini 3 Deep Think emerges as a major reasoning model advancement targeting science and research applications, while industry discussions highlight the growing productivity gap between AI power users and traditional workers. The day also features significant discourse on AI's impact on enterprise sales, autonomous vehicles, and the ongoing debate about AI as a sustainable technology versus a bubble.",
+      "podcast_highlights": [
+        {
+          "title": "Sequoia CEO coach: Why it's never been easier to start a company, and never been harder to scale one",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Brian Halligan introduces the LOCKS framework for evaluating founders and emphasizes hiring 'spicy' candidates over consensus picks",
+            "Enterprise sales will likely be the last white-collar job that AI replaces due to its complex relationship-driven nature",
+            "Building teams should follow the 2004 Red Sox model - focusing on complementary skills rather than star players"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been"
+        },
+        {
+          "title": "Engineers are becoming sorcerers",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "At OpenAI, 95% of engineers use Codex, often working with fleets of 10-20 parallel AI agents, reducing code review times from 10-15 minutes to 2-3 minutes",
+            "The productivity gap between AI power users and everyone else is rapidly widening, fundamentally changing engineering workflows",
+            "AI is transforming the role of managers as 'models will eat your scaffolding for breakfast' - traditional development processes are being reimagined"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential transformative impact of AI on white-collar work across industries",
+            "The conversation explores the democratization of AI and its implications for traditional business models",
+            "Focus on how AI adoption is happening at 'normal speed' rather than the hyped timeline many expected"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "AI incidents, audits, and the limits of benchmarks",
+          "source": "Practical AI",
+          "key_points": [
+            "Sean McGregor discusses why benchmarks often fall short in real-world AI deployment scenarios and the growing importance of AI incident tracking",
+            "Red-teaming exercises at DEF CON reveal significant machine learning risks that standard evaluations miss",
+            "Organizations need better AI verification and auditing processes as AI moves from research to production environments"
+          ],
+          "link": "https://share.transistor.fm/s/1b8e65f4"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges"
+        },
+        {
+          "company": "Apple",
+          "feature": "M5-based Private Cloud Compute Architecture for Apple Intelligence - Next-generation on-device AI processing"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - 15x faster coding model running on plate-sized chips, bypassing Nvidia hardware"
+        }
+      ],
+      "fintech_trends": [
+        "AI Agent Stock Trading Systems - Development of swarm-based AI agents for automated stock trading simulation and real-time market analysis",
+        "AI-Powered Risk Assessment - Integration of AI models for enhanced fraud detection and cybersecurity in financial services, particularly around cryptocurrency and payment processing"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Sequoia CEO coach: Why it\u2019s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "summary": "<p><strong>Brian Halligan</strong> co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia\u2019s fastest-growing founders as their in-house CEO coach.</p><p></p><p><strong>We discuss:</strong></p><p>1. His LOCKS framework for evaluating founders</p><p>2. Why you should build your team like the 2004 Red Sox</p><p>3. Why hiring \u201cspicy\u201d candidates beats consensus picks</p><p>4. Why enterprise sales will be the last white-collar job AI replaces</p><p>5. Some of my favorite \u201cHalliga",
+          "published": "2026-02-15T13:31:20"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "\u201cEngineers are becoming sorcerers\u201d | The future of software development with OpenAI\u2019s Sherwin Wu",
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+          "summary": "<p><strong>Sherwin Wu</strong> leads engineering for OpenAI\u2019s API platform, where roughly 95% of engineers use Codex, often working with fleets of 10 to 20 parallel AI agents.</p><p></p><p><strong>We discuss:</strong></p><p>1. What OpenAI did to cut code review times from 10-15 minutes to 2-3 minutes</p><p>2. How AI is changing the role of managers</p><p>3. Why the productivity gap between AI power users and everyone else is widening</p><p>4. Why \u201cmodels will eat your scaffolding for breakfast\u201d<",
+          "published": "2026-02-12T13:31:43"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
+          "link": "",
+          "summary": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix\u2019s Rohan Bhasin and Voxel51\u2019s Dan Gural explain how neural reconstruction, scenario-driven data curation, and NVIDIA-powered pipelines turn ordinary drive logs into high-fidelity simulations that close the last-mile gap in AV performance.\n\n\n\nGTC is the premier global AI conference. Learn more at nvidia.com/gtc",
+          "published": "2026-02-11T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI-Powered Holograms Are Reimagining Fan Experiences at the Big Game - Ep. 288",
+          "link": "",
+          "summary": "How are real\u2011time 4K holograms that look, sound, and respond like people changing fan engagement? Jia Li, co\u2011founder, president, and chief AI officer of LiveX AI, shares how human\u2011like AI agents bridge the digital and physical worlds\u2014from greeting travelers at airports to guiding fans through fan zones and supporting wayfinding at major sports events.\n\n\n\nJoin the world's premier AI conference: NVIDIA GTC",
+          "published": "2026-02-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "My thoughts on Open Source \u2013 after a decade and in AI era",
+          "link": "https://blog.inoki.cc/2026/02/17/My-thoughts-on-Open-Source-after-a-decade-2026/index.html",
+          "summary": "<p>Article URL: <a href=\"https://blog.inoki.cc/2026/02/17/My-thoughts-on-Open-Source-after-a-decade-2026/index.html\">https://blog.inoki.cc/2026/02/17/My-thoughts-on-Open-Source-after-a-decade-2026/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049692\">https://news.ycombinator.com/item?id=47049692</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T16:57:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "SynthBench: 81% Zero-Shot Accuracy from AI-Generated Training Data",
+          "link": "https://www.laksh.us/blog/synthbench",
+          "summary": "<p>Article URL: <a href=\"https://www.laksh.us/blog/synthbench\">https://www.laksh.us/blog/synthbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049611\">https://news.ycombinator.com/item?id=47049611</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:51:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+          "link": "https://vertex.flowlogix.ai",
+          "summary": "<p>Article URL: <a href=\"https://vertex.flowlogix.ai\">https://vertex.flowlogix.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049520\">https://news.ycombinator.com/item?id=47049520</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+          "published": "2026-02-17T16:45:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "FSQ Spatial Agent and FSQ H3 Hub \u2013 an AI agent for geospatial analysis workflows",
+          "link": "https://foursquare.com/resources/blog/ad-tech/introducing-fsq-spatial-agent-your-geospatial-ai-analyst/",
+          "summary": "<p>Article URL: <a href=\"https://foursquare.com/resources/blog/ad-tech/introducing-fsq-spatial-agent-your-geospatial-ai-analyst/\">https://foursquare.com/resources/blog/ad-tech/introducing-fsq-spatial-agent-your-geospatial-ai-analyst/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049519\">https://news.ycombinator.com/item?id=47049519</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:45:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "How to Structure Projects for AI Agents and LLMs",
+          "link": "https://mastra.ai/blog/how-to-structure-projects-for-ai-agents-and-llms",
+          "summary": "<p>Article URL: <a href=\"https://mastra.ai/blog/how-to-structure-projects-for-ai-agents-and-llms\">https://mastra.ai/blog/how-to-structure-projects-for-ai-agents-and-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049478\">https://news.ycombinator.com/item?id=47049478</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:42:30"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI May DOOM humans After All. I may have been wrong [video]",
+          "link": "https://www.youtube.com/watch?v=GYfgjYVEYQ0",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GYfgjYVEYQ0\">https://www.youtube.com/watch?v=GYfgjYVEYQ0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049456\">https://news.ycombinator.com/item?id=47049456</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:40:01"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "GStreamer 1.28 brings AI inference to your media pipeline",
+          "link": "https://www.collabora.com/news-and-blog/news-and-events/gstreamer-1.28,-ready-for-ai.html",
+          "summary": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/gstreamer-1.28,-ready-for-ai.html\">https://www.collabora.com/news-and-blog/news-and-events/gstreamer-1.28,-ready-for-ai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049381\">https://news.ycombinator.com/item?id=47049381</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:34:28"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Apple Plans M5-Based Private Cloud Compute Architecture for Apple Intelligence",
+          "link": "https://9to5mac.com/2026/02/17/apple-plans-m5-based-private-cloud-compute-architecture-for-apple-intelligence/",
+          "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/02/17/apple-plans-m5-based-private-cloud-compute-architecture-for-apple-intelligence/\">https://9to5mac.com/2026/02/17/apple-plans-m5-based-private-cloud-compute-architecture-for-apple-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049378\">https://news.ycombinator.com/item?id=47049378</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:33:51"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why I don't think AI is a bubble",
+          "link": "https://honnibal.dev/blog/ai-bubble",
+          "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/ai-bubble\">https://honnibal.dev/blog/ai-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47049331\">https://news.ycombinator.com/item?id=47049331</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T16:30:10"
+        }
+      ]
+    },
+    {
       "date": "2026-02-16",
       "summary": "AI development is rapidly transforming software engineering with OpenAI engineers using fleets of 10-20 parallel AI agents, while Google launched Gemini 3 Deep Think for advanced scientific reasoning. The industry faces growing concerns about AI's impact on open source, cybersecurity threats, and the widening productivity gap between AI power users and traditional workers.",
       "podcast_highlights": [
@@ -8220,30 +8427,6 @@
         }
       ],
       "summary": "Meta made waves by open-sourcing LLaMA 4, their most powerful model yet. Meanwhile, enterprise AI adoption accelerated with new business-focused offerings from Anthropic.",
-      "raw_articles": []
-    },
-    {
-      "date": "2025-11-08",
-      "top_features": [
-        {
-          "company": "OpenAI",
-          "feature": "Expanded DALL-E 3 capabilities with video generation up to 60 seconds"
-        },
-        {
-          "company": "Google",
-          "feature": "Released Gemini Pro 1.5 with enhanced coding abilities and function calling"
-        },
-        {
-          "company": "Anthropic",
-          "feature": "Announced Claude API rate limit increases and new prompt caching features"
-        }
-      ],
-      "fintech_trends": [
-        "AI-driven financial advisors are now managing over $100B in assets globally",
-        "Payment processors are using ML models to reduce false positive fraud alerts by 60%"
-      ],
-      "fundraising": [],
-      "summary": "Multimodal AI capabilities continued to expand with OpenAI's video generation updates and Google's enhanced Gemini Pro. The fintech AI market shows strong growth with advisors managing significant assets.",
       "raw_articles": []
     }
   ]
