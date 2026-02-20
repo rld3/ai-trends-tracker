@@ -1,6 +1,233 @@
 {
   "summaries": [
     {
+      "date": "2026-02-20",
+      "summary": "AI continues to reshape software engineering with Claude Code now accounting for 4% of all public GitHub commits, while concerns grow about AI reliability as Amazon's AI coding bots have caused multiple AWS outages. Google announced major AI breakthroughs including Gemini 3 Deep Think for scientific research and Lyria 3 for music generation, while the industry grapples with the shift from code quality to logic quality in AI-assisted development.",
+      "podcast_highlights": [
+        {
+          "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Claude Code has grown from a simple terminal prototype to generating 4% of all public GitHub commits in just one year",
+            "Daily active users doubled last month, showing explosive adoption of AI-assisted coding tools",
+            "The transformation is extending beyond software engineering to impact all professional work"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens"
+        },
+        {
+          "title": "Sequoia CEO coach: Why it's never been easier to start a company, and never harder to scale one | Brian Halligan",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Enterprise sales will likely be the last white-collar job that AI replaces due to relationship complexity",
+            "Uses LOCKS framework for evaluating founders and recommends hiring 'spicy' candidates over consensus picks",
+            "Starting companies is easier than ever, but scaling has become increasingly difficult"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "OpenClaw is described as the fastest-growing project in GitHub history",
+            "Represents a breakthrough in open-source AI agent frameworks",
+            "Demonstrates the viral potential of well-designed AI tools in developer communities"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Features Nathan Lambert (Allen Institute for AI) and Sebastian Raschka discussing current AI landscape",
+            "Covers critical topics including scaling laws, AI agents, and the competitive landscape with China",
+            "Provides comprehensive overview of where AI stands in 2026 across multiple dimensions"
+          ],
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026"
+        },
+        {
+          "title": "Cognitive Synthesis and Neural Athletes",
+          "source": "Practical AI",
+          "key_points": [
+            "AI is creating rising cognitive load and new emotional realities for organizational leaders",
+            "Vulnerability and empathy are becoming critical leadership skills in the AI era",
+            "Anti-fragility, not just resilience, will define the future of work as AI accelerates change"
+          ],
+          "link": "https://share.transistor.fm/s/4aaf31b4"
+        },
+        {
+          "title": "AI incidents, audits, and the limits of benchmarks",
+          "source": "Practical AI",
+          "key_points": [
+            "AI safety expert Sean McGregor discusses why benchmarks often fall short in real-world deployments",
+            "Red-teaming at DEF CON reveals significant machine learning risks that traditional testing misses",
+            "As AI moves from research to deployment, incident management and verification become critical"
+          ],
+          "link": "https://share.transistor.fm/s/1b8e65f4"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model for science, research and engineering challenges"
+        },
+        {
+          "company": "Google/DeepMind",
+          "feature": "Lyria 3 - Most advanced music generation model integrated into Gemini app for creating 30-second tracks from text or images"
+        },
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3.1 Pro - Smarter model designed for complex tasks where simple answers aren't sufficient"
+        }
+      ],
+      "fintech_trends": [
+        "Shift from code quality to logic quality focus as AI handles more of the actual code generation, requiring developers to concentrate on business logic and architecture",
+        "Integration of AI agents into financial workflows raising reliability concerns, as demonstrated by Amazon's AI bots causing AWS outages affecting financial services infrastructure"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+          "link": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+          "summary": "<p><strong>Boris Cherny</strong> is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype just a year ago has transformed the role of software engineering and is increasingly transforming all professional work.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Claude Code grew from a quick hack to 4% of public GitHub commits, with daily active users doubling last month</p><p>2. The counterintuitive product principles that drove Claude Code\u2019s succe",
+          "published": "2026-02-19T13:31:57"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Sequoia CEO coach: Why it\u2019s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "summary": "<p><strong>Brian Halligan</strong> co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia\u2019s fastest-growing founders as their in-house CEO coach.</p><p></p><p><strong>We discuss:</strong></p><p>1. His LOCKS framework for evaluating founders</p><p>2. Why you should build your team like the 2004 Red Sox</p><p>3. Why hiring \u201cspicy\u201d candidates beats consensus picks</p><p>4. Why enterprise sales will be the last white-collar job AI replaces</p><p>5. Some of my favorite \u201cHalliga",
+          "published": "2026-02-15T13:31:20"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026",
+          "summary": "<p>Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep490-sc\">https://lexfridman.com/sponsors/ep490-sc</a><br />\nSee below for tim",
+          "published": "2026-02-01T02:46:43"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Safer, Faster Public Transportation: AC Transit\u2019s AI-Powered Upgrade with Hayden AI - Ep. 290",
+          "link": "",
+          "summary": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear \u2014 boosting on\u2011time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO Marty Beard explain how bus\u2011mounted cameras and NVIDIA-powered edge AI automatically detect vehicles blocking bus lanes and stops, protect rider privacy by design, and are helping change driver behavior in the San Francisco Bay Area.\n\n\n\nExplore the next wave of AI innovation at NVIDIA GTC. Learn mo",
+          "published": "2026-02-18T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
+          "link": "",
+          "summary": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix\u2019s Rohan Bhasin and Voxel51\u2019s Dan Gural explain how neural reconstruction, scenario-driven data curation, and NVIDIA-powered pipelines turn ordinary drive logs into high-fidelity simulations that close the last-mile gap in AV performance.\n\n\n\nGTC is the premier global AI conference. Learn more at nvidia.com/gtc",
+          "published": "2026-02-11T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "\u201cNo technology has me dreaming bigger than AI\u201d",
+          "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "summary": "a stylized design resembling the Ashoka Chakra with colorful network lines and text reading \"\u092d\u093e\u0930\u0924 2026 INDIA.\" A vertical line separates it from the Google logo on the right, all set against a light blue gradient background with a faint grid pattern.",
+          "published": "2026-02-19T04:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "AI Impact Summit 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+          "published": "2026-02-19T04:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A new way to express yourself: Gemini can now create music",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+          "summary": "Image showing sample tracks created with Lyria 3",
+          "published": "2026-02-18T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "AI Impact Summit 2026: How we\u2019re partnering to make AI work for everyone",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+          "summary": "four people seated on a conference stage",
+          "published": "2026-02-18T10:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Our 2026 Responsible AI Progress Report",
+          "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+          "summary": "an illustration of blue and white cubes",
+          "published": "2026-02-17T22:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+          "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough.",
+          "published": "2026-02-19T16:06:14"
+        },
+        {
+          "source": "DeepMind",
+          "title": "A new way to express yourself: Gemini can now create music",
+          "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+          "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+          "published": "2026-02-18T16:01:38"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating discovery in India through AI-powered science and education",
+          "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+          "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+          "published": "2026-02-17T13:42:20"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built a website for generating viral shorts with AI",
+          "link": "https://aiclipsfarm.com/",
+          "summary": "<p>Article URL: <a href=\"https://aiclipsfarm.com/\">https://aiclipsfarm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47088875\">https://news.ycombinator.com/item?id=47088875</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-20T15:03:46"
+        }
+      ]
+    },
+    {
       "date": "2026-02-19",
       "summary": "AI coding tools are reaching unprecedented adoption with Claude Code now accounting for 4% of all public GitHub commits, while Google unveils major advances including Gemini 3 Deep Think for scientific research and Lyria 3 for music generation. The industry is grappling with practical deployment challenges as AI agents become more autonomous, with discussions ranging from the transformation of software engineering roles to concerns about AI safety and evaluation in real-world applications.",
       "podcast_highlights": [
@@ -8719,64 +8946,6 @@
           "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
           "summary": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are&#8230;",
           "published": "2025-11-12T10:11:15"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Reimagining cybersecurity in the era of AI and quantum",
-          "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
-          "summary": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This&#8230;",
-          "published": "2025-11-10T14:19:28"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-11",
-      "top_features": [
-        {
-          "company": "Olares",
-          "feature": "Personal AI device launching that brings cloud-level AI performance to home environments"
-        }
-      ],
-      "fintech_trends": [
-        "Growing investor concern over Big Tech's massive AI infrastructure spending is now affecting bond markets, signaling potential market volatility around AI investment sustainability"
-      ],
-      "fundraising": [],
-      "summary": "Today's AI news highlights growing market tensions around Big Tech's AI spending reaching bond markets, while creative industries face disruption from AI-generated content achieving mainstream success. Meanwhile, the cybersecurity landscape is being fundamentally reshaped by the dual emergence of AI and quantum technologies.",
-      "raw_articles": [
-        {
-          "source": "Hacker News AI",
-          "title": "Investor angst over Big Tech's AI spending spills into bond market",
-          "link": "https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50",
-          "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50\">https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884882\">https://news.ycombinator.com/item?id=45884882</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-11T07:21:29"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Platonic Intelligence",
-          "link": "https://www.youtube.com/watch?v=1mXUFweWOug",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=1mXUFweWOug\">https://www.youtube.com/watch?v=1mXUFweWOug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884710\">https://news.ycombinator.com/item?id=45884710</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-11T06:39:12"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI-Generated Country Song Is Topping Billboard Chart. That Should Infuriate Us",
-          "link": "https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/",
-          "summary": "<p>Article URL: <a href=\"https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/\">https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884565\">https://news.ycombinator.com/item?id=45884565</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-11T06:09:18"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Olares to Launch a Personal AI Device Bringing Cloud-Level Performance Home",
-          "link": "https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home",
-          "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home\">https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884563\">https://news.ycombinator.com/item?id=45884563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-11T06:09:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Why AI Won't Save Your PLG Strategy (But It's Changing How I Find It)",
-          "link": "https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/",
-          "summary": "<p>Article URL: <a href=\"https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/\">https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45884547\">https://news.ycombinator.com/item?id=45884547</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-11T06:05:04"
         },
         {
           "source": "MIT Tech Review AI",
