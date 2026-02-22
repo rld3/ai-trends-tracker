@@ -30,11 +30,12 @@ RSS_FEEDS = {
 
     # Analysis & Commentary
     "Stratechery": "https://stratechery.com/feed/",
+    "Stratechery Newsletter": "https://stratechery.passport.online/feed/rss/CKPwgsS3gU25UpUSUBPAr",
 
     # Podcasts
     "Lenny's Podcast": "https://api.substack.com/feed/podcast/10845.rss",
     "Exponent": "https://exponent.fm/feed/podcast/",
-    "Stratechery Podcast": "https://stratechery.passport.online/feed/rss/CKPwgsS3gU25UpUSUBPAr",
+    "Stratechery Podcast": "https://stratechery.passport.online/feed/podcast/CKPwgsS3gU25UpUSUBPAr",
     "Lex Fridman Podcast": "https://lexfridman.com/feed/podcast/",
     "NVIDIA AI Podcast": "https://feeds.soundcloud.com/users/soundcloud:users:264034133/sounds.rss",
     "Practical AI": "https://changelog.com/practicalai/feed",
