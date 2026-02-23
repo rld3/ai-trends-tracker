@@ -131,12 +131,17 @@ def summarize_with_claude(articles):
         print("Please set it with: export ANTHROPIC_API_KEY='your-key-here'")
         return None
 
-    client = Anthropic(api_key=api_key)
+    client = Anthropic(api_key=api_key, timeout=120.0)
 
-    # Prepare article data for Claude
+    # Cap content to avoid API timeouts - prioritize podcasts, then news
+    podcasts = [a for a in articles if any(p in a['source'] for p in ['Podcast', 'Lenny', 'Exponent', 'Practical AI', 'Daily Brief', 'Newsletter'])]
+    news = [a for a in articles if a not in podcasts]
+    capped_articles = podcasts[:10] + news[:30]  # Max 40 total
+
+    # Prepare article data for Claude (shorter summaries to reduce payload size)
     articles_text = "\n\n".join([
-        f"Source: {a['source']}\nTitle: {a['title']}\nLink: {a['link']}\nSummary: {a['summary']}"
-        for a in articles
+        f"Source: {a['source']}\nTitle: {a['title']}\nLink: {a['link']}\nSummary: {a['summary'][:200]}"
+        for a in capped_articles
     ])
 
     prompt = f"""You are an AI trends analyst. Based on the following recent articles and podcast episodes from AI companies, tech news, and industry podcasts, provide a comprehensive daily summary.
@@ -195,7 +200,7 @@ If there's no relevant information for a category, use an empty array [] or empt
     try:
         response = client.messages.create(
             model="claude-sonnet-4-20250514",
-            max_tokens=2000,
+            max_tokens=3000,
             messages=[{
                 "role": "user",
                 "content": prompt
