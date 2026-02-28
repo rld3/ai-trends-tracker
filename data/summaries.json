@@ -1,6 +1,224 @@
 {
   "summaries": [
     {
+      "date": "2026-02-28",
+      "summary": "AI infrastructure and coding tools dominated discussions, with Cisco's president emphasizing AI's critical role in humanity's survival and Anthropic's Claude Code transforming software engineering practices. The focus shifted toward AI agents breaking into mainstream applications, while concerns about AI safety, job displacement, and the need for better security models gained prominence across industry conversations.",
+      "podcast_highlights": [
+        {
+          "title": "AI is critical for humanity's survival: Cisco president on the AI revolution | Jeetu Patel",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jeetu Patel leads 30,000 people at Cisco and is central to the massive AI infrastructure buildout happening globally",
+            "AI is positioned as critical for humanity's survival, not just a business optimization tool",
+            "Cisco is playing a pivotal role in the underlying infrastructure that powers the AI revolution"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+        },
+        {
+          "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Boris Cherny created Claude Code at Anthropic, transforming from a simple terminal prototype to revolutionizing software engineering in just one year",
+            "Discussion focuses on the post-coding world and what happens when AI fully automates programming tasks",
+            "Anthropic's Claude Code is fundamentally changing the role and nature of software engineering work"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss the potential widespread impact of AI specifically on white collar work sectors",
+            "Focus on how AI tools are operating at 'normal speed' rather than the hyped accelerated timeline previously discussed",
+            "Analysis of realistic timelines and practical implications for knowledge workers"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Peter Steinberger created OpenClaw, an open-source AI agent framework that became the fastest-growing project in GitHub history",
+            "The viral success demonstrates massive developer interest and adoption of AI agent frameworks",
+            "OpenClaw represents a breakthrough in making AI agents more accessible to developers worldwide"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Comprehensive review of AI progress in 2026 covering LLMs, coding capabilities, and scaling laws",
+            "Discussion includes the competitive landscape with China and the current state of AI agents",
+            "Analysis of GPU requirements and progress toward AGI from leading ML researchers Nathan Lambert and Sebastian Raschka"
+          ],
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Nano Banana 2 - Lightning-fast image generation model combining Pro capabilities with Flash speed, featuring advanced world knowledge and subject consistency"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Gemini 3.1 Pro - Enhanced model designed for complex tasks requiring more than simple answers"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Lyria 3 music generation in Gemini app - Most advanced music generation model allowing 30-second track creation from text or images"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are being deployed in global trade and B2B sourcing, with Alibaba's Accio agent compressing weeks of sourcing work into minutes",
+        "Job displacement tracking tools are emerging, with new dashboards specifically monitoring AI's impact on employment across different sectors",
+        "Persistent memory systems for AI agents are being developed to enable more sophisticated financial and business applications that require continuity across sessions"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "AI is critical for humanity\u2019s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "summary": "<p><strong>Jeetu Patel</strong> is the president and chief product officer at Cisco, where he leads a team of 30,000 people and is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Cisco went AI-f",
+          "published": "2026-02-26T13:31:32"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+          "link": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+          "summary": "<p><strong>Boris Cherny</strong> is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype just a year ago has transformed the role of software engineering and is increasingly transforming all professional work.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Claude Code grew from a quick hack to 4% of public GitHub commits, with daily active users doubling last month</p><p>2. The counterintuitive product principles that drove Claude Code\u2019s succe",
+          "published": "2026-02-19T13:31:57"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Bill Gurley About Runnin' Down a Dream",
+          "link": "https://stratechery.com/2026/an-interview-with-bill-gurley-about-runnin-down-a-dream/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWJpbGwtZ3VybGV5LWFib3V0LXJ1bm5pbi1kb3duLWEtZHJlYW0vIl19LCJleHAiOjE3NzQ3OTkyMjEsImlhdCI6MTc3MjIwNzIyMSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.hfLnMTaMhcT4WRyHm4hBTrvurqeGvJywn0Ra4gZ68-AwalAH11G0Z372ZOvdQ7K4Bz3_x9Oi-uOSEyOJo7lB_RJ0y6zZWrSxSTam1Lu0qeRzPgjV1QAOixxWmcVy4vyFfs2VpRzNzOxDXYhPoqwZSVWsvqIvRiQis3ao6TPJeZT3MEkUpNrOQYz8QqUvVN-oKRirTRXUdj90IKB5pyMp8eCpDmULBdqv5XQPh3v-ki2C3_Tdys3MB_tOqxvbCg-PqpFwrdTXvIKMfuhMF-0H8ptUJkWYXrtuUexjeaB22a_5p2JCQlqhZV3E5AGuUSb8d6vLMyea2PB0BG3a_gwP6Q",
+          "summary": "An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC.",
+          "published": "2026-02-26T11:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Xbox Replaces Head of Gaming, Xbox History, Whither Xbox",
+          "link": "https://stratechery.com/2026/xbox-replaces-head-of-gaming-xbox-history-whither-xbox/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3hib3gtcmVwbGFjZXMtaGVhZC1vZi1nYW1pbmcteGJveC1oaXN0b3J5LXdoaXRoZXIteGJveC8iXX0sImV4cCI6MTc3NDc5OTIyMSwiaWF0IjoxNzcyMjA3MjIxLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.Bcg2yaQu0GdVP52HhjBAW1EpSVmr5HL7LmieHjIY2VPdajV_elWXK3sFDbJUGPQxY1bXi075Mm3hRZgWR992aeC1Sj3pbmReOfO7eDCFnR7Ig8ngUNlA8U6aY7rmxUYTZ-CtgpjwBOYcIOe9K1HMdDqqwxXshA0dpGUE4qfd5jWqyd6mW24YmRTgP0BbwvUBwIosAiE0CR969ICDqiluj0gBn76FKoRPW5f1FUda2gc8VQb6W2d0urv3AaxSWRmAoBUNrr8BLe857Y0rNDEIAmtZVZgTiqBd1WFfkCTzL-Z4lQjhOrvGsmAuahPUyp8DxkYVHDiBr4rPlDp4UpGY9A",
+          "summary": "Xbox has a new head, who isn't a gamer; I suspect Microsoft is doing what it should have done a decade ago: get out of the console business.",
+          "published": "2026-02-25T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#490 \u2013 State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+          "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ai-sota-2026",
+          "summary": "<p>Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. Sebastian Raschka is the author of Build a Large Language Model (From Scratch) and Build a Reasoning Model (From Scratch).<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep490-sc\">https://lexfridman.com/sponsors/ep490-sc</a><br />\nSee below for tim",
+          "published": "2026-02-01T02:46:43"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Safer, Faster Public Transportation: AC Transit\u2019s AI-Powered Upgrade with Hayden AI - Ep. 290",
+          "link": "",
+          "summary": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear \u2014 boosting on\u2011time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO Marty Beard explain how bus\u2011mounted cameras and NVIDIA-powered edge AI automatically detect vehicles blocking bus lanes and stops, protect rider privacy by design, and are helping change driver behavior in the San Francisco Bay Area.\n\n\n\nExplore the next wave of AI innovation at NVIDIA GTC. Learn mo",
+          "published": "2026-02-18T16:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+          "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+          "published": "2026-02-26T16:01:50"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+          "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough.",
+          "published": "2026-02-19T16:06:14"
+        },
+        {
+          "source": "DeepMind",
+          "title": "A new way to express yourself: Gemini can now create music",
+          "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+          "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+          "published": "2026-02-18T16:01:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: OpenPencil - Open-source vector design tool controlled by AI Agents",
+          "link": "https://github.com/ZSeven-W/openpencil",
+          "summary": "<p>Hey! I'm the creator of OpenPencil, and I'm super excited to share it with you today.\nWe are entering the era of AI Agents, but our design tools are still stuck in the GUI era. We are constantly downloading \"final_v9.fig\" and manually clicking to tweak UI elements. I wanted to change that.<p>OpenPencil isn't just another design tool with a magic AI button. It is structurally built for AI.<p>Here is why it's different:<p>Agentic Design (MCP Server): You can connect Claude, Cursor, or any MCP-c",
+          "published": "2026-02-28T14:21:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I built a dashboard to track AI's impact on jobs",
+          "link": "https://www.clocktick.ai/",
+          "summary": "<p>Article URL: <a href=\"https://www.clocktick.ai/\">https://www.clocktick.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195695\">https://news.ycombinator.com/item?id=47195695</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-28T14:19:56"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Legal advocate Mary Inman: The next AI whistleblower could come from anywhere",
+          "link": "https://restofworld.org/2026/ai-whistleblower-psst-mary-inman/",
+          "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/ai-whistleblower-psst-mary-inman/\">https://restofworld.org/2026/ai-whistleblower-psst-mary-inman/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195692\">https://news.ycombinator.com/item?id=47195692</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-28T14:19:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: LazyGravity \u2013 I control my local AI coding setup from Discord via CDP",
+          "link": "https://news.ycombinator.com/item?id=47195667",
+          "summary": "<p>I built LazyGravity to solve a personal itch: wanting to trigger real coding tasks when I am away from my desk, using an interface I already have (Discord on my phone).<p>It's a local-first bridge that forwards messages to my desktop AI coding setup, then reports results back. Instead of exposing my dev machine through public ports or relying on cloud relays, it uses Chrome DevTools Protocol (WebSocket) to drive the editor UI locally and securely.<p>I posted a short video demonstrating how it",
+          "published": "2026-02-28T14:18:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Scite MCP \u2013 Full-text scientific papers in your AI workflow",
+          "link": "https://scite.ai/mcp",
+          "summary": "<p>Article URL: <a href=\"https://scite.ai/mcp\">https://scite.ai/mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195548\">https://news.ycombinator.com/item?id=47195548</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-28T14:07:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI narrative is an evolution of previous tech hypecycles",
+          "link": "https://www.millionsofdeadbots.com/blog/posts/2026-02-28-the-ai-narrative-is-an-evolution-of-previous-tech-hypecycles",
+          "summary": "<p>Article URL: <a href=\"https://www.millionsofdeadbots.com/blog/posts/2026-02-28-the-ai-narrative-is-an-evolution-of-previous-tech-hypecycles\">https://www.millionsofdeadbots.com/blog/posts/2026-02-28-the-ai-narrative-is-an-evolution-of-previous-tech-hypecycles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195494\">https://news.ycombinator.com/item?id=47195494</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-28T14:01:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: MemoryKit \u2013 Persistent memory layer for AI agents",
+          "link": "https://github.com/0j/memorykit",
+          "summary": "<p>Most AI agents forget everything when a session ends. MemoryKit is a lightweight Python library that gives any AI agent persistent memory across sessions.\nThree core methods: remember(), recall(), compress(). Works locally for free with sentence-transformers, or with OpenAI embeddings. No external database required.\nBuilt this over a weekend as a side project. Still early \u2014 would love feedback from people building AI agents.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/it",
+          "published": "2026-02-28T13:39:53"
+        }
+      ]
+    },
+    {
       "date": "2026-02-27",
       "summary": "Today's AI landscape shows significant developments in infrastructure and coding capabilities, with Cisco's president emphasizing AI's critical role for humanity's survival while Anthropic's Claude Code continues transforming software engineering. Google announced major updates including Nano Banana 2 for image generation, Gemini 3.1 Pro for complex tasks, and Lyria 3 for music creation, while industry discussions focus on AI's impact on white-collar work and the importance of maintaining human oversight in AI agent deployments.",
       "podcast_highlights": [
@@ -9479,96 +9697,6 @@
           "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
           "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
           "published": "2025-11-18T16:03:14"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-19",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 with 'vibe-coding' responses, enhanced reasoning, fluid multimodal capabilities, and built-in agent functionality"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [
-        {
-          "company": "Suno",
-          "amount": "$2.45B valuation",
-          "details": "AI music platform reaches unicorn status with significant valuation milestone"
-        }
-      ],
-      "summary": "Google announced Gemini 3 with major upgrades including agent capabilities and improved multimodal functionality, while AI music platform Suno reached a $2.45B valuation. The day also featured discussions around AI's technical limitations, political implications, and innovative solutions for context portability and specialized use cases like icon generation.",
-      "raw_articles": [
-        {
-          "source": "Hacker News AI",
-          "title": "The Politics of AI Are About to Explode \u2013 Odd Lots [video]",
-          "link": "https://www.youtube.com/watch?v=EufqQyyJLHk",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=EufqQyyJLHk\">https://www.youtube.com/watch?v=EufqQyyJLHk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45981866\">https://news.ycombinator.com/item?id=45981866</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-19T16:57:17"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "The \"Learned Helplessness\" of AI",
-          "link": "https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai",
-          "summary": "<p>Article URL: <a href=\"https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai\">https://himanshusinghbisht.substack.com/p/the-learned-helplessness-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45981825\">https://news.ycombinator.com/item?id=45981825</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-19T16:54:06"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: IconPackGen \u2013 Generate Visually Consistent Icon Packs with AI",
-          "link": "https://iconpackgen.com/index.html",
-          "summary": "<p>Hi HN,<p>I\u2019ve been building a small tool called IconPackGen, focused on one specific problem:\ncreating cohesive, visually consistent icon packs using AI.<p>Most AI image tools can generate nice single images, but producing sets of icons that match each other\u2014style, color logic, geometry\u2014is a different problem. IconPackGen is built specifically for that use case.<p>What it does<p>- Generates 9-icon packs based on either:\n  - a general theme (e.g., \u201cminimal line icons\u201d, \u201cretro pixel icons\u201d), or",
-          "published": "2025-11-19T16:53:20"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Music Platform Suno Valued at $2.45B",
-          "link": "https://www.wsj.com/business/media/ai-music-platform-suno-valued-at-2-45-billion-b6bda919",
-          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/media/ai-music-platform-suno-valued-at-2-45-billion-b6bda919\">https://www.wsj.com/business/media/ai-music-platform-suno-valued-at-2-45-billion-b6bda919</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45981752\">https://news.ycombinator.com/item?id=45981752</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-19T16:48:31"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Treating AI's amnesia with context portability, knowledge graphs and ontologies",
-          "link": "https://mmc.vc/research/agentic-enablers-treating-ais-amnesia-and-other-disorders/",
-          "summary": "<p>Article URL: <a href=\"https://mmc.vc/research/agentic-enablers-treating-ais-amnesia-and-other-disorders/\">https://mmc.vc/research/agentic-enablers-treating-ais-amnesia-and-other-disorders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45981653\">https://news.ycombinator.com/item?id=45981653</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-19T16:38:59"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Scaling innovation in manufacturing with AI",
-          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
-          "published": "2025-11-19T16:54:55"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
-          "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
-          "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
-          "published": "2025-11-19T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Networking for AI: Building the foundation for real-time intelligence",
-          "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
-          "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
-          "published": "2025-11-18T16:03:14"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Realizing value with AI inference at scale and in production",
-          "link": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
-          "summary": "Training an AI model to predict equipment failures is an engineering achievement. But it&#8217;s not until prediction meets action\u2014the moment that model successfully flags a malfunctioning machine\u2014that true business transformation occurs. One technical milestone lives in a proof-of-concept deck; the other meaningfully contributes to the bottom line. Craig Partridge, senior director worldwide of Digital Next&#8230;",
-          "published": "2025-11-18T16:02:16"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Google\u2019s new Gemini 3 \u201cvibe-codes\u201d responses and comes with its own agent",
-          "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
-          "summary": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across voice, text or images), and will work like an agent.&#160; The previous model, Gemini 2.5, supports multimodal input. Users can feed it&#8230;",
-          "published": "2025-11-18T16:00:07"
         }
       ]
     }
