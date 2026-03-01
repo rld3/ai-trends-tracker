@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-03-01",
+      "summary": "The AI industry is experiencing significant shifts in design philosophy and infrastructure, with Anthropic's Claude team arguing traditional design processes are obsolete while Cisco emphasizes AI as critical for humanity's survival. Google made major announcements with Nano Banana 2 for image generation and Gemini 3.1 Pro for complex tasks, while the developer community grapples with AI's impact on junior engineers and coding workflows.",
+      "podcast_highlights": [
+        {
+          "title": "The design process is dead. Here's what's replacing it.",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jenny Wen from Anthropic's Claude team argues that traditional design processes are becoming obsolete in the AI era",
+            "Design leadership at major AI companies is shifting from process-driven to outcome-driven approaches",
+            "Experience from leading design at Figma for FigJam and Slides provides unique perspective on AI interface design"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "AI is critical for humanity's survival: Cisco president on the AI revolution",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jeetu Patel, Cisco's president overseeing 30,000 people, positions AI as existential for humanity's future",
+            "Cisco is playing a central role in the massive AI infrastructure buildout happening globally",
+            "Enterprise AI adoption requires fundamental rethinking of corporate infrastructure and processes"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Peter Steinberger created OpenClaw, now the fastest-growing project in GitHub history",
+            "Open-source AI agent frameworks are gaining unprecedented traction in the developer community",
+            "The viral success demonstrates massive pent-up demand for accessible AI agent development tools"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James analyze AI's potential impact on white-collar work at a realistic pace",
+            "Discussion moves beyond hype to examine actual adoption patterns and workplace transformation",
+            "Focus on how AI tools are reshaping professional workflows rather than replacing workers entirely"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Nano Banana 2 - Advanced image generation and editing model combining Pro capabilities with lightning-fast speed, featuring advanced world knowledge and subject consistency"
+        },
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3.1 Pro - A smarter model designed specifically for complex tasks where simple answers aren't sufficient"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Google Translate with AI-powered context understanding, new 'understand' and 'ask' buttons for deeper translation comprehension"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are reshaping global B2B trade and sourcing, with companies like Alibaba using AI to compress weeks of complex sourcing work into minutes",
+        "Zero-trust credential management systems are emerging as critical infrastructure for AI agents handling financial and sensitive data transactions"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "AI is critical for humanity\u2019s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "summary": "<p><strong>Jeetu Patel</strong> is the president and chief product officer at Cisco, where he leads a team of 30,000 people and is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Cisco went AI-f",
+          "published": "2026-02-26T13:31:32"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Bill Gurley About Runnin' Down a Dream",
+          "link": "https://stratechery.com/2026/an-interview-with-bill-gurley-about-runnin-down-a-dream/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWJpbGwtZ3VybGV5LWFib3V0LXJ1bm5pbi1kb3duLWEtZHJlYW0vIl19LCJleHAiOjE3NzQ5NjkyMjgsImlhdCI6MTc3MjM3NzIyOCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.SkJy_wckscyEVCDe97PxfpZr2VeqQvPgfIXSFpdNO1air_DE3zsC-eUvj9-cwaA-l5bsiEBIYVt35VChii-DpdKGaAVmbk6wCX3RsRj_XtJlqKXkF24WJck9IxueShNLqTj_SmlzW48U8JUNxsZyF4BOLLeqtElC1XjqKt4Dx3uhA3dl3PbMR66yuBk31zjc1bYdzywiQaTA8Qwx9madtIA9apjU6wtMQoK4qBw6ByhMlDJOCvbxYUQUl14HB4bp9ixSU1717Oqhsu25o2tCZSzsPKRFCo_W5yJaoXx9fD7SGGvOJHBoqRVpXKhbAFSWZrzpgXk_fql7bMNUni9vzg",
+          "summary": "An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC.",
+          "published": "2026-02-26T11:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Xbox Replaces Head of Gaming, Xbox History, Whither Xbox",
+          "link": "https://stratechery.com/2026/xbox-replaces-head-of-gaming-xbox-history-whither-xbox/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3hib3gtcmVwbGFjZXMtaGVhZC1vZi1nYW1pbmcteGJveC1oaXN0b3J5LXdoaXRoZXIteGJveC8iXX0sImV4cCI6MTc3NDk2OTIyOCwiaWF0IjoxNzcyMzc3MjI4LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.Dh2JxJ9-sA0kgOH0bmZasuI7i7eDoTX6sMiTdRspmSKphBaO-7vCzrDzqUJQp3uDaujAJ3MujJdgCWpMmqWMauJiqzawVj0pY5OfaDpbc1GUkbs36uQexZ_nW50aSMdRMwrQ6Z6pMgCvb2PZQ32TRUefRZdCIaPMfyhjBju1G-thtdkWCfK7d-3w9d5DrmdkElXZ-LveFUSWuegJiY9IW8svAF21XnDA5U9EImHB49daimnHn5Tpm-5DIV8pHnqx3ABQFZ44-EuR3Y4oQd9wTuTKlIgWI9Q8IEqBfxw7Df-K6srpij4Fo82i_z3GE0gN6WMjlsEv5_uiuA_EvUa4mQ",
+          "summary": "Xbox has a new head, who isn't a gamer; I suspect Microsoft is doing what it should have done a decade ago: get out of the console business.",
+          "published": "2026-02-25T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Safer, Faster Public Transportation: AC Transit\u2019s AI-Powered Upgrade with Hayden AI - Ep. 290",
+          "link": "",
+          "summary": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear \u2014 boosting on\u2011time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO Marty Beard explain how bus\u2011mounted cameras and NVIDIA-powered edge AI automatically detect vehicles blocking bus lanes and stops, protect rider privacy by design, and are helping change driver behavior in the San Francisco Bay Area.\n\n\n\nExplore the next wave of AI innovation at NVIDIA GTC. Learn mo",
+          "published": "2026-02-18T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google\u2019s AI training.",
+          "published": "2026-02-26T18:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+          "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, \u201cunderstand\u201d and \u201cask\u201d buttons in Google Translate help you navigate the complexities of natural language.",
+          "published": "2026-02-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Nano Banana 2, our best image generation and editing model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "summary": "Build with Nano Banana 2",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "summary": "Nano Banana 2 text with AI generated images around it",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "See the whole picture and find the look with Circle to Search",
+          "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+          "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A more intelligent Android on Samsung Galaxy S26",
+          "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+          "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+          "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+          "published": "2026-02-26T16:01:50"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+          "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+          "summary": "3.1 Pro is designed for tasks where a simple answer isn\u2019t enough.",
+          "published": "2026-02-19T16:06:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AnySpeech \u2013 AI Voice Cloning and Text to Speech Tool",
+          "link": "https://anyspeech.io",
+          "summary": "<p>Article URL: <a href=\"https://anyspeech.io\">https://anyspeech.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47207159\">https://news.ycombinator.com/item?id=47207159</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-03-01T14:43:35"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: I Replaced ML Anomaly Detection with Artificial Immune System in Rust",
+          "link": "https://github.com/zot-run/zot-cell",
+          "summary": "<p>Article URL: <a href=\"https://github.com/zot-run/zot-cell\">https://github.com/zot-run/zot-cell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47207147\">https://news.ycombinator.com/item?id=47207147</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-03-01T14:41:57"
+        }
+      ]
+    },
+    {
       "date": "2026-02-28",
       "summary": "AI infrastructure and coding tools dominated discussions, with Cisco's president emphasizing AI's critical role in humanity's survival and Anthropic's Claude Code transforming software engineering practices. The focus shifted toward AI agents breaking into mainstream applications, while concerns about AI safety, job displacement, and the need for better security models gained prominence across industry conversations.",
       "podcast_highlights": [
@@ -9606,97 +9813,6 @@
           "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
           "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
           "published": "2025-11-19T10:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-24",
-      "top_features": [
-        {
-          "company": "Google DeepMind",
-          "feature": "AlphaFold evolution discussed by Nobel laureate John Jumper, indicating continued development in protein structure prediction AI"
-        },
-        {
-          "company": "DeepSeek",
-          "feature": "R1 reasoning model has been compressed and 'de-censored' by quantum physicists at Multiverse Computing, creating a 55% smaller variant called DeepSeek R1 Slim"
-        }
-      ],
-      "fintech_trends": [
-        "AI bonds are flooding markets and adding pressure to financial markets, indicating significant capital raising activity in the AI sector through debt instruments",
-        "Growing focus on AI's economic impact with legislative efforts to track AI-related job displacement through mandatory reporting requirements"
-      ],
-      "fundraising": [],
-      "summary": "Today's AI news focuses on regulatory and market pressures, with congressional bills targeting AI job impact reporting and AI bond issuances stressing financial markets. Technical developments include advances in protein folding AI and compressed reasoning models, while privacy concerns around AI companions gain attention.",
-      "raw_articles": [
-        {
-          "source": "Hacker News AI",
-          "title": "Bill to require reports regarding AI-related job impacts",
-          "link": "https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&format=txt",
-          "summary": "<p>Article URL: <a href=\"https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&amp;format=txt\">https://www.congress.gov/bill/119th-congress/senate-bill/3108/text/is?overview=closed&amp;format=txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036219\">https://news.ycombinator.com/item?id=46036219</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-24T17:00:10"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Flood of AI Bonds Adds to Pressure on Markets",
-          "link": "https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995",
-          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995\">https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036191\">https://news.ycombinator.com/item?id=46036191</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-24T16:58:16"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "The State of AI: Chatbot companions and the future of our privacy",
-          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
-          "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/\">https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036154\">https://news.ycombinator.com/item?id=46036154</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-24T16:54:25"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI and the Ironies of Automation",
-          "link": "https://www.ufried.com/blog/ironies_of_ai_1/",
-          "summary": "<p>Article URL: <a href=\"https://www.ufried.com/blog/ironies_of_ai_1/\">https://www.ufried.com/blog/ironies_of_ai_1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036059\">https://news.ycombinator.com/item?id=46036059</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-24T16:46:36"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI MCP for Product Designers \u2013 Make your design system machine-readable",
-          "link": "https://www.nikitisza.com/writing/mcp-for-product-designers",
-          "summary": "<p>Article URL: <a href=\"https://www.nikitisza.com/writing/mcp-for-product-designers\">https://www.nikitisza.com/writing/mcp-for-product-designers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46036003\">https://news.ycombinator.com/item?id=46036003</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-24T16:42:05"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
-          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
-          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
-          "published": "2025-11-24T16:21:12"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Designing digital resilience in the agentic AI era",
-          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
-          "published": "2025-11-20T14:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Scaling innovation in manufacturing with AI",
-          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
-          "published": "2025-11-19T16:54:55"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
-          "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
-          "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
-          "published": "2025-11-19T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Networking for AI: Building the foundation for real-time intelligence",
-          "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
-          "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators gathered to watch three days of fierce competition on the fairways. From a technology and logistics perspective, pulling off an event of&#8230;",
-          "published": "2025-11-18T16:03:14"
         }
       ]
     }
