@@ -1,6 +1,229 @@
 {
   "summaries": [
     {
+      "date": "2026-03-02",
+      "summary": "Major AI developments dominated the day with Google releasing Nano Banana 2, their fastest image generation model, while Anthropic faces a standoff with the Department of War over alignment issues. The design and development landscape is being fundamentally transformed by AI, with discussions around solo founders potentially outpacing small teams and traditional design processes becoming obsolete.",
+      "podcast_highlights": [
+        {
+          "title": "The design process is dead. Here's what's replacing it.",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jenny Wen from Anthropic's Claude team argues that traditional design processes are becoming obsolete in the AI era",
+            "New design methodologies are emerging that better accommodate AI-powered product development",
+            "Design leaders need to fundamentally rethink how they approach product creation with AI tools"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "AI is critical for humanity's survival: Cisco president on the AI revolution",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jeetu Patel from Cisco emphasizes AI's existential importance for humanity's future",
+            "Cisco is playing a central role in the massive AI infrastructure buildout with a 30,000-person team",
+            "The AI revolution requires fundamental infrastructure changes to support the transformation"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss the potential transformative impact of AI on white collar work",
+            "Analysis focuses on how AI tools are being adopted at a more sustainable pace than initially predicted",
+            "Examination of real-world AI implementation challenges and opportunities in professional settings"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Peter Steinberger created OpenClaw, an open-source AI agent framework that became GitHub's fastest-growing project in history",
+            "The project demonstrates the massive demand for accessible AI agent development tools",
+            "Discussion covers the technical architecture and community response to this breakthrough framework"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "Anthropic and Alignment",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Anthropic is currently in a standoff with the Department of War over AI alignment and safety concerns",
+            "While the company's safety concerns are considered legitimate, their position is described as 'intolerable and misaligned with reality'",
+            "This highlights the growing tension between AI safety advocates and government/military applications"
+          ],
+          "link": "https://stratechery.com/2026/anthropic-and-alignment/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Nano Banana 2 - Advanced image generation and editing model combining Pro capabilities with lightning-fast speed, featuring advanced world knowledge and subject consistency"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Google Translate with new AI-powered context features, including 'understand' and 'ask' buttons for deeper translation comprehension"
+        },
+        {
+          "company": "Google",
+          "feature": "Circle to Search updates with AI Overview that breaks down outfit components and virtual 'Try it on' visualization for apparel on diverse body types"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are being deployed for B2B commerce automation, with Alibaba's Accio compressing weeks of complex sourcing work into minutes and lowering barriers for global trade",
+        "Privacy-focused AI tools are emerging in financial document processing, with solutions like HushBrief offering stateless, zero-retention document summarization for sensitive materials"
+      ],
+      "fundraising": [
+        {
+          "company": "Cal AI",
+          "amount": "Undisclosed",
+          "details": "Acquired by MyFitnessPal, representing consolidation in the AI-powered health and fitness space"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "AI is critical for humanity\u2019s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "summary": "<p><strong>Jeetu Patel</strong> is the president and chief product officer at Cisco, where he leads a team of 30,000 people and is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Cisco went AI-f",
+          "published": "2026-02-26T13:31:32"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Anthropic and Alignment",
+          "link": "https://stratechery.com/2026/anthropic-and-alignment/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpYy1hbmQtYWxpZ25tZW50LyJdfSwiZXhwIjoxNzc1MDU1NjI4LCJpYXQiOjE3NzI0NjM2MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.rK3bGiuwOvuc5xdNh464-1YJevJM9QoHBBTyhrX-CT2ZtkfGUfHkd4aT3OxZJrOs8GITWBtcKI1DGaiwxbWXmmca6RNcuB2gKRI7NFGEtHBTxau_CnvsG4fFCbnyOC7caEA0rrfmwxv9s03iRjJLlufq60GzxB7ADnOEkPJqozHu7kdXjBwZ-zAXjosvZXMhMRcGpxGHqXDWQzHMrYLfoxj1--205u-IUoQS4MTGmpDpL55zWspZnEPiPLJbKw7ZSMdbzUkS-h4Ghox49uxNdEZGT1r_TuoM-q4OnmNaYCwNak0mWBgXTR89K1t7iE6ad63clYDReirz_8AkWbS9OA",
+          "summary": "Anthropic is in a standoff with the Department of War; while the company's concerns are legitimate, it position is intolerable and misaligned with reality.",
+          "published": "2026-03-02T11:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Bill Gurley About Runnin' Down a Dream",
+          "link": "https://stratechery.com/2026/an-interview-with-bill-gurley-about-runnin-down-a-dream/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWJpbGwtZ3VybGV5LWFib3V0LXJ1bm5pbi1kb3duLWEtZHJlYW0vIl19LCJleHAiOjE3NzUwNTU2MjgsImlhdCI6MTc3MjQ2MzYyOCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.gfosi_8V5vw8i2622wpt7NhIg8uVpa2jPWwfjbPEMM4kMv2j1YEgQql2Pi0R9OQXr7Zm69rgcWueXOo3a4JD21Yk6qjuQotudKw_neIJbllXpm1pbZYWDuMqIUfsi6Ji3miACkT9HNyhQoSt_Kgi-yijCx3huDJ-RUZW4E3LCD25lqZGEmJWuRu5ZfihZHTgoS2esaf8lF0spTqJzXlDIukbZPJJogInLxi9WzZL5qaI4bw6TNuyldJxhechHDhaKaoLcVEBOc3iXfU6osixAM_2FycafGdOBEftHV-7kRQhfad3OeFwUrH_-wUJ7LPfJcXwFVL0Y24OHYyRSEd7-w",
+          "summary": "An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC.",
+          "published": "2026-02-26T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Safer, Faster Public Transportation: AC Transit\u2019s AI-Powered Upgrade with Hayden AI - Ep. 290",
+          "link": "",
+          "summary": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear \u2014 boosting on\u2011time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO Marty Beard explain how bus\u2011mounted cameras and NVIDIA-powered edge AI automatically detect vehicles blocking bus lanes and stops, protect rider privacy by design, and are helping change driver behavior in the San Francisco Bay Area.\n\n\n\nExplore the next wave of AI innovation at NVIDIA GTC. Learn mo",
+          "published": "2026-02-18T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google\u2019s AI training.",
+          "published": "2026-02-26T18:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+          "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, \u201cunderstand\u201d and \u201cask\u201d buttons in Google Translate help you navigate the complexities of natural language.",
+          "published": "2026-02-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Nano Banana 2, our best image generation and editing model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "summary": "Build with Nano Banana 2",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "summary": "Nano Banana 2 text with AI generated images around it",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "See the whole picture and find the look with Circle to Search",
+          "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+          "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A more intelligent Android on Samsung Galaxy S26",
+          "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+          "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+          "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+          "published": "2026-02-26T16:01:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Is Acing Math Exams Faster Than Scientists Write Them",
+          "link": "https://spectrum.ieee.org/ai-math-benchmarks",
+          "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-math-benchmarks\">https://spectrum.ieee.org/ai-math-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47218705\">https://news.ycombinator.com/item?id=47218705</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-02T14:52:44"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "ProxyBase OpenClaw Skill \u2013 Unlock the Internet for Your AI Agent",
+          "link": "https://proxybase.xyz/openclaw",
+          "summary": "<p>Article URL: <a href=\"https://proxybase.xyz/openclaw\">https://proxybase.xyz/openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47218632\">https://news.ycombinator.com/item?id=47218632</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-02T14:47:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: HushBrief \u2013 A stateless, zero-retention AI document summarizer",
+          "link": "https://hushbrief.app",
+          "summary": "<p>Hi HN,<p>I\u2019m the founder of Fidelitas LLC. I built HushBrief because I was tired of two things:<p>The \"I can\u2019t help with that\" refusal messages from sanitized LLMs when trying to brief sensitive legal or investigative material.<p>The systemic risk of pasting core IP, depositions, or leaked documents into surveillance-backed models that train on user inputs.<p>HushBrief is an AI briefing tool designed around a zero-retention architecture.<p>The Tech Stack:<p>Inference: We use Venice AI for zer",
+          "published": "2026-03-02T14:46:24"
+        }
+      ]
+    },
+    {
       "date": "2026-03-01",
       "summary": "The AI industry is experiencing significant shifts in design philosophy and infrastructure, with Anthropic's Claude team arguing traditional design processes are obsolete while Cisco emphasizes AI as critical for humanity's survival. Google made major announcements with Nano Banana 2 for image generation and Gemini 3.1 Pro for complex tasks, while the developer community grapples with AI's impact on junior engineers and coding workflows.",
       "podcast_highlights": [
@@ -9725,94 +9948,6 @@
           "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
           "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
           "published": "2025-11-19T16:54:55"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-25",
-      "top_features": [
-        {
-          "company": "Google DeepMind",
-          "feature": "AlphaFold protein structure prediction advancements discussed by Nobel laureate John Jumper, moving beyond gaming AI to biological applications"
-        },
-        {
-          "company": "DeepSeek",
-          "feature": "R1 reasoning model compressed and 'de-censored' by Multiverse Computing, creating a 55% smaller version called DeepSeek R1 Slim"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Today's AI news highlighted significant developments in specialized applications, with Google DeepMind's AlphaFold continuing to advance protein prediction capabilities and new compressed versions of reasoning models like DeepSeek R1 being developed. The industry also grappled with fundamental questions about AI's true impact and the ethics of blocking AI bots from websites.",
-      "raw_articles": [
-        {
-          "source": "Hacker News AI",
-          "title": "Ask HN: Have you used an LLM for grief support?",
-          "link": "https://news.ycombinator.com/item?id=46047833",
-          "summary": "<p>My wife of 14 years recently told me she wants to end our marriage. One of the main reasons is that she has felt overwhelmed in a long\u2011term caregiving role: I have generalized anxiety disorder, and although I\u2019ve been in counseling for years (EMDR, family\u2011systems work), take an SSRI, meditate daily, and avoid alcohol/drugs, I still sometimes panic when I think I might upset someone. I\u2019m actively working on it, but this news has been devastating.<p>Emotionally, it feels similar to grief after a",
-          "published": "2025-11-25T16:57:48"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Lessons from testing three AI agents on the same complex task",
-          "link": "https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/",
-          "summary": "<p>Article URL: <a href=\"https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/\">https://prashamhtrivedi.in/ai-agent-comparison-claude-gemini-codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047694\">https://news.ycombinator.com/item?id=46047694</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-25T16:46:07"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "You probably shouldn't block AI bots from your website",
-          "link": "https://kerkour.com/dont-block-bots",
-          "summary": "<p>Article URL: <a href=\"https://kerkour.com/dont-block-bots\">https://kerkour.com/dont-block-bots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047673\">https://news.ycombinator.com/item?id=46047673</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-25T16:44:42"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "The AI Industry Is Built on a Big Unproven Assumption",
-          "link": "https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption",
-          "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption\">https://www.bloomberg.com/news/articles/2025-11-24/the-ai-industry-is-built-on-a-big-unproven-assumption</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047527\">https://news.ycombinator.com/item?id=46047527</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-25T16:35:31"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Is AI Eating the World?",
-          "link": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
-          "summary": "<p>Article URL: <a href=\"https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/\">https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46047506\">https://news.ycombinator.com/item?id=46047506</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-25T16:33:37"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The State of AI: Chatbot companions and the future of our privacy",
-          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
-          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this week&#8217;s conversation MIT Technology Review\u2019s senior reporter for features and investigations, Eileen Guo, and FT tech correspondent Melissa&#8230;",
-          "published": "2025-11-24T16:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
-          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
-          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
-          "published": "2025-11-24T16:21:12"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Designing digital resilience in the agentic AI era",
-          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
-          "published": "2025-11-20T14:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Scaling innovation in manufacturing with AI",
-          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
-          "published": "2025-11-19T16:54:55"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Quantum physicists have shrunk and \u201cde-censored\u201d DeepSeek R1",
-          "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
-          "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.&#160; The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller&#8230;",
-          "published": "2025-11-19T10:00:00"
         }
       ]
     }
