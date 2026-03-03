@@ -1,6 +1,214 @@
 {
   "summaries": [
     {
+      "date": "2026-03-03",
+      "summary": "Today's AI landscape reveals significant tensions between AI companies and government oversight, with Anthropic in a standoff with the Department of War while simultaneously being used in military operations. Meanwhile, Google launches Nano Banana 2 for advanced image generation, and industry leaders discuss the transformation of traditional design processes and AI's critical role in humanity's future.",
+      "podcast_highlights": [
+        {
+          "title": "The design process is dead. Here's what's replacing it.",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jenny Wen from Claude/Anthropic discusses how traditional design processes are being fundamentally transformed by AI",
+            "Former Figma Director of Design shares insights on leading design teams for FigJam and Slides",
+            "Explores new methodologies replacing conventional design workflows in AI-first product development"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "AI is critical for humanity's survival: Cisco president on the AI revolution",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jeetu Patel, Cisco's president and CPO, leads 30,000 people in massive AI infrastructure buildout",
+            "Argues that AI development is not just beneficial but critical for humanity's long-term survival",
+            "Provides insights into the scale and urgency of current AI infrastructure investments"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Peter Steinberger created OpenClaw, an open-source AI agent framework that became GitHub's fastest-growing project in history",
+            "Discusses the viral growth and technical architecture behind breakthrough AI agent technology",
+            "Explores the implications of democratizing advanced AI agent capabilities through open-source development"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "Anthropic and Alignment",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Anthropic is currently in a standoff with the Department of War over AI alignment and safety concerns",
+            "While the company's safety concerns are legitimate, their position is described as 'intolerable and misaligned with reality'",
+            "Highlights the growing tension between AI safety priorities and national security requirements"
+          ],
+          "link": "https://stratechery.com/2026/anthropic-and-alignment/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Nano Banana 2 - Advanced image generation and editing model combining Pro capabilities with lightning-fast speed, featuring advanced world knowledge and subject consistency"
+        },
+        {
+          "company": "Google",
+          "feature": "Enhanced Google Translate with new AI-powered context features, alternatives, 'understand' and 'ask' buttons for deeper translation comprehension"
+        },
+        {
+          "company": "Google",
+          "feature": "Circle to Search updates with AI Overview that breaks down outfit components and virtual 'Try it on' button for visualizing apparel on diverse body types"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are transforming global B2B trade and sourcing, with Alibaba's Accio compressing weeks of complex procurement work into minutes",
+        "AI-powered documentation and data analysis tools are emerging that prioritize privacy by never directly accessing sensitive financial data",
+        "Transit and public infrastructure agencies are adopting AI and edge computing for operational efficiency, potentially indicating broader fintech infrastructure AI adoption patterns"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "AI is critical for humanity\u2019s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "summary": "<p><strong>Jeetu Patel</strong> is the president and chief product officer at Cisco, where he leads a team of 30,000 people and is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Cisco went AI-f",
+          "published": "2026-02-26T13:31:32"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Technological Scale and Government Control, Paramount Outbids Netflix for Warner Bros.",
+          "link": "https://stratechery.com/2026/technological-scale-and-government-control-paramount-outbids-netflix-for-warner-bros/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3RlY2hub2xvZ2ljYWwtc2NhbGUtYW5kLWdvdmVybm1lbnQtY29udHJvbC1wYXJhbW91bnQtb3V0Ymlkcy1uZXRmbGl4LWZvci13YXJuZXItYnJvcy8iXX0sImV4cCI6MTc3NTE0MjAzMCwiaWF0IjoxNzcyNTUwMDMwLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.tlPA4pH_xhz-7gxy9nKaar3vKkUF9NBZ5KhO1wIq5P1QKCUCHdfwjz25dEob2pCM_W8UaLu9TcvZoKUBZlA2tf0C6mq6lwGBb1mSzhDCGUU1bS7qRGBjQhsOXoOCPlGqt0mpO2V8d-FXn2GC21YNmEbNO5A-wDo9xUmYIO-YHaAtPq05Wce8H-tjmKldxtC0B67O2wOojiKJKY4uvG_beZ2smYQuDT7laZMmSwFD6GdZLD2aLCs2HuVqNsEFlM7-cgJetmEK8CPKY9Mhv_37Tgqu64_j6vFOC8S7QuOaAmVfJjg-Nju60hBdQ1Je4LBD2v99I32EUbEDXe4nMOBtyw",
+          "summary": "Why government is not the primary customer for tech companies, and is Netflix relieved that they were outbid for Warner Bros.?",
+          "published": "2026-03-03T11:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Anthropic and Alignment",
+          "link": "https://stratechery.com/2026/anthropic-and-alignment/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpYy1hbmQtYWxpZ25tZW50LyJdfSwiZXhwIjoxNzc1MTQyMDMwLCJpYXQiOjE3NzI1NTAwMzAsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.MUqPJk_t3mno_9hXaS3vzSFyZp0aVqmfi754oTbUUZSIwPLR3pNJJJ3YBT_OrgyH_oFkEbxycZr0Y7aUTIsgtS1ePPRGWETaQBYBr7jt8yFbHuGlqfv30Z2W4F84PFlQFk3uz28szfS9ool-CHxU2hLei6oTEcB9bZV6jgNAlppO8aL9gJPhXMLOfPNDDToaG3TX1rFFtNHoESBkGA_y0GK1G-Ou66cAgxPUT4ZEaP_r6nRkBxGOwJtefIIPWlpUR_gW5cWdzSWAWmoEdgEEOu1Qcy_JFXfxvfFB5uSEzRT8aeQdxqqhIkIVwZXDFnK2K2dTIKo8FOSK5O76ysH_vQ",
+          "summary": "Anthropic is in a standoff with the Department of War; while the company's concerns are legitimate, it position is intolerable and misaligned with reality.",
+          "published": "2026-03-02T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Safer, Faster Public Transportation: AC Transit\u2019s AI-Powered Upgrade with Hayden AI - Ep. 290",
+          "link": "",
+          "summary": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear \u2014 boosting on\u2011time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO Marty Beard explain how bus\u2011mounted cameras and NVIDIA-powered edge AI automatically detect vehicles blocking bus lanes and stops, protect rider privacy by design, and are helping change driver behavior in the San Francisco Bay Area.\n\n\n\nExplore the next wave of AI innovation at NVIDIA GTC. Learn mo",
+          "published": "2026-02-18T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google\u2019s AI training.",
+          "published": "2026-02-26T18:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+          "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, \u201cunderstand\u201d and \u201cask\u201d buttons in Google Translate help you navigate the complexities of natural language.",
+          "published": "2026-02-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Nano Banana 2, our best image generation and editing model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "summary": "Build with Nano Banana 2",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "summary": "Nano Banana 2 text with AI generated images around it",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "See the whole picture and find the look with Circle to Search",
+          "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+          "summary": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A more intelligent Android on Samsung Galaxy S26",
+          "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+          "summary": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results.",
+          "published": "2026-02-25T18:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+          "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+          "published": "2026-02-26T16:01:50"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "If AI is great at HTML/CSS, why are AI presentation/CV tools template based?",
+          "link": "https://news.ycombinator.com/item?id=47233397",
+          "summary": "<p>Most AI resume and presentation tools work like:\nAI -> pick a template -> fill in content.<p>But LLMs are actually pretty good at generating and modifying raw HTML/CSS. In theory, you could:<p>1. Keep the doc as real HTML (or React)\n2. Let AI directly adjust layout and styles\n3. Iterate with prompts like \u201cmore minimal\u201d or \u201cstronger hierarchy\u201d\n4. Export to PDF at the end<p>So why are we still constraining everything to rigid templates?\nIs this about PDF rendering, layout instability, user trus",
+          "published": "2026-03-03T14:59:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Anthropic AI used in Khamenei elimination",
+          "link": "https://www.engadget.com/ai/the-us-reportedly-used-anthropics-ai-for-its-attack-on-iran-just-after-banning-it-172908929.html",
+          "summary": "<p>Article URL: <a href=\"https://www.engadget.com/ai/the-us-reportedly-used-anthropics-ai-for-its-attack-on-iran-just-after-banning-it-172908929.html\">https://www.engadget.com/ai/the-us-reportedly-used-anthropics-ai-for-its-attack-on-iran-just-after-banning-it-172908929.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47233343\">https://news.ycombinator.com/item?id=47233343</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-03T14:56:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI used to plan elimination of Khamenei",
+          "link": "https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836",
+          "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836\">https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47233300\">https://news.ycombinator.com/item?id=47233300</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-03T14:54:18"
+        }
+      ]
+    },
+    {
       "date": "2026-03-02",
       "summary": "Major AI developments dominated the day with Google releasing Nano Banana 2, their fastest image generation model, while Anthropic faces a standoff with the Department of War over alignment issues. The design and development landscape is being fundamentally transformed by AI, with discussions around solo founders potentially outpacing small teams and traditional design processes becoming obsolete.",
       "podcast_highlights": [
@@ -9860,94 +10068,6 @@
           "link": "https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/",
           "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/\">https://www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46070844\">https://news.ycombinator.com/item?id=46070844</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2025-11-27T16:36:12"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-26",
-      "top_features": [
-        {
-          "company": "Google DeepMind",
-          "feature": "AlphaFold continues evolution in protein structure prediction with Nobel laureate John Jumper discussing future developments"
-        },
-        {
-          "company": "Palantir",
-          "feature": "AI newsroom tools being developed for Fox News to enhance media operations"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Today's AI news highlights growing concerns about AI-generated content proliferation, with over half of new internet articles now being AI-written, while technical discussions focus on autonomous AI agents' security capabilities and the emerging role of AI environment architects. The industry continues to grapple with distinguishing AI hype from reality as chatbot companions raise new privacy concerns.",
-      "raw_articles": [
-        {
-          "source": "Hacker News AI",
-          "title": "Autonomous RCE using an AI agent: a technical case study",
-          "link": "https://aliasrobotics.com/case-study-selfhack.php",
-          "summary": "<p>Article URL: <a href=\"https://aliasrobotics.com/case-study-selfhack.php\">https://aliasrobotics.com/case-study-selfhack.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059481\">https://news.ycombinator.com/item?id=46059481</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-26T16:53:21"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Smells on Medium",
-          "link": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
-          "summary": "<p>Article URL: <a href=\"https://rmoff.net/2025/11/25/ai-smells-on-medium/\">https://rmoff.net/2025/11/25/ai-smells-on-medium/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059433\">https://news.ycombinator.com/item?id=46059433</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-26T16:49:36"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Fox News hires Palantir to build AI newsroom tools",
-          "link": "https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools",
-          "summary": "<p>Article URL: <a href=\"https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools\">https://www.axios.com/2025/11/18/fox-news-palantir-ai-newsroom-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059215\">https://news.ycombinator.com/item?id=46059215</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-26T16:34:05"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "From Software Engineer to AI Environment Architect",
-          "link": "https://infini-ai-lab.github.io/ai-environment-architect/",
-          "summary": "<p>Article URL: <a href=\"https://infini-ai-lab.github.io/ai-environment-architect/\">https://infini-ai-lab.github.io/ai-environment-architect/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059185\">https://news.ycombinator.com/item?id=46059185</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-26T16:32:10"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "More than half of new articles on the internet are being written by AI",
-          "link": "https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354",
-          "summary": "<p>Article URL: <a href=\"https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354\">https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46059134\">https://news.ycombinator.com/item?id=46059134</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-26T16:29:08"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The AI Hype Index: The people can\u2019t get enough of AI slop",
-          "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
-          "summary": "Separating AI reality from hyped-up fiction isn\u2019t always easy. That\u2019s why we\u2019ve created the AI Hype Index\u2014a simple, at-a-glance summary of everything you need to know about the state of the industry. Last year, the fantasy author Joanna Maciejewska went viral (if such a thing is still possible on X) with a post saying \u201cI&#8230;",
-          "published": "2025-11-26T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The State of AI: Chatbot companions and the future of our privacy",
-          "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
-          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power. In this week&#8217;s conversation MIT Technology Review\u2019s senior reporter for features and investigations, Eileen Guo, and FT tech correspondent Melissa&#8230;",
-          "published": "2025-11-24T16:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "What\u2019s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
-          "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
-          "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret project to predict the structures of proteins. He applied for a job. Just three years later, Jumper celebrated a stunning win&#8230;",
-          "published": "2025-11-24T16:21:12"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Designing digital resilience in the agentic AI era",
-          "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-          "summary": "Digital resilience\u2014the ability to prevent, withstand, and recover from digital disruptions\u2014has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resilience is greater than ever. Agentic AI represents a new generation of autonomous systems capable of proactive planning, reasoning, and executing tasks with minimal human intervention. As&#8230;",
-          "published": "2025-11-20T14:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Scaling innovation in manufacturing with AI",
-          "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-          "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies\u2014like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)\u2014it is enabling factory operations teams to shift from reactive, isolated problem-solving to proactive, systemwide optimization. Digital twins\u2014physically accurate virtual representations of a piece of equipment, a production line, a process,&#8230;",
-          "published": "2025-11-19T16:54:55"
         }
       ]
     }
