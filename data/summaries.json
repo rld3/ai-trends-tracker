@@ -1,6 +1,224 @@
 {
   "summaries": [
     {
+      "date": "2026-03-07",
+      "summary": "The AI industry is experiencing a significant shift toward practical applications and enterprise adoption, with Anthropic's revenue skyrocketing and growing tensions with the U.S. government over surveillance concerns. Google released multiple new AI models including Gemini 3.1 Flash-Lite and Nano Banana 2, while design processes are being fundamentally transformed by AI capabilities, moving away from traditional methodologies.",
+      "podcast_highlights": [
+        {
+          "title": "The design process is dead. Here's what's replacing it.",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jenny Wen from Anthropic argues that traditional design processes are becoming obsolete due to AI capabilities",
+            "New design methodologies are emerging that leverage AI for rapid prototyping and iteration",
+            "The role of designers is shifting from execution to strategic thinking and AI collaboration"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "AI is critical for humanity's survival: Cisco president on the AI revolution",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jeetu Patel from Cisco emphasizes AI's existential importance for human progress and survival",
+            "Discusses the massive AI infrastructure buildout happening across enterprise networks",
+            "Highlights the critical role of network infrastructure in supporting AI at scale"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Analysis of AI's potential impact on white collar work and productivity",
+            "Discussion of how AI adoption is progressing at a more measured pace than initially predicted",
+            "Examination of practical applications and limitations in professional environments"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Deep dive into the ongoing dispute between Anthropic and the U.S. government over AI surveillance",
+            "Discussion of legal and ethical implications of government use of AI for domestic monitoring",
+            "Analysis of how this conflict could shape future AI regulation and policy"
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Peter Steinberger discusses OpenClaw becoming the fastest-growing project in GitHub history",
+            "Exploration of open-source AI agent frameworks and their explosive adoption",
+            "Analysis of how viral AI projects are reshaping developer communities and workflows"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3.1 Flash-Lite - fastest and most cost-efficient model in the Gemini 3 series"
+        },
+        {
+          "company": "Google",
+          "feature": "Nano Banana 2 - advanced image generation and editing model with pro capabilities at flash speed"
+        },
+        {
+          "company": "Google",
+          "feature": "Canvas in AI Mode - interactive workspace for writing and coding directly in Google Search"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are transforming global trade and B2B commerce, with Alibaba's AI agents compressing weeks of sourcing work into minutes",
+        "Enterprise AI adoption is accelerating revenue growth, as seen with Anthropic's skyrocketing business metrics",
+        "Infrastructure demand for AI inference is reshaping electricity and compute resource allocation in financial services"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "AI is critical for humanity\u2019s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "summary": "<p><strong>Jeetu Patel</strong> is the president and chief product officer at Cisco, where he leads a team of 30,000 people and is playing a central role in the massive AI infrastructure buildout happening right now. Previously, he spent five years as CPO at Box and 17 years running his own startup. Recently Jeetu organized an AI summit featuring industry leaders like Jensen Huang, Sam Altman, Marc Andreessen, and Fei-Fei Li.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Cisco went AI-f",
+          "published": "2026-02-26T13:31:32"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
+          "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWdyZWdvcnktYWxsZW4tYWJvdXQtYW50aHJvcGljLWFuZC10aGUtdS1zLWdvdmVybm1lbnQvIl19LCJleHAiOjE3NzU0MDQwNTIsImlhdCI6MTc3MjgxMjA1MiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.VSxWmO7I-RzpkjbcZv4ObjowN0ab51WWAels75jAXy4n_ooXb0k8nF68ps_gmSEJEAkEEKJOkez8uAhkSS0BYgF3a8ldtflpBuzSOcwOu6eUzsnvN4wtWVBadrjCnlGPvLQh4kVQoiOwbHDDte6o3830hAuZvcR9eAPH8HWE5Hz3abuVJv49ng7dllQl-bBfuiDTtZlS2RPYyPkptdKA96Bi5G2R_7kmxyef_f4j2CpuLy-G8UWM0BniRA4Q4KbeMEfYq7kYnEO5HYtzytUc4Oxtfn7fCOIRxzl89-SLxsQEiwSel2ZakTGQqn-JAhORFceSGdUTW4l8nOK_g_67Gw",
+          "summary": "An interview with Gregory Allen about Anthropic's dispute with the U.S. government.",
+          "published": "2026-03-05T11:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Anthropic's Skyrocketing Revenue, A Contract Compromise?, Nvidia Earnings",
+          "link": "https://stratechery.com/2026/anthropics-skyrocketing-revenue-a-contract-compromise-nvidia-earnings/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3Mtc2t5cm9ja2V0aW5nLXJldmVudWUtYS1jb250cmFjdC1jb21wcm9taXNlLW52aWRpYS1lYXJuaW5ncy8iXX0sImV4cCI6MTc3NTQwNDA1MiwiaWF0IjoxNzcyODEyMDUyLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.Qo9hiUqY4w-kznMSu2ljU_zZa_jDyHrqOXDSHosFnBFPZgHBgbDt9r09w-3tmPkKOVxxBjNccPah5qHC6l4zyp6aaR1w5CZY3hSRMbzG2k9tQPMKFW_etJhwYhC5VdPGaIhqbTK5d-GljRb-zhFppszp-aTVOP-LcyhFkCr6KskpCq13IkT3wHhEfA8engCIb3IaE7-Ik5kBcDHw19a0SAnlN9WTmPK9QtkI1EQTWmvYuVYY2dyCIQM3zxA9RDp7cqKHFohMsnRUqOxV3jFbvGgdk6YatZnhyW5cjKJWQ_ksRWlvczzcGBvxZINFernRJ8CzW3lONSHm85OF1cRVeA",
+          "summary": "Anthropic's enterprise business is reaching escape velocity, which increases the importance of finding a compromise with the government. Then, agents dramatically increase demand for Nvidia chips, even if they threaten software.",
+          "published": "2026-03-04T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "summary": "Photos of animals being identified by the SpeciesNet AI model",
+          "published": "2026-03-06T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+          "published": "2026-03-05T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+          "published": "2026-03-05T16:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "published": "2026-03-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Create new worlds in Project Genie with these 4 tips",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+          "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+          "published": "2026-03-03T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+          "summary": "Gemini 3.1 Flash Lite logo",
+          "published": "2026-03-03T16:34:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google\u2019s AI training.",
+          "published": "2026-02-26T18:55:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+          "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />New alternatives, \u201cunderstand\u201d and \u201cask\u201d buttons in Google Translate help you navigate the complexities of natural language.",
+          "published": "2026-02-26T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "summary": "Nano Banana 2 text with AI generated images around it",
+          "published": "2026-02-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Nano Banana 2, our best image generation and editing model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "summary": "Build with Nano Banana 2",
+          "published": "2026-02-26T16:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-03-06",
       "summary": "Anthropic continues its rapid growth trajectory with skyrocketing enterprise revenue while navigating government relations challenges, as AI agents drive unprecedented demand for NVIDIA infrastructure. The industry is seeing significant shifts in design processes, AI-assisted warfare applications, and growing concerns about AI safety and harassment, while Google launches multiple new AI products including Gemini 3.1 Flash-Lite and Nano Banana 2.",
       "podcast_highlights": [
@@ -10233,107 +10451,6 @@
           "link": "https://github.com/pflow-xyz/go-pflow",
           "summary": "<p>Article URL: <a href=\"https://github.com/pflow-xyz/go-pflow\">https://github.com/pflow-xyz/go-pflow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46097855\">https://news.ycombinator.com/item?id=46097855</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
           "published": "2025-11-30T16:15:28"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-29",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 released with CEO Sundar Pichai providing in-depth discussion on capabilities"
-        },
-        {
-          "company": "Google",
-          "feature": "Ironwood TPU launched - Google's latest tensor processing unit for AI workloads"
-        },
-        {
-          "company": "Anthropic",
-          "feature": "Opus 4.5 appears to be a breakthrough model aligned with enterprise strategy"
-        }
-      ],
-      "fintech_trends": [
-        "Cryptocurrency companies are liquidating token stockpiles to fund share buybacks and stabilize stock prices amid market volatility",
-        "AI automation is driving significant cost-cutting measures across traditional corporations, with HP planning layoffs while increasing AI adoption"
-      ],
-      "fundraising": [
-        {
-          "company": "UK AI Sector",
-          "amount": "$130M",
-          "details": "UK government investment to boost AI hardware startups with guaranteed payments"
-        }
-      ],
-      "summary": "Google dominated AI announcements with Gemini 3's release and new Ironwood TPU hardware, while industry analysis highlighted Anthropic's Opus 4.5 breakthrough and growing concerns about AI's societal impacts. The intersection of AI and traditional industries showed mixed signals with crypto sell-offs and government investment in AI infrastructure.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
-          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
-          "published": "2025-11-26T23:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
-          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
-          "published": "2025-11-25T23:39:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The Google guide for holiday help",
-          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-          "published": "2025-11-25T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "4 ways to refine your content in Flow",
-          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
-          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
-          "published": "2025-11-25T17:40:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "3 things to know about Ironwood, our latest TPU",
-          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
-          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
-          "published": "2025-11-25T16:00:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Why Doesn't Anyone Monitor AI Consciousness? [video]",
-          "link": "https://youtu.be/S8ttAlUXbc0?si=XLcOYGgVOFFqf8j8",
-          "summary": "<p>Article URL: <a href=\"https://youtu.be/S8ttAlUXbc0?si=XLcOYGgVOFFqf8j8\">https://youtu.be/S8ttAlUXbc0?si=XLcOYGgVOFFqf8j8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46089013\">https://news.ycombinator.com/item?id=46089013</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-29T17:00:43"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Experts warn of growing risk of 'ChatGPT psychosis' among AI chatbot users",
-          "link": "https://techoreon.com/ai-chatgpt-psychosis-delusion-among-chatbot-users-experts/",
-          "summary": "<p>Article URL: <a href=\"https://techoreon.com/ai-chatgpt-psychosis-delusion-among-chatbot-users-experts/\">https://techoreon.com/ai-chatgpt-psychosis-delusion-among-chatbot-users-experts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46088970\">https://news.ycombinator.com/item?id=46088970</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-29T16:56:48"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "How do you learn without AI?",
-          "link": "https://stackoverflow.com/q/79832798/453783",
-          "summary": "<p>Article URL: <a href=\"https://stackoverflow.com/q/79832798/453783\">https://stackoverflow.com/q/79832798/453783</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46088798\">https://news.ycombinator.com/item?id=46088798</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-29T16:36:57"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Ainfographic \u2013 Turn blog posts into infographics with AI",
-          "link": "https://ainfographic.com/",
-          "summary": "<p>Article URL: <a href=\"https://ainfographic.com/\">https://ainfographic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46088655\">https://news.ycombinator.com/item?id=46088655</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-29T16:16:36"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AI System Generating Minecraft Mods (97% Working)",
-          "link": "https://www.player.games/en-US/create-minecraft-mods-ai",
-          "summary": "<p>Hey folks,<p>I've spent the last several months building an AI-driven system that generates Minecraft mods and plugins e2e. It's an agentic workflow that writes code, runs it through the standard toolchain, and handles the usual compile-time and simple runtime issues as part of the loop. The interesting part has been making the whole process reliable across multiple modding ecosystems and version targets.<p>The system currently supports generating server plugins (Spigot), server and client mo",
-          "published": "2025-11-29T16:12:07"
         }
       ]
     }
