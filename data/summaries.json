@@ -1,6 +1,223 @@
 {
   "summaries": [
     {
+      "date": "2026-03-09",
+      "summary": "AI development is rapidly shifting from experimental to operational, with major focus on AI agents, government partnerships, and design transformation. Key discussions centered around Applied Intuition's $15B success in vehicle AI, the death of traditional design processes due to AI, and ongoing tensions between AI companies and government surveillance programs.",
+      "podcast_highlights": [
+        {
+          "title": "The most successful AI company you've never heard of | Qasar Younis",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Applied Intuition has reached a $15 billion valuation by adding AI intelligence to vehicles including cars, tractors, planes, and submarines",
+            "The company represents a major success story in B2B AI applications beyond consumer chatbots",
+            "Focus on practical AI implementation in industrial and transportation sectors"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of"
+        },
+        {
+          "title": "The design process is dead. Here's what's replacing it. | Jenny Wen (head of design at Claude)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Traditional design processes are being fundamentally disrupted by AI capabilities",
+            "Claude's head of design discusses how AI is reshaping product design workflows",
+            "New methodologies emerging to replace established design frameworks"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion on AI's potential impact on white-collar work moving beyond hype to practical implementation",
+            "Analysis of how AI tools are being integrated into professional workflows",
+            "Examination of realistic timelines for AI adoption in knowledge work"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Deep dive into Anthropic's dispute with the U.S. government over AI usage",
+            "Discussion of tensions between AI safety and government surveillance requirements",
+            "Analysis of regulatory challenges facing major AI companies"
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "OpenClaw became the fastest-growing project in GitHub history as an open-source AI agent framework",
+            "Discussion of viral growth patterns in open-source AI tooling",
+            "Insights into building AI agent frameworks that capture developer interest"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3.1 Flash-Lite: Fastest and most cost-efficient Gemini 3 series model for intelligence at scale"
+        },
+        {
+          "company": "Google",
+          "feature": "Canvas in AI Mode: Interactive tool for writing and coding directly in Search, now available to all US users"
+        },
+        {
+          "company": "Google",
+          "feature": "Project Genie: Experimental interface for creating new worlds and 360-degree experiences"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are increasingly being integrated with payment systems, as evidenced by Satsgate's Lightning L402 paywall for API and AI agent micropayments",
+        "B2B financial infrastructure is evolving to support AI agent transactions, with new models for automated sourcing and trade facilitation as shown by Alibaba's Accio agent"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The most successful AI company you\u2019ve never heard of | Qasar Younis",
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
+          "summary": "<p><strong>Qasar Younis</strong> is the co-founder and CEO of Applied Intuition, a $15 billion AI company that adds intelligence to cars, tractors, planes, submarines, and other vehicles\u2014essentially, Tesla or Waymo without the hardware. He was previously COO of Y Combinator, started his career as an engineer at GM and Bosch, and was born on a farm in Pakistan.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why the biggest AI revolution will play out in mining, farming, construction, and truc",
+          "published": "2026-03-08T12:31:38"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory",
+          "link": "https://stratechery.com/2026/macbook-neo-the-not-so-thin-macbook-apple-and-memory/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L21hY2Jvb2stbmVvLXRoZS1ub3Qtc28tdGhpbi1tYWNib29rLWFwcGxlLWFuZC1tZW1vcnkvIl19LCJleHAiOjE3NzU2NTkwMzUsImlhdCI6MTc3MzA2NzAzNSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.LR3sLq1MDL-7TxWwG1MCfu5wwYtzhkhDu6MX_RsEQ7QXwI333zeVD_5rZUvk4o6F2ICNmA9p0Hq9BkJXOCKSmsUvnSfjuZSyGt8q1zSjVh0tOfezNMNQiF8careFGzYLvCclGUasf48Tabt6vbjaIX0skNP7OvpPqQ8D0qFANLsUjFhWRLznspxAII1uU78C-6eWLGgmITDhG41y718yMt_Q1Qme9uFassbSfxEVR8Abh5weJl24Hp45pqQ_JZEsrI0CfrdDtMo5n4CQbV38FhpgxJrec3tlOev0ujx16gikb6r5c8gkTi9Sv5-G_LR5uhH8COtj3WUwI2d6JKuv3w",
+          "summary": "The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud.",
+          "published": "2026-03-09T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
+          "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWdyZWdvcnktYWxsZW4tYWJvdXQtYW50aHJvcGljLWFuZC10aGUtdS1zLWdvdmVybm1lbnQvIl19LCJleHAiOjE3NzU2NTkwMzUsImlhdCI6MTc3MzA2NzAzNSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.FMVtn0qbMHXcLqnkD3wa_m_SFstozPXtDeX2ultRglevyIxHXij4YfJDicVjYe6FV2aF5Yih3GtuiEKH7gxjQEUKqEJfKLTwUgBHtTzo9tWk0IbuVcPmszpbYgNTUim8XOc99oeLHupW-WdDZviul6fkwdK26selxI5oo-zUFzQM8Pum58N2YPmyrZ2xgqVO_Vr65tA156M8drRIUREpgw3a9eWX7Jxuz6HwU-jBZm9BtVN3SmpbqZE-1EuwA9A-YLVFLKW-hrsg--L6LNdLtsrtyxdSJP5hrM98-EG7kZoenv3BT79qqW5d5rzQIC6BoTkO9_eFObBPIjx17tvo2A",
+          "summary": "An interview with Gregory Allen about Anthropic's dispute with the U.S. government.",
+          "published": "2026-03-05T11:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "summary": "Photos of animals being identified by the SpeciesNet AI model",
+          "published": "2026-03-06T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+          "published": "2026-03-05T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+          "published": "2026-03-05T16:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "published": "2026-03-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Create new worlds in Project Genie with these 4 tips",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+          "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+          "published": "2026-03-03T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+          "summary": "Gemini 3.1 Flash Lite logo",
+          "published": "2026-03-03T16:34:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+          "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+          "published": "2026-03-03T16:35:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Let's be honest about AI Coding",
+          "link": "https://kenkantzer.com/lets-be-honest-about-ai/",
+          "summary": "<p>Article URL: <a href=\"https://kenkantzer.com/lets-be-honest-about-ai/\">https://kenkantzer.com/lets-be-honest-about-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47309699\">https://news.ycombinator.com/item?id=47309699</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-09T14:36:16"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Needs Management Consultants After All",
+          "link": "https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9",
+          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9\">https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47309586\">https://news.ycombinator.com/item?id=47309586</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-09T14:27:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: OpenClaw CRM, an open source CRM your AI agent can manage",
+          "link": "https://github.com/giorgosn/openclaw-crm",
+          "summary": "<p>We built a CRM that your Openclaw agent can control through the API. This started as a practical problem: while building and using agents, we kept needing to organize leads, track conversations, and manage deals, but existing CRMs are not designed for programmatic control. So we built one around that assumption.<p>The agent connects via a skill file generated from the CRM's OpenAPI spec. Go to Settings, generate the file, drop it into your agent config, and the agent can create contacts, upda",
+          "published": "2026-03-09T14:26:39"
+        }
+      ]
+    },
+    {
       "date": "2026-03-07",
       "summary": "The AI industry is experiencing a significant shift toward practical applications and enterprise adoption, with Anthropic's revenue skyrocketing and growing tensions with the U.S. government over surveillance concerns. Google released multiple new AI models including Gemini 3.1 Flash-Lite and Nano Banana 2, while design processes are being fundamentally transformed by AI capabilities, moving away from traditional methodologies.",
       "podcast_highlights": [
@@ -10356,101 +10573,6 @@
           "link": "https://github.com/dohyeondk/sub-tools",
           "summary": "<p>Article URL: <a href=\"https://github.com/dohyeondk/sub-tools\">https://github.com/dohyeondk/sub-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109355\">https://news.ycombinator.com/item?id=46109355</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
           "published": "2025-12-01T16:29:52"
-        }
-      ]
-    },
-    {
-      "date": "2025-11-30",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 discussed by CEO Sundar Pichai, marking the next major iteration of Google's flagship AI model"
-        },
-        {
-          "company": "Google",
-          "feature": "Ironwood TPU announced - Google's latest tensor processing unit for AI workloads with enhanced performance"
-        },
-        {
-          "company": "Anthropic",
-          "feature": "Opus 4.5 represents a significant breakthrough in AI capabilities, positioned for enterprise strategy alignment"
-        }
-      ],
-      "fintech_trends": [
-        "Crypto market volatility with companies dumping tokens to fund share buybacks and shore up stock prices, indicating AI-driven financial strategies",
-        "Government investment in AI infrastructure with UK's $130M push to boost AI sector through guaranteed payments for British AI hardware startups"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated today's AI announcements with Gemini 3 insights from CEO Sundar Pichai and the unveiling of their new Ironwood TPU, while Anthropic's Opus 4.5 breakthrough signals major progress in enterprise AI capabilities. The industry continues to grapple with AI detection challenges and the proliferation of AI-generated content across platforms.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
-          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
-          "published": "2025-11-26T23:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
-          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
-          "published": "2025-11-25T23:39:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The Google guide for holiday help",
-          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-          "published": "2025-11-25T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "4 ways to refine your content in Flow",
-          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
-          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
-          "published": "2025-11-25T17:40:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "3 things to know about Ironwood, our latest TPU",
-          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
-          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
-          "published": "2025-11-25T16:00:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AI agents that validate your product idea by talking to real users",
-          "link": "https://app.holyshift.ai/ai/project",
-          "summary": "<p>I built a tool to solve a problem I kept running into:\nI was making product decisions based on guessing instead of real users. I kept building stuff nobody wanted as I was usually wrong.<p>So, I built HolyShift:\nAI agents that validate product ideas by talking to real people on Reddit, HN, X, and LinkedIn \u2026 then generate a detailed GTM and \u201cShould we build this?\u201d report.<p>No synthetic data (ChatGPT).\nNo predictions.\nOnly real conversations from real people.<p>What it does\n \u2022 Posts platform-n",
-          "published": "2025-11-30T17:03:23"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Party in the AI Lab (Parody of Parody \"Party in the CIA.\" By Weird Al Yankovic) [video]",
-          "link": "https://www.youtube.com/watch?v=b8yeQnP_ftw",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=b8yeQnP_ftw\">https://www.youtube.com/watch?v=b8yeQnP_ftw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098283\">https://news.ycombinator.com/item?id=46098283</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-30T16:55:34"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Can you spot AI videos from real ones? Take our quiz",
-          "link": "https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz",
-          "summary": "<p>Article URL: <a href=\"https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz\">https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098220\">https://news.ycombinator.com/item?id=46098220</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-11-30T16:50:29"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Geo / AI SEO Robots.txt Audit Tool",
-          "link": "https://ai-robots-txt.franzai.com/#domain=nytimes.com",
-          "summary": "<p>Article URL: <a href=\"https://ai-robots-txt.franzai.com/#domain=nytimes.com\">https://ai-robots-txt.franzai.com/#domain=nytimes.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46098114\">https://news.ycombinator.com/item?id=46098114</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-11-30T16:40:03"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Using Petri nets as a formal language for LLM-assisted development",
-          "link": "https://github.com/pflow-xyz/go-pflow",
-          "summary": "<p>Article URL: <a href=\"https://github.com/pflow-xyz/go-pflow\">https://github.com/pflow-xyz/go-pflow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46097855\">https://news.ycombinator.com/item?id=46097855</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
-          "published": "2025-11-30T16:15:28"
         }
       ]
     }
