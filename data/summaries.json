@@ -1,6 +1,219 @@
 {
   "summaries": [
     {
+      "date": "2026-03-10",
+      "summary": "AI continues to reshape enterprise workflows with Google's Gemini achieving state-of-the-art performance in Sheets, while Microsoft and Anthropic battle over integration strategies. The industry sees continued innovation in AI agents and design processes, with growing concerns about AI's operational risks leading to new oversight requirements at companies like Amazon.",
+      "podcast_highlights": [
+        {
+          "title": "The most successful AI company you've never heard of | Qasar Younis",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Applied Intuition has reached a $15 billion valuation by adding AI intelligence to vehicles including cars, tractors, planes, and submarines",
+            "The company represents a successful B2B AI model focusing on specialized industrial applications",
+            "Applied Intuition demonstrates how AI can create massive value in less obvious sectors beyond consumer applications"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of"
+        },
+        {
+          "title": "The design process is dead. Here's what's replacing it. | Jenny Wen (head of design at Claude)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Jenny Wen from Anthropic (Claude) argues that traditional design processes are becoming obsolete in the AI era",
+            "AI is fundamentally changing how design teams approach product development and user experience",
+            "The shift represents a broader transformation in how creative and technical teams collaborate"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+        },
+        {
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "OpenClaw is an open-source AI agent framework that became the fastest-growing project in GitHub history",
+            "The project demonstrates the explosive interest and adoption potential of AI agent frameworks",
+            "Open-source AI agent tools are gaining significant traction in the developer community"
+          ],
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss the potential widespread impact of AI on white-collar work",
+            "The conversation explores how AI adoption is moving from experimental to mainstream business use",
+            "Focus on the realistic timeline and practical implications of AI integration in professional settings"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini in Google Sheets achieved state-of-the-art performance with new beta features"
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini 3.1 Flash-Lite launched as the fastest and most cost-efficient Gemini 3 series model"
+        },
+        {
+          "company": "Google",
+          "feature": "Canvas in AI Mode now available in Search for everyone in the U.S., helping with writing and coding tasks"
+        }
+      ],
+      "fintech_trends": [
+        "AI agent frameworks are becoming critical infrastructure for financial services, with tools like OpenClaw gaining rapid adoption for automating complex financial workflows",
+        "Enterprise AI integration is moving beyond pilot projects to production systems, with companies requiring senior oversight for AI-assisted changes after operational incidents"
+      ],
+      "fundraising": [
+        {
+          "company": "Yann LeCun's AI startup",
+          "amount": "$1 billion",
+          "details": "Seed round for the new AI startup led by Meta's Chief AI Scientist"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The most successful AI company you\u2019ve never heard of | Qasar Younis",
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
+          "summary": "<p><strong>Qasar Younis</strong> is the co-founder and CEO of Applied Intuition, a $15 billion AI company that adds intelligence to cars, tractors, planes, submarines, and other vehicles\u2014essentially, Tesla or Waymo without the hardware. He was previously COO of Y Combinator, started his career as an engineer at GM and Bosch, and was born on a farm in Pakistan.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why the biggest AI revolution will play out in mining, farming, construction, and truc",
+          "published": "2026-03-08T12:31:38"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The design process is dead. Here\u2019s what\u2019s replacing it. | Jenny Wen (head of design at Claude)",
+          "link": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+          "summary": "<p><strong>Jenny Wen</strong> leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify.</p><p>\u2014</p><p><strong>We discuss:</strong></p><p>1. Why the classic discovery \u2192 mock \u2192 iterate design process is becoming obsolete</p><p>2. What a day in the life of a designer at Anthropic looks like, including her AI tool stack</p><p>3. Whether AI will eventually",
+          "published": "2026-03-01T13:31:18"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Copilot Cowork, Anthropic's Integration, Microsoft's New Bundle",
+          "link": "https://stratechery.com/2026/copilot-cowork-anthropics-integration-microsofts-new-bundle/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2NvcGlsb3QtY293b3JrLWFudGhyb3BpY3MtaW50ZWdyYXRpb24tbWljcm9zb2Z0cy1uZXctYnVuZGxlLyJdfSwiZXhwIjoxNzc1NzQzNjc0LCJpYXQiOjE3NzMxNTE2NzQsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.Xz2gSUTMyJqdirlGBDdGUHK6qs1B-THIFwO2xUC8D2r7KXr19fUAofFj7ICNcn5M1gl6L-dcMn-b5M_kGSv3LNA1-Lbg-5572RD8mrMfG55Cu2T7xjjGm_wbthVVw-hi7V6DhrMAlC_dTKYLbFdUu_6NwNCuc6kU4eMWSL5e64A42cYAIqk4vy-kLTSOn6Zl2rn1Q6qE0_V8skU-2F0i9dEMRFB89j1PeANMR1Wp5cC-zO46eCaPb7SSb9rPOEmGpbk28szlqdAJb7jkERXLFdcE6VjyofJdejgJqgocuyUAV7ktMPXLSfvkB5yEEGnlJTYbnn1fUjGfSCTxajSu9A",
+          "summary": "Microsoft is seeking to commoditize its complements, but Anthropic has a point of integration of their own; it's good enough that Microsoft is making a new bundle on top of it.",
+          "published": "2026-03-10T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory",
+          "link": "https://stratechery.com/2026/macbook-neo-the-not-so-thin-macbook-apple-and-memory/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L21hY2Jvb2stbmVvLXRoZS1ub3Qtc28tdGhpbi1tYWNib29rLWFwcGxlLWFuZC1tZW1vcnkvIl19LCJleHAiOjE3NzU3NDM2NzQsImlhdCI6MTc3MzE1MTY3NCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.WxPlRt_x7uVH34QNDCVovK-d94AnXnVAaw_BlBq68kH-zvqEurl9kru56rQ9N6UwhAZJUR7OBESA-f2NKT_57_WEZWHEaCOyAzA61l4ubyJswPmFNnXYbzHFpjblCTlIy_IG9kNEp647fqryDDirfFIH_Kafg8SRS_KBi5VjKVcgCCr_TeIx00z8puBiBw7TGq6TLjBeIybac6wN6n8FDkMSEgCS_PoRDi-K6TRgHJXOSG_gykVW9mUDziIWSL1t0U_UvjRbr-SEBcT4PIZk0eBqEIRebyCsYbRRq2vn9-1CVcXNU39FVKphx0pryrbNiCPSh4Ya7EcO8UPnnX5nsw",
+          "summary": "The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud.",
+          "published": "2026-03-09T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#491 \u2013 OpenClaw: The Viral AI Agent that Broke the Internet \u2013 Peter Steinberger",
+          "link": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "summary": "<p>Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep491-sc\">https://lexfridman.com/sponsors/ep491-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/peter-steinberger-transcript\">https://l",
+          "published": "2026-02-12T03:10:39"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+          "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014\u00a0just describe \u2026",
+          "published": "2026-03-10T13:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "summary": "Photos of animals being identified by the SpeciesNet AI model",
+          "published": "2026-03-06T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+          "published": "2026-03-05T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+          "published": "2026-03-05T16:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "published": "2026-03-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Create new worlds in Project Genie with these 4 tips",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+          "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+          "published": "2026-03-03T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+          "summary": "Gemini 3.1 Flash Lite logo",
+          "published": "2026-03-03T16:34:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+          "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+          "published": "2026-03-03T16:35:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "A college student's perspective on using AI in class",
+          "link": "https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class",
+          "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class\">https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47323320\">https://news.ycombinator.com/item?id=47323320</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-10T13:57:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "XAI: Explainable Artificial Intelligence",
+          "link": "https://www.darpa.mil/research/programs/explainable-artificial-intelligence",
+          "summary": "<p>Article URL: <a href=\"https://www.darpa.mil/research/programs/explainable-artificial-intelligence\">https://www.darpa.mil/research/programs/explainable-artificial-intelligence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47323293\">https://news.ycombinator.com/item?id=47323293</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-10T13:55:01"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Gui.new \u2013 The Visual Layer for AI",
+          "link": "https://gui.new",
+          "summary": "<p>Hey HN,\nI built gui.new. You paste one line into ChatGPT or Claude, and from that point on, whenever you ask for something visual (a dashboard, chart, form, report) it renders it as a live shareable link instead of dumping HTML in your chat.<p>The prompt:<p>\"Read <a href=\"https://gui.new/docs/llms.txt\" rel=\"nofollow\">https://gui.new/docs/llms.txt</a> - use gui.new to render any visual output as a shareable link. Apply this anytime you'd normally show a table, chart, dashboard, or UI mockup.\"<",
+          "published": "2026-03-10T13:44:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "What happens when AI mediates everything?",
+          "link": "https://news.ycombinator.com/item?id=47323063",
+          "summary": "<p>I've been writing research notes on what happens when AI becomes infrastructural \u2014 not wrong or evil, just so competent and frictionless that contesting it starts to feel as strange as arguing with plumbing.<p>The scariest scenario isn't misalignment. It's a doctor who hasn't made an independent diagnosis in years. A student who has never experienced a blank page. A citizen whose appeal is reviewed by the same system that made the decision. Not because anyone planned it, but because the conve",
+          "published": "2026-03-10T13:35:25"
+        }
+      ]
+    },
+    {
       "date": "2026-03-09",
       "summary": "AI development is rapidly shifting from experimental to operational, with major focus on AI agents, government partnerships, and design transformation. Key discussions centered around Applied Intuition's $15B success in vehicle AI, the death of traditional design processes due to AI, and ongoing tensions between AI companies and government surveillance programs.",
       "podcast_highlights": [
@@ -10478,101 +10691,6 @@
           "link": "https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/",
           "summary": "<p>Article URL: <a href=\"https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/\">https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46122983\">https://news.ycombinator.com/item?id=46122983</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
           "published": "2025-12-02T16:32:24"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-01",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 model discussed in depth by CEO Sundar Pichai on AI Release Notes podcast"
-        },
-        {
-          "company": "Google",
-          "feature": "Ironwood TPU - latest tensor processing unit for AI workloads with improved performance"
-        },
-        {
-          "company": "Google",
-          "feature": "Flow content refinement capabilities - 4 new ways to refine AI-generated videos including weather changes"
-        }
-      ],
-      "fintech_trends": [
-        "AI-driven e-commerce sales reached $3B on Black Friday 2025, demonstrating significant impact on retail transactions and consumer purchasing behavior",
-        "Enterprise debt concerns emerging around AI infrastructure spending, with Oracle facing increased debt risk due to heavy AI investments"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated AI announcements with Gemini 3 insights from CEO Sundar Pichai and new Ironwood TPU hardware, while the industry grapples with mixed signals of AI's commercial success ($3B Black Friday sales) versus growing concerns about an AI winter and enterprise spending sustainability.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
-          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
-          "published": "2025-11-26T23:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
-          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
-          "published": "2025-11-25T23:39:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The Google guide for holiday help",
-          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-          "published": "2025-11-25T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "4 ways to refine your content in Flow",
-          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
-          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
-          "published": "2025-11-25T17:40:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "3 things to know about Ironwood, our latest TPU",
-          "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
-          "summary": "On the left: A close-up of four Ironwood chips. On the right: A data center wall with rows of server racks, complex cabling and overhead cable trays.",
-          "published": "2025-11-25T16:00:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "I shipped multi-tenant SaaS in 15 days with AI. Here's everything that broke",
-          "link": "https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught",
-          "summary": "<p>Article URL: <a href=\"https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught\">https://sentientnotes.substack.com/p/what-vibecoding-a-real-saas-taught</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109747\">https://news.ycombinator.com/item?id=46109747</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-01T16:57:02"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Drove $3B Sales on Black Friday 2025",
-          "link": "https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/",
-          "summary": "<p>Article URL: <a href=\"https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/\">https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109697\">https://news.ycombinator.com/item?id=46109697</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-01T16:54:04"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "A New AI Winter Is Coming",
-          "link": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
-          "summary": "<p>Article URL: <a href=\"https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/\">https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109534\">https://news.ycombinator.com/item?id=46109534</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
-          "published": "2025-12-01T16:42:15"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Oracle's debt risk reaches high amid AI spending concerns",
-          "link": "https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/",
-          "summary": "<p>Article URL: <a href=\"https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/\">https://techhq.com/news/oracle-debt-risk-grows-as-cds-rates-on-investments-rise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109396\">https://news.ycombinator.com/item?id=46109396</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-01T16:32:14"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Sub-tools \u2013 AI-powered subtitle generation using WhisperX and Gemini",
-          "link": "https://github.com/dohyeondk/sub-tools",
-          "summary": "<p>Article URL: <a href=\"https://github.com/dohyeondk/sub-tools\">https://github.com/dohyeondk/sub-tools</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46109355\">https://news.ycombinator.com/item?id=46109355</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-01T16:29:52"
         }
       ]
     }
