@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-03-12",
+      "summary": "The AI landscape shows concerning signs of rogue AI behavior with agents publishing passwords and overriding security software, while Google continues advancing with Gemini 3.1 Flash-Lite for scalable intelligence and Canvas in AI Mode for enhanced search capabilities. Meanwhile, Oracle's strong AI-driven cloud growth demonstrates the ongoing enterprise adoption wave.",
+      "podcast_highlights": [
+        {
+          "title": "The most successful AI company you've never heard of | Qasar Younis",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Applied Intuition has reached a $15 billion valuation by adding AI intelligence to vehicles including cars, tractors, planes, and submarines",
+            "The company represents a successful B2B AI implementation focusing on autonomous vehicle technology across multiple industries",
+            "Demonstrates how specialized AI companies can achieve massive scale by targeting specific vertical markets"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion focuses on AI's potential transformative impact on white-collar work and knowledge workers",
+            "Analysis of how AI adoption is progressing at a more measured pace compared to initial hype",
+            "Examination of practical implications for businesses and workers as AI becomes mainstream"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Oracle Earnings, Oracle's Cloud Growth, Oracle's Software Defense",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Oracle exceeded earnings expectations, demonstrating strong positioning in the AI infrastructure wave",
+            "The company's cloud growth is being significantly driven by AI workload demand",
+            "Oracle's traditional software business provides defensive moat while cloud/AI represents growth engine"
+          ],
+          "link": "https://stratechery.com/2026/oracle-earnings-oracles-cloud-growth-oracles-software-defense/"
+        },
+        {
+          "title": "AI Agents and the Future of Global Trade with Alibaba's Kuo Zhang - Ep. 291",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "AI agents like Accio are transforming B2B sourcing by compressing weeks of work into minutes",
+            "Automation is lowering barriers to entry for global trade and making complex sourcing more accessible",
+            "Alibaba is leveraging AI to reshape the entire global trade ecosystem beyond just e-commerce"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3.1 Flash-Lite - fastest and most cost-efficient Gemini 3 series model for intelligence at scale"
+        },
+        {
+          "company": "Google",
+          "feature": "Canvas in AI Mode now available for everyone in the U.S. with enhanced writing and coding capabilities in Search"
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini in Google Sheets achieved state-of-the-art performance with new beta features"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are revolutionizing B2B commerce and global trade, with platforms like Alibaba using AI to automate complex sourcing and reduce transaction friction",
+        "Enterprise AI infrastructure spending is driving significant cloud revenue growth, as seen with Oracle's AI-powered earnings beat, indicating strong corporate investment in AI capabilities"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "How I built a 1M+ subscriber newsletter and top 10 tech podcast | Lenny Rachitsky",
+          "link": "https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter",
+          "summary": "<p>People have been asking me to sit on the other side of the mic for a long time. With my wife\u2019s debut children\u2019s book, <em>Charts for Babies</em>, coming out next month, we figured: why not do it together? What followed was one of the most honest conversations I\u2019ve had on this podcast. Michelle asked things no one else would think to ask\u2014and many things I\u2019ve never shared publicly. You\u2019ll hear about the specific moments that pushed me to start the newsletter, how I think about quality and itera",
+          "published": "2026-03-12T12:32:15"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The most successful AI company you\u2019ve never heard of | Qasar Younis",
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
+          "summary": "<p><strong>Qasar Younis</strong> is the co-founder and CEO of Applied Intuition, a $15 billion AI company that adds intelligence to cars, tractors, planes, submarines, and other vehicles\u2014essentially, Tesla or Waymo without the hardware. He was previously COO of Y Combinator, started his career as an engineer at GM and Bosch, and was born on a farm in Pakistan.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why the biggest AI revolution will play out in mining, farming, construction, and truc",
+          "published": "2026-03-08T12:31:38"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Robert Fishman About the Current State of Hollywood",
+          "link": "https://stratechery.com/2026/an-interview-with-robert-fishman-about-the-current-state-of-hollywood/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLXJvYmVydC1maXNobWFuLWFib3V0LXRoZS1jdXJyZW50LXN0YXRlLW9mLWhvbGx5d29vZC8iXX0sImV4cCI6MTc3NTkxNjMzMiwiaWF0IjoxNzczMzI0MzMyLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.J9sQT0iPQNZFlPTF6fJsyaeus5HcaaPEu_ytjhVTdQJkg-hpdQfgeVC0innFniYjTEn_-_cNUshySEKgzsDgJewoLWIcHfMBgFdsDqw164RV6o3vJ4EdJn2QfS847Slvx-rCrbImSJDecoKVKJqQFL-5mHWmF9QCEYVlOlUZRoQvJGZjiFkeAHoMkXioqGdrSiS22FmR-t7InKXovnhfguMGGDFcRkpfHGB1LHx0-uqDsoXTdMZUmk6wJuBNnBeNN_HyZdUqso92sm6TetEEPg4_9Twv-lcX_9SruxMHB2of3_C9bjdFazM41qtTKN-ncBGicJ6arjbbBHISRiEr5g",
+          "summary": "An interview with MoffettNathanson's Robert Fishman about the current state of Hollywood, including Netflix, Paramount, YouTube, Disney, and Amazon.",
+          "published": "2026-03-12T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Oracle Earnings, Oracle's Cloud Growth, Oracle's Software Defense",
+          "link": "https://stratechery.com/2026/oracle-earnings-oracles-cloud-growth-oracles-software-defense/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L29yYWNsZS1lYXJuaW5ncy1vcmFjbGVzLWNsb3VkLWdyb3d0aC1vcmFjbGVzLXNvZnR3YXJlLWRlZmVuc2UvIl19LCJleHAiOjE3NzU5MTYzMzIsImlhdCI6MTc3MzMyNDMzMiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.tLGJ6cmq_Ax5-VaPxB5T__DCk8V0ccqAL3jrkQ_WNTw1UnPl0Row7wPZvaaC4kZfsYRUTETw0C4rilpi1hL4ZR3vteVpT3VHJJslqrOSeMHm0Dg-KVq36I2a9v_on_1p5RbES5_oNopE3R8THmvSoRMidNG1xz4Yt2W30ew50_3Tsll6UuPiar4kcU9UTWaVUFGIy9qDY9xp2HoMsJuLAp3irMPVqYytApvdGRUqDxxj5303cIeMF0-vq7XEuGME1TL2m_WDZua--1ogHTXpWrvfg2sp9B7n4hVeXbDw2tXhTT-yuSMCRMGgV6Dht_1kF1TeY_FoQ-NFQJ9oXxQ5_Q",
+          "summary": "Oracle crushed earnings in a way that not only speaks to the secular AI wave they are riding but also to Oracle's strong position",
+          "published": "2026-03-11T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "AI Agents and the Future of Global Trade with Alibaba\u2019s Kuo Zhang - Ep. 291",
+          "link": "",
+          "summary": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering barriers for solo entrepreneurs and SMEs, and what AI-native commerce will mean for the next decade.",
+          "published": "2026-02-27T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How AI is helping improve heart health in rural Australia",
+          "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+          "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+          "published": "2026-03-12T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+          "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014\u00a0just describe \u2026",
+          "published": "2026-03-10T13:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "summary": "Photos of animals being identified by the SpeciesNet AI model",
+          "published": "2026-03-06T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+          "published": "2026-03-05T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+          "published": "2026-03-05T16:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "published": "2026-03-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Create new worlds in Project Genie with these 4 tips",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+          "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+          "published": "2026-03-03T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+          "summary": "Gemini 3.1 Flash Lite logo",
+          "published": "2026-03-03T16:34:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+          "link": "https://deepmind.google/blog/10-years-of-alphago/",
+          "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+          "published": "2026-03-09T13:52:36"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+          "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+          "published": "2026-03-03T16:35:55"
+        }
+      ]
+    },
+    {
       "date": "2026-03-10",
       "summary": "AI continues to reshape enterprise workflows with Google's Gemini achieving state-of-the-art performance in Sheets, while Microsoft and Anthropic battle over integration strategies. The industry sees continued innovation in AI agents and design processes, with growing concerns about AI's operational risks leading to new oversight requirements at companies like Amazon.",
       "podcast_highlights": [
@@ -10596,101 +10803,6 @@
           "link": "https://github.com/synthome-dev/synthome",
           "summary": "<p>Article URL: <a href=\"https://github.com/synthome-dev/synthome\">https://github.com/synthome-dev/synthome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136677\">https://news.ycombinator.com/item?id=46136677</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2025-12-03T16:45:49"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-02",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 Pro rolling out to Google Search in more countries worldwide"
-        },
-        {
-          "company": "Google",
-          "feature": "Flow content refinement tool with 4 new ways to refine video content"
-        },
-        {
-          "company": "Amazon",
-          "feature": "Nova AI models launched on AWS Bedrock for building highly reliable AI agents"
-        }
-      ],
-      "fintech_trends": [
-        "Companies are selling crypto stockpiles to fund share buybacks and shore up stock prices as crypto shares tumble",
-        "AI surveillance expansion into financial crimes with models trained on communications data for predictive crime prevention"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated AI announcements with Gemini 3 Pro's global expansion and new Flow video tools, while security concerns emerged around AI jailbreaking techniques and surveillance applications. Meanwhile, market pressures led companies to divest crypto holdings and HP announced AI-driven cost-cutting through workforce reductions.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
-          "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp\" />We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world.",
-          "published": "2025-12-01T20:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
-          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
-          "published": "2025-11-26T23:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
-          "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
-          "published": "2025-11-25T23:39:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The Google guide for holiday help",
-          "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-          "published": "2025-11-25T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "4 ways to refine your content in Flow",
-          "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
-          "summary": "Video showing Flow respond to the prompt \"change the weather to rain\"",
-          "published": "2025-11-25T17:40:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Elevated Errors on Claude.ai",
-          "link": "https://status.claude.com/incidents/qj71q3gqvvlk",
-          "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/qj71q3gqvvlk\">https://status.claude.com/incidents/qj71q3gqvvlk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123291\">https://news.ycombinator.com/item?id=46123291</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-02T16:54:26"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "New Amazon Nova AI models that help build highly reliable AI agents",
-          "link": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
-          "summary": "<p>Article URL: <a href=\"https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models\">https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123222\">https://news.ycombinator.com/item?id=46123222</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-02T16:49:25"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Twinning: A Simple Jailbreak That Bypasses AI Image Protections",
-          "link": "https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections",
-          "summary": "<p>Article URL: <a href=\"https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections\">https://anthonymattas.com/articles/twinning-a-simple-jailbreak-that-bypasses-ai-image-protections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46123085\">https://news.ycombinator.com/item?id=46123085</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-02T16:39:45"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "I open sourced my AI Research platform after long time of development",
-          "link": "https://news.ycombinator.com/item?id=46123079",
-          "summary": "<p>Hello everyone,<p>I've been working on Introlix for some months now. Last week I open sourced it, and I'm excited to share it with more communities. It was a really hard time building it as a student and a solo developer. This project is not finished yet but it's on that stage I can show it to others and ask others for help in developing it.<p>What I built:<p>Introlix is an AI-powered research platform. Think of it as \"GitHub Copilot meets Google Docs\" for research work.<p>Features:\nResearch ",
-          "published": "2025-12-02T16:39:22"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Amazon Prime Video removes controversial AI anime dubs",
-          "link": "https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/",
-          "summary": "<p>Article URL: <a href=\"https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/\">https://animecorner.me/amazon-removes-controversial-ai-english-dubs-for-banana-fish-no-game-no-life-zero/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46122983\">https://news.ycombinator.com/item?id=46122983</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-02T16:32:24"
         }
       ]
     }
