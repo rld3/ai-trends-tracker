@@ -1,6 +1,204 @@
 {
   "summaries": [
     {
+      "date": "2026-03-14",
+      "summary": "AI infrastructure companies are experiencing significant growth, with Oracle benefiting from the AI wave and Anthropic's enterprise revenue reaching escape velocity. Major discussions focus on AI's impact on white-collar work and the growing costs of AI compute, while new tools emerge for developer productivity and enterprise integration.",
+      "podcast_highlights": [
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Deep discussion on ChatGPT's potential impact on white collar work and productivity",
+            "Analysis of how AI tools are being adopted at 'normal speed' rather than the initial hype cycle",
+            "Exploration of the practical implications for knowledge workers and business processes"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Analysis of Facebook and Microsoft's metaverse strategies and announcements",
+            "Discussion on how the metaverse future might realistically unfold beyond the hype",
+            "Evaluation of the competitive landscape and technological challenges ahead"
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "An Interview with Robert Fishman About the Current State of Hollywood",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Comprehensive analysis of major entertainment companies including Netflix, Disney, and Amazon",
+            "Discussion of how streaming and digital transformation is reshaping Hollywood economics",
+            "Insights into the competitive dynamics between traditional studios and tech companies"
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-robert-fishman-about-the-current-state-of-hollywood/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini in Google Sheets achieving state-of-the-art performance with new beta features for enhanced spreadsheet AI capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Canvas in AI Mode now available for everyone in the U.S., enabling users to get things done and bring ideas to life directly in Search"
+        },
+        {
+          "company": "Microsoft",
+          "feature": "New Copilot Cowork bundle and integration improvements, including enhanced Anthropic integration for enterprise users"
+        }
+      ],
+      "fintech_trends": [
+        "Cloud infrastructure and AI compute costs are becoming major considerations for financial services, as evidenced by Oracle's strong performance in the AI wave",
+        "Enterprise AI integration is accelerating with companies like Anthropic seeing rapid revenue growth in B2B markets, suggesting fintech firms are investing heavily in AI capabilities",
+        "Memory and compute bottlenecks are creating new infrastructure challenges for financial institutions deploying AI at scale, potentially impacting real-time trading and risk management systems"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Robert Fishman About the Current State of Hollywood",
+          "link": "https://stratechery.com/2026/an-interview-with-robert-fishman-about-the-current-state-of-hollywood/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLXJvYmVydC1maXNobWFuLWFib3V0LXRoZS1jdXJyZW50LXN0YXRlLW9mLWhvbGx5d29vZC8iXX0sImV4cCI6MTc3NjA5MjQ1NywiaWF0IjoxNzczNTAwNDU3LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.o9Jl37tPpKWsUjFMnAPo_yTmgSC-bR_Cx6VwrukdwTFl0qxDRKIihoHruvddAmvLIgN0Vgm5vWq17S6ex487-qBfaunjtniN7vYpkqry1HkrSISlfXQkpadC5GsjKxbcrFucBWRUS8He17Njs8SFd0541bGBKCwuvk09Qh3oFpFhRqRrsg1UdwbrOlUKkQeC4H735hRRBZP_K0YZ6kJkc57Sz0vti7bJ3qc97SgETYAaVztoWxGZct_pC7nO7q8miEC-VW6kslODDKyf9Gs4WcEWfNJzgmYJ2OPJwhzjbCn--3-ve9MjdLYfro4kD6igXcnRBy5Sjr2wpUfkaL_CbA",
+          "summary": "An interview with MoffettNathanson's Robert Fishman about the current state of Hollywood, including Netflix, Paramount, YouTube, Disney, and Amazon.",
+          "published": "2026-03-12T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Oracle Earnings, Oracle's Cloud Growth, Oracle's Software Defense",
+          "link": "https://stratechery.com/2026/oracle-earnings-oracles-cloud-growth-oracles-software-defense/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L29yYWNsZS1lYXJuaW5ncy1vcmFjbGVzLWNsb3VkLWdyb3d0aC1vcmFjbGVzLXNvZnR3YXJlLWRlZmVuc2UvIl19LCJleHAiOjE3NzYwOTI0NTcsImlhdCI6MTc3MzUwMDQ1NywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.V-oT3fl8GXMn-hqs0OqM3ubTWE0vlaE1siDn5wShDXKisnhTNutT3SwZpZDzzI7YkZfmTJdzFk_z2LG-b8r_Wdka9gXngcLzPs3Kh8LJ--cy42i86JNCWvAmDMUZQpTKuWaJNUVVqhfDdea1J12nt3i_ZkA7c3wr7SXJ8rg70P2UpCkk4_AMPMyHgn3VLAnqjwoPKF097etBZUt3yasRpgVW1-2-aXIGk_fPKNgWEpWrXKr5LRqDwSAIs11-CKKuyuDirX3LvwQs9_H6CKRTA2sCrQ-kg8e2Q00aGnUNDWjlQCvJjEnSCoUgs-F0fmq1Tz15LV6yWWR-7kE2PzVXiQ",
+          "summary": "Oracle crushed earnings in a way that not only speaks to the secular AI wave they are riding but also to Oracle's strong position",
+          "published": "2026-03-11T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "Google AI",
+          "title": "How AI is helping improve heart health in rural Australia",
+          "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+          "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+          "published": "2026-03-12T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+          "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis \u2014\u00a0just describe \u2026",
+          "published": "2026-03-10T13:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "summary": "Photos of animals being identified by the SpeciesNet AI model",
+          "published": "2026-03-06T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "summary": "Mobile phone with a search bar that says \"Ask anything\"",
+          "published": "2026-03-05T18:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+          "published": "2026-03-05T16:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "published": "2026-03-04T17:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+          "link": "https://deepmind.google/blog/10-years-of-alphago/",
+          "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+          "published": "2026-03-09T13:52:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Architectures of Error: A Philosophical Inquiry into Human and AI Code",
+          "link": "https://link.springer.com/article/10.1007/s13347-026-01056-x",
+          "summary": "<p>Article URL: <a href=\"https://link.springer.com/article/10.1007/s13347-026-01056-x\">https://link.springer.com/article/10.1007/s13347-026-01056-x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376758\">https://news.ycombinator.com/item?id=47376758</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-14T13:59:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: GitAgent \u2013 An open standard that turns any Git repo into an AI agent",
+          "link": "https://www.gitagent.sh/",
+          "summary": "<p>We built GitAgent because we kept seeing the same problem: every agent framework defines agents differently, and switching frameworks means rewriting everything.<p>GitAgent is a spec that defines an AI agent as files in a git repo.<p>Three core files \u2014 agent.yaml (config), SOUL.md (personality/instructions), and SKILL.md (capabilities) \u2014 and you get a portable agent definition that exports to Claude Code, OpenAI Agents SDK, CrewAI, Google ADK, LangChain, and others.<p>What you get for free by",
+          "published": "2026-03-14T13:41:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Vim-gramaculate: Vim grammar checker, powered by AI",
+          "link": "https://github.com/ahalbert/vim-gramaculate",
+          "summary": "<p>Article URL: <a href=\"https://github.com/ahalbert/vim-gramaculate\">https://github.com/ahalbert/vim-gramaculate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376541\">https://news.ycombinator.com/item?id=47376541</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-14T13:36:59"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta planning layoffs as AI costs mount: Reuters",
+          "link": "https://www.cnbc.com/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount-reuters.html",
+          "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount-reuters.html\">https://www.cnbc.com/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount-reuters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376381\">https://news.ycombinator.com/item?id=47376381</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-14T13:16:09"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta Outlines New MTIA Accelerator Roadmap for Its Next-Gen AI Compute Mix",
+          "link": "https://www.servethehome.com/meta-outlines-new-mtia-accelerator-roadmap-for-its-next-gen-ai-compute-mix/",
+          "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/meta-outlines-new-mtia-accelerator-roadmap-for-its-next-gen-ai-compute-mix/\">https://www.servethehome.com/meta-outlines-new-mtia-accelerator-roadmap-for-its-next-gen-ai-compute-mix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376376\">https://news.ycombinator.com/item?id=47376376</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-14T13:15:23"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Got tired of AI copilots just autocompleting, and built Glass Arc",
+          "link": "https://news.ycombinator.com/item?id=47376342",
+          "summary": "<p>Hey HN,<p>Over the last few months, I realized I was paying $20/month for an AI that essentially just acts as a really good autocomplete. It waits for me to type, guesses the next block, and stops. But software engineering isn't just writing syntax, it's managing the file system, running terminal commands, and debugging stack traces.<p>So I pivoted my project and built Glass Arc. It\u2019s an agentic workspace that lives directly inside VS Code.<p>Instead of just generating text, I gave it actual ",
+          "published": "2026-03-14T13:11:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Dylan Patel \u2013 Deep dive on the 3 big bottlenecks to scaling AI compute",
+          "link": "https://www.dwarkesh.com/p/dylan-patel",
+          "summary": "<p>Article URL: <a href=\"https://www.dwarkesh.com/p/dylan-patel\">https://www.dwarkesh.com/p/dylan-patel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376314\">https://news.ycombinator.com/item?id=47376314</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-14T13:07:45"
+        }
+      ]
+    },
+    {
       "date": "2026-03-12",
       "summary": "The AI landscape shows concerning signs of rogue AI behavior with agents publishing passwords and overriding security software, while Google continues advancing with Gemini 3.1 Flash-Lite for scalable intelligence and Canvas in AI Mode for enhanced search capabilities. Meanwhile, Oracle's strong AI-driven cloud growth demonstrates the ongoing enterprise adoption wave.",
       "podcast_highlights": [
@@ -10701,108 +10899,6 @@
           "link": "https://www.stayup.ai/",
           "summary": "<p>Article URL: <a href=\"https://www.stayup.ai/\">https://www.stayup.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46149538\">https://news.ycombinator.com/item?id=46149538</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
           "published": "2025-12-04T16:36:44"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-03",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 Pro expanding to Google Search in more countries globally, representing their most intelligent model yet"
-        },
-        {
-          "company": "Google",
-          "feature": "Circle to Search and Google Lens now detect scam messages on phones, enhancing user security"
-        },
-        {
-          "company": "AWS",
-          "feature": "Agents for AWS and Nova Forge announced at re:Invent, targeting AI solutions for enterprise startups"
-        }
-      ],
-      "fintech_trends": [
-        "AI-powered scam detection is becoming a key security feature, with Google integrating fraud detection capabilities directly into search and visual recognition tools",
-        "Economic disruption concerns are growing as companies like HP plan major layoffs while simultaneously ramping up AI adoption to cut costs",
-        "Cryptocurrency markets are showing volatility as companies dump token stockpiles to fund share buybacks amid AI investment pressures"
-      ],
-      "fundraising": [
-        {
-          "company": "Google Health AI",
-          "amount": "Not specified",
-          "details": "New health AI funding announced alongside report on European health sector transformation"
-        }
-      ],
-      "summary": "Google dominated AI headlines with major expansions of Gemini 3 Pro and new scam detection features, while OpenAI faces increased competitive pressure as it declares 'code red' status against Google's rapidly growing user base. The day highlighted growing tensions between AI safety concerns and aggressive market competition, with significant developments in enterprise AI tools and health applications.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Look back on your 2025 with Google Photos Recap",
-          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
-          "summary": "Animation showing Google Photos Recap 2025",
-          "published": "2025-12-03T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
-          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
-          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
-          "published": "2025-12-03T12:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Use Circle to Search and Google Lens to spot scam messages.",
-          "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp\" />You can now use Circle to Search and Google Lens to detect scammy messages you receive on your phone.",
-          "published": "2025-12-02T19:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
-          "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp\" />We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world.",
-          "published": "2025-12-01T20:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Here\u2019s how researchers in Asia-Pacific are using AlphaFold",
-          "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-          "summary": "A visual grid highlighting diverse fields of research, featuring images of geothermal activity, agricultural farming, patient care, laboratory testing, and medical diagnostics.",
-          "published": "2025-11-26T23:00:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Building an AI agent that grills you on your dev tickets",
-          "link": "https://news.ycombinator.com/item?id=46136914",
-          "summary": "<p>When I ship bugs, it's 'almost' never a code mistake. It\u2019s because I misunderstood a requirement or missed an edge case while rushing. Vague tickets like \u201cAdd Twilio support\u201d don\u2019t help, and tools like Cursor/Codex mostly ask a couple surface-level questions before jumping to write a plan.<p>So, my co-founder and I are building Relay (https://basegraph.app/) to bring in someone who understands your codebase deeply and asks the right questions to extract the right context out of your head.<p>-",
-          "published": "2025-12-03T17:00:59"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Apple's AI Troubles Are Fading. Just Look at the Stock",
-          "link": "https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons",
-          "summary": "<p>Article URL: <a href=\"https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons\">https://www.barrons.com/articles/apple-ai-iphone-17-stock-record-google-3c73f09c?mod=RSSMSNBarrons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136902\">https://news.ycombinator.com/item?id=46136902</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-03T17:00:14"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Safety Index Winter 2025 Edition",
-          "link": "https://futureoflife.org/ai-safety-index-winter-2025/",
-          "summary": "<p>Article URL: <a href=\"https://futureoflife.org/ai-safety-index-winter-2025/\">https://futureoflife.org/ai-safety-index-winter-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136854\">https://news.ycombinator.com/item?id=46136854</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-03T16:57:10"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Can AI keep particle accelerators in line?",
-          "link": "https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line",
-          "summary": "<p>Article URL: <a href=\"https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line\">https://www.lanl.gov/media/publications/1663/can-ai-keep-accelerators-in-line</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136842\">https://news.ycombinator.com/item?id=46136842</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-03T16:56:40"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Synthome \u2013 TypeScript SDK for building composable AI media pipelines",
-          "link": "https://github.com/synthome-dev/synthome",
-          "summary": "<p>Article URL: <a href=\"https://github.com/synthome-dev/synthome\">https://github.com/synthome-dev/synthome</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46136677\">https://news.ycombinator.com/item?id=46136677</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-03T16:45:49"
         }
       ]
     }
