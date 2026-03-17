@@ -1,6 +1,204 @@
 {
   "summaries": [
     {
+      "date": "2026-03-17",
+      "summary": "AI agents are fundamentally reshaping compute demand and challenging bubble narratives, while enterprises rapidly deploy AI factories to transform data into intelligence. The industry is seeing significant developments in physical AI for manufacturing, military AI applications for targeting decisions, and growing concerns about AI technology proliferation to restricted regions like Iran.",
+      "podcast_highlights": [
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion of AI's potential impact on white-collar work and knowledge workers",
+            "Analysis of how AI tools are changing productivity expectations in professional environments",
+            "Exploration of the normalization of AI assistance in everyday work tasks"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Enterprises are transitioning from AI pilots to full-scale 'AI factories' that convert data into trusted digital intelligence",
+            "Introduction of the 'five-layer cake' AI infrastructure approach for enterprise deployment",
+            "Focus on moving beyond experimental AI implementations to production-ready systems"
+          ],
+          "link": ""
+        },
+        {
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "AI is dramatically reshaping electricity demand patterns and grid requirements",
+            "Discussion of how increased AI inference workloads impact electric grid stability",
+            "Analysis of infrastructure challenges as AI deployment scales across industries"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "DeepMind",
+          "feature": "10-year retrospective on AlphaGo's impact on scientific discovery and path to AGI"
+        },
+        {
+          "company": "Microsoft",
+          "feature": "Copilot Cowork integration and new AI bundle offerings for enterprise"
+        },
+        {
+          "company": "Apple",
+          "feature": "MacBook Neo designed for cloud-first AI software with Apple Silicon optimization"
+        }
+      ],
+      "fintech_trends": [
+        "AI infrastructure as a service becoming critical for financial institutions moving from pilot AI projects to production-scale 'AI factories'",
+        "Physical AI integration in manufacturing creating new opportunities for fintech companies serving industrial sectors",
+        "Enterprise AI agents driving fundamental changes in compute demand patterns, affecting cloud infrastructure investment strategies"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick (Executive Negotiator)",
+          "link": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp",
+          "summary": "<p><strong>Jacob Warwick</strong> is an executive negotiation coach who helps senior operators negotiate better salary, equity, titles, and severance packages. He has worked with leaders across tech and Hollywood, was previously a founder and CEO himself, and has helped clients secure millions in additional compensation. His approach focuses on collaboration over confrontation, understanding motivations, and treating job searches like enterprise sales processes.</p><p></p><p><strong>We discuss:<",
+          "published": "2026-03-15T12:31:37"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "How I built a 1M+ subscriber newsletter and top 10 tech podcast | Lenny Rachitsky",
+          "link": "https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter",
+          "summary": "<p>People have been asking me to sit on the other side of the mic for a long time. With my wife\u2019s debut children\u2019s book, <em>Charts for Babies</em>, coming out next month, we figured: why not do it together? What followed was one of the most honest conversations I\u2019ve had on this podcast. Michelle asked things no one else would think to ask\u2014and many things I\u2019ve never shared publicly. You\u2019ll hear about the specific moments that pushed me to start the newsletter, how I think about quality and itera",
+          "published": "2026-03-12T12:32:15"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+          "link": "https://deepmind.google/blog/10-years-of-alphago/",
+          "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+          "published": "2026-03-09T13:52:36"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Where OpenAI\u2019s technology could show up in Iran",
+          "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI\u2019s&#8230;",
+          "published": "2026-03-16T17:06:21"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Nurturing agentic AI beyond the toddler stage",
+          "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+          "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices&#8230;",
+          "published": "2026-03-16T13:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Securing digital assets against future\u00a0threats",
+          "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+          "summary": "",
+          "published": "2026-03-16T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+          "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+          "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase&#8230;",
+          "published": "2026-03-13T15:16:55"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+          "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+          "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;",
+          "published": "2026-03-12T22:23:34"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Pragmatic by design: Engineering AI for the real world",
+          "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+          "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;",
+          "published": "2026-03-12T13:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+          "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+          "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;",
+          "published": "2026-03-11T12:46:21"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Building a strong data infrastructure for AI agent success",
+          "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+          "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according&#8230;",
+          "published": "2026-03-10T14:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
+          "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+          "summary": "Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pok\u00e9mon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount&#8230;",
+          "published": "2026-03-10T13:47:26"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How AI is turning the Iran conflict into theater",
+          "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. \u201cAnyone wanna host a get together in SF and pull this up on a 100 inch TV?\u201d&#160; The author of that post on X was referring to an online intelligence dashboard following&#8230;",
+          "published": "2026-03-09T15:11:01"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+          "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+          "summary": "Unicode that's invisible to the human eye was largely abandoned\u2014until attackers took notice.",
+          "published": "2026-03-13T20:18:08"
+        }
+      ]
+    },
+    {
       "date": "2026-03-15",
       "summary": "AI development is accelerating across multiple sectors, with enterprise AI factories becoming mainstream and Oracle crushing earnings by riding the secular AI wave. However, concerns are mounting about AI coding agents introducing security vulnerabilities, government surveillance capabilities, and the potential for AI chatbots to fuel delusional thinking in users.",
       "podcast_highlights": [
@@ -10892,109 +11090,6 @@
           "link": "https://demo.thinkmoon.ai/",
           "summary": "<p>I built ThinkMoon because I wanted to see if LLMs could actually make money trading crypto, not just talk about it.<p>It's an AI-powered trading platform where you can connect models from OpenRouter, OpenAI, or Anthropic to real markets and let them execute actual trades on Binance Futures.<p>How it works: the AI gets real-time market data (candles, order book, ticker), analyzes it, and outputs structured trading decisions. Then it actually executes - long/short positions with leverage up to ",
           "published": "2025-12-06T15:48:16"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-05",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 Pro: Advanced vision AI capabilities representing the frontier of visual AI technology"
-        },
-        {
-          "company": "Google",
-          "feature": "Google Photos 2025 Recap: AI-powered year-end photo summary and memory compilation feature"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "LLM confession training: New method to make large language models explain their processes and admit to bad behavior for improved transparency"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [
-        {
-          "company": "Geoffrey Hinton AI Research",
-          "amount": "Undisclosed",
-          "details": "Google investing in new AI chair at University of Toronto to celebrate Nobel Prize winner Geoffrey Hinton's legacy"
-        },
-        {
-          "company": "Health AI initiatives",
-          "amount": "Undisclosed",
-          "details": "Google announcing new health AI funding while reporting indicates turning point for health AI adoption in Europe"
-        }
-      ],
-      "summary": "Google continues its AI dominance with major releases including Gemini 3 Pro vision AI and enhanced Photos features, while OpenAI faces competitive pressure and declares 'code red' as Google's Gemini rapidly gains 200 million users. The day highlighted growing enterprise AI adoption challenges, with most organizations still stuck in pilot phases despite massive investments.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
-          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
-          "published": "2025-12-05T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 Pro: the frontier of vision AI",
-          "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-          "summary": "Image with black background and Gemini 3 Pro logo",
-          "published": "2025-12-05T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Look back on your 2025 with Google Photos Recap",
-          "link": "https://blog.google/products/photos/google-photos-2025-recap/",
-          "summary": "Animation showing Google Photos Recap 2025",
-          "published": "2025-12-03T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "We\u2019re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
-          "link": "https://blog.google/technology/health/ai-health-fund-eu/",
-          "summary": "A female doctor with glasses sits across from an elderly female patient, reviewing medical data on floating digital screens that display heart health metrics, graphs, and a secure patient profile.",
-          "published": "2025-12-03T12:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "We\u2019re celebrating Geoffrey Hinton\u2019s Nobel-winning legacy with the University of Toronto.",
-          "link": "https://blog.google/technology/ai/hinton-chair-toronto/",
-          "summary": "Today, we are celebrating the extraordinary impact of Nobel Prize-winner Geoffrey Hinton by investing in the future of the field he helped build. Google is proud to supp\u2026",
-          "published": "2025-12-03T00:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Engineering more resilient crops for a warming climate",
-          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
-          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
-          "published": "2025-12-04T16:23:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Reversing AI Model Collapse by Simulating Bounded Rationality",
-          "link": "https://arxiv.org/abs/2512.01354",
-          "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.01354\">https://arxiv.org/abs/2512.01354</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163966\">https://news.ycombinator.com/item?id=46163966</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-05T16:59:35"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Talking about the Future of AI in Law with David Wakeling",
-          "link": "https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on",
-          "summary": "<p>Article URL: <a href=\"https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on\">https://artificialinvestment.substack.com/p/interview-with-david-wakeling-on</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163900\">https://news.ycombinator.com/item?id=46163900</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-05T16:55:22"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Revumatic \u2013 AI Growth Loop for SMBs Tired of Yelp, Google Ads, and Groupon",
-          "link": "https://revumatic.com",
-          "summary": "<p>Article URL: <a href=\"https://revumatic.com\">https://revumatic.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163466\">https://news.ycombinator.com/item?id=46163466</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-05T16:25:13"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "A Burp-Like HTTP Repeater Inside Chrome DevTools, Supercharged with AI",
-          "link": "https://twitter.com/BourAbdelhadi/status/1992622964077179229",
-          "summary": "<p>Article URL: <a href=\"https://twitter.com/BourAbdelhadi/status/1992622964077179229\">https://twitter.com/BourAbdelhadi/status/1992622964077179229</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46163442\">https://news.ycombinator.com/item?id=46163442</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-05T16:23:20"
         }
       ]
     }
