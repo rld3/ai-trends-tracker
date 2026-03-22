@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-03-22",
+      "summary": "AI agents are emerging as the dominant trend, with discussions ranging from their potential to reshape compute demand and avoid a tech bubble, to serious security concerns as they become more autonomous. The industry is simultaneously grappling with AI commoditization while major companies like OpenAI pivot toward building fully automated researchers and the Pentagon plans AI training on classified data.",
+      "podcast_highlights": [
+        {
+          "title": "The art of influence: The single most important skill that AI can't replace",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Influence remains a uniquely human skill that AI cannot replicate, making it increasingly valuable in an AI-driven workplace",
+            "Product leaders need to focus on developing influence capabilities as technical tasks become more automated",
+            "Drawing from experience at Slack and Webflow, the importance of human connection in driving product decisions"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion of AI's potential impact on white-collar work, examining both opportunities and disruptions",
+            "Analysis of how ChatGPT and similar tools are changing workplace dynamics at a measured pace",
+            "Exploration of strategic implications for businesses adapting to AI integration"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Introduction of the 'five-layer cake' AI architecture for enterprise AI factories",
+            "Enterprises are moving from AI pilots to full-scale production systems that convert data into actionable intelligence",
+            "Partnership between Red Hat and NVIDIA focuses on creating trusted, scalable AI infrastructure for enterprise deployment"
+          ],
+          "link": ""
+        },
+        {
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "AI is fundamentally reshaping electricity demand patterns, creating new challenges for power grid management",
+            "The shape and timing of AI compute demand differs significantly from traditional electrical loads",
+            "Grid infrastructure needs significant adaptation to handle the unique power requirements of AI inference at scale"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "Parameter Golf challenge - fit the best possible LLM into a 16MB artifact"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "New framework to measure progress toward AGI with cognitive benchmarks and Kaggle hackathon"
+        },
+        {
+          "company": "NVIDIA",
+          "feature": "Multi-architecture strategy announced at GTC 2026, selling multiple chip types instead of focusing on single GPU architecture"
+        }
+      ],
+      "fintech_trends": [
+        "AI is becoming commoditized as a utility service, with 'tokens as the new electricity' - suggesting infrastructure-level pricing models similar to cloud computing",
+        "Security concerns are mounting as AI agents become more autonomous, with expanded attack surfaces requiring new approaches to financial and enterprise security"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The art of influence: The single most important skill that AI can\u2019t replace | Jessica Fain (Webflow, ex-Slack)",
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain",
+          "summary": "<p><strong>Jessica Fain</strong> is a product leader at Webflow and former Chief of Staff to the CPO at Slack, where she worked alongside April Underwood and many past podcast guests including Stewart Butterfield, Annie Pearl, Tamar Yehoshua, and Noah Weiss. She\u2019s spent her career learning how executives actually make decisions\u2014and why most people completely misunderstand the process.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why great ideas often don\u2019t get buy-in</p><p>2. Why executive",
+          "published": "2026-03-22T12:31:51"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick (Executive Negotiator)",
+          "link": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp",
+          "summary": "<p><strong>Jacob Warwick</strong> is an executive negotiation coach who helps senior operators negotiate better salary, equity, titles, and severance packages. He has worked with leaders across tech and Hollywood, was previously a founder and CEO himself, and has helped clients secure millions in additional compensation. His approach focuses on collaboration over confrontation, understanding motivations, and treating job searches like enterprise sales processes.</p><p></p><p><strong>We discuss:<",
+          "published": "2026-03-15T12:31:37"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#492 \u2013 Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "link": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "summary": "<p>Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great musicians &#38; musical ideas, and helps millions of people fall in love with great music all over again.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep492-sc\">https://lexfridman.com/sponsors/ep492-sc</a><br />\nSee below for timestamps, transcript, a",
+          "published": "2026-03-01T04:33:22"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Measuring progress toward AGI: A cognitive framework",
+          "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+          "summary": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+          "published": "2026-03-17T16:03:47"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: Will LLM-commodification cause growth to continue without a correction?",
+          "link": "https://news.ycombinator.com/item?id=47478132",
+          "summary": "<p>Seems like the broader industry is waking up to what many folks have known for a while \u2014 models themselves are not a protective moat. They decay quickly and using them for basic tasks like structuring unstructured data is quickly becoming commodified.<p>What I didn\u2019t totally appreciate until now is how that shifts us off the course where a few frontier labs end up becoming ACME mega corp which run the whole world and capture everyone\u2019s money.<p>Power and value shifts to those who figure how t",
+          "published": "2026-03-22T14:52:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Separating the hype from the real in AI assisted development",
+          "link": "https://mlolson.github.io/blog/2026/03/21/separating-the-hype-from-the-real-in-ai-assisted-development/?trk=feed-detail_main-feed-card_feed-article-content",
+          "summary": "<p>Article URL: <a href=\"https://mlolson.github.io/blog/2026/03/21/separating-the-hype-from-the-real-in-ai-assisted-development/?trk=feed-detail_main-feed-card_feed-article-content\">https://mlolson.github.io/blog/2026/03/21/separating-the-hype-from-the-real-in-ai-assisted-development/?trk=feed-detail_main-feed-card_feed-article-content</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47478114\">https://news.ycombinator.com/item?id=47478114</a></p>\n<p>Points: 1</p>\n<p># Comme",
+          "published": "2026-03-22T14:51:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Local Cursor-A local AI agent that runs on your machine using Ollama",
+          "link": "https://github.com/towardsai/local-cursor",
+          "summary": "<p>Article URL: <a href=\"https://github.com/towardsai/local-cursor\">https://github.com/towardsai/local-cursor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477888\">https://news.ycombinator.com/item?id=47477888</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-22T14:29:47"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
+          "link": "https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/",
+          "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/\">https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477846\">https://news.ycombinator.com/item?id=47477846</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-22T14:25:56"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Pretty Scale \u2013 AI Face and Body Evaluation",
+          "link": "https://pretty-scale.com",
+          "summary": "<p>Article URL: <a href=\"https://pretty-scale.com\">https://pretty-scale.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477805\">https://news.ycombinator.com/item?id=47477805</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-03-22T14:22:14"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI agent broke out of testing environment and mined crypto without permission",
+          "link": "https://www.livescience.com/technology/artificial-intelligence/an-experimental-ai-agent-broke-out-of-its-testing-environment-and-mined-crypto-without-permission",
+          "summary": "<p>Article URL: <a href=\"https://www.livescience.com/technology/artificial-intelligence/an-experimental-ai-agent-broke-out-of-its-testing-environment-and-mined-crypto-without-permission\">https://www.livescience.com/technology/artificial-intelligence/an-experimental-ai-agent-broke-out-of-its-testing-environment-and-mined-crypto-without-permission</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477769\">https://news.ycombinator.com/item?id=47477769</a></p>\n<p>Points: 1</p>\n",
+          "published": "2026-03-22T14:17:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OpenAI Parameter Golf: Fit the Best Possible LLM into a 16MB Artifact",
+          "link": "https://github.com/openai/parameter-golf",
+          "summary": "<p>Article URL: <a href=\"https://github.com/openai/parameter-golf\">https://github.com/openai/parameter-golf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477706\">https://news.ycombinator.com/item?id=47477706</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-22T14:09:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Nintendo's not-AI, not-a-game toy",
+          "link": "https://tapestry.news/culture/nintendo-talking-flower/",
+          "summary": "<p>Article URL: <a href=\"https://tapestry.news/culture/nintendo-talking-flower/\">https://tapestry.news/culture/nintendo-talking-flower/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477653\">https://news.ycombinator.com/item?id=47477653</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+          "published": "2026-03-22T14:01:28"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI is becoming a utility: tokens are the new electricity",
+          "link": "https://www.buysellram.com/blog/the-token-factory-how-nvidia-gtc-2026-redefined-the-economics-of-ai/",
+          "summary": "<p>Article URL: <a href=\"https://www.buysellram.com/blog/the-token-factory-how-nvidia-gtc-2026-redefined-the-economics-of-ai/\">https://www.buysellram.com/blog/the-token-factory-how-nvidia-gtc-2026-redefined-the-economics-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477460\">https://news.ycombinator.com/item?id=47477460</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-22T13:41:10"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Revise \u2013 An AI Editor for Documents",
+          "link": "https://revise.io",
+          "summary": "<p>Article URL: <a href=\"https://revise.io\">https://revise.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477339\">https://news.ycombinator.com/item?id=47477339</a></p>\n<p>Points: 18</p>\n<p># Comments: 13</p>",
+          "published": "2026-03-22T13:28:45"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Bitelogix: AI-Powered Calorie Tracker That Learns Your Habits",
+          "link": "https://apps.apple.com/us/app/bitelogix-ai-calorie-tracker/id6747515366",
+          "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/bitelogix-ai-calorie-tracker/id6747515366\">https://apps.apple.com/us/app/bitelogix-ai-calorie-tracker/id6747515366</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477286\">https://news.ycombinator.com/item?id=47477286</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-03-22T13:24:45"
+        }
+      ]
+    },
+    {
       "date": "2026-03-21",
       "summary": "NVIDIA continues to dominate AI hardware discussions with Jensen Huang's GTC 2026 keynote showcasing multiple architectures and accelerated computing strategies. Meanwhile, OpenAI is pivoting toward building fully automated AI researchers, while the Pentagon plans secure environments for AI companies to train on classified military data, signaling a major shift in AI applications beyond commercial use.",
       "podcast_highlights": [
@@ -11295,102 +11502,6 @@
           "link": "https://news.ycombinator.com/item?id=46220076",
           "summary": "<p>Hey HN,<p>I'm Shanea, founder of Empromptu. We just raised $2M from Precursor Ventures to solve a problem I kept hitting: most AI features never make it to production.<p>The problem: You can prototype AI features in hours now, but getting them production-ready is still brutal. Context windows explode past 100+ documents. Accuracy drifts. Integration with existing codebases is messy. Most teams either rewrite their platform or hire specialized AI engineers.<p>What we built: An AI application b",
           "published": "2025-12-10T16:53:02"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-09",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 and Nano Banana Pro models announced in November updates, along with enhanced trip planning capabilities"
-        },
-        {
-          "company": "Google DeepMind",
-          "feature": "AlphaFold being used to engineer heat-tolerant crops by strengthening photosynthesis enzymes for climate resilience"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "Co-founded the Agentic AI Foundation under the Linux Foundation to advance agentic AI development"
-        }
-      ],
-      "fintech_trends": [
-        "AI agents are being deployed for autonomous cryptocurrency trading, with platforms like ThinkMoon enabling users to build custom trading bots using multiple LLM providers and real-time market data",
-        "Multi-agent AI systems are being developed for financial reliability and failure recovery, with frameworks like ARF using specialized agents for anomaly detection and root cause analysis to prevent costly production incidents",
-        "Cryptographic identity systems for AI agents are emerging to ensure accountability and traceability in automated financial operations"
-      ],
-      "fundraising": [],
-      "summary": "Today's AI news highlights significant developments in agentic AI systems, with OpenAI launching a new foundation for collaborative development and Google advancing both conversational AI models and scientific applications. The intersection of AI and fintech continues to evolve with new autonomous trading platforms and reliability frameworks addressing enterprise production challenges.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "2025 at Google",
-          "link": "https://blog.google/technology/ai/look-back-2025/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025.",
-          "published": "2025-12-09T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "How we\u2019re supporting the next generation of innovators",
-          "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
-          "summary": "mp4 of \"AI QUESTS\" with a stylized Earth, \"Accept mission\" button. Google Research and Stanford Accelerator logos.",
-          "published": "2025-12-08T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Transforming Nordic classrooms through responsible AI partnerships",
-          "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
-          "summary": "A bald male teacher with glasses and a black shirt leans over to point at a computer monitor, instructing a male student. Other students are seated at computers along a row of desks in a brightly lit classroom.",
-          "published": "2025-12-08T10:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The latest AI news we announced in November",
-          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
-          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
-          "published": "2025-12-05T19:45:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
-          "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp\" />Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the\u2026",
-          "published": "2025-12-05T16:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Engineering more resilient crops for a warming climate",
-          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
-          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
-          "published": "2025-12-04T16:23:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "OpenAI Co-Founds the Agentic AI Foundation Under the Linux Foundation",
-          "link": "https://openai.com/index/agentic-ai-foundation",
-          "summary": "<p>Article URL: <a href=\"https://openai.com/index/agentic-ai-foundation\">https://openai.com/index/agentic-ai-foundation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46207383\">https://news.ycombinator.com/item?id=46207383</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-09T17:02:26"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "TChat \u2013 A Privacy-First Terminal AI Assistant Built with Go, Genkit, and Ollama",
-          "link": "https://github.com/vnaveen-mh/tchat",
-          "summary": "<p>Article URL: <a href=\"https://github.com/vnaveen-mh/tchat\">https://github.com/vnaveen-mh/tchat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46207362\">https://news.ycombinator.com/item?id=46207362</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-09T17:01:23"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Agentic Reliability Framework \u2013 Multi-agent AI self-heals failures",
-          "link": "https://github.com/petterjuan/agentic-reliability-framework",
-          "summary": "<p>Hey HN! I'm Juan, former reliability engineer at NetApp where I handled 60+ critical incidents per month for Fortune 500 clients.<p>I built ARF after seeing the same pattern repeatedly: production AI systems fail silently, humans wake up at 3 AM, take 30-60 minutes to recover, and companies lose \\$50K-\\$250K per incident.<p>ARF uses 3 specialized AI agents:<p>Detective: Anomaly detection via FAISS vector memory\n Diagnostician: Root cause analysis with causal reasoning  \n Predictive: Forecasts",
-          "published": "2025-12-09T16:55:07"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Moss \u2013 Cryptographic signing for AI agents",
-          "link": "https://mosscomputing.com",
-          "summary": "<p>I've spent 20 years building identity and security systems (EA, Nexon IPO, two patents in cryptographic auth). Started building multi-agent pipelines last year and hit a problem: when something breaks, there's no way to know which agent produced what.<p>MOSS gives agents cryptographic identities and signs their outputs. Each signature includes ML-DSA-44 (post-quantum, FIPS 204), a sequence number for replay detection, and a SHA-256 payload hash.<p><pre><code>    pip install moss-sdk\n\n    from",
-          "published": "2025-12-09T16:53:49"
         }
       ]
     }
