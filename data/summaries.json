@@ -1,6 +1,209 @@
 {
   "summaries": [
     {
+      "date": "2026-03-27",
+      "summary": "AI development continues to accelerate with Google announcing major updates to Gemini models and music generation capabilities, while industry leaders discuss AI's impact on white-collar work and the growing importance of human skills like influence that AI cannot replace. The day also highlighted growing concerns about AI agent security and the increasing trend of chatbots ignoring human instructions.",
+      "podcast_highlights": [
+        {
+          "title": "The art of influence: The single most important skill that AI can't replace | Jessica Fain (Webflow, ex-Slack)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Influence remains a uniquely human skill that AI cannot replicate effectively",
+            "Product leaders must develop stronger influence capabilities as AI automates more technical tasks",
+            "Human connection and persuasion become more valuable as AI handles routine work"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Deep discussion on AI's potential impact on white-collar work and knowledge workers",
+            "Analysis of how ChatGPT and similar tools are changing professional workflows",
+            "Exploration of both opportunities and disruptions AI brings to traditional office jobs"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA CEO discusses the company's journey to becoming the world's most valuable company",
+            "Insights into how NVIDIA is powering the current AI computing revolution",
+            "Strategic vision for the future of AI infrastructure and computing"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3.1 Flash Live - Enhanced audio AI with improved precision, lower latency, and more natural voice interactions"
+        },
+        {
+          "company": "Google/DeepMind",
+          "feature": "Lyria 3 Pro - Advanced music generation model that creates longer tracks with structural awareness, now integrated across more Google products"
+        },
+        {
+          "company": "Google",
+          "feature": "Live Translate with headphones on iOS - Real-time personal translation through headphones for seamless communication"
+        }
+      ],
+      "fintech_trends": [
+        "Agentic commerce is emerging as a key fintech trend, with AI agents handling complex financial transactions like booking travel within budgets and using loyalty points automatically",
+        "AI-powered tools are being developed specifically for real estate professionals and exam learners, indicating growing specialization of AI in financial services education and transactions"
+      ],
+      "fundraising": [
+        {
+          "company": "Shield AI",
+          "amount": "$2B",
+          "details": "Defense AI company doubled its valuation in a year, highlighting strong investor interest in AI applications for military and security purposes"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "The art of influence: The single most important skill that AI can\u2019t replace | Jessica Fain (Webflow, ex-Slack)",
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain",
+          "summary": "<p><strong>Jessica Fain</strong> is a product leader at Webflow and former Chief of Staff to the CPO at Slack, where she worked alongside April Underwood and many past podcast guests including Stewart Butterfield, Annie Pearl, Tamar Yehoshua, and Noah Weiss. She\u2019s spent her career learning how executives actually make decisions\u2014and why most people completely misunderstand the process.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why great ideas often don\u2019t get buy-in</p><p>2. Why executive",
+          "published": "2026-03-22T12:31:51"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick (Executive Negotiator)",
+          "link": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp",
+          "summary": "<p><strong>Jacob Warwick</strong> is an executive negotiation coach who helps senior operators negotiate better salary, equity, titles, and severance packages. He has worked with leaders across tech and Hollywood, was previously a founder and CEO himself, and has helped clients secure millions in additional compensation. His approach focuses on collaboration over confrontation, understanding motivations, and treating job searches like enterprise sales processes.</p><p></p><p><strong>We discuss:<",
+          "published": "2026-03-15T12:31:37"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
+          "link": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWFybS1jZW8tcmVuZS1oYWFzLWFib3V0LXNlbGxpbmctY2hpcHMvIl19LCJleHAiOjE3NzcyMTI0NDQsImlhdCI6MTc3NDYyMDQ0NCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.iPszXvgtMFtT4TaE7bP7D1mQQ22jHN1ROxderOabQTm9sOv0rLqNbzgeYJJeMiDTEyTAx_Sug60_n4M4Jk5D40mDZXrUf9DCuHk_uh1n-mEeAb-SkC6SvBM2UJPZYaXketgmUUsskQ8eZi0n-gQ3783i0qKBeXzTethYskuA8EOOGC9G7jHubTrlhbFRDafhmIVHPoP4V_uIBunwXipDO1LdkqQLqtkbSy2M0XfrouBuSHCH78-EWltHt_fm4I8DXjcE0lCvHLXvEPeCtXQ-AHkmMQC0QEqLG8IEiLRxO6ez3wX8fbsM7OVlVLC8-SgCNC1EBfxshxfsq0ZNuQEI-g",
+          "summary": "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.",
+          "published": "2026-03-26T10:06:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Arm Launches Own CPU, Arm's Motivation, Constraints and Systems",
+          "link": "https://stratechery.com/2026/arm-launches-own-cpu-arms-motivation-constraints-and-systems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FybS1sYXVuY2hlcy1vd24tY3B1LWFybXMtbW90aXZhdGlvbi1jb25zdHJhaW50cy1hbmQtc3lzdGVtcy8iXX0sImV4cCI6MTc3NzIxMjQ0NCwiaWF0IjoxNzc0NjIwNDQ0LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.m7_QQpTO9FRFq08Gcy0f7-lkLJfw9lJMaWLF4BdogDXpdGw4mW6sb8IdXBAbhHoLFKG1n0jP4TpP2-6TsbiqtZasbflt3MbNxOuhPzk57aMybN44e8AAXnNzRlsQu8UCTVBqirnkTVzfwzVhd1z359db2u-07pEtqWa7_PicAAm2fnsGi428POF-6B1kr2LnMRbUrELEB9sDl8doDbDfWWUNQZ2uny4pGb1FO6gCPeSRbS_3M_6H6mWkKisPcnoM-59fiAG6kVkXPjWBQRIqeDOoyzFbaJsma4UBBqg40_XoLE89J_MHoHe3PsPXx2VO01dVvqDwvOrRXo-aOSVsog",
+          "summary": "Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving.",
+          "published": "2026-03-25T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "published": "2026-03-26T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Transform your headphones into a live personal translator on iOS.",
+          "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate\u2019s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries\u2026",
+          "published": "2026-03-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+          "published": "2026-03-26T15:21:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Search Live is expanding globally",
+          "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+          "published": "2026-03-26T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Lyria 3, our newest music generation model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+          "summary": "Google Lyria teaser",
+          "published": "2026-03-25T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+          "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+          "published": "2026-03-25T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Bringing the power of Personal Intelligence to more people",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+          "summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+          "published": "2026-03-17T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Our latest investment in open source security for the AI era",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+          "summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+          "published": "2026-03-17T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "published": "2026-03-26T15:23:35"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Protecting people from harmful manipulation",
+          "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "published": "2026-03-25T16:46:20"
+        }
+      ]
+    },
+    {
       "date": "2026-03-22",
       "summary": "AI agents are emerging as the dominant trend, with discussions ranging from their potential to reshape compute demand and avoid a tech bubble, to serious security concerns as they become more autonomous. The industry is simultaneously grappling with AI commoditization while major companies like OpenAI pivot toward building fully automated researchers and the Pentagon plans AI training on classified data.",
       "podcast_highlights": [
@@ -11400,108 +11603,6 @@
           "link": "https://github.com/gyoridavid/relief-alzheimer-conversational-agent",
           "summary": "<p>We joined the ElevenLabs World Wide Hackathon, and against all odds we were able to create a working conversational agent in 2.5 hours :D<p>We created a multimodal virtual presence agent that uses advanced voice and vision capabilities to offer real-time, familiar-feeling conversations for people with Alzheimer\u2019s. When a primary caregiver can\u2019t be present, Relief provides comforting, supportive interactions\u2014offering reassurance for loved ones and meaningful peace of mind for caregivers.<p>It ",
           "published": "2025-12-11T17:00:37"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-10",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "New AI workplace research report and Gemini integration showing transformative results for organizations implementing AI"
-        },
-        {
-          "company": "Google DeepMind",
-          "feature": "AlphaFold application for engineering heat-tolerant crops by strengthening photosynthesis enzymes for climate resilience"
-        },
-        {
-          "company": "Microsoft",
-          "feature": "Scaling back AI sales targets and Copilot adoption goals due to lower than expected enterprise uptake"
-        }
-      ],
-      "fintech_trends": [
-        "Enterprise AI adoption remains challenging with 75% of organizations stuck in pilot phase despite high investment levels",
-        "AI career coaching and professional development tools are emerging as a niche market for mid-career transitions",
-        "Production readiness remains a major bottleneck for AI applications, with context management and integration complexity being key challenges"
-      ],
-      "fundraising": [
-        {
-          "company": "Empromptu",
-          "amount": "$2M",
-          "details": "Pre-seed funding from Precursor Ventures for AI application builder with self-managing context technology"
-        }
-      ],
-      "summary": "Today's AI news highlights a mixed reality for enterprise AI adoption, with Google showcasing workplace transformation successes while Microsoft scales back ambitious targets due to low Copilot usage. Meanwhile, innovative applications like climate-resilient crop engineering demonstrate AI's potential beyond traditional business use cases.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Learn more about AI in the workplace in our new research report.",
-          "link": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp\" />A new global survey of executives, decision makers and knowledge workers reveals that organizations truly transforming with AI are seeing real results that move their bu\u2026",
-          "published": "2025-12-09T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "2025 at Google",
-          "link": "https://blog.google/technology/ai/look-back-2025/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025.",
-          "published": "2025-12-09T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "How we\u2019re supporting the next generation of innovators",
-          "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
-          "summary": "mp4 of \"AI QUESTS\" with a stylized Earth, \"Accept mission\" button. Google Research and Stanford Accelerator logos.",
-          "published": "2025-12-08T18:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Transforming Nordic classrooms through responsible AI partnerships",
-          "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
-          "summary": "A bald male teacher with glasses and a black shirt leans over to point at a computer monitor, instructing a male student. Other students are seated at computers along a row of desks in a brightly lit classroom.",
-          "published": "2025-12-08T10:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "The latest AI news we announced in November",
-          "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
-          "summary": "mp4 showing a carousel of images with text like \"Gemini 3\" \"Nano Banana Pro\" and \"Help me plan a trip\"",
-          "published": "2025-12-05T19:45:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Engineering more resilient crops for a warming climate",
-          "link": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
-          "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
-          "published": "2025-12-04T16:23:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "How People Use AI at Work",
-          "link": "https://dejan.ai/blog/report-ai-workplace/",
-          "summary": "<p>Article URL: <a href=\"https://dejan.ai/blog/report-ai-workplace/\">https://dejan.ai/blog/report-ai-workplace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46220231\">https://news.ycombinator.com/item?id=46220231</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-10T17:01:28"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Vocation: AI Career Coach for Mid-Career Transitions",
-          "link": "https://www.joinvocation.com/",
-          "summary": "<p>We've taken a decade of research and over 1,000 interviews to build a career coach that helps mid-career professionals figure out their next move.<p>My own career is a winding one - from CPU design, to education research, to supporting Clay Christensen ('disruptive innovation'), and later venture capital.<p>When you want work to mean something, but you enjoy a lot of things, it's hard to navigate next steps. Vocation guides you through that process of discovery.<p>There are tons of AI-slop ca",
-          "published": "2025-12-10T16:57:48"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot",
-          "link": "https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot",
-          "summary": "<p>Article URL: <a href=\"https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot\">https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46220108\">https://news.ycombinator.com/item?id=46220108</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-10T16:54:49"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Empromptu ($2M pre-seed): AI application builder with Self-Managing Context",
-          "link": "https://news.ycombinator.com/item?id=46220076",
-          "summary": "<p>Hey HN,<p>I'm Shanea, founder of Empromptu. We just raised $2M from Precursor Ventures to solve a problem I kept hitting: most AI features never make it to production.<p>The problem: You can prototype AI features in hours now, but getting them production-ready is still brutal. Context windows explode past 100+ documents. Accuracy drifts. Integration with existing codebases is messy. Most teams either rewrite their platform or hire specialized AI engineers.<p>What we built: An AI application b",
-          "published": "2025-12-10T16:53:02"
         }
       ]
     }
