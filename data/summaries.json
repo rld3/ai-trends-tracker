@@ -1,6 +1,223 @@
 {
   "summaries": [
     {
+      "date": "2026-03-29",
+      "summary": "Google dominates AI news with major releases including Gemini 3.1 Flash Live for more natural voice interactions, Lyria 3 Pro for longer music generation, and expanded Search Live capabilities. Meanwhile, Arm makes a strategic shift from IP licensing to manufacturing its own chips, and OpenAI pivots toward building fully automated AI researchers while facing scrutiny over Pentagon partnerships.",
+      "podcast_highlights": [
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Insights from the CEO of the world's most valuable company powering the AI revolution",
+            "Discussion on NVIDIA's role as the engine of AI computing transformation",
+            "Perspectives on the future trajectory of AI development and computing infrastructure"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Deep dive into AI's potential impact on white collar work and professional roles",
+            "Analysis of how ChatGPT and similar models are affecting workplace dynamics",
+            "Discussion on the pace and implications of AI adoption in professional settings"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Arm's strategic pivot from IP licensing to manufacturing their own chips represents a fundamental business model shift",
+            "The decision reflects how AI and computing evolution is forcing traditional tech companies to adapt their strategies",
+            "This move positions Arm to compete more directly in the chip manufacturing space rather than just design"
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/"
+        },
+        {
+          "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Personal transformation story from AI skeptic to believer through practical AI tool usage",
+            "Insights from Claire Vo, founder of AI startup ChatPRD and host of 'How I AI' podcast",
+            "Real-world examples of how AI tools can fundamentally change business operations and personal productivity"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo"
+        },
+        {
+          "title": "The art of influence: The single most important skill that AI can't replace | Jessica Fain",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Human influence and interpersonal skills remain irreplaceable despite AI advancement",
+            "Insights from Webflow product leader and former Slack Chief of Staff on navigating AI-augmented workplaces",
+            "Focus on developing uniquely human capabilities that complement rather than compete with AI"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3.1 Flash Live - Enhanced voice AI with improved precision, lower latency, and more natural audio interactions"
+        },
+        {
+          "company": "Google",
+          "feature": "Lyria 3 Pro - Advanced music generation model capable of creating longer tracks with structural awareness"
+        },
+        {
+          "company": "Google",
+          "feature": "Search Live global expansion - Real-time visual search capabilities expanding worldwide"
+        }
+      ],
+      "fintech_trends": [
+        "Agentic commerce emergence - AI agents handling complex financial transactions like booking trips using points, managing budgets, and making contextual purchasing decisions",
+        "Enterprise AI factories - Companies moving from AI pilots to full-scale 'AI factories' that transform enterprise data into trusted digital intelligence for financial and business operations"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+          "link": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo",
+          "summary": "<p><strong>Claire Vo</strong> is the host of our sister podcast, \u201cHow I AI,\u201d a former product executive and engineer, and founder of an AI startup called ChatPRD. Claire now runs her business, podcast, and family life with the help of nine OpenClaw agents running on multiple Mac Minis and old laptops. In this episode, Claire shares her journey from OpenClaw skeptic (it deleted her family calendar the first time she tried it) to true believer, and gives a masterclass in using AI agents in real li",
+          "published": "2026-03-29T12:31:50"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "The art of influence: The single most important skill that AI can\u2019t replace | Jessica Fain (Webflow, ex-Slack)",
+          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain",
+          "summary": "<p><strong>Jessica Fain</strong> is a product leader at Webflow and former Chief of Staff to the CPO at Slack, where she worked alongside April Underwood and many past podcast guests including Stewart Butterfield, Annie Pearl, Tamar Yehoshua, and Noah Weiss. She\u2019s spent her career learning how executives actually make decisions\u2014and why most people completely misunderstand the process.</p><p></p><p><strong>We discuss:</strong></p><p>1. Why great ideas often don\u2019t get buy-in</p><p>2. Why executive",
+          "published": "2026-03-22T12:31:51"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
+          "link": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWFybS1jZW8tcmVuZS1oYWFzLWFib3V0LXNlbGxpbmctY2hpcHMvIl19LCJleHAiOjE3NzczODUxODcsImlhdCI6MTc3NDc5MzE4NywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.SW_wpcjsaMICxVnjKc3D08lLd1zz4Lqi-Ly8wKtyRzlKwMAOQpmHr85UXSNAzXdO5IkKxYk4C-J28FHAxDUu_648GW_q1LlcYqsN1RbB5sYuUCXUosoivWOL83UUMcRAS9J3F7x53m47MqwJN3el9jx9AYb1A25Qs_g4B63dL03XtQWmlsgo5PWjx-Dvv0ggPHfLeMp2YQSZEQbJlTYiJEKvZAVHS0PXZ87AVqmsLj9GmOnb2XxR4t0odiuKaR-rpY7K9ju9RxWkjGhIs2VhV0P42Za6vRtoIy6x0aEGILCzs_zngleICntsvWmF8aNHV1583xIzthC9i4wBmHHzQQ",
+          "summary": "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.",
+          "published": "2026-03-26T10:06:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Arm Launches Own CPU, Arm's Motivation, Constraints and Systems",
+          "link": "https://stratechery.com/2026/arm-launches-own-cpu-arms-motivation-constraints-and-systems/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FybS1sYXVuY2hlcy1vd24tY3B1LWFybXMtbW90aXZhdGlvbi1jb25zdHJhaW50cy1hbmQtc3lzdGVtcy8iXX0sImV4cCI6MTc3NzM4NTE4NywiaWF0IjoxNzc0NzkzMTg3LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.hYtcj_Ii8tetH8uWTYAnimgu0Sa6vjGgLPPAdfyCBlYiIczMcxCWxGgfGKwEKmmyoOm16pVZW45O5N3d0vQ9okkSeLj3T3UvusI5YO141zzDyCIVBdJddk1dC7Dv_tCtGPfvMDyM_c1nvem58thluDs8ZUX_jMKou1oK607XtMJWuYnN2wF02JEZ--VhQe31t953B4PYU2r89FO4KEvI1kw4EnsziADzIg3ngyPd12cHh03-4cOveydpHz1Kmo9-ut7ZArO-svjsVXKe7yZXK138-IbLFtNG-36uFp0mZPp0ZHYKnq62y0KcFSl81kclds9IYZA-vt9QAhNQGY0TJA",
+          "summary": "Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving.",
+          "published": "2026-03-25T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "published": "2026-03-26T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Transform your headphones into a live personal translator on iOS.",
+          "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate\u2019s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries\u2026",
+          "published": "2026-03-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+          "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+          "published": "2026-03-26T15:21:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Search Live is expanding globally",
+          "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+          "summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+          "published": "2026-03-26T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Build with Lyria 3, our newest music generation model",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+          "summary": "Google Lyria teaser",
+          "published": "2026-03-25T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+          "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+          "published": "2026-03-25T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+          "published": "2026-03-26T15:23:35"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Protecting people from harmful manipulation",
+          "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+          "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+          "published": "2026-03-25T16:46:20"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Lyria 3 Pro: Create longer tracks in more",
+          "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+          "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
+          "published": "2026-03-25T16:01:39"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "This startup wants to change how mathematicians do math",
+          "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+          "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that Fran\u00e7ois Charton, now a research scientist at Axiom, co-developed in 2024&#8230;",
+          "published": "2026-03-25T13:59:17"
+        }
+      ]
+    },
+    {
       "date": "2026-03-28",
       "summary": "Major AI developments include Google's Gemini 3.1 Flash Live with improved audio capabilities and Lyria 3 Pro for longer music generation, while NVIDIA CEO Jensen Huang discusses the company's role in the $4 trillion AI revolution. Industry discussions highlight concerns about AI becoming 'yes-men' in decision-making and the rise of 'social offloading' where AI replaces human empathy in management.",
       "podcast_highlights": [
@@ -11614,107 +11831,6 @@
           "link": "https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html",
           "summary": "<p>Article URL: <a href=\"https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html\">https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46255983\">https://news.ycombinator.com/item?id=46255983</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "published": "2025-12-13T16:59:32"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-12",
-      "top_features": [
-        {
-          "company": "OpenAI",
-          "feature": "GPT-5.2 release claiming to match humans on 70% of work tasks and top Google's Gemini"
-        },
-        {
-          "company": "Google",
-          "feature": "Gemma 3n developer solutions and new AI workplace research report on organizational transformation"
-        },
-        {
-          "company": "Mistral",
-          "feature": "Devstral 2 open-weights coding model achieving 72% on industry benchmarks, nearing proprietary rivals"
-        }
-      ],
-      "fintech_trends": [
-        "Organizations are struggling to move AI implementations from pilot to production, with 75% of enterprises still stuck in experimentation mode despite high investment",
-        "Oracle significantly increased data center spending by $15B as companies double down on AI infrastructure investments"
-      ],
-      "fundraising": [
-        {
-          "company": "Disney",
-          "amount": "$1 billion",
-          "details": "Investment in OpenAI with three-year deal licensing 200 characters for AI video app Sora"
-        }
-      ],
-      "summary": "The AI landscape shows intensifying competition with OpenAI's GPT-5.2 release and major corporate partnerships like Disney's $1B OpenAI investment. Meanwhile, organizations continue struggling to scale AI beyond pilot programs despite massive infrastructure investments.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Gradient Canvas: Celebrating over a decade of artistic collaborations with AI",
-          "link": "https://blog.google/technology/ai/google-gradient-canvas-ai-art/",
-          "summary": "Grid of 12 diverse artworks: faceted green sculpture, illuminated green cursive text, and digital abstracts.",
-          "published": "2025-12-11T21:30:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "4 highlights from Google Beam in 2025",
-          "link": "https://blog.google/technology/research/google-beam-2025-moments/",
-          "summary": "Two people smiling at each other across a desk using a Google Beam video communication device",
-          "published": "2025-12-11T18:30:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "These developers are changing lives with Gemma 3n",
-          "link": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
-          "summary": "The global developer community shares their solutions.",
-          "published": "2025-12-10T17:15:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Learn more about AI in the workplace in our new research report.",
-          "link": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp\" />A new global survey of executives, decision makers and knowledge workers reveals that organizations truly transforming with AI are seeing real results that move their bu\u2026",
-          "published": "2025-12-09T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "2025 at Google",
-          "link": "https://blog.google/technology/ai/look-back-2025/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025.",
-          "published": "2025-12-09T16:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Deepening our partnership with the UK AI Security Institute",
-          "link": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-          "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
-          "published": "2025-12-11T00:06:40"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
-          "link": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-          "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
-          "published": "2025-12-10T14:59:21"
-        },
-        {
-          "source": "DeepMind",
-          "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
-          "link": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-          "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
-          "published": "2025-12-09T11:29:03"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The State of AI: A vision of the world in 2030",
-          "link": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
-          "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revolution reshaping global power.&#160;You can read the rest of the series here. In this final edition, MIT Technology Review\u2019s senior AI editor Will Douglas&#8230;",
-          "published": "2025-12-08T16:30:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-          "link": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-          "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has never been higher, the path from pilot to production remains elusive. Three-quarters of enterprises remain stuck in experimentation mode, despite mounting pressure to&#8230;",
-          "published": "2025-12-05T15:00:00"
         }
       ]
     }
