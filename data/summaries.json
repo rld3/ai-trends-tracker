@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-04-07",
+      "summary": "AI is reaching a critical inflection point with unprecedented growth trajectories like Anthropic's scaling from $1B to $19B ARR, while the industry grapples with security vulnerabilities and shifts toward agentic workflows. The focus is moving from massive model improvements to customization and real-world deployment, with AI agents increasingly taking over enterprise processes and coding workflows.",
+      "podcast_highlights": [
+        {
+          "title": "Head of Growth (Anthropic): \"Claude is growing itself at this point\" | Amol Avasare",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Anthropic achieved unprecedented growth scaling from $1 billion to over $19 billion ARR in record time",
+            "Claude's growth is becoming self-sustaining, indicating strong product-market fit and viral adoption",
+            "The growth trajectory represents one of the most rapid expansions in tech history"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"
+        },
+        {
+          "title": "An AI state of the union: We've passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "AI has officially passed the inflection point, marking a fundamental shift in how technology will impact society",
+            "Dark factories (fully automated manufacturing) are on the horizon as AI automation accelerates",
+            "Automation timelines are compressing faster than expected, particularly impacting software development and knowledge work"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/an-ai-state-of-the-union"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA has become the world's most valuable company by powering the AI computing revolution",
+            "The company's valuation reflects the massive infrastructure requirements of AI development",
+            "Jensen Huang discusses the foundational role of compute in driving AI breakthroughs"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James analyze the potential impact of AI on white collar work and professional workflows",
+            "Discussion focuses on how AI is normalizing and integrating into everyday business operations",
+            "The conversation examines the realistic timeline for AI adoption in corporate environments"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Gemma 4: Most capable open models optimized for advanced reasoning and agentic workflows"
+        },
+        {
+          "company": "Microsoft",
+          "feature": "Copilot Health: New health-focused space allowing users to connect medical records and ask health questions"
+        },
+        {
+          "company": "Red Hat/NVIDIA",
+          "feature": "AI Factories: Enterprise 'five-layer cake' architecture turning data into trusted digital intelligence"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are transforming enterprise process redesign by learning, adapting, and optimizing financial workflows dynamically in real-time",
+        "Small online sellers are increasingly using AI tools for product development and market analysis, indicating AI's democratization in commerce and financial decision-making"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Head of Growth (Anthropic):\u00a0\u201cClaude is growing itself at this point\u201d | Amol Avasare",
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
+          "summary": "<p><strong>Amol Avasare</strong> is Head of Growth at Anthropic, which is going through the most unprecedented growth trajectory in history\u2014scaling from $1 billion to over $19 billion in ARR in just 14 months. Previously, Amol worked on the growth teams at Mercury and MasterClass. Before that he was a founder, and he cold emailed his way into the Anthropic role when no job listing existed. Most remarkably, he overcame a traumatic brain injury from a Muay Thai match that meant he couldn't work fo",
+          "published": "2026-04-05T12:31:45"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "An AI state of the union: We\u2019ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+          "link": "https://www.lennysnewsletter.com/p/an-ai-state-of-the-union",
+          "summary": "<p><strong>Simon Willison</strong> is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the impact AI is having on builders. He co-created Django, the web framework that powers Instagram, Pinterest, and tens of thousands of other websites. He coined the term \u201cprompt injection,\u201d popularized the terms \u201cAI slop\u201d and \u201cagentic engineering,\u201d and has built over 100 open source projects, including Datasette, a data analysis tool used by investigative",
+          "published": "2026-04-02T12:32:28"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#493 \u2013 Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "link": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "summary": "<p>Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; available to wishlist on Steam today, with alpha later in March.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep493-sc\">https://lexfridman.com/sponsors/ep493-sc</a><br />\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.</",
+          "published": "2026-03-11T20:37:33"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "published": "2026-04-02T16:00:49"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Enabling agent-first process redesign",
+          "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+          "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&#8230;",
+          "published": "2026-04-07T14:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The one piece of data that could actually shed light on your job and AI",
+          "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&#8230;",
+          "published": "2026-04-06T16:33:35"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI is changing how small online sellers decide what to make",
+          "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+          "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;",
+          "published": "2026-04-06T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The gig workers who are training humanoid robots at home",
+          "link": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+          "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8230;",
+          "published": "2026-04-01T11:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Shifting to AI model customization is an architectural imperative",
+          "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+          "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization\u2019s&#8230;",
+          "published": "2026-03-31T14:12:50"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
+          "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+          "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&#160; This framing is seductive: An AI vs. human comparison on isolated problems with clear&#8230;",
+          "published": "2026-03-31T12:01:08"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "There are more AI health tools than ever\u2014but how well do they work?",
+          "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+          "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&#8230;",
+          "published": "2026-03-30T16:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
+          "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It\u2019s the latest development in the month-long&#8230;",
+          "published": "2026-03-30T15:42:50"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "OpenClaw gives users yet another reason to be freaked out about security",
+          "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+          "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+          "published": "2026-04-03T20:30:15"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+          "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+          "summary": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
+          "published": "2026-04-02T17:00:11"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+          "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+          "summary": "No, the sky isn't falling, but Q Day <em>is</em> coming, and it won't be as expensive as thought.",
+          "published": "2026-03-31T18:25:33"
+        }
+      ]
+    },
+    {
       "date": "2026-04-06",
       "summary": "AI security vulnerabilities are becoming a major concern with supply chain attacks and code leaks affecting major platforms, while Google continues expanding its AI product suite with new video generation and cost-optimization tools. Anthropic's explosive growth from $1B to $19B ARR demonstrates the unprecedented scale of AI adoption, though questions remain about strategic decision-making at companies like OpenAI.",
       "podcast_highlights": [
@@ -12287,98 +12494,6 @@
           "link": "https://www.insidevoice.ai/p/effortless-ai",
           "summary": "<p>Article URL: <a href=\"https://www.insidevoice.ai/p/effortless-ai\">https://www.insidevoice.ai/p/effortless-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46327932\">https://news.ycombinator.com/item?id=46327932</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2025-12-19T16:49:50"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-18",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 Flash - new frontier intelligence model built for speed at a fraction of the cost"
-        },
-        {
-          "company": "Google",
-          "feature": "Enhanced Google Translate with state-of-the-art Gemini translation capabilities"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "ChatGPT Image 1.5 - new image generator allowing detailed conversational image editing"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Google dominates today's AI announcements with the launch of Gemini 3 Flash, improved translation capabilities, and enhanced voice experiences across Search and other products. Meanwhile, concerns about AI safety and data privacy continue to grow, with new browser extensions emerging to prevent data leaks to LLM tools and ongoing discussions about psychological safety in AI adoption.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Inside Kaggle's AI Agents intensive course with Google",
-          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
-          "published": "2025-12-18T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 Flash: frontier intelligence built for speed",
-          "link": "https://blog.google/products/gemini/gemini-3-flash/",
-          "summary": "Gemini 3 Flash text",
-          "published": "2025-12-17T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "We\u2019re publishing an AI playbook to help others with sustainability reporting.",
-          "link": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp\" />We\u2019re sharing a practical playbook to help organizations streamline and enhance sustainability reporting with AI.Corporate transparency is essential, but navigating frag\u2026",
-          "published": "2025-12-15T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-          "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversation in AI Mode to get real-time help and quickly find relevant sites across the web. And now, \u2026",
-          "published": "2025-12-12T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-          "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-          "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice",
-          "published": "2025-12-12T17:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Flash: frontier intelligence built for speed",
-          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-          "published": "2025-12-17T11:58:17"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Improved Gemini audio models for powerful voice experiences",
-          "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-          "summary": "",
-          "published": "2025-12-12T17:50:50"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: A lightweight DLP browser extension to prevent data leaks in LLM tools",
-          "link": "https://www.asturic.com/",
-          "summary": "<p>Hi HN, I\u2019m a student working at a small company. I noticed some of my colleagues were accidentally pasting sensitive data and internal docs into ChatGPT, Gemini, etc.<p>Enterprise DLPs were a bit too expensive and complex for us, so I built this browser extension. It scans prompts and docs in real-time, alerts the user, and can anonymize data before it\u2019s sent.<p>I\u2019d love to hear your thoughts on the technical approach (browser-native vs network level) and if you find this useful.</p>\n<hr />\n<",
-          "published": "2025-12-18T16:29:55"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Call Santa AI with your kids. My new side project",
-          "link": "https://callsantatonight.com/",
-          "summary": "<p>I created a simple app that lets your kid call Santa AI via video call. Parents can use this webpage to schedule a 5-minute or 10-minute call with Santa, who will speak to their child.<p>Very, very realistic and could support a dialogue, ask questions, and even tell if there is a gift for a kid.<p>I use the HeyGen AI avatar, and I DO NOT record any video. Would you show this to your kid? Could you give me some feedback?<p><a href=\"https://CallSantaTonight.com\" rel=\"nofollow\">https://CallSanta",
-          "published": "2025-12-18T16:28:56"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Principles of AI Product Design: Keep the User in the Driver's Seat",
-          "link": "https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3",
-          "summary": "<p>Article URL: <a href=\"https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3\">https://blog.dfeldman.co/principles-of-ai-product-design-keep-the-user-in-the-drivers-seat-170ae46a28c3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46314759\">https://news.ycombinator.com/item?id=46314759</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-18T16:24:55"
         }
       ]
     }
