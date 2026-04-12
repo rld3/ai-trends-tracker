@@ -2,6 +2,214 @@
   "summaries": [
     {
       "date": "2026-04-08",
+      "summary": "The AI industry is grappling with unprecedented growth trajectories (Anthropic scaling from $1B to $19B ARR) while facing serious safety concerns as models become potentially too dangerous to release. Key discussions center around building sustainable AI businesses, the role of human expertise as a moat against AI disruption, and growing concerns about AI's societal impact including tragic personal consequences.",
+      "podcast_highlights": [
+        {
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Insights from PayPal Mafia veteran on navigating AI startup challenges",
+            "Strategic advice for building sustainable AI-era businesses",
+            "Investment perspective on AI company valuations and market dynamics"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"
+        },
+        {
+          "title": "Head of Growth (Anthropic): \"Claude is growing itself at this point\" | Amol Avasare",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Anthropic achieved unprecedented growth from $1B to $19B ARR in record time",
+            "Claude's growth is becoming increasingly self-sustaining through word-of-mouth",
+            "Insights into scaling AI products at unprecedented velocity"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA CEO discusses the company's rise to $4 trillion valuation",
+            "Deep dive into AI computing infrastructure and the future of AI chips",
+            "Vision for how AI will transform industries and society"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Human expertise and editorial judgment as competitive moats against AI",
+            "NYT's strategy for competing with AI aggregators and maintaining relevance",
+            "The value of trusted, expert-curated content in an AI-saturated world"
+          ],
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODczNyJdfSwiZXhwIjoxNzc4NTk1MjI1LCJpYXQiOjE3NzYwMDMyMjUsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.bvQnUo5LkgrUcZvEFxbvL6bdHOTO-d19S7KQBPIBsbLEyGpLnXYt9Do4lKcRwvNIpeTJSM4CN0zVkOPjMyFNiGJU4vU8CEC7w01nol4zL3BCSgK45jkqIfdiMToN4WBHKyw5gDBLsEKjfhmzang4EWiRVC5A0eSREcAec9wDAZOgWxNR0cy-WQRlzOQCK19-AbhSen6rIId6MicbnWRhm5OVtZ9NyLGed-rm1fOq9badEm-mACa652nt2yP3WXgWDo3LXdrFsJv5qPwm3A9ox9LsZ5FpT3CHK_nhvB4qtUYqCNWs30AwdajdXerJQFfEDBjLST0vghFfuuPzJ9fzBQ&p=18737"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini API Flex and Priority Inference options for balancing cost and reliability"
+        },
+        {
+          "company": "Google",
+          "feature": "Google Vids video creation and editing tool now available at no cost with Lyria and Veo integration"
+        },
+        {
+          "company": "DeepMind",
+          "feature": "Gemma 4 open models with advanced reasoning capabilities and agentic workflows"
+        }
+      ],
+      "fintech_trends": [
+        "Distribution remains the primary competitive moat that AI cannot easily replicate, particularly important for financial services customer acquisition",
+        "AI-native companies are emerging with fundamentally different architectures, potentially disrupting traditional fintech business models",
+        "Enterprise AI factories are being built to turn financial data into trusted digital intelligence using multi-layer AI architectures"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era",
+          "summary": "<p><strong>Keith Rabois</strong> was an early executive at PayPal (part of the famous PayPal Mafia), COO at Square, VP of Corporate Development at LinkedIn, and an early investor in Stripe, DoorDash, Airbnb, YouTube, Ramp, and Palantir. Currently he\u2019s managing director at Khosla Ventures. Also, he hasn\u2019t touched a computer since September 2010 (he does everything from an iPad).</p><p></p><p><strong>In our in-depth conversation, Keith shares:</strong></p><p>1. The barrels vs. ammunition hiring fr",
+          "published": "2026-04-12T12:31:41"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Head of Growth (Anthropic):\u00a0\u201cClaude is growing itself at this point\u201d | Amol Avasare",
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
+          "summary": "<p><strong>Amol Avasare</strong> is Head of Growth at Anthropic, which is going through the most unprecedented growth trajectory in history\u2014scaling from $1 billion to over $19 billion in ARR in just 14 months. Previously, Amol worked on the growth teams at Mercury and MasterClass. Before that he was a founder, and he cold emailed his way into the Anthropic role when no job listing existed. Most remarkably, he overcame a traumatic brain injury from a Muay Thai match that meant he couldn't work fo",
+          "published": "2026-04-05T12:31:45"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODczNyJdfSwiZXhwIjoxNzc4NTk1MjI1LCJpYXQiOjE3NzYwMDMyMjUsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.bvQnUo5LkgrUcZvEFxbvL6bdHOTO-d19S7KQBPIBsbLEyGpLnXYt9Do4lKcRwvNIpeTJSM4CN0zVkOPjMyFNiGJU4vU8CEC7w01nol4zL3BCSgK45jkqIfdiMToN4WBHKyw5gDBLsEKjfhmzang4EWiRVC5A0eSREcAec9wDAZOgWxNR0cy-WQRlzOQCK19-AbhSen6rIId6MicbnWRhm5OVtZ9NyLGed-rm1fOq9badEm-mACa652nt2yP3WXgWDo3LXdrFsJv5qPwm3A9ox9LsZ5FpT3CHK_nhvB4qtUYqCNWs30AwdajdXerJQFfEDBjLST0vghFfuuPzJ9fzBQ&p=18737",
+          "summary": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+          "published": "2026-04-09T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Anthropic's New Model, The Mythos Wolf, Glasswing and Alignment",
+          "link": "https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3MtbmV3LW1vZGVsLXRoZS1teXRob3Mtd29sZi1nbGFzc3dpbmctYW5kLWFsaWdubWVudC8iXX0sImV4cCI6MTc3ODU5NTIyNSwiaWF0IjoxNzc2MDAzMjI1LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.NSQnTJklsc0PoBco_NlXcTCqATAi4-tgBULiEL82PnhkqhLnVj9s4Ljv8lQcGZnvnxUN8OwpkCAhvGEs69obGNmTTpmt8Jnb3z9DTxlRlElDqAXdYePCX7iRK4U127Zg5kbSmGaufFMXrDvJrvo4q1jd0kDrwZ-g2Y9f9icP-o9WWCmQGs2kK1beOTUnxXkT21XZZVEg9cZQAIrmvnpBLjfhm4VCUHlsvWpsxIAkF5tkCMNLd6VTRssGffpZap6e5fVDyodlzybvOBkelGdGck6hmpocnR3XBs-zsPylrsWzedyWqH2l_4S_FhZlz7Z-3svDZPoFRC3ZG4qRZfISng",
+          "summary": "Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns.",
+          "published": "2026-04-08T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New ways to balance cost and reliability in the Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+          "summary": "Gemini API Dials",
+          "published": "2026-04-02T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Create, edit and share videos at no cost in Google Vids",
+          "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "summary": "Google Vids logo surrounded by various video editing UI",
+          "published": "2026-04-02T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemma 4: Byte for byte, the most capable open models",
+          "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+          "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+          "published": "2026-04-02T16:00:49"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Distribution is the only moat AI can't kill",
+          "link": "https://dheer.co/only-moat-ai-cant-kill/",
+          "summary": "<p>Article URL: <a href=\"https://dheer.co/only-moat-ai-cant-kill/\">https://dheer.co/only-moat-ai-cant-kill/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739776\">https://news.ycombinator.com/item?id=47739776</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-12T14:02:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: What are all the bad things that AI companies have done which we forgot",
+          "link": "https://news.ycombinator.com/item?id=47739653",
+          "summary": "<p>I was writing a comment recently when I realized just how bad the graphs in GPT 5 video are. I had almost forgotten about it.<p>I wish to create a very minor website which can talk about all of these, I feel like there are some perverse incentives which make these companies show out the good and hide out the bad and our news cycle just keeps on moving and we all follow it.<p>Also there can be some remarkable mentions as well which I wish to list<p>Here are some other examples:<p>OpenAI turnin",
+          "published": "2026-04-12T13:51:33"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Formal \u2013 Formal verification for AI-generated code using Lean 4",
+          "link": "https://github.com/yamafaktory/formal",
+          "summary": "<p>Article URL: <a href=\"https://github.com/yamafaktory/formal\">https://github.com/yamafaktory/formal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739597\">https://news.ycombinator.com/item?id=47739597</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-12T13:46:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "HappyHorse AI Video Generator",
+          "link": "https://openhappyhorse.io/",
+          "summary": "<p>Article URL: <a href=\"https://openhappyhorse.io/\">https://openhappyhorse.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739409\">https://news.ycombinator.com/item?id=47739409</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-04-12T13:30:05"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "LRTS \u2013 Regression testing for LLM prompts (open source, local-first)",
+          "link": "https://github.com/rufus-SD/lrts",
+          "summary": "<p>Article URL: <a href=\"https://github.com/rufus-SD/lrts\">https://github.com/rufus-SD/lrts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739332\">https://news.ycombinator.com/item?id=47739332</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-12T13:23:11"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: How to build an \"AI native\" company?",
+          "link": "https://news.ycombinator.com/item?id=47739294",
+          "summary": "<p>Seen this term, AI native, thrown around. What does it look like and how to actually implement it?<p>Keen to hear as many view points on this as possible.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739294\">https://news.ycombinator.com/item?id=47739294</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-04-12T13:19:30"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI builds anything. I Claude-coded tasteID so every AI tool just knows",
+          "link": "https://tasteid.xyz",
+          "summary": "<p>Article URL: <a href=\"https://tasteid.xyz\">https://tasteid.xyz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739191\">https://news.ycombinator.com/item?id=47739191</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-12T13:08:13"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-08",
       "summary": "AI development shows no signs of slowing according to Mustafa Suleyman, while Anthropic experiences unprecedented growth from $1B to $19B ARR and strengthens its Google partnership for compute resources. The industry grapples with AI safety concerns as Anthropic withholds a potentially dangerous model, and security vulnerabilities emerge across AI tools and infrastructure.",
       "podcast_highlights": [
         {
@@ -12518,98 +12726,6 @@
           "link": "https://primedirectiveshop.danprice.ai/",
           "summary": "<p>Article URL: <a href=\"https://primedirectiveshop.danprice.ai/\">https://primedirectiveshop.danprice.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46345874\">https://news.ycombinator.com/item?id=46345874</a></p>\n<p>Points: 1</p>\n<p># Comments: 3</p>",
           "published": "2025-12-21T16:18:49"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-20",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost"
-        },
-        {
-          "company": "Google",
-          "feature": "AI-generated video verification now available in Gemini app with SynthID technology"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "ChatGPT Image 1.5 - new image generator enabling detailed conversational image editing"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Google dominated AI news with major releases including Gemini 3 Flash for high-speed processing and expanded content verification tools, while OpenAI launched ChatGPT Image 1.5 for advanced image editing. The industry continues to grapple with AI safety concerns and the growing challenge of detecting AI-generated content, as evidenced by growing security tools and transparency initiatives.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "40 of our most helpful AI tips from 2025",
-          "link": "https://blog.google/technology/ai/ai-tips-2025/",
-          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
-          "published": "2025-12-19T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "5 ways AI agents will transform the way we work in 2026",
-          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-          "summary": "AI agent trends report 2026 graphic",
-          "published": "2025-12-19T14:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "You can now verify Google AI-generated videos in the Gemini app.",
-          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
-          "published": "2025-12-18T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Inside Kaggle's AI Agents intensive course with Google",
-          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
-          "published": "2025-12-18T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
-          "published": "2025-12-18T00:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Flash: frontier intelligence built for speed",
-          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-          "published": "2025-12-17T11:58:17"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
-          "published": "2025-12-16T10:14:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "I got ripped off by YouTube \"coach\" using AI and how you might avoid it [video]",
-          "link": "https://www.youtube.com/watch?v=l8yvsHFbzMI",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=l8yvsHFbzMI\">https://www.youtube.com/watch?v=l8yvsHFbzMI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46337559\">https://news.ycombinator.com/item?id=46337559</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-20T16:59:13"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Code assistants has made completing side projects so easy",
-          "link": "https://news.ycombinator.com/item?id=46337414",
-          "summary": "<p>I am a full stack developer with a full time job. I try to work on side projects like a lot of other developers.<p>In last ~10 years I have started 20+ projects and for each project spent anywhere between 2 weeks to 6 months. I have completed just 2 projects which were fairly short(~4 week). So recently when started some big side project, There was almost no chance of me completing it. I was just doing it for fun.<p>All this changed with AI code assistants. I picked a fairly big project which",
-          "published": "2025-12-20T16:42:25"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Sigma Runtime \u2013 550-cycle identity stability benchmark on GPT-5.2",
-          "link": "https://github.com/sigmastratum/documentation/blob/main/sigma-runtime/SR-EI-037/SIGMA_Runtime_0_3_7_CVR.md",
-          "summary": "<p>We recently completed validation of SIGMA Runtime v0.3.7 \u2014 a cognitive architecture for LLM identity stabilization.\nAcross 550 cycles on GPT-5.2 (five runs \u00d7 110 cycles), the system maintained 100% persona coherence with an average 33% token reduction and 13% latency improvement.<p>The key finding: runtime parameters act as cognitive control levers, enabling dynamic trade-offs between semantic depth and efficiency.<p>Discussion welcome \u2014 especially from those working on long-horizon coherence",
-          "published": "2025-12-20T16:39:37"
         }
       ]
     }
