@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-04-13",
+      "summary": "The AI landscape is showing signs of compute constraints reshaping industry dynamics, with Anthropic claiming its latest model is too dangerous to release while simultaneously securing Google TPU deals. Key discussions focus on whether traditional aggregation theory survives in a compute-constrained world and how human expertise may serve as a moat against AI disruption.",
+      "podcast_highlights": [
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Discussion with NVIDIA CEO about the company's role as the engine powering the AI computing revolution",
+            "Insights into how NVIDIA became the world's most valuable company through AI infrastructure",
+            "Perspectives on the future of AI computing and hardware requirements"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss the potential transformative impact of AI on white collar work",
+            "Analysis of how AI tools are being integrated into professional workflows",
+            "Exploration of the realistic timeline for AI adoption in business contexts"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Examination of whether Aggregation Theory survives in a compute-constrained world",
+            "Argument that controlling demand will give power over supply even with limited compute",
+            "Discussion of how scarcity of compute resources is reshaping competitive dynamics"
+          ],
+          "link": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L215dGhvcy1tdXNlLWFuZC10aGUtb3Bwb3J0dW5pdHktY29zdC1vZi1jb21wdXRlLyJdfSwiZXhwIjoxNzc4NjgyNzI4LCJpYXQiOjE3NzYwOTA3MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.OzNa49_264Vk8Ezn1fLaOAivXLjdDEfZ-BUfUADWGi77LY5TCblZANWsBjWiel8wzxk-VuQMXqzNFbi3I8p4Mb6CpKmJn7mALMXzvJrtqT6Q4emFpBDGSj59InjgQvnPr1MWSDo82P85YaJiljQURiY1XVHBvgH7w-4DgoWJ_8Qgb72t_9gE6v56ObA9bFAp8qVBanZ7jdlqLqivyju1jyDY_I2XZIDPXl7QKY7CbQ-vpfrggUqJCNbxmIlF3wLxawAb6TbuAz818Kbqi6QqVYwglxJcCHfXwDxD4mWbGTFfm4VeiiS9cjVkUsjkjMYrIZP54DBiLjIMDfkVNe4Zw"
+        },
+        {
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Discussion of enterprises moving from AI pilots to full-scale AI factories",
+            "Explanation of the 'five-layer cake' AI architecture for enterprise deployment",
+            "Insights on turning enterprise data into trusted digital intelligence"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Anthropic",
+          "feature": "New model claimed to be too dangerous to release, raising alignment concerns"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "New TPU deal with Google for additional compute resources"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Acquisition of TBPN (though rationale questioned)"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are enabling dynamic process redesign in financial services, moving beyond static rules-based systems to adaptive, real-time optimization",
+        "Small online sellers are increasingly using AI tools to make product development decisions, indicating broader adoption of AI in commerce and financial planning"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+          "link": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L215dGhvcy1tdXNlLWFuZC10aGUtb3Bwb3J0dW5pdHktY29zdC1vZi1jb21wdXRlLyJdfSwiZXhwIjoxNzc4NjgyNzI4LCJpYXQiOjE3NzYwOTA3MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.OzNa49_264Vk8Ezn1fLaOAivXLjdDEfZ-BUfUADWGi77LY5TCblZANWsBjWiel8wzxk-VuQMXqzNFbi3I8p4Mb6CpKmJn7mALMXzvJrtqT6Q4emFpBDGSj59InjgQvnPr1MWSDo82P85YaJiljQURiY1XVHBvgH7w-4DgoWJ_8Qgb72t_9gE6v56ObA9bFAp8qVBanZ7jdlqLqivyju1jyDY_I2XZIDPXl7QKY7CbQ-vpfrggcUqJCNbxmIlF3wLxawAb6TbuAz818Kbqi6QqVYwglxJcCHfXwDxD4mWbGTFfm4VeiiS9cjVkUsjkjMYrIZX54DBiLjIMDfkVNe4Zw",
+          "summary": "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.",
+          "published": "2026-04-13T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODczNyJdfSwiZXhwIjoxNzc4NjgyNzI4LCJpYXQiOjE3NzYwOTA3MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.bW1TXCDUli8uYpb76hmqfrIOrRR9XcEle4sCfAuVMk7WdvB7Bb5jUgR2yoggipBT36yiCQLo3XrT6UEfRMB6JZi0UNbFIvY4iRM0o-TsEN-zwNdwpiZARLY3kHOHaBF7rHiI2F-SY7LScS47WaU_tefByBB098yrEvTX3FH833tgnUkmrggh_Rl1eOBqd2w0-o_2NKcDIB2qYqa49q7qglaAL3YhZhG_5RU_LH4AHaLz_NLLzSfCVObGoT5NBU1B2CwiUyhsXc_5nTEyvsgQ_HCnED_mTa4fFjiMyaZGhH2kLcA0SfuwaKuRuALh2N7hiZ16_DWrJmsU1_DByMtIyw&p=18737",
+          "summary": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+          "published": "2026-04-09T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
+          "link": "",
+          "summary": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&amp;D at EPRI joins the podcast to explain why most of an AI model\u2019s lifetime energy use comes from inference rather than training, and how micro data centers located near underutilized substations can help deliver low\u2011latency AI services while strengthening grid resilience.",
+          "published": "2026-03-04T16:45:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Want to understand the current state of AI? Check out these charts.",
+          "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+          "summary": "If you\u2019re following AI news, you\u2019re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can\u2019t even read a clock. The 2026 AI Index from Stanford University\u2019s Institute for Human-Centered Artificial Intelligence, AI\u2019s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;",
+          "published": "2026-04-13T13:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
+          "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+          "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I began&#8230;",
+          "published": "2026-04-08T14:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Enabling agent-first process redesign",
+          "link": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+          "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&#8230;",
+          "published": "2026-04-07T14:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The one piece of data that could actually shed light on your job and AI",
+          "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Within Silicon Valley\u2019s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for&#8230;",
+          "published": "2026-04-06T16:33:35"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI is changing how small online sellers decide what to make",
+          "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+          "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.&#160; When McClary&#8230;",
+          "published": "2026-04-06T11:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "\u201cNegative\u201d views of Broadcom driving thousands of VMware migrations, rival says",
+          "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+          "summary": "Western Union exec says there were \"challenges\" working with Broadcom.",
+          "published": "2026-04-09T19:44:31"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+          "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+          "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
+          "published": "2026-04-08T20:49:11"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Thousands of consumer routers hacked by Russia's military",
+          "link": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+          "summary": "End-of-life routers in homes and small offices hacked in 120 countries.",
+          "published": "2026-04-08T11:00:08"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "OpenClaw gives users yet another reason to be freaked out about security",
+          "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+          "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+          "published": "2026-04-03T20:30:15"
+        },
+        {
+          "source": "Stratechery",
+          "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+          "link": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
+          "summary": "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.",
+          "published": "2026-04-13T10:00:00"
+        },
+        {
+          "source": "Stratechery",
+          "title": "2026.15: Myth and Mythos",
+          "link": "https://stratechery.com/2026/myth-and-mythos/",
+          "summary": "The best Stratechery content from the week of April 6, 2026, including Anthropic, The New York Times and another paradigm shift, and The New Yorker explains Sam Altman.",
+          "published": "2026-04-10T17:00:00"
+        },
+        {
+          "source": "Stratechery",
+          "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+          "link": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
+          "summary": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+          "published": "2026-04-09T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-04-08",
       "summary": "The AI industry is grappling with unprecedented growth trajectories (Anthropic scaling from $1B to $19B ARR) while facing serious safety concerns as models become potentially too dangerous to release. Key discussions center around building sustainable AI businesses, the role of human expertise as a moat against AI disruption, and growing concerns about AI's societal impact including tragic personal consequences.",
       "podcast_highlights": [
@@ -12631,101 +12838,6 @@
           "link": "https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/",
           "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/\">https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46355722\">https://news.ycombinator.com/item?id=46355722</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2025-12-22T16:44:38"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-21",
-      "top_features": [
-        {
-          "company": "Google/DeepMind",
-          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost"
-        },
-        {
-          "company": "Google",
-          "feature": "Video verification for AI-generated content in Gemini app using SynthID technology"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "ChatGPT Image 1.5 - new image generator with detailed conversational image editing capabilities"
-        }
-      ],
-      "fintech_trends": [
-        "AI-powered stock selection is becoming more sophisticated, with machine learning algorithms being used for technical analysis and trading decisions",
-        "There's growing discussion about the technical infrastructure challenges of AI in financial applications, particularly around streaming and real-time processing capabilities"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated AI news with multiple major announcements including Gemini 3 Flash and enhanced content verification tools, while OpenAI launched ChatGPT Image 1.5 for advanced image editing. The industry is increasingly focused on AI safety, content authenticity, and the growing concern about AI-generated 'slop' content quality.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "40 of our most helpful AI tips from 2025",
-          "link": "https://blog.google/technology/ai/ai-tips-2025/",
-          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
-          "published": "2025-12-19T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "5 ways AI agents will transform the way we work in 2026",
-          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-          "summary": "AI agent trends report 2026 graphic",
-          "published": "2025-12-19T14:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "You can now verify Google AI-generated videos in the Gemini app.",
-          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
-          "published": "2025-12-18T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Inside Kaggle's AI Agents intensive course with Google",
-          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
-          "published": "2025-12-18T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
-          "published": "2025-12-18T00:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Flash: frontier intelligence built for speed",
-          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-          "published": "2025-12-17T11:58:17"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
-          "published": "2025-12-16T10:14:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Is resumable LLM streaming hard? No, it's just annoying",
-          "link": "https://stardrift.ai/blog/streaming-resumptions",
-          "summary": "<p>Article URL: <a href=\"https://stardrift.ai/blog/streaming-resumptions\">https://stardrift.ai/blog/streaming-resumptions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46346027\">https://news.ycombinator.com/item?id=46346027</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-21T16:36:35"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Ask HN: Why are AI code editors not continuously working?",
-          "link": "https://news.ycombinator.com/item?id=46345927",
-          "summary": "<p>I am getting more and more baffled by the incompetency of AI code editor developers. Why not simply have a \"janitor\" always running in the background, doing exactly the right refactorings, ensuring clean, well-tested code etc.? It would help so much against the AI slop problem. And it would be so simple to implement: Just some intelligent prompting or even static and dynamic analysis to detect re-occurring patterns in code and execution paths.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news",
-          "published": "2025-12-21T16:23:50"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AI LinkedIn Post Generator \u2013 Gemini-powered with 5 tone options",
-          "link": "https://primedirectiveshop.danprice.ai/",
-          "summary": "<p>Article URL: <a href=\"https://primedirectiveshop.danprice.ai/\">https://primedirectiveshop.danprice.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46345874\">https://news.ycombinator.com/item?id=46345874</a></p>\n<p>Points: 1</p>\n<p># Comments: 3</p>",
-          "published": "2025-12-21T16:18:49"
         }
       ]
     }
