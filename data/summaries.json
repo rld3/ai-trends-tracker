@@ -1,6 +1,224 @@
 {
   "summaries": [
     {
+      "date": "2026-04-14",
+      "summary": "AI industry discussions center on enterprise competition between OpenAI and Anthropic, with Anthropic's Claude achieving unprecedented growth from $1B to $19B ARR. Key debates emerge around compute constraints, AI's actual business impact versus marketing claims, and fundamental questions about AI safety and deployment in enterprise environments.",
+      "podcast_highlights": [
+        {
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "PayPal Mafia veteran Keith Rabois shares insights on building companies in the AI era",
+            "Discussion of hard truths and realistic expectations for AI-powered businesses",
+            "Focus on practical lessons from his experience at PayPal, Square, LinkedIn and as investor in Stripe, DoorDash"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"
+        },
+        {
+          "title": "Head of Growth (Anthropic): \"Claude is growing itself at this point\" | Amol Avasare",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Anthropic scaled from $1 billion to over $19 billion in ARR in just one year - the most unprecedented growth trajectory in history",
+            "Head of Growth Amol Avasare claims 'Claude is growing itself at this point', suggesting product-led viral growth",
+            "Insights into how Anthropic achieved this massive scale without traditional growth tactics"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James discuss the potential long-term impact of AI on white-collar work",
+            "Analysis of AI adoption moving from hype to practical implementation",
+            "Discussion of how AI tools are being integrated into normal business workflows"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA CEO Jensen Huang discusses the company's rise to become the world's most valuable company",
+            "Deep dive into NVIDIA's role as the engine powering the AI computing revolution",
+            "Insights on the future of AI hardware and compute infrastructure"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "How AI Will Change Quantum Computing - Ep. 294",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "NVIDIA's Nic Harrigan explains the convergence of AI and quantum computing technologies",
+            "Error correction identified as the pivotal challenge in quantum computing advancement",
+            "Discussion of how AI can accelerate quantum computing development and applications"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Anthropic",
+          "feature": "Mythos AI system raising concerns from Goldman Sachs about potential risks"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Internal enterprise strategy memos targeting Anthropic's market position"
+        },
+        {
+          "company": "Red Hat/NVIDIA",
+          "feature": "AI Factories partnership creating 'five-layer cake' architecture for enterprise AI deployment"
+        }
+      ],
+      "fintech_trends": [
+        "Goldman Sachs leadership expressing 'hyper-awareness' of risks from advanced AI systems like Anthropic's Mythos, indicating heightened regulatory and risk management focus in financial services",
+        "Enterprise AI infrastructure moving from pilots to full-scale 'AI factories' that convert data into trusted digital intelligence, representing a shift toward production-ready fintech AI applications",
+        "Compute constraints and opportunity costs becoming critical factors in AI deployment decisions, affecting how financial institutions allocate resources for AI initiatives"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era",
+          "summary": "<p><strong>Keith Rabois</strong> was an early executive at PayPal (part of the famous PayPal Mafia), COO at Square, VP of Corporate Development at LinkedIn, and an early investor in Stripe, DoorDash, Airbnb, YouTube, Ramp, and Palantir. Currently he\u2019s managing director at Khosla Ventures. Also, he hasn\u2019t touched a computer since September 2010 (he does everything from an iPad).</p><p></p><p><strong>In our in-depth conversation, Keith shares:</strong></p><p>1. The barrels vs. ammunition hiring fr",
+          "published": "2026-04-12T12:31:41"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Head of Growth (Anthropic):\u00a0\u201cClaude is growing itself at this point\u201d | Amol Avasare",
+          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
+          "summary": "<p><strong>Amol Avasare</strong> is Head of Growth at Anthropic, which is going through the most unprecedented growth trajectory in history\u2014scaling from $1 billion to over $19 billion in ARR in just 14 months. Previously, Amol worked on the growth teams at Mercury and MasterClass. Before that he was a founder, and he cold emailed his way into the Anthropic role when no job listing existed. Most remarkably, he overcame a traumatic brain injury from a Muay Thai match that meant he couldn't work fo",
+          "published": "2026-04-05T12:31:45"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "Ben and James reunite to discuss the potential impact of AI on white collar work. Subscribe to Stratechery Plus, including Sharp Tech and Sharp China. Links Ben Thompson: AI Homework \u2014 Stratechery Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed iTunes SoundCloud Twitter Feedback",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "Ben and James discuss Facebook and Microsoft\u2019s metaverse announcements, and how the future might play out. Links Ben Thompson: Meta \u2014 Stratechery Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 Stratechery Ben Thompson: AR vs. VR \u2014\u00a0Stratechery Ben Thompson: Apps, People, and Jobs to be Done \u2014\u00a0Stratechery Ben Thompson: Metaverses \u2014 Stratechery Hosts \u00a0 Ben Thompson, @benthompson, Stratechery James Allworth, @jamesallworth, Harvard Business Review \u00a0 Podcast Information \u00a0 Feed ",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "OpenAI's Memos, Frontier, Amazon and Anthropic",
+          "link": "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L29wZW5haXMtbWVtb3MtZnJvbnRpZXItYW1hem9uLWFuZC1hbnRocm9waWMvIl19LCJleHAiOjE3Nzg3NzA5MjAsImlhdCI6MTc3NjE3ODkyMCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.JPd0P5sl3jSqu_Y6TBwsXFe2Absgb4wqFzrGLAAX3TZnb-O4mQkgu02xIcjQpgFt2cv9Zew6QPkpm_iOprYRE15lEFcJhCnuV5UCAinxeSZIj4T6iU-xcuI6yVdgOix2-poyZRbuLtCr_OoCyKkYvLvYoUMMfK35RFm4Xr5_3JZ0TuRnwgMf8Ak3hAQbeguHG8_wji94GWF98jR1bUsC_osFlZc8HNu9pjqplDM8tTGTQI-BzRZV4J_AxdGXDvz4tvWeXdEp_heq4FXDrwsC9Is1Q6ho86Ck3066z-3C7YxayWt3vMSJlPJbdT4ei1XReabyM-3lfRovZ4Drw84iUw",
+          "summary": "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.",
+          "published": "2026-04-14T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+          "link": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L215dGhvcy1tdXNlLWFuZC10aGUtb3Bwb3J0dW5pdHktY29zdC1vZi1jb21wdXRlLyJdfSwiZXhwIjoxNzc4NzcwOTIwLCJpYXQiOjE3NzYxNzg5MjAsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.VV5ohrFuUZiltQ9-fxIYNp-34VtMjAdeaZmT4I4biKmMReqBM9zZe3-X8OO9LFN4wl7dLelvyxRooCUWR5jQnY9Nv7ZzozRHqz2Vnmw85SE2ON-Vrljr2wQczlAksg9SObo6e2sTikb-8yQ78P4iH26NHveWOBBQ9WiH_D110Q2IgCZ_LnmhfLLTpIck8xbj0OR3tVt8L57U6SN12FQQejj5_0yzb-JlHHBh_uTeBswylpYb8HltxOuyM4HMl19NDMu7KdjEfdsOstt34nNr8UTcN_fH-18k4I0Tce01JcfQeOx7wSrFug5NXACHPrmSjAb6TnHRK5K8vIFpGJkERQ",
+          "summary": "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.",
+          "published": "2026-04-13T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI Will Change Quantum Computing - Ep. 294",
+          "link": "",
+          "summary": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and reveal how NVIDIA Ising\u2014the world's first open AI model family for quantum\u2014is changing the game.\n\n\n\n\ud83d\udd17 Resources mentioned:\n\n\u25ba Read our NVIDIA Ising announcement\u00a0\n\n\u25ba Learn more about NVIDIA Ising\u00a0\n\n\u25ba Learn more about NVIDIA Quantum Computing",
+          "published": "2026-04-14T14:00:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Bringing people together at AI for the Economy Forum",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+          "published": "2026-04-14T09:00:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Running AI agents in microVMs instead of containers",
+          "link": "https://github.com/the-void-ia/void-box",
+          "summary": "<p>Article URL: <a href=\"https://github.com/the-void-ia/void-box\">https://github.com/the-void-ia/void-box</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766432\">https://news.ycombinator.com/item?id=47766432</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-04-14T14:52:25"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Everybody Is Lying About How They Use AI",
+          "link": "https://medium.com/@sageframe/everybody-is-lying-about-how-they-use-ai-f1cee48a51a8",
+          "summary": "<p>Article URL: <a href=\"https://medium.com/@sageframe/everybody-is-lying-about-how-they-use-ai-f1cee48a51a8\">https://medium.com/@sageframe/everybody-is-lying-about-how-they-use-ai-f1cee48a51a8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766336\">https://news.ycombinator.com/item?id=47766336</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-14T14:45:48"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Fleet Watch \u2013 preflight guard for local AI inference on Apple Silicon",
+          "link": "https://github.com/cjchanh/fleet-watch",
+          "summary": "<p>Article URL: <a href=\"https://github.com/cjchanh/fleet-watch\">https://github.com/cjchanh/fleet-watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766303\">https://news.ycombinator.com/item?id=47766303</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-14T14:43:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI truth has been bugging me lately so I solved it",
+          "link": "http://www.pinkhouse.tech/truth.html",
+          "summary": "<p>Article URL: <a href=\"http://www.pinkhouse.tech/truth.html\">http://www.pinkhouse.tech/truth.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766285\">https://news.ycombinator.com/item?id=47766285</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-14T14:41:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "KillBench: Every frontier LLM is biased about who deserves to live",
+          "link": "https://whitecircle.ai/killbench",
+          "summary": "<p>Article URL: <a href=\"https://whitecircle.ai/killbench\">https://whitecircle.ai/killbench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766219\">https://news.ycombinator.com/item?id=47766219</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-14T14:36:22"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI agents replicate human social dynamics in days",
+          "link": "https://www.nature.com/articles/d41586-026-01218-z",
+          "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01218-z\">https://www.nature.com/articles/d41586-026-01218-z</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766199\">https://news.ycombinator.com/item?id=47766199</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-04-14T14:33:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team",
+          "link": "https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed",
+          "summary": "<p>Article URL: <a href=\"https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed\">https://businessasusual.io/p/ninety-percent-of-ceos-say-ai-changed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766164\">https://news.ycombinator.com/item?id=47766164</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+          "published": "2026-04-14T14:31:15"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Goldman Sachs chief 'hyper-aware' of risks from Anthropic's Mythos AI",
+          "link": "https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon",
+          "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon\">https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766161\">https://news.ycombinator.com/item?id=47766161</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-14T14:31:11"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Schools Never Taught Critical Thinking: AI Exposed the Lie",
+          "link": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
+          "summary": "<p>Article URL: <a href=\"https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking\">https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47766144\">https://news.ycombinator.com/item?id=47766144</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
+          "published": "2026-04-14T14:29:55"
+        }
+      ]
+    },
+    {
       "date": "2026-04-13",
       "summary": "The AI landscape is showing signs of compute constraints reshaping industry dynamics, with Anthropic claiming its latest model is too dangerous to release while simultaneously securing Google TPU deals. Key discussions focus on whether traditional aggregation theory survives in a compute-constrained world and how human expertise may serve as a moat against AI disruption.",
       "podcast_highlights": [
@@ -12740,104 +12958,6 @@
           "link": "https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/",
           "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/\">https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46366634\">https://news.ycombinator.com/item?id=46366634</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
           "published": "2025-12-23T16:29:10"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-22",
-      "top_features": [
-        {
-          "company": "Google/DeepMind",
-          "feature": "Gemini 3 Flash - frontier intelligence built for speed at a fraction of the cost"
-        },
-        {
-          "company": "Google",
-          "feature": "AI-generated video verification in Gemini app using SynthID for content transparency"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "ChatGPT Image 1.5 - enhanced conversational image editing and generation capabilities"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [
-        {
-          "company": "iRobot",
-          "amount": "Not specified",
-          "details": "Acquired by Shenzhen-based Picea Robotics after filing for bankruptcy"
-        }
-      ],
-      "summary": "Google dominated AI news with the launch of Gemini 3 Flash offering frontier intelligence at lower costs and new video verification tools, while OpenAI released ChatGPT Image 1.5 for advanced image editing. The day also highlighted growing concerns about AI content transparency and the need for better safety measures as AI capabilities rapidly advance.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "40 of our most helpful AI tips from 2025",
-          "link": "https://blog.google/technology/ai/ai-tips-2025/",
-          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
-          "published": "2025-12-19T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "5 ways AI agents will transform the way we work in 2026",
-          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-          "summary": "AI agent trends report 2026 graphic",
-          "published": "2025-12-19T14:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "You can now verify Google AI-generated videos in the Gemini app.",
-          "link": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp\" />We\u2019re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d\u2026",
-          "published": "2025-12-18T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Inside Kaggle's AI Agents intensive course with Google",
-          "link": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-          "summary": "Illustration of a developer participating in the Kaggle AI Agents Intensive, sitting with their laptop with Kaggle and Google logos.",
-          "published": "2025-12-18T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-          "link": "https://blog.google/technology/ai/release-notes-podcast-search/",
-          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana, and interactive graphics.",
-          "published": "2025-12-18T00:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Flash: frontier intelligence built for speed",
-          "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-          "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-          "published": "2025-12-17T11:58:17"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-          "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-          "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
-          "published": "2025-12-16T10:14:24"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Data Agents L0-L5: Understanding the New Autonomy Hierarchy That's Reshaping AI",
-          "link": "https://techlife.blog/posts/data-agents/",
-          "summary": "<p>Article URL: <a href=\"https://techlife.blog/posts/data-agents/\">https://techlife.blog/posts/data-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46355920\">https://news.ycombinator.com/item?id=46355920</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-22T16:59:48"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Utter \u2013 System-wide dictation on macOS with AI prompts (free / BYOK)",
-          "link": "https://utter.to",
-          "summary": "<p>Hi HN,<p>I built Utter, a native macOS dictation app, and wanted to share it here to get feedback.<p>The motivation was that Apple Dictation works for short notes, but for longer or technical input it often produces a wall of text that takes more time to clean up than typing. I wanted dictation that could understand context and produce structured output directly.<p>Utter works system-wide: you press a global hotkey, speak, and the text is inserted directly at your cursor in any app. Before in",
-          "published": "2025-12-22T16:53:40"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Scraping and the Open Web",
-          "link": "https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/",
-          "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/\">https://cacm.acm.org/opinion/ai-scraping-and-the-open-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46355722\">https://news.ycombinator.com/item?id=46355722</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-22T16:44:38"
         }
       ]
     }
