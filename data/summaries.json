@@ -1,6 +1,224 @@
 {
   "summaries": [
     {
+      "date": "2026-04-20",
+      "summary": "Today's AI discussions focused heavily on workforce disruption, with concerns about product managers becoming obsolete and AI making people less intelligent. Major developments include Google's new Gemini 3.1 Flash TTS for expressive AI speech and Gemini Robotics-ER 1.6 for enhanced robot reasoning, while industry leaders debate the sustainability of AI growth amid TSMC's cautious outlook.",
+      "podcast_highlights": [
+        {
+          "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Half of current product managers may face obsolescence due to AI automation of traditional PM tasks",
+            "Senior product leaders need to evolve beyond traditional feature management to strategic thinking",
+            "The role is shifting toward community building and higher-level product strategy"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble"
+        },
+        {
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Building successful AI companies requires different strategies than traditional tech startups",
+            "The PayPal Mafia veteran shares insights on navigating the current AI investment landscape",
+            "Emphasizes the importance of understanding AI's limitations and realistic applications"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion on AI's potential impact on white-collar work across industries",
+            "Analysis of how ChatGPT and similar tools are changing professional workflows",
+            "Examination of the pace of AI adoption in traditional business settings"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA CEO discusses the company's journey to becoming the world's most valuable company",
+            "Insights into the infrastructure powering the current AI computing revolution",
+            "Vision for the future of AI hardware and computing capabilities"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang"
+        },
+        {
+          "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "TSMC's leadership appears skeptical about the sustainability of AI growth trends",
+            "Analysis of semiconductor capacity and its impact on AI development",
+            "Discussion of the disconnect between AI hype and foundational infrastructure investment"
+          ],
+          "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3.1 Flash TTS - Next generation expressive AI speech with granular audio tags for precise control"
+        },
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini Robotics-ER 1.6 - Enhanced embodied reasoning for real-world robotics with improved spatial reasoning and multi-view understanding"
+        },
+        {
+          "company": "Google",
+          "feature": "AI Mode in Chrome - New way to explore the web with integrated AI capabilities"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered document analysis is expanding into specialized legal and financial documents, with tools like lease agreement analyzers emerging for consumer protection",
+        "Enterprise AI adoption in constrained environments (like financial services) is focusing on privacy-led UX design and secure deployment strategies",
+        "The intersection of AI and traditional financial workflows is creating demand for specialized audit and compliance tools powered by machine learning"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+          "link": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+          "summary": "<p><strong>Nikhyl Singhal </strong>is the founder of The Skip, a community for senior product leaders; a former product exec at Meta, Google, and Credit Karma; and a many-time founder. He\u2019s also one of the most honest, unfiltered voices on what\u2019s actually happening in product management right now.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why the next two years will be the most chaotic period in product management history</p><p>2. Why half of current produc",
+          "published": "2026-04-19T12:31:44"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+          "link": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era",
+          "summary": "<p><strong>Keith Rabois</strong> was an early executive at PayPal (part of the famous PayPal Mafia), COO at Square, VP of Corporate Development at LinkedIn, and an early investor in Stripe, DoorDash, Airbnb, YouTube, Ramp, and Palantir. Currently he\u2019s managing director at Khosla Ventures. Also, he hasn\u2019t touched a computer since September 2010 (he does everything from an iPad).</p><p></p><p><strong>In our in-depth conversation, Keith shares:</strong></p><p>1. The barrels vs. ammunition hiring fr",
+          "published": "2026-04-12T12:31:41"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
+          "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3RzbWMtZWFybmluZ3MtbmV3LW4zLWZhYnMtdGhlLW52aWRpYS1yYW1wLyJdfSwiZXhwIjoxNzc5Mjg1ODI4LCJpYXQiOjE3NzY2OTM4MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.Fe0tMpZiWZE2O7XoYwgy6fxlvI9MeSC0EEp7bsbR6vXu4P824QtApHZHJWlbGEwiHcvzhQfHj70LsbLtoBhjnPVpIMrrEETFRaVGBkQjI2ucl88__XMDnALxueNNwTmuJT8outGdgfoqRRJHTx3X35g3ZBeTaKBBvdqyeeKSn2DSZIujvM7SToH8FkxX7tZ4gAWyyb6ajirG1XQ7CDj8n0EuRBwwuaUkjj25cXfGkTKEVSkr2Aa-blGvNxjkkdC9lNPVJZE5ekcNtawrTIMx8reoRFiChpNq35ZGkmYesgo2OtAKNtgP8q40gyx2_hlmVTbVy2HQ1zVNQzTKYkt1kA",
+          "summary": "TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.",
+          "published": "2026-04-20T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with F1 Driver and Venture Capitalist Nico Rosberg About the Drive to Win",
+          "link": "https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWYxLWRyaXZlci1hbmQtdmVudHVyZS1jYXBpdGFsaXN0LW5pY28tcm9zYmVyZy1hYm91dC10aGUtZHJpdmUtdG8td2luLyJdfSwiZXhwIjoxNzc5Mjg1ODI4LCJpYXQiOjE3NzY2OTM4MjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.SyDpowoHbzMUl4fE3FJYSewoBl9DeULZR75SItj4X4wTRfoCJUywZ-2YdFQ6kMiNQDBVOjc3O2TLvOCj5YXht__qg9N18k9aijGnj06oyPb8SqSWpTI4H6zxUvmgQDtb3Q8GPepOK6p6WTrzEFvOLPWy_tnDXsMLnfptd-av_71TDFeq-MUy6CLmLsFsJmeX3MztDZ33VUnUOwdVu0XBVmreuu4kXQRidNd_UzzMV00OVbZ7il5XmLbXryqbEPwsXz36EQP2C_T0ym8mihrHk4ukZpKXLOJ0dqz-sYAr861uqC2v2hleMyncgcBqY5wsGLIDJp7p7s9G7wXhbF_l2w",
+          "summary": "An interview with former F1 driver and current venture capitalist Nico Rosberg about finding the mental edge and maximizing opportunities.",
+          "published": "2026-04-16T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI Will Change Quantum Computing - Ep. 294",
+          "link": "",
+          "summary": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and reveal how NVIDIA Ising\u2014the world's first open AI model family for quantum\u2014is changing the game.\n\n\n\n\ud83d\udd17 Resources mentioned:\n\n\u25ba Read our NVIDIA Ising announcement\u00a0\n\n\u25ba Learn more about NVIDIA Ising\u00a0\n\n\u25ba Learn more about NVIDIA Quantum Computing",
+          "published": "2026-04-14T14:00:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
+          "link": "",
+          "summary": "Enterprises are moving from AI pilots to full\u2011scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA\u2019s Justin Boitano unpack the \"five\u2011layer cake\" AI factory stack, from accelerated hardware and hybrid cloud infrastructure to models, agents, and production\u2011grade governance.",
+          "published": "2026-03-12T15:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "7 ways to travel smarter this summer, with help from Google",
+          "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+          "published": "2026-04-17T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A new way to explore the web with AI Mode in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "summary": "AI Mode in Chrome",
+          "published": "2026-04-16T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New ways to create personalized images in the Gemini app",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+          "summary": "Example images made with Personal Intelligence",
+          "published": "2026-04-16T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+          "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+          "published": "2026-04-15T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Turn your best AI prompts into one-click tools in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+          "summary": "Video showing Skills in Chrome",
+          "published": "2026-04-14T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Bringing people together at AI for the Economy Forum",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+          "published": "2026-04-14T09:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+          "published": "2026-04-15T16:03:19"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+          "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+          "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+          "published": "2026-04-13T15:52:13"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Conflating Ego with Intelligence",
+          "link": "https://artagnon.com/art/ego",
+          "summary": "<p>Article URL: <a href=\"https://artagnon.com/art/ego\">https://artagnon.com/art/ego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47834467\">https://news.ycombinator.com/item?id=47834467</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-20T13:59:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Plzdontkillus: An experimental creator bootcamp about AI doom",
+          "link": "https://www.plzdontkillus.com/",
+          "summary": "<p>Article URL: <a href=\"https://www.plzdontkillus.com/\">https://www.plzdontkillus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47834409\">https://news.ycombinator.com/item?id=47834409</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-20T13:55:42"
+        }
+      ]
+    },
+    {
       "date": "2026-04-17",
       "summary": "Today's AI landscape highlights the meteoric rise of AI companies like Anthropic scaling from $1B to $19B ARR, while industry leaders discuss hard truths about building in the AI era and the growing concerns around AI agent security and enterprise data leakage. Key developments include Google's new Gemini 3.1 Flash TTS for expressive AI speech and enhanced robotics capabilities, alongside growing discussions about AI's impact on white-collar work and the need for better authorization frameworks for AI agents.",
       "podcast_highlights": [
@@ -13239,98 +13457,6 @@
           "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
           "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
           "published": "2025-12-23T10:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-26",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 model announcement as part of 8 major research breakthroughs in 2025"
-        },
-        {
-          "company": "Google",
-          "feature": "60 major AI announcements released throughout 2025, indicating significant product development momentum"
-        },
-        {
-          "company": "Google",
-          "feature": "AI agents transformation roadmap for workplace applications in 2026"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Today's AI news was dominated by Google's comprehensive year-end reviews, highlighting major research breakthroughs including Gemini 3 and showcasing 60 significant AI announcements from 2025. The community also reflected on broader AI industry trends, with discussions about potential market corrections and the mixed reception of AI adoption in Hollywood throughout the year.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
-          "published": "2025-12-23T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "60 of our biggest AI announcements in 2025",
-          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
-          "published": "2025-12-22T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "40 of our most helpful AI tips from 2025",
-          "link": "https://blog.google/technology/ai/ai-tips-2025/",
-          "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons.",
-          "published": "2025-12-19T16:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "5 ways AI agents will transform the way we work in 2026",
-          "link": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-          "summary": "AI agent trends report 2026 graphic",
-          "published": "2025-12-19T14:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-          "summary": "Google 2025 recap: Research breakthroughs of the year",
-          "published": "2025-12-23T17:01:02"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Loki Mode \u2013 37 AI agents that autonomously build your startup",
-          "link": "https://github.com/asklokesh/claudeskill-loki-mode",
-          "summary": "<p>Article URL: <a href=\"https://github.com/asklokesh/claudeskill-loki-mode\">https://github.com/asklokesh/claudeskill-loki-mode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393705\">https://news.ycombinator.com/item?id=46393705</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-          "published": "2025-12-26T16:44:22"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "When it all comes crashing down: The aftermath of the AI boom",
-          "link": "https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/",
-          "summary": "<p>Article URL: <a href=\"https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/\">https://thebulletin.org/2025/12/when-it-all-comes-crashing-down-the-aftermath-of-the-ai-boom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393704\">https://news.ycombinator.com/item?id=46393704</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-26T16:44:22"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Interviewing for ML/AI Engineers",
-          "link": "https://www.moderndescartes.com/essays/ml_eng_interviewing/",
-          "summary": "<p>Article URL: <a href=\"https://www.moderndescartes.com/essays/ml_eng_interviewing/\">https://www.moderndescartes.com/essays/ml_eng_interviewing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393532\">https://news.ycombinator.com/item?id=46393532</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-26T16:27:38"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
-          "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025\">https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393524\">https://news.ycombinator.com/item?id=46393524</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-26T16:26:54"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Aegis Memory \u2013 Open-source memory layer for multi-agent AI systems",
-          "link": "https://github.com/quantifylabs/aegis-memory",
-          "summary": "<p>Article URL: <a href=\"https://github.com/quantifylabs/aegis-memory\">https://github.com/quantifylabs/aegis-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393373\">https://news.ycombinator.com/item?id=46393373</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-26T16:09:33"
         }
       ]
     }
