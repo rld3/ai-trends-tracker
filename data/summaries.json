@@ -1,6 +1,224 @@
 {
   "summaries": [
     {
+      "date": "2026-04-26",
+      "summary": "The AI industry is entering the 'agentic moment' with Google Cloud emphasizing enterprise agent platforms and specialized TPUs, while product velocity remains crucial as demonstrated by Anthropic's rapid development approach. Apple's leadership transition to John Ternus signals a hardware-first strategy in the AI era, as companies race toward post-quantum cryptography and more sophisticated AI agent orchestration.",
+      "podcast_highlights": [
+        {
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Distribution is now the most critical competitive advantage for consumer social products",
+            "Snapchat's success comes from understanding how to reach and retain users at scale",
+            "Building lasting consumer social platforms requires mastering distribution channels early"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is"
+        },
+        {
+          "title": "How Anthropic's product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Anthropic's product velocity advantage comes from streamlined decision-making processes",
+            "Claude Code development focuses on practical developer workflows and real-world coding scenarios",
+            "Speed of iteration is crucial for AI product teams to stay competitive in the rapidly evolving market"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves"
+        },
+        {
+          "title": "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Google Cloud is prioritizing enterprise agent platforms as the next major AI opportunity",
+            "The 'agentic moment' represents a shift from simple AI tools to autonomous AI systems",
+            "Google's integration advantage across its ecosystem positions it well for enterprise AI adoption"
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/"
+        },
+        {
+          "title": "John Ternus and Apple's Hardware-Defined Future, SpaceXAI and Cursor",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "John Ternus's elevation suggests Apple's future strategy centers on hardware differentiation in the AI era",
+            "The SpaceX-Cursor partnership makes strategic sense for specialized AI development tools",
+            "Hardware-software integration remains Apple's key competitive moat as AI becomes ubiquitous"
+          ],
+          "link": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "NVIDIA's $4 trillion valuation reflects its central role in powering the AI computing revolution",
+            "The company's success stems from early recognition of AI's computational requirements",
+            "Future AI development will require even more specialized hardware architectures"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Two specialized eighth-generation TPUs (8T and 8I) designed for the agentic era"
+        },
+        {
+          "company": "Google",
+          "feature": "AI Mode in Chrome for enhanced web exploration with AI assistance"
+        },
+        {
+          "company": "Google",
+          "feature": "Personal Intelligence in Gemini app for creating personalized images"
+        }
+      ],
+      "fintech_trends": [
+        "Post-quantum cryptography adoption is accelerating in financial services, with even ransomware groups implementing quantum-safe encryption ahead of the industry",
+        "AI agent orchestration is becoming critical for financial institutions to automate complex workflows and decision-making processes",
+        "The intersection of AI and cybersecurity in fintech is intensifying, with both defensive AI systems and AI-powered attacks becoming more sophisticated"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "summary": "<p><strong>Evan Spiegel, </strong>the co-founder and CEO of Snap, is one of the very few people in the world who has successfully built and scaled a lasting consumer social product. Snapchat has nearly 1 billion MAUs, and Evan and his team invented some of the most important consumer products and features, including Stories, AR glasses, swipe-based navigation, the camera as the primary UX, and a lot more.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why distri",
+          "published": "2026-04-26T12:31:49"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "How Anthropic\u2019s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "link": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+          "summary": "<p><strong>Cat Wu</strong> is Head of Product for Claude Code and Cowork at Anthropic, building one of the most important AI products of this generation. Before joining Anthropic, Cat spent years as an engineer and briefly worked in VC. Today, she\u2019s interviewing hundreds of product managers who are trying to break into AI\u2014and seeing firsthand what separates those who thrive from those who fall behind.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Anthropic\u2019s shipping cadence went from m",
+          "published": "2026-04-23T15:01:50"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment",
+          "link": "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWdvb2dsZS1jbG91ZC1jZW8tdGhvbWFzLWt1cmlhbi1hYm91dC10aGUtYWdlbnRpYy1tb21lbnQvIl19LCJleHAiOjE3Nzk4MDc1NjMsImlhdCI6MTc3NzIxNTU2MywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.XI3NDc7piYr7DpPUCRQbyqHkIX9wtHe1UxGyvw9f54B3PK78dqoKheRwTJOt8HmH47DtrX4tlD5NR9dtCmsfGAmgOUFq4a7JZu5MrBHvcMN6xlJJHgklF1v_dTvlV7hEkiiF9lymgiM1eEG6SZXwEKmHmq3EWH5T3rx8GxDYqgg_EHcf1p4_tlM036vjlNlpX90WmmWwWseVoDfgUKC-shmuldFiLwr8q53Yu8omMTfnW6BkM6GAhwTJKusrc30SoGpL4sDkmbmn4wyKvVf04_7ooe1UTIo-ueH969pvwkPAg6c2UTVtOrAqHD0qySiZGX72ZZo7D5D17tYnuc_Gkw",
+          "summary": "An interview with Google Cloud CEO Thomas Kurian about Google's cloud priorities, enterprise agent platform, and Google\u2019s integration advantage.",
+          "published": "2026-04-23T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "John Ternus and Apple's Hardware-Defined Future, SpaceXAI and Cursor",
+          "link": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2pvaG4tdGVybnVzLWFuZC1hcHBsZXMtaGFyZHdhcmUtZGVmaW5lZC1mdXR1cmUtc3BhY2V4YWktYW5kLWN1cnNvci8iXX0sImV4cCI6MTc3OTgwNzU2MywiaWF0IjoxNzc3MjE1NTYzLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.kQS5AwqeUjnYtiT0lNjBbQmKPTpVn6GeyIJdPg0gw0xfN4nld8BALhmSdwWoFM1iqp_MDIgyoQtglqgytwjFvfH0RohiZy7bQCC9YGy6ATYAJYhLLQA38I2wxAx89fcaiNtHMOTjXLFK1MoCd0M6ZboDA0SunmqST0fXYKVa1URbGoNFjDQlmKi5wcQBFXwzbFZJ8K9XOLPqwdrLBbdgg7vaZv0N2VRzEYTHwHUX8XaFoK5JFetB0wbG7zk74UiLg3PXB-HkSGUoit07UeLEBHfoTcDx4--joc_Iv1CZMFHdYiEy2C_cgkCV1dxPNGjq7ZVeh3obtCan-UpYhGQtvQ",
+          "summary": "The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.",
+          "published": "2026-04-22T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "One Brain, Any Robot: Skild AI's Skild Brain Explained - Ep. 295",
+          "link": "",
+          "summary": "What if one AI brain could run every robot on the planet\u2014a humanoid, a warehouse arm, and a dog-like inspection bot\u2014all at once?\n\nThat's not a thought experiment. That's what Skild AI is building right now.\n\nDeepak Pathak (CEO and Co-Founder) and Abhinav Gupta (President and Co-Founder) of Skild AI join the pod to break down Skild Brain\u2014a universal, general-purpose AI model designed to power robots of any form factor, tackling any task, from a single shared intelligence.",
+          "published": "2026-04-22T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How AI Will Change Quantum Computing - Ep. 294",
+          "link": "",
+          "summary": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and reveal how NVIDIA Ising\u2014the world's first open AI model family for quantum\u2014is changing the game.\n\n\n\n\ud83d\udd17 Resources mentioned:\n\n\u25ba Read our NVIDIA Ising announcement\u00a0\n\n\u25ba Learn more about NVIDIA Ising\u00a0\n\n\u25ba Learn more about NVIDIA Quantum Computing",
+          "published": "2026-04-14T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+          "published": "2026-04-24T19:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Here\u2019s how our TPUs power increasingly demanding AI workloads.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google\u2019s TPUs power increasingly demanding AI workloads with this new video.",
+          "published": "2026-04-23T12:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+          "summary": "Aerial image of the data center",
+          "published": "2026-04-23T09:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "We're launching two specialized TPUs for the agentic era.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />The eighth generation of Google\u2019s TPU includes two specialized chips that will power the future of AI.",
+          "published": "2026-04-22T12:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+          "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+          "published": "2026-04-21T14:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "7 ways to travel smarter this summer, with help from Google",
+          "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+          "published": "2026-04-17T14:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A new way to explore the web with AI Mode in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "summary": "AI Mode in Chrome",
+          "published": "2026-04-16T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New ways to create personalized images in the Gemini app",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+          "summary": "Example images made with Personal Intelligence",
+          "published": "2026-04-16T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "link": "https://deepmind.google/blog/decoupled-diloco/",
+          "summary": "",
+          "published": "2026-04-22T10:20:03"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Partnering with industry leaders to accelerate AI transformation",
+          "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+          "published": "2026-04-21T14:54:15"
+        }
+      ]
+    },
+    {
       "date": "2026-04-24",
       "summary": "Major developments include Google launching two specialized TPUs for the agentic era and new Gemini 3.1 Flash TTS for expressive AI speech, while Meta announces cutting 8,000 jobs (10% of workforce) to double down on AI investments. Podcast discussions reveal how Anthropic's product team achieves rapid development cycles and concerns about AI's impact on product management roles.",
       "podcast_highlights": [
@@ -13456,98 +13674,6 @@
           "link": "https://aisdk.rs/",
           "summary": "<p>Article URL: <a href=\"https://aisdk.rs/\">https://aisdk.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422082\">https://news.ycombinator.com/item?id=46422082</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
           "published": "2025-12-29T16:15:33"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
-          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
-          "published": "2025-12-25T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "How social media encourages the worst of AI boosterism",
-          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
-          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
-          "published": "2025-12-23T10:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-28",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 model revealed as part of 2025 research breakthroughs spanning 8 major areas"
-        },
-        {
-          "company": "Google",
-          "feature": "60 major AI announcements throughout 2025, representing significant AI product developments"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "GPT-5 model demonstrated solving 10 previously unsolved mathematical problems"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Google dominated AI news with year-end recaps showcasing major breakthroughs including Gemini 3 and 60 significant announcements in 2025. Meanwhile, public sentiment reveals growing concerns about AI safety, with two-thirds of Americans expecting major harm from AI within 20 years, highlighting the tension between rapid AI advancement and public trust.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
-          "published": "2025-12-23T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "60 of our biggest AI announcements in 2025",
-          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
-          "published": "2025-12-22T17:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-          "summary": "Google 2025 recap: Research breakthroughs of the year",
-          "published": "2025-12-23T17:01:02"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "2 in 3 Americans think AI will cause major harm to humans in the next 20 years [pdf]",
-          "link": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf",
-          "summary": "<p>Article URL: <a href=\"https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf\">https://www.pewresearch.org/wp-content/uploads/sites/20/2025/03/pi_2025.04.03_us-public-and-ai-experts_topline.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412411\">https://news.ycombinator.com/item?id=46412411</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-28T16:53:34"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Is Causing Layoffs, Just Not in the Way You Think",
-          "link": "https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in",
-          "summary": "<p>Article URL: <a href=\"https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in\">https://ericlamb.substack.com/p/ai-is-causing-layoffs-just-not-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412372\">https://news.ycombinator.com/item?id=46412372</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-28T16:48:45"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Aegis Memory v1.2 \u2013 We solved \"what's worth remembering\" for AI agents",
-          "link": "https://github.com/quantifylabs/aegis-memory",
-          "summary": "<p>Aegis Memory is an open-source, self-hostable memory layer for multi-agent AI systems.<p>v1.2 adds Smart Memory - a two-stage pipeline that automatically decides what's worth storing:\n1. Fast rule-based filter catches obvious noise (greetings, \"thanks\", etc.)\n2. LLM extracts atomic facts only when the filter passes<p>This saves ~70% of extraction costs while keeping memory high-quality.<p>Try it in 15 seconds:\n  pip install aegis-memory\n  aegis demo<p>GitHub: <a href=\"https://github.com/quant",
-          "published": "2025-12-28T16:45:10"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "How do you secure AI coding agents?",
-          "link": "https://news.ycombinator.com/item?id=46412347",
-          "summary": "<p>I\u2019ve been using agentic coding tools  Windsurf / Claude Code\u2013style) and ran into a security problem I can\u2019t really ignore anymore.<p>These tools don\u2019t just suggest code they can read local files and run shell commands. That\u2019s very powerful, but it also means a prompt injection (or poisoned context) can turn a \u201chelpful assistant\u201d into something that looks a lot like an attacker\u2019s shell.<p>I noticed that  Cursor has publicly patched prompt-injection issues, including ones that opened paths to a",
-          "published": "2025-12-28T16:45:10"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Open Source AI Reclaims the Digital Commons",
-          "link": "https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital",
-          "summary": "<p>Article URL: <a href=\"https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital\">https://gpt3experiments.substack.com/p/how-open-source-ai-reclaims-the-digital</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46412325\">https://news.ycombinator.com/item?id=46412325</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-28T16:43:04"
         },
         {
           "source": "MIT Tech Review AI",
