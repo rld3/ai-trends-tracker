@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-04-27",
+      "summary": "AI development is accelerating across hardware and software fronts, with major leadership transitions at tech giants and growing concerns about AI's impact on enterprise workforces. Key discussions centered on distribution moats in consumer AI products, rapid product development at leading AI companies like Anthropic, and the potential for AI agents to replace traditional app-based interfaces.",
+      "podcast_highlights": [
+        {
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Distribution has emerged as the most critical competitive advantage for consumer social products in the current landscape",
+            "Snapchat's success demonstrates how building lasting consumer social products requires unique distribution strategies",
+            "The conversation provides insights from one of the few leaders who has successfully scaled a major consumer social platform"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is"
+        },
+        {
+          "title": "How Anthropic's product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Anthropic's product development approach enables exceptionally rapid iteration and deployment cycles",
+            "The Claude Code product team has developed unique methodologies for building AI products at scale",
+            "Insights into how leading AI companies structure their product organizations for maximum velocity"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion focuses on AI's transformative potential impact on white-collar work and professional roles",
+            "Analysis of how AI adoption is progressing at a more sustainable pace compared to initial hype cycles",
+            "Strategic implications for businesses and workers as AI tools become more integrated into daily workflows"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "The mythos of Mythos and Allbirds takes flight to the neocloud",
+          "source": "Practical AI",
+          "key_points": [
+            "Deep dive into Anthropic's Mythos frontier model and its cybersecurity capabilities",
+            "Analysis of what is publicly known about advanced AI model capabilities in security contexts",
+            "Projections about the potential implications of frontier AI models for cybersecurity applications"
+          ],
+          "link": "https://share.transistor.fm/s/b11bd219"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Partnership with Republic of Korea to accelerate scientific breakthroughs using frontier AI models"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Decoupled DiLoCo - new approach for resilient, distributed AI training"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Mythos frontier model with advanced cybersecurity capabilities"
+        }
+      ],
+      "fintech_trends": [
+        "AI agents are being developed for autonomous economic networks, allowing AI systems to join networks, receive credits, discover tasks, and earn compensation in live production environments",
+        "Enterprise AI adoption is being hindered by data infrastructure challenges, with companies needing to rebuild their data stacks to support meaningful AI implementation"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "summary": "<p><strong>Evan Spiegel, </strong>the co-founder and CEO of Snap, is one of the very few people in the world who has successfully built and scaled a lasting consumer social product. Snapchat has nearly 1 billion MAUs, and Evan and his team invented some of the most important consumer products and features, including Stories, AR glasses, swipe-based navigation, the camera as the primary UX, and a lot more.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why distri",
+          "published": "2026-04-26T12:31:49"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "How Anthropic\u2019s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "link": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+          "summary": "<p><strong>Cat Wu</strong> is Head of Product for Claude Code and Cowork at Anthropic, building one of the most important AI products of this generation. Before joining Anthropic, Cat spent years as an engineer and briefly worked in VC. Today, she\u2019s interviewing hundreds of product managers who are trying to break into AI\u2014and seeing firsthand what separates those who thrive from those who fall behind.</p><p></p><p><strong>We discuss:</strong></p><p>1. How Anthropic\u2019s shipping cadence went from m",
+          "published": "2026-04-23T15:01:50"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Announcing our partnership with the Republic of Korea",
+          "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "published": "2026-04-27T07:00:06"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+          "link": "https://deepmind.google/blog/decoupled-diloco/",
+          "summary": "",
+          "published": "2026-04-22T10:20:03"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Partnering with industry leaders to accelerate AI transformation",
+          "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+          "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+          "published": "2026-04-21T14:54:15"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "GPT-5.5 hallucinates at 6 times the rate of Opus 4.7 on degraded insurance docs",
+          "link": "https://aginor.ai/extraction-test/",
+          "summary": "<p>Article URL: <a href=\"https://aginor.ai/extraction-test/\">https://aginor.ai/extraction-test/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922190\">https://news.ycombinator.com/item?id=47922190</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:34:02"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: NetCopilot \u2013 AI-native terminal for network engineers",
+          "link": "https://netcopilot.app/",
+          "summary": "<p>Hi HN,<p>I\u2019m a network engineer and I built NetCopilot to solve a problem I kept facing in real workflows.<p>When troubleshooting, I constantly switch between terminal sessions, docs, and AI tools just to understand what\u2019s happening.<p>So I built a terminal (SSH, Telnet, Serial) with AI built directly into it.<p>It reads command outputs and helps explain issues like BGP problems, routing issues, etc \u2014 without executing anything automatically.<p>The goal isn\u2019t automation, but assistance while ",
+          "published": "2026-04-27T14:33:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: A live autonomous economic network for AI agents",
+          "link": "https://ainetwork-global.github.io",
+          "summary": "<p>AI Network Lab allows autonomous agents to:<p>- join instantly\n- receive credits\n- discover tasks\n- execute work\n- earn credits\n- compete for visibility<p>Live production:\n<a href=\"https://ainetwork-global.github.io\" rel=\"nofollow\">https://ainetwork-global.github.io</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922138\">https://news.ycombinator.com/item?id=47922138</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:29:36"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The AI Splurge Is Costing Big Tech Its Workforce",
+          "link": "https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68",
+          "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68\">https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922104\">https://news.ycombinator.com/item?id=47922104</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:26:57"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "My Workflow for Understanding LLM Architectures",
+          "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+          "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms\">https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922069\">https://news.ycombinator.com/item?id=47922069</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:24:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/\">https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922032\">https://news.ycombinator.com/item?id=47922032</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:21:39"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "China blocks Meta from acquiring AI startup Manus",
+          "link": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
+          "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus\">https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47922026\">https://news.ycombinator.com/item?id=47922026</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:21:08"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI gives more praise, less criticism to Black students",
+          "link": "https://hechingerreport.org/proof-points-ai-bias-feedback/",
+          "summary": "<p>Article URL: <a href=\"https://hechingerreport.org/proof-points-ai-bias-feedback/\">https://hechingerreport.org/proof-points-ai-bias-feedback/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921984\">https://news.ycombinator.com/item?id=47921984</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:18:08"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Codedb: Code intelligence server for AI agents",
+          "link": "https://github.com/justrach/codedb",
+          "summary": "<p>Article URL: <a href=\"https://github.com/justrach/codedb\">https://github.com/justrach/codedb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921863\">https://news.ycombinator.com/item?id=47921863</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:11:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Zork-bench: An LLM reasoning eval based on text adventure games",
+          "link": "https://www.lowimpactfruit.com/p/zork-bench-an-llm-reasoning-eval",
+          "summary": "<p>Article URL: <a href=\"https://www.lowimpactfruit.com/p/zork-bench-an-llm-reasoning-eval\">https://www.lowimpactfruit.com/p/zork-bench-an-llm-reasoning-eval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921851\">https://news.ycombinator.com/item?id=47921851</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:10:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Novai \u2013 AI-native L1 blockchain, 65K lines of Rust, built from scratch",
+          "link": "https://github.com/0x-devc/NOVAI-node",
+          "summary": "<p>Article URL: <a href=\"https://github.com/0x-devc/NOVAI-node\">https://github.com/0x-devc/NOVAI-node</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921747\">https://news.ycombinator.com/item?id=47921747</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T14:03:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Using Google's Gemma 4 E4B Local AI Model to Reverse Engineer a Simple Crackme",
+          "link": "https://github.com/markoglasgow/gemma_crackme_tutorial",
+          "summary": "<p>Article URL: <a href=\"https://github.com/markoglasgow/gemma_crackme_tutorial\">https://github.com/markoglasgow/gemma_crackme_tutorial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921661\">https://news.ycombinator.com/item?id=47921661</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-04-27T13:57:27"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Ask HN: What is the current trend of Startups in AI",
+          "link": "https://news.ycombinator.com/item?id=47921555",
+          "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47921555\">https://news.ycombinator.com/item?id=47921555</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-04-27T13:50:56"
+        }
+      ]
+    },
+    {
       "date": "2026-04-26",
       "summary": "The AI industry is entering the 'agentic moment' with Google Cloud emphasizing enterprise agent platforms and specialized TPUs, while product velocity remains crucial as demonstrated by Anthropic's rapid development approach. Apple's leadership transition to John Ternus signals a hardware-first strategy in the AI era, as companies race toward post-quantum cryptography and more sophisticated AI agent orchestration.",
       "podcast_highlights": [
@@ -13596,98 +13803,6 @@
           "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
           "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
           "published": "2025-12-30T11:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-29",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "Gemini 3 model announcement as part of their 2025 research breakthroughs across 8 key areas"
-        },
-        {
-          "company": "Google",
-          "feature": "60 major AI announcements throughout 2025, representing significant product and research milestones"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "GPT-5 model demonstrated solving 10 previously unsolved mathematical problems according to MIT Tech Review"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "Google dominated today's AI news with comprehensive year-end reviews highlighting major breakthroughs including Gemini 3 and 60 significant AI announcements in 2025. Meanwhile, industry discussions focused on AI evaluation benchmarks and concerns about social media hype around AI capabilities, particularly regarding OpenAI's GPT-5 mathematical problem-solving claims.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-          "summary": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
-          "published": "2025-12-23T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "60 of our biggest AI announcements in 2025",
-          "link": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-          "summary": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
-          "published": "2025-12-22T17:00:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-          "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-          "summary": "Google 2025 recap: Research breakthroughs of the year",
-          "published": "2025-12-23T17:01:02"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Survey State of Angel Investing in AI 2026",
-          "link": "https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform",
-          "summary": "<p>Article URL: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSd-ZWu5aLr6BuJELfXVI9q0QmH-Nr1f4SZ3e8DCc3haMCGoWw/viewform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422441\">https://news.ycombinator.com/item?id=46422441</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-29T16:45:33"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "PostTrainBench: Measuring how well AI agents can post-train language models",
-          "link": "https://posttrainbench.com/",
-          "summary": "<p>Article URL: <a href=\"https://posttrainbench.com/\">https://posttrainbench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422435\">https://news.ycombinator.com/item?id=46422435</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-29T16:45:23"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Firefox browser falls to AI. What do we do now?",
-          "link": "https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/",
-          "summary": "<p>Article URL: <a href=\"https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/\">https://pivot-to-ai.com/2025/12/23/firefox-browser-falls-to-ai-what-do-we-do-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422308\">https://news.ycombinator.com/item?id=46422308</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
-          "published": "2025-12-29T16:35:17"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Meta's internal solution to its AI needs: Google it",
-          "link": "https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it",
-          "summary": "<p>Article URL: <a href=\"https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it\">https://sf.gazetteer.co/metas-internal-solution-to-its-ai-needs-google-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422126\">https://news.ycombinator.com/item?id=46422126</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2025-12-29T16:20:01"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AI-SDK for Rust",
-          "link": "https://aisdk.rs/",
-          "summary": "<p>Article URL: <a href=\"https://aisdk.rs/\">https://aisdk.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46422082\">https://news.ycombinator.com/item?id=46422082</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
-          "published": "2025-12-29T16:15:33"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
-          "link": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-          "summary": "If the past 12 months have taught us anything, it\u2019s that the AI hype train is showing no signs of slowing. It\u2019s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire industry on its head, Meta was better known for trying (and failing) to make the metaverse&#8230;",
-          "published": "2025-12-25T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "How social media encourages the worst of AI boosterism",
-          "link": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
-          "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI\u2019s latest large language model, GPT-5, to find solutions to 10 unsolved problems in&#8230;",
-          "published": "2025-12-23T10:00:00"
         }
       ]
     }
