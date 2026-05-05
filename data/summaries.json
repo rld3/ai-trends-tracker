@@ -1,6 +1,239 @@
 {
   "summaries": [
     {
+      "date": "2026-05-04",
+      "summary": "The AI industry is experiencing infrastructure bottlenecks with 66% surge in natural gas power plant costs due to data center demand, while major legal drama unfolds with the Musk v. Altman trial revealing tensions over OpenAI's direction. Meanwhile, there's a growing emphasis on cultivating 'agency' and 'taste' as key skills in the AI era, with companies like Amazon showing strong returns on AI chip investments and Google celebrating 20 years of Translate.",
+      "podcast_highlights": [
+        {
+          "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "In the AI era, cultivating agency - the ability to take initiative and drive outcomes - is more valuable than traditional skills",
+            "At Notion, they've successfully gotten designers and PMs to ship code and prototype in the terminal",
+            "The focus should be on empowering team members to take ownership and execute across disciplines"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"
+        },
+        {
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Distribution has become the most critical competitive advantage in the current tech landscape",
+            "Snapchat's success comes from understanding how to build and scale lasting consumer social products",
+            "The ability to reach and retain users is now more valuable than product features alone"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Discussion focuses on the potential transformative impact of AI on white collar work",
+            "Analysis of how AI adoption is happening at 'normal speed' rather than the hyped timeline",
+            "Examination of practical implications for knowledge workers and business operations"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Google Earnings, Meta Earnings",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Wall Street loved Google's earnings but hated Meta's, despite Meta's core business being more impressive",
+            "Google is successfully monetizing its AI investments now, while Meta's investments are still in progress",
+            "The market is rewarding immediate AI monetization over long-term potential"
+          ],
+          "link": "https://stratechery.com/2026/google-earnings-meta-earnings/"
+        },
+        {
+          "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Amazon's bet on Trainium chips is paying off as the industry shifts from training to inference and agents",
+            "The move towards inference workloads favors Amazon's custom silicon strategy",
+            "Additional growth in ads, agents, and sports rights contributing to strong performance"
+          ],
+          "link": "https://stratechery.com/"
+        },
+        {
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Jensen Huang discusses NVIDIA's role as the world's most valuable company powering the AI revolution",
+            "Insights into the future of AI computing and NVIDIA's strategic positioning",
+            "Discussion of the massive scale and impact of AI infrastructure development"
+          ],
+          "link": "https://lexfridman.com/jensen-huang/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "New Webhooks in Gemini API to reduce friction and latency for long-running jobs"
+        },
+        {
+          "company": "Google",
+          "feature": "AI Agents Vibe Coding Course partnership with Kaggle launched"
+        },
+        {
+          "company": "DeepMind",
+          "feature": "AI co-clinician research for healthcare augmentation announced"
+        }
+      ],
+      "fintech_trends": [
+        "Rising infrastructure costs are creating significant financial pressures on AI companies, with data center electricity demand driving a 66% surge in natural gas power plant costs",
+        "The shift from AI training to inference and agents is creating new cost structures and opportunities for companies with custom silicon like Amazon's Trainium chips"
+      ],
+      "fundraising": [
+        {
+          "company": "OpenAI",
+          "amount": "$4B",
+          "details": "Raised for 'The Deployment Company' to help businesses leverage AI"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+          "link": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+          "summary": "<p><strong>Max Schoening </strong>is head of product at Notion, where he\u2019s been especially effective at getting designers and PMs to ship code, prototype in the terminal, and launch extremely successful AI products. He was previously a PM at Google, ran design at Heroku, was VP of Design (and a part-time engineer) at GitHub, and is a two-time founder. He\u2019s one of the most AI-forward product leaders out there and one of the deepest thinkers on how AI changes how we build and use software.</p><p><",
+          "published": "2026-05-03T12:30:59"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "summary": "<p><strong>Evan Spiegel, </strong>the co-founder and CEO of Snap, is one of the very few people in the world who has successfully built and scaled a lasting consumer social product. Snapchat has nearly 1 billion MAUs, and Evan and his team invented some of the most important consumer products and features, including Stories, AR glasses, swipe-based navigation, the camera as the primary UX, and a lot more.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why distri",
+          "published": "2026-04-26T12:31:49"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Google Earnings, Meta Earnings",
+          "link": "https://stratechery.com/2026/google-earnings-meta-earnings/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2dvb2dsZS1lYXJuaW5ncy1tZXRhLWVhcm5pbmdzLyJdfSwiZXhwIjoxNzgwNTUzMTUxLCJpYXQiOjE3Nzc5NjExNTEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.X0xeCV9AILe9zuMYR3lVF-qSl99YWkC4dDJwWxurvnxl2JBqwauFfA9uWYnUlxqieULKapJNbRPrPNTZNYLT9mRZRHPfG0UfMc58xhke2gz7oIg8QOKIV6YTQhqAPvcyhYlEoULHVk37rpMYtTe33lGjKlelpjOuDG85iVvDLhVszgk6IqArgrbCaa5ItIoZqaK8IRIoUf56bfx3D93tEZparnjMVo2lgpOqm9WPmJK2OV3iYfD91bYgUkZ3r-m_AAHbUpsX8bFpTGhRqPMk1iyH-4ApbhLXYechCbYsPUEdWngKt7oqT6rBb-nhYve82531FkjoNbpR-jt5oWhBVA",
+          "summary": "Wall Street loved Google's earnings, and hated Meta's, even though the latter's core business was more impressive. The difference is that Google is monetizing its investments now (and it might be all Anthropic).",
+          "published": "2026-05-04T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODkwNiJdfSwiZXhwIjoxNzgwNTUzMTUxLCJpYXQiOjE3Nzc5NjExNTEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.IwQ9aSuz0Sqf1npJXFG0u8dqfNV6ZE0q1af8XkriAMVqMkCmhNy52nxJD4UfmlH80PtsSjT-TKvqQyEzoCJPuf9Bs419UPCAEhhomtlIUCrQZYMJhjRJpBHX6h21qRcOtBa90-ZO2i5VGpwLYOuVpaZRRzTy-ee5TpTMkSjzHr1iI-yP-x_89WBYIRkeH4qa1A1stT-TRk-psDLGhtq4Qp4zQGxDUtDwdfsKLSIVYbybgsjwES1YHSsRA88LCgIhT5mcnb0bOvMWiChvCzpBdykSabnkIX_xJEfl6_4uWZEWQeVxx_6JRi7WLmLvyVdZ93jnbCGnVnNZ4TB2I3QhOw&p=18906",
+          "summary": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
+          "published": "2026-04-30T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#494 \u2013 Jensen Huang: NVIDIA \u2013 The $4 Trillion Company & the AI Revolution",
+          "link": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "summary": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep494-sc\">https://lexfridman.com/sponsors/ep494-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/jensen-huang-transcript\">https://lex",
+          "published": "2026-03-23T16:28:42"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Dassault Syst\u00e8mes Is Building AI That Understands Physics\u00a0- Ep. 296",
+          "link": "",
+          "summary": "Generative AI can predict whether a plane takes off\u2014but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Syst\u00e8mes, explains how industrial world models go beyond pattern recognition to embed the actual laws of physics, chemistry, and engineering. In this episode of the NVIDIA AI Podcast, he also breaks down Dassault's three virtual companions (AURA, LEO, and MARIE), their 25-year collaboration with NVIDIA, and a stunning real-world use case: helping NIAR rebuild ai",
+          "published": "2026-04-29T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "One Brain, Any Robot: Skild AI's Skild Brain Explained - Ep. 295",
+          "link": "",
+          "summary": "What if one AI brain could run every robot on the planet\u2014a humanoid, a warehouse arm, and a dog-like inspection bot\u2014all at once?\n\nThat's not a thought experiment. That's what Skild AI is building right now.\n\nDeepak Pathak (CEO and Co-Founder) and Abhinav Gupta (President and Co-Founder) of Skild AI join the pod to break down Skild Brain\u2014a universal, general-purpose AI model designed to power robots of any form factor, tackling any task, from a single shared intelligence.",
+          "published": "2026-04-22T15:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in April 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+          "published": "2026-05-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "summary": "Gemini API",
+          "published": "2026-05-04T15:30:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+          "published": "2026-04-28T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "summary": "A web next to a laptop",
+          "published": "2026-04-27T13:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Enabling a new model for healthcare with AI co-clinician",
+          "link": "https://deepmind.google/blog/ai-co-clinician/",
+          "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+          "published": "2026-04-30T12:14:15"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Announcing our partnership with the Republic of Korea",
+          "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "published": "2026-04-27T07:00:06"
+        },
+        {
+          "source": "TechCrunch AI",
+          "title": "Data center demand drives 66% surge in natural gas power plant costs",
+          "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+          "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
+          "published": "2026-04-27T15:27:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Cost of AI-Driven Development",
+          "link": "https://blog.codonomics.com/2026/05/cost-of-ai-driven-development.html",
+          "summary": "<p>Article URL: <a href=\"https://blog.codonomics.com/2026/05/cost-of-ai-driven-development.html\">https://blog.codonomics.com/2026/05/cost-of-ai-driven-development.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018521\">https://news.ycombinator.com/item?id=48018521</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-05-05T05:43:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: SongShift, an advanced, AI-powered song conversion service",
+          "link": "https://songshift.reachnick.co",
+          "summary": "<p>Hi everyone- 've spent a lot of time recently working on this AI-powered song conversion web app. I think it's ready for testing. You can search for songs, link to a song on YouTube, Spotify, Tidal, etc, or even upload a file from your own machine, and my service will convert it quickly and in top quality.<p>Have a look, try searching for a song, and let me know if you can suggest any improvements to our service.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=480184",
+          "published": "2026-05-05T05:38:35"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OpenAI Raises $4B for 'The Deployment Company' to Help Businesses Leverage AI",
+          "link": "https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/",
+          "summary": "<p>Article URL: <a href=\"https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/\">https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018458\">https://news.ycombinator.com/item?id=48018458</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-05-05T05:34:55"
+        }
+      ]
+    },
+    {
       "date": "2026-04-30",
       "summary": "The AI industry is experiencing a major shift from training to inference workloads, with Amazon's Trainium and Intel's CPUs benefiting from structural demand changes. Major legal and partnership developments include the upcoming Musk vs. Altman trial over OpenAI's future and new enterprise AI partnerships, while Google celebrates 20 years of Translate and launches new specialized TPUs for the agentic era.",
       "podcast_highlights": [
@@ -13835,69 +14068,6 @@
       "fintech_trends": [],
       "fundraising": [],
       "summary": "AI developments from 2026-01-01 including ongoing discussions in model development, security, and practical applications.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "The latest AI news we announced in December",
-          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
-          "published": "2025-12-29T18:15:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "CS50x 2026: Artificial Intelligence [video]",
-          "link": "https://www.youtube.com/watch?v=-9bo8HlSxwQ",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-9bo8HlSxwQ\">https://www.youtube.com/watch?v=-9bo8HlSxwQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477405\">https://news.ycombinator.com/item?id=46477405</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T14:58:19"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Internet is eating itself. What's next? Model collapse and AI data crisis",
-          "link": "https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next",
-          "summary": "<p>Article URL: <a href=\"https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next\">https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477333\">https://news.ycombinator.com/item?id=46477333</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-01-03T14:53:25"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "LLM Sitemap: A New Idea for AI-Readable Site Architecture",
-          "link": "https://growtika.com/blog/llm-sitemap",
-          "summary": "<p>Article URL: <a href=\"https://growtika.com/blog/llm-sitemap\">https://growtika.com/blog/llm-sitemap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46476563\">https://news.ycombinator.com/item?id=46476563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T13:47:58"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Ask HN: AI progress \u2013 what are the main ways people measure it?",
-          "link": "https://news.ycombinator.com/item?id=46476555",
-          "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a  list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect by design. I\u2019m not assuming they\u2019re \u201cgood\u201d or that they cleanly map to real-world capability.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whet",
-          "published": "2026-01-03T13:47:07"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AGent Based Access Control Agbac for AI Agents and IAM",
-          "link": "https://news.ycombinator.com/item?id=46476434",
-          "summary": "<p>Today I am releasing AGent Based Access Control (AGBAC) under Apache 2.0. This is a new Access Control Security Specification that introduces the concept of dual-subject authentication. Included is AGBAC-Min, which allows you to implement agent and human aware authentication today (right now!) with your existing IAM Solution!<p><a href=\"https://github.com/kahalewai/agbac\" rel=\"nofollow\">https://github.com/kahalewai/agbac</a><p>AI agents broke one of the oldest assumptions in identity. For as ",
-          "published": "2026-01-03T13:35:26"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The ascent of the AI therapist",
-          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
-          "published": "2025-12-30T11:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2025-12-31",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search bar functionality"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "AI developments from 2025-12-31 including ongoing discussions in model development, security, and practical applications.",
       "raw_articles": [
         {
           "source": "Google AI",
