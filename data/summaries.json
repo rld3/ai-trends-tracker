@@ -1,6 +1,214 @@
 {
   "summaries": [
     {
+      "date": "2026-05-14",
+      "summary": "Today's AI landscape shows a focus on deployment and practical implementation, with OpenAI forming a new deployment company while discussions emphasize cultivating human agency over pure technical skills in the AI era. Key developments include advances in agentic AI systems, infrastructure improvements, and growing concerns about AI regulation and sovereignty.",
+      "podcast_highlights": [
+        {
+          "title": "Why cultivating agency matters more than cultivating skills in the AI era",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Head of Product at Notion emphasizes getting designers and PMs to ship code and prototype directly",
+            "Focus should be on developing human agency and decision-making capabilities rather than just technical skills",
+            "Successfully launched products by empowering team members to work across traditional role boundaries"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"
+        },
+        {
+          "title": "ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James analyze the potential transformative impact of AI on white collar work",
+            "Discussion covers how AI adoption might reshape traditional office jobs and workflows",
+            "Examination of AI's practical implications for knowledge workers at current development pace"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "The Deployment Company, Back to the 70s, Apple and Intel",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "OpenAI is forming a new company specifically focused on AI deployment, signaling shift toward implementation",
+            "Other AI labs are following similar deployment strategies, reinforcing top-down AI implementation thesis",
+            "Analysis of how Apple's economic incentives align with working alongside Intel in the AI landscape"
+          ],
+          "link": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/"
+        },
+        {
+          "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "LangChain has surpassed 1 billion downloads, evolving from weekend project to production-grade framework",
+            "Discussion on the development of sophisticated AI agents and the LangSmith platform",
+            "Focus on building trust and reliability in AI agent systems for enterprise deployment"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "AI-powered Google Finance expanding to Europe with enhanced financial data processing"
+        },
+        {
+          "company": "Google",
+          "feature": "Webhooks in Gemini API to reduce friction and latency for long-running jobs"
+        },
+        {
+          "company": "DeepMind",
+          "feature": "AlphaEvolve - Gemini-powered coding agent scaling impact across business, infrastructure, and science"
+        }
+      ],
+      "fintech_trends": [
+        "Data readiness and sovereignty becoming critical for financial services implementing agentic AI, with companies needing to balance capability with regulatory compliance and control",
+        "GPU-accelerated processing showing significant cost reductions - Snap achieved 76% cost reduction and 80% memory usage reduction using NVIDIA GPU-accelerated Apache Spark for processing 10+ petabytes daily",
+        "Financial institutions focusing on customer-back engineering approaches to AI implementation, moving beyond basic digitization to capture greater value from AI investments"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+          "link": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+          "summary": "<p><strong>Eric Ries</strong> is the author of <em>The Lean Startup</em>, a book that reshaped how a generation of founders think about building companies. His new book, <em>Incorruptible</em>, explains how successful companies are destroyed by failing to protect what makes them valuable, and how to change it.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why 80% of venture-backed founders are ousted within three years of going public</p><p>2. The governance st",
+          "published": "2026-05-10T12:03:32"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+          "link": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+          "summary": "<p><strong>Max Schoening </strong>is head of product at Notion, where he\u2019s been especially effective at getting designers and PMs to ship code, prototype in the terminal, and launch extremely successful AI products. He was previously a PM at Google, ran design at Heroku, was VP of Design (and a part-time engineer) at GitHub, and is a two-time founder. He\u2019s one of the most AI-forward product leaders out there and one of the deepest thinkers on how AI changes how we build and use software.</p><p><",
+          "published": "2026-05-03T12:30:59"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Ben Thompson at the MoffettNathanson Media, Internet &amp; Communications Conference",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xOTAzMiJdfSwiZXhwIjoxNzgxMzU5NjgxLCJpYXQiOjE3Nzg3Njc2ODEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.vniWB0SP_2roxr0CuW9GQsTxBsK58fIAmz2Q25ISyInvhFVjlQqsPCZR9QHEnIMUUQqM9inj2sTgU8PN340W7p0GQxlwuc3W363Ke8iBTgYe_MFRURn36C1EY1hcn5JKv1Npc1Ey8WcM5PtWqybvnUjLxQLtMJA0m0l0w1lWgHO_P7wl5XpXDJGo1vMq93VJzzhQpy3UpiYKM7RyktBickAjLiXYB8af8XN4Mtl7iA_cNjwTZJiMZjtmLhOUjpkX3saGxg67hpoK1LPF7cFB1YxFeOy7fnapGiKndctsXDE3m4Mdaz9K_2178CmH6vUy9XD4veTv1dVkglnbDSE4jQ&p=19032",
+          "summary": "An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.",
+          "published": "2026-05-14T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "The Deployment Company, Back to the 70s, Apple and Intel",
+          "link": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3RoZS1kZXBsb3ltZW50LWNvbXBhbnktYmFjay10by10aGUtNzBzLWFwcGxlLWFuZC1pbnRlbC8iXX0sImV4cCI6MTc4MTM1OTY4MSwiaWF0IjoxNzc4NzY3NjgxLCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.iSwmevnOUDcLo_jI7My9ogmqL1SJmdE8zvjjPuXODqXSvfj-uqBSOm0xK9_RPOPGhqp442aE_7np1HdYCC0zHkf3B1atLZCZpiiUP9CuXKtVUIwBLSoL24z58uJa1AbCgXZa_XUfqk8KKkSzoTMBm9h5Fl2KjAsibHR6Yq4yOj3HE5P-hWOHaUs2aEPJxkNwXWDFWqbdrK1kIgvhWStH2Iqj5F7u4Zzf_vJ55qMVHWpjEwBSG3fJlka1TsGs4EPjIRE5pxmlEsVugnDFkRTXncqoM0N-RxQuS7l8Z_VtnrFYS81z2E5AGkCdWkM52b39U2uu-Hy4XjWVf6ApzxQryQ",
+          "summary": "OpenAI is forming a new company to deploy AI, and the other labs aren't far behind, reinforcing the thesis that AI's impact will require top-down implementation. Then, Apple has economic reasons to work with Intel.",
+          "published": "2026-05-13T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#496 \u2013 FFmpeg: The Incredible Technology Behind Video on the Internet",
+          "link": "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg",
+          "summary": "<p>Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep496-sc\">https://lexfridman.com/sponsors/ep496-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https:",
+          "published": "2026-05-06T22:06:47"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Snap\u2019s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
+          "link": "",
+          "summary": "Snap processes more than 10 petabytes of experimentation data every single morning\u2014and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%, and eliminated 120 terabytes of disk spill from its pipelines.\n\n\n\nPrudhvi Vatala, head of engineering platforms at Snap, joins the NVIDIA AI Podcast to break down how he and his team completely modernized data infrastructure for a social platform serving nearly a billion monthly active users\u2014using ",
+          "published": "2026-05-13T13:00:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+          "link": "",
+          "summary": "LangChain has surpassed 1 billion downloads\u2014and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison Chase, co-founder & CEO of LangChain, breaks down the architecture behind deep agents, explains why systems like Claude Code, Manus, and Deep Research all share the same foundational pattern, and lays out what it actually takes to deploy autonomous agents responsibly in the enterprise.\n\n\n\n\ud83d\udd2cTopics c",
+          "published": "2026-05-06T12:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The new AI-powered Google Finance is expanding to Europe.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "summary": "A screenshot of the AI-powered experience on Google Finance.",
+          "published": "2026-05-11T06:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "See what happens when creative legends use AI to make ads for small businesses.",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+          "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+          "published": "2026-05-08T15:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "5 gardening tips you can try right in Search",
+          "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+          "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+          "published": "2026-05-06T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "published": "2026-05-05T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in April 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+          "published": "2026-05-04T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "summary": "Gemini API",
+          "published": "2026-05-04T15:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+          "link": "https://deepmind.google/blog/alphaevolve-impact/",
+          "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+          "published": "2026-05-06T10:43:49"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: MementoVault \u2013 Self-hosted AI context manager served via MCP",
+          "link": "https://mementovault.meltinbitfarm.cloud",
+          "summary": "<p>Open source and self-hosted. Built to keep AI context structured and reusable across MCP compatible clients.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48135453\">https://news.ycombinator.com/item?id=48135453</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-05-14T13:56:53"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Microsoft's AI system tops Anthropic's Mythos on cybersecurity benchmark",
+          "link": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+          "summary": "<p>Article URL: <a href=\"https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/\">https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134907\">https://news.ycombinator.com/item?id=48134907</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-05-14T13:10:35"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: AIMX \u2013 Self-hosted, open-source email server designed for AI agents",
+          "link": "https://aimx.email/",
+          "summary": "<p>Article URL: <a href=\"https://aimx.email/\">https://aimx.email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134716\">https://news.ycombinator.com/item?id=48134716</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+          "published": "2026-05-14T12:55:25"
+        }
+      ]
+    },
+    {
       "date": "2026-05-08",
       "summary": "The AI industry is experiencing a major shift from training to inference and agentic business models, with Microsoft leading this transition while major tech companies report mixed earnings. Key developments include ongoing legal battles between industry leaders, new AI-powered tools for debugging and vulnerability detection, and growing emphasis on practical AI implementation over theoretical capabilities.",
       "podcast_highlights": [
@@ -14202,69 +14410,6 @@
           "link": "https://news.ycombinator.com/item?id=46478160",
           "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect. My goal is discovery and understanding, not to defend or attack any particular framework.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whether)",
           "published": "2026-01-03T16:02:43"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The ascent of the AI therapist",
-          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
-          "published": "2025-12-30T11:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-02",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search bar functionality"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "AI developments from 2026-01-02 including ongoing discussions in model development, security, and practical applications.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "The latest AI news we announced in December",
-          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
-          "published": "2025-12-29T18:15:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "CS50x 2026: Artificial Intelligence [video]",
-          "link": "https://www.youtube.com/watch?v=-9bo8HlSxwQ",
-          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-9bo8HlSxwQ\">https://www.youtube.com/watch?v=-9bo8HlSxwQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477405\">https://news.ycombinator.com/item?id=46477405</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T14:58:19"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Internet is eating itself. What's next? Model collapse and AI data crisis",
-          "link": "https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next",
-          "summary": "<p>Article URL: <a href=\"https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next\">https://sderosiaux.substack.com/p/internet-is-eating-itself-whats-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46477333\">https://news.ycombinator.com/item?id=46477333</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-01-03T14:53:25"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "LLM Sitemap: A New Idea for AI-Readable Site Architecture",
-          "link": "https://growtika.com/blog/llm-sitemap",
-          "summary": "<p>Article URL: <a href=\"https://growtika.com/blog/llm-sitemap\">https://growtika.com/blog/llm-sitemap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46476563\">https://news.ycombinator.com/item?id=46476563</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-03T13:47:58"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Ask HN: AI progress \u2013 what are the main ways people measure it?",
-          "link": "https://news.ycombinator.com/item?id=46476555",
-          "summary": "<p>I\u2019m interested in how AI progress is currently evaluated and trying to build a  list of the major approaches people actually use.<p>I\u2019m aware that all of these measures have limitations and that many are controversial or imperfect by design. I\u2019m not assuming they\u2019re \u201cgood\u201d or that they cleanly map to real-world capability.<p>I\u2019d love to hear:<p>- What measures, benchmarks, or methodologies you think belong on this list<p>- What you see as their key strengths and failure modes<p>- How (or whet",
-          "published": "2026-01-03T13:47:07"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: AGent Based Access Control Agbac for AI Agents and IAM",
-          "link": "https://news.ycombinator.com/item?id=46476434",
-          "summary": "<p>Today I am releasing AGent Based Access Control (AGBAC) under Apache 2.0. This is a new Access Control Security Specification that introduces the concept of dual-subject authentication. Included is AGBAC-Min, which allows you to implement agent and human aware authentication today (right now!) with your existing IAM Solution!<p><a href=\"https://github.com/kahalewai/agbac\" rel=\"nofollow\">https://github.com/kahalewai/agbac</a><p>AI agents broke one of the oldest assumptions in identity. For as ",
-          "published": "2026-01-03T13:35:26"
         },
         {
           "source": "MIT Tech Review AI",
