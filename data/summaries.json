@@ -1,6 +1,213 @@
 {
   "summaries": [
     {
+      "date": "2026-05-20",
+      "summary": "Google I/O 2026 dominated AI news with the launch of Gemini 3.5 and agentic AI capabilities, while DeepMind unveiled Co-Scientist for research acceleration. Industry experts discussed the emerging AI hardware boom and the transformative impact of AI on white-collar work, with significant developments in AI-powered scientific discovery and enterprise applications.",
+      "podcast_highlights": [
+        {
+          "title": "Why we're at the beginning of the AI hardware boom | Caitlin Kalinowski (ex\u2013OpenAI, Meta, Apple)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Former OpenAI hardware lead explains why AI hardware is entering a boom phase after building robotics and hardware teams from scratch",
+            "Insights from leading AR/VR hardware development at Meta and experience across Apple, Meta, and OpenAI hardware initiatives",
+            "Discussion of the infrastructure needs and hardware challenges for next-generation AI applications"
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James analyze the potential transformative impact of AI on white-collar work environments",
+            "Discussion of how AI adoption patterns are affecting traditional knowledge work",
+            "Examination of the pace of AI integration in professional settings"
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Google I/O, World Models, I/O Spaghetti",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Analysis of Google's strategy to integrate AI across all products and services at I/O 2026",
+            "Discussion of potential misalignment between DeepMind's research objectives and Google's business goals",
+            "Critique of Google's approach to AI integration and its implications for the company's future"
+          ],
+          "link": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/"
+        },
+        {
+          "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "LangChain has surpassed 1 billion downloads, evolving from a weekend project to powering production-grade AI agents",
+            "Discussion of the next generation of deep AI agents and their practical applications",
+            "Insights on LangSmith development and building trust in AI agent frameworks"
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 3.5 - frontier intelligence model with agentic workflow capabilities and action execution"
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Co-Scientist - multi-agent AI partner for accelerating scientific research and discovery"
+        },
+        {
+          "company": "Google",
+          "feature": "AI Mode in Search expanding across the U.S. with new search interaction paradigms"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered Google Finance expanding to Europe, indicating growing adoption of AI in financial information services and market analysis",
+        "GPU-accelerated data processing becoming critical for fintech infrastructure, as demonstrated by Snap's 76% cost reduction using NVIDIA GPU-accelerated Apache Spark for processing 10+ petabytes daily"
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why we\u2019re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex\u2013OpenAI, Meta, Apple)",
+          "link": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+          "summary": "<p><strong>Caitlin Kalinowski </strong>was most recently at OpenAI helping build their robotics and hardware teams from scratch. Prior to that, she was head of AR glasses and VR hardware at Meta, where she led the teams building every generation of the Quest, Rift, and Orion, and was Meta\u2019s first consumer electronics hire. Before this, she was  technical lead on MacBook Air and Mac Pro at Apple, and helped engineer the original unibody MacBook Pro. She\u2019s designed and engineered some of the harde",
+          "published": "2026-05-17T12:31:57"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+          "link": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+          "summary": "<p><strong>Eric Ries</strong> is the author of <em>The Lean Startup</em>, a book that reshaped how a generation of founders think about building companies. His new book, <em>Incorruptible</em>, explains how successful companies are destroyed by failing to protect what makes them valuable, and how to change it.</p><p></p><p><strong>In our in-depth conversation, we discuss:</strong></p><p>1. Why 80% of venture-backed founders are ousted within three years of going public</p><p>2. The governance st",
+          "published": "2026-05-10T12:03:32"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Google I/O, World Models, I/O Spaghetti",
+          "link": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2dvb2dsZS1pLW8td29ybGQtbW9kZWxzLWktby1zcGFnaGV0dGkvIl19LCJleHAiOjE3ODE4NzgxMjIsImlhdCI6MTc3OTI4NjEyMiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.bsNfplrfKE60mcNQ-2NDySXu09xtq2-rbwb60EdC2peiJQGy4ig5bX38pmtWfu3PqZovCRawhHHHOCuokAm5PC6ykPVe6O6cL-WiJcZ7zD0jp_LOmmCXeWitBGETgfaP4UHYLPp7FdYY1scwFGVKZIvJ6cS7o56oC-6uC_qLsIMkhevPLDR8VLs0IHM-71P242iZUjDOReYM0yrnVTz5yro2W52Q1SXjwh8CgGdgCLVbEJ2yuhNyHy1RmlkKShgzz6ymd7Qc-yunfq-d2oq0CDmn4se3xRK0X8TXXBWP-NLSMutVLz2egYX98zLf6MgUgWGTOb-tVrp-GDF8gC1B1w",
+          "summary": "Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google's business objectives?",
+          "published": "2026-05-20T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Personal Day",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xOTA3MyJdfSwiZXhwIjoxNzgxODc4MTIyLCJpYXQiOjE3NzkyODYxMjIsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.ZaqGlzh3DlTScBHbFGtiAaurFtB2nDuxwtLSVKF2IaHxuO4gjEvcaJWiKr3DvUV20HYMEhb5JbX2aWetakiApm78baa07NUfCx2gohWKoyl7bjWQ4ydj9CCXWVhjIkAunDKPh9sLxk7xbQv5yYJ9TYv2Qm7tj0lwEI8Mw5gibG_Ly9mUTr6sGapFaDpt9BUSVCrqShIEYgi9dDhibHc2vKd5AI1bDhlaxNcr7PW0FhUNxf5gRj85r_kOu7RljV9DgiJKn3Xi9phNhdch0X1_-hY3vTRh-ZCNeX55OAbnKmufG8wgiTJCkLyWHys0EMHMPGtu7vtQsWLjmSZgZNfN7Q&p=19073",
+          "summary": "Personal Day \u2014 No Update",
+          "published": "2026-05-19T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#496 \u2013 FFmpeg: The Incredible Technology Behind Video on the Internet",
+          "link": "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg",
+          "summary": "<p>Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep496-sc\">https://lexfridman.com/sponsors/ep496-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https:",
+          "published": "2026-05-06T22:06:47"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#495 \u2013 Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "link": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "summary": "<p>Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep495-sc\">https://lexfridman.com/sponsors/ep495-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/lars-brownworth-transcript\">https://lexfr",
+          "published": "2026-04-09T17:43:17"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Snap\u2019s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
+          "link": "",
+          "summary": "Snap processes more than 10 petabytes of experimentation data every single morning\u2014and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%, and eliminated 120 terabytes of disk spill from its pipelines.\n\n\n\nPrudhvi Vatala, head of engineering platforms at Snap, joins the NVIDIA AI Podcast to break down how he and his team completely modernized data infrastructure for a social platform serving nearly a billion monthly active users\u2014using ",
+          "published": "2026-05-13T13:00:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+          "link": "",
+          "summary": "LangChain has surpassed 1 billion downloads\u2014and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison Chase, co-founder & CEO of LangChain, breaks down the architecture behind deep agents, explains why systems like Claude Code, Manus, and Deep Research all share the same foundational pattern, and lays out what it actually takes to deploy autonomous agents responsibly in the enterprise.\n\n\n\n\ud83d\udd2cTopics c",
+          "published": "2026-05-06T12:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "I/O 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\" />At Google I/O 2026, we shared how we\u2019re making AI more helpful for everyone. See everything we announced.",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "How AI Mode is changing the way people search in the U.S.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+          "summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and lipstick on a light blue background.",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "New ways to create and get things done in Google Workspace",
+          "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "summary": "Google Workspace",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "I/O 2026: Welcome to the agentic Gemini era",
+          "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "summary": "a series of colorful icons representing Google I/O against a black background",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "A new era for AI Search",
+          "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+          "summary": "Text that reads \"The best of a search engine with the best of AI\"",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+          "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+          "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+          "published": "2026-05-19T17:45:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The new AI-powered Google Finance is expanding to Europe.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "summary": "A screenshot of the AI-powered experience on Google Finance.",
+          "published": "2026-05-11T06:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Fast-tracking genetic leads to reverse cellular aging",
+          "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+          "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+          "published": "2026-05-18T18:21:39"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Simulate real-world places with Project Genie and Street View",
+          "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+          "summary": "We\u2019re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+          "published": "2026-05-17T19:53:18"
+        }
+      ]
+    },
+    {
       "date": "2026-05-17",
       "summary": "The AI industry is experiencing a significant shift toward hardware deployment and enterprise automation, with Microsoft's AI chief predicting white-collar job automation within 18 months. Key discussions focus on AI's infrastructure requirements, the emergence of specialized AI hardware companies, and growing concerns about job displacement alongside practical implementation challenges in enterprise settings.",
       "podcast_highlights": [
@@ -14588,98 +14795,6 @@
           "link": "https://stratechery.com/2026/ai-and-the-human-condition/",
           "summary": "AI might replace all of the jobs; that's only a problem if you think that humans will care, but if they care, they will create new jobs.",
           "published": "2026-01-05T11:00:00"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-05",
-      "top_features": [
-        {
-          "company": "Google",
-          "feature": "December AI updates including AI chess interface, Gemini 3 Flash logo, and enhanced Google search capabilities"
-        },
-        {
-          "company": "Open Source Community",
-          "feature": "lscode - TypeScript's LanguageService integration for AI coding agents, enabling advanced code editing capabilities like 'find references' and 'rename symbol'"
-        },
-        {
-          "company": "Open Source Community",
-          "feature": "AI-powered domain name generator with real-time WHOIS availability checking"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "The AI industry continues its transition from hype to practical applications, with Google announcing December updates and developers creating tools to enhance AI coding capabilities. Meanwhile, discussions around AI's societal impact intensify, including debates about taxation in a strong AI world and the growing role of AI in mental health therapy.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "The latest AI news we announced in December",
-          "link": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-          "summary": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
-          "published": "2025-12-29T18:15:00"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Taxation in a Strong AI World",
-          "link": "https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html",
-          "summary": "<p>Article URL: <a href=\"https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html\">https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46501315\">https://news.ycombinator.com/item?id=46501315</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-05T16:57:46"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Aphoristic Intelligence Beats Artificial Intelligence",
-          "link": "https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/",
-          "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/\">https://www.theatlantic.com/ideas/2025/12/aphorisms-artificial-intelligence/685406/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46501082\">https://news.ycombinator.com/item?id=46501082</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
-          "published": "2026-01-05T16:44:48"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: lscode \u2013 TypeScript's LanguageService for AI Coding Agents",
-          "link": "https://github.com/kazushisan/lscode",
-          "summary": "<p>I've been adopting to developing with AI coding agents, but I've been feeling the limitation of these agents because they mostly work with plain-text editing and don't have much access to all the tools humans use that are available in editors like \"find references\" or \"rename symbol\".<p>So I ended up building `lscode`, a command-line that exposes TypeScript language-tools for coding agents to use.<p>While I know there are some attempts that provide a language-agnostic wrapper around LSP, `lsc",
-          "published": "2026-01-05T16:29:55"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI-powered domain name generator with real-time WHOIS availability checking",
-          "link": "https://github.com/idimetrix/find-my-domain",
-          "summary": "<p>Article URL: <a href=\"https://github.com/idimetrix/find-my-domain\">https://github.com/idimetrix/find-my-domain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46500791\">https://news.ycombinator.com/item?id=46500791</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-01-05T16:28:34"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Is the World Ready for Another Programming Language in 2026, Now AI Writes Code?",
-          "link": "https://github.com/jamesd-comelang/come-lang",
-          "summary": "<p>Article URL: <a href=\"https://github.com/jamesd-comelang/come-lang\">https://github.com/jamesd-comelang/come-lang</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46500731\">https://news.ycombinator.com/item?id=46500731</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-01-05T16:25:12"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "What\u2019s next for AI in 2026",
-          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
-          "published": "2026-01-05T11:04:46"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The ascent of the AI therapist",
-          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
-          "published": "2025-12-30T11:00:00"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
-          "published": "2025-12-31T13:15:40"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "From prophet to product: How AI came back down to earth in 2025",
-          "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
-          "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
-          "published": "2025-12-31T12:00:31"
         }
       ]
     }
