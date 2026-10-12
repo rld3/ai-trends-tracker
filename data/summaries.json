@@ -1,6 +1,259 @@
 {
   "summaries": [
     {
+      "date": "2026-10-12",
+      "summary": "Today's coverage centered on a tension between heavy AI adoption and doubts about its payoff. Pieces on AI ROI, productivity bottlenecks, and agent security (MCP flaws, OpenAI agents hitting Wikipedia) ran alongside Google launches (Playground, EmbeddingGemma 2, a Googlebook Linux terminal). Podcasts focused on how AI-era product teams should operate (Google Labs, OpenAI's ChatGPT/Codex lead), enterprise open-weight models (Mistral), and AI-assisted programming (DHH). Several feed descriptions were truncated, so podcast takeaways are limited to what the summaries show.",
+      "podcast_highlights": [
+        {
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Josh Woodward leads Google Labs, the Gemini app, and AI Studio, and has spent over 17 years at Google.",
+            "He oversees Google's longest-running and largest labs team. The episode argues that companies should adopt a lab-style way of building and shipping products in the AI era.",
+            "The visible summary is truncated, so specific frameworks and quotes are not available."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think"
+        },
+        {
+          "title": "OpenAI's Head of ChatGPT: We're entering a new era of AI (again) | Tibo Sottiaux",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Tibo Sottiaux leads ChatGPT and Codex at OpenAI.",
+            "The summary says he has overseen some of OpenAI's most consequential consumer launches, including Codex and ChatGPT Work.",
+            "The episode frames the moment as another new era for AI products. The remaining details are truncated."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white-collar work.",
+            "The episode appears to be an older one resurfacing in the feed, so it may not reflect current events."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook's and Microsoft's metaverse announcements and how the future might play out.",
+            "This also appears to be an older episode and is only tangential to AI."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Former Facebook Head of Global Elections Katie Harbath discusses her new book, Disrupting Politics.",
+            "The conversation covers how the company changed in the 2010s as it dealt with politics and elections.",
+            "It is relevant to AI mainly as background on platform governance."
+          ],
+          "link": "https://stratechery.com/?p=20257"
+        },
+        {
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "DHH, creator of Ruby on Rails and Omarchy Linux and CTO of 37signals, discusses the future of programming.",
+            "Topics include AI, agentic engineering, and vibe coding, and how these change what developers do.",
+            "Linux and the developer-tooling ecosystem also come up."
+          ],
+          "link": "https://lexfridman.com/dhh-2/"
+        },
+        {
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Historian of psychiatry Andrew Scull covers the history of psychiatric treatment.",
+            "It has no direct AI content."
+          ],
+          "link": "https://lexfridman.com/andrew-scull/"
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix says open-weight models are closing the gap with proprietary AI.",
+            "He has bet on open weights since Mistral's start and explains why they matter for enterprise customers."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, discusses the AI-powered smart cart (Caper Cart)."
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Playground, an experimental platform for creating and playing custom games with AI."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "EmbeddingGemma 2, an open, lightweight multimodal embedding model."
+        },
+        {
+          "company": "Google (Android)",
+          "feature": "Googlebook Linux Terminal preview, a VM-backed environment for AI and development work."
+        }
+      ],
+      "fintech_trends": [
+        "AI ROI scrutiny is growing. Articles on Broadcom and Intel CEOs discussing AI returns, on why AI doesn't make companies more productive, and on software-production bottlenecks suggest financial buyers will demand measurable payback.",
+        "Agent security is a rising concern for regulated, payment-adjacent industries. Reported MCP trust gaps that let malicious prompts spread between agents, plus OpenAI agents hammering third-party sites, point to a need for stronger controls before agents handle money or customer data.",
+        "AI is moving into commerce and enterprise operations: Instacart's smart carts built on order data, and enterprise pieces on agentic predictive analytics and connecting agents to knowledge. These hint at payments and retail-tech opportunities, though no explicit fintech announcements appeared."
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+          "summary": "<p><strong>Josh Woodward</strong> is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to qui",
+          "published": "2026-10-11T12:31:59"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "OpenAI\u2019s Head of ChatGPT: We\u2019re entering a new era of AI (again) | Tibo Sottiaux",
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+          "summary": "<p><strong>Tibo Sottiaux</strong> leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.</p><p></p><p><strong>We discuss:</strong></p><p>1. Dots, OpenAI\u2019s new personal AI assistant</p><p>2. Why most actions on the internet will s",
+          "published": "2026-10-04T12:32:47"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Personal Day",
+          "link": "https://stratechery.com/2026/personal-day-4/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3BlcnNvbmFsLWRheS00LyJdfSwiZXhwIjoxNzk0Mzk1NTA0LCJpYXQiOjE3OTE4MDM1MDQsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.G3MfivDz2Sz2yRiwrXuL_8nnPDQJIHfgWhlyFgoRW_TXX8Qz9t7rHxrShisCjmPkOJS6ODcLEzLJ5JIyXwaJAyEIJYXmA_39ZjNDgVNFyv6vqgtJmBNEyROP6jrgdTDnBbNNCRFuXFA6WpGschxfRXAOG0CMMS4ba3FgCuAfOZKLq-hUjUbcNF64Mb090Wj18Um5yzlFmKNOQQL7HQ_vi4d7oIoBL6TiuUk6p5FH9Y_b3dmH8yjWvCJAQ7OkOiu8_ihC3_V4Rj6OtXZbhuIz90lDn72_UjqiU_VetUxqm2-5g08p7XkyooYFWd5oanyk8m5ClArRLwCttjR182SnSA",
+          "summary": "Personal Day \u2014 No Update",
+          "published": "2026-10-12T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0yMDI1NyJdfSwiZXhwIjoxNzk0Mzk1NTA0LCJpYXQiOjE3OTE4MDM1MDQsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.mQIVspFN0yzkWT07I924NV2DZ9k5Dyyy0yFzDpKgmNIkcWa5LKV2rAT0OYYufLzytNk9oKFEaD6Fl4TZI6GmIcewUNAPohDtMbGUR_vqcJust3ctRqA70qWNheJ5qA3DJWqm-_agHo9Rhb-5SvR-sL38gN2QIn9X5G7nAz1UbSbkds0rDDapgomp8dFs-kE8t0E7DNwJb3kQ3Jqv7NMtu40JDa85DYsFfmhoD2rKvjiAPCVd2AW5Kq_W0TqCMdYpotc78pwaC4njytFGdaf30EhQIOq9KxpnXOj2bbDFec7T92eZ2m8i22hJisG7whkmnuiZ25z9DgiPNChnnL8UFQ&p=20257",
+          "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+          "published": "2026-10-08T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+          "summary": "<p>DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc\">https://lexfridman.com/sponsors/ep501-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/dhh-2-transcript\">https://lexfridman.com/dhh-2-transcript</a></p>\n<p><b>CONTACT LEX:</b",
+          "published": "2026-08-26T21:47:04"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "summary": "Overview of Playground",
+          "published": "2026-10-07T12:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "summary": "",
+          "published": "2026-10-06T19:57:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why AI doesn't make companies more productive",
+          "link": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+          "summary": "<p>Article URL: <a href=\"https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html\">https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064191\">https://news.ycombinator.com/item?id=50064191</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:51:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Veda: First AI Agentic Hobby OS",
+          "link": "https://github.com/vahmoh25/Veda/blob/main/README.md",
+          "summary": "<p>Article URL: <a href=\"https://github.com/vahmoh25/Veda/blob/main/README.md\">https://github.com/vahmoh25/Veda/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064184\">https://news.ycombinator.com/item?id=50064184</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:51:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OpenKylin: The AI Agent Linux Desktop",
+          "link": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/",
+          "summary": "<p>Article URL: <a href=\"https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/\">https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064100\">https://news.ycombinator.com/item?id=50064100</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:42:42"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The Tetrad Tour, Part III: Why AI Needs Its Linnaeus",
+          "link": "https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs",
+          "summary": "<p>Article URL: <a href=\"https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs\">https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063963\">https://news.ycombinator.com/item?id=50063963</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:29:20"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI's mathematics blitz pushes science into new territory",
+          "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+          "summary": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory\">https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063736\">https://news.ycombinator.com/item?id=50063736</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:07:08"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Agentic BSS Explained: AI-Native Model, Architecture and Use Cases [pdf]",
+          "link": "https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf",
+          "summary": "<p>Article URL: <a href=\"https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf\">https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063723\">https://news.ycombinator.com/item?id=50063723</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:06:00"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+          "link": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+          "summary": "<p>Article URL: <a href=\"https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/\">https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063707\">https://news.ycombinator.com/item?id=50063707</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:05:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf]",
+          "link": "https://fion.ac/jellyfish.pdf",
+          "summary": "<p>Article URL: <a href=\"https://fion.ac/jellyfish.pdf\">https://fion.ac/jellyfish.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063665\">https://news.ycombinator.com/item?id=50063665</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-12T22:01:20"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "summary": "Google I/O 2026 dominated AI news with the launch of Gemini 3.5 and agentic AI capabilities, while DeepMind unveiled Co-Scientist for research acceleration. Industry experts discussed the emerging AI hardware boom and the transformative impact of AI on white-collar work, with significant developments in AI-powered scientific discovery and enterprise applications.",
       "podcast_highlights": [
@@ -14718,83 +14971,6 @@
           "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
           "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
           "published": "2025-12-31T13:15:40"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-06",
-      "top_features": [
-        {
-          "company": "Nvidia",
-          "feature": "Licensed Groq's inference technology and hired most of Groq employees in a strategic acquisition-like deal"
-        }
-      ],
-      "fintech_trends": [],
-      "fundraising": [],
-      "summary": "The AI industry is experiencing a maturation phase with Nvidia making strategic moves to acquire inference capabilities through its Groq deal, while broader discussions emerge about AI's practical applications versus earlier hype. Privacy concerns continue to mount as new regulations take effect, and AI therapy applications gain attention amid global mental health challenges.",
-      "raw_articles": [
-        {
-          "source": "MIT Tech Review AI",
-          "title": "Why AI predictions are so hard",
-          "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Sometimes AI feels like a niche topic to write about, but then the holidays happen, and I hear relatives of all ages talking about cases of chatbot-induced psychosis, blaming rising electricity prices&#8230;",
-          "published": "2026-01-06T10:00:00"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "What\u2019s next for AI in 2026",
-          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-          "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In an industry in constant flux, sticking your neck out to predict what\u2019s coming next may seem reckless. (AI bubble? What AI bubble?) But for the&#8230;",
-          "published": "2026-01-05T11:04:46"
-        },
-        {
-          "source": "MIT Tech Review AI",
-          "title": "The ascent of the AI therapist",
-          "link": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-          "summary": "We\u2019re in the midst of a global mental-\u00adhealth crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety and depression is growing in many demographics, particularly young people, and suicide is claiming hundreds of thousands of lives globally each year. Given the clear&#8230;",
-          "published": "2025-12-30T11:00:00"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "The nation\u2019s strictest privacy law just took effect, to data brokers\u2019 chagrin",
-          "link": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/",
-          "summary": "Californians can now submit demands requiring 500 brokers to delete their data.",
-          "published": "2026-01-05T21:42:14"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
-          "link": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/",
-          "summary": "The past year has seen plenty of hacks and outages. Here are the ones topping the list.",
-          "published": "2025-12-31T13:15:40"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "From prophet to product: How AI came back down to earth in 2025",
-          "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
-          "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
-          "published": "2025-12-31T12:00:31"
-        },
-        {
-          "source": "Ars Technica AI",
-          "title": "Cond\u00e9 Nast user database reportedly breached, Ars unaffected",
-          "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
-          "summary": "A serious data breach has occurred, but Ars users have nothing to worry about.",
-          "published": "2025-12-30T18:45:54"
-        },
-        {
-          "source": "Stratechery",
-          "title": "Nvidia and Groq, A Stinkily Brilliant Deal, Why This Deal Makes Sense",
-          "link": "https://stratechery.com/2026/nvidia-and-groq-a-stinkily-brilliant-deal-why-this-deal-makes-sense/",
-          "summary": "Nvidia is licensing Groq's technology and hiring most of its employees; it's the most potent application of tech's don't-call-it-an-acquisition deal model yet.",
-          "published": "2026-01-06T11:00:00"
-        },
-        {
-          "source": "Stratechery",
-          "title": "AI and the Human Condition",
-          "link": "https://stratechery.com/2026/ai-and-the-human-condition/",
-          "summary": "AI might replace all of the jobs; that's only a problem if you think that humans will care, but if they care, they will create new jobs.",
-          "published": "2026-01-05T11:00:00"
         }
       ]
     }
