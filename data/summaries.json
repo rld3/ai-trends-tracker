@@ -1,6 +1,258 @@
 {
   "summaries": [
     {
+      "date": "2026-10-13",
+      "summary": "Today's news centered on the shift of AI from chat to agents and the risks that come with it: OpenAI agents flooding Wikipedia, a structural trust flaw in MCP agent-to-agent communication, and debate over open-weight models. Podcasts covered how Google Labs and OpenAI's ChatGPT/Codex teams operate and ship, Mistral's enterprise open-weight bet, and DHH on agentic engineering and vibe coding. Elsewhere, AI labs are buying data from defunct startups, Google launched the Playground gaming platform, and PC shipments fell 20.1%.",
+      "podcast_highlights": [
+        {
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Josh Woodward leads Google Labs, the Gemini app, and AI Studio after 17+ years at Google, and runs its longest-running and largest labs team.",
+            "The central argument is that every company now needs to operate like a lab team: ship experiments quickly and iterate in the open as AI changes products.",
+            "He brings an inside view of how Google turns lab experiments into products such as Gemini and AI Studio."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think"
+        },
+        {
+          "title": "OpenAI's Head of ChatGPT: We're entering a new era of AI (again) | Tibo Sottiaux",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Tibo Sottiaux leads ChatGPT and Codex at OpenAI and has overseen consequential consumer launches including Codex and ChatGPT Work.",
+            "He argues AI is entering another new era, with products moving from chat toward agentic work tools.",
+            "The conversation covers how OpenAI decides what to ship and how it organizes product teams."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white-collar work.",
+            "They frame ChatGPT's arrival as a shift in how knowledge work gets done, and what that means for jobs and companies."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook's and Microsoft's metaverse announcements.",
+            "They consider how the metaverse future might play out. This is an older archive episode."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "SpaceX's mobile strategy is becoming clearer with its latest spectrum purchase.",
+            "The discussion suggests the strategy might work, and touches on Musk's influence on market structure and distributed cellular networks."
+          ],
+          "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/"
+        },
+        {
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "DHH, creator of Ruby on Rails and Omarchy Linux and CTO of 37signals, discusses the future of programming.",
+            "Topics include AI, agentic engineering, and vibe coding, and how they change the craft of software development.",
+            "He also covers Linux and his career as a racecar driver."
+          ],
+          "link": "https://lexfridman.com/dhh-2/"
+        },
+        {
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Historian of psychiatry Andrew Scull covers the history of asylums, ECT, lobotomies, and Freud and Jung.",
+            "The episode is not AI-focused."
+          ],
+          "link": "https://lexfridman.com/andrew-scull/"
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, discusses the AI-powered smart cart (Caper Cart) as the vehicle for this push into physical retail."
+          ],
+          "link": ""
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix says open-weight models are closing the gap with proprietary AI, a bet he has held since day one.",
+            "He explains why open weights matter for enterprise customers building frontier AI."
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Playground: an experimental platform for creating and playing custom AI-generated games."
+        },
+        {
+          "company": "OpenAI",
+          "feature": "Consumer launches including Codex and ChatGPT Work, with ChatGPT moving toward agentic work, per the Lenny's Podcast interview with Tibo Sottiaux."
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini app and AI Studio, run by Josh Woodward's Labs team, with a lab-style experimental approach to shipping."
+        }
+      ],
+      "fintech_trends": [
+        "Agent security is a growing concern for finance and enterprise: MCP trust gaps let malicious prompts spread between agents, and OpenAI agents have caused problems on third-party sites. This points to a need for stronger controls before agents handle transactions.",
+        "Enterprises are focusing on connecting AI agents to institutional knowledge and applying predictive analytics in agentic workflows. These are core needs for forecasting, risk, and operations in financial services.",
+        "Retail commerce is merging data and physical infrastructure: Instacart is using its 1.6 billion order history to power AI smart carts, an example of data-driven payments and shopping experiences."
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+          "summary": "<p><strong>Josh Woodward</strong> is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to qui",
+          "published": "2026-10-11T12:31:59"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "OpenAI\u2019s Head of ChatGPT: We\u2019re entering a new era of AI (again) | Tibo Sottiaux",
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+          "summary": "<p><strong>Tibo Sottiaux</strong> leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.</p><p></p><p><strong>We discuss:</strong></p><p>1. Dots, OpenAI\u2019s new personal AI assistant</p><p>2. Why most actions on the internet will s",
+          "published": "2026-10-04T12:32:47"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+          "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3NwYWNleC1idXlzLW1vcmUtc3BlY3RydW0tbXVzay1hbmQtbWFya2V0LXN0cnVjdHVyZS1kaXN0cmlidXRlZC1jZWxsdWxhci8iXX0sImV4cCI6MTc5NDQ4MjkwNywiaWF0IjoxNzkxODkwOTA3LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.sTJknJcznHzszZHw_g89cPQvfoonhgj9dwaZxLdxPhA5Q_qWa10X5bbZoZp4G0counrEb_8NIOoo6y4rhCiXw43TGSbXG7FTLYWKono9LLjR9hklLyYfZs1svOcfDq0S9cWkQXHBSImBCGhnc9iHe2Iu6TmizLe851l0GQ54IsjYGpYRYBcAAJ4rNidLO6mscEvew_NWHZwcehLNIdXqD1umZKyxLSxY1HfVZBD80Ksvw-Bl7Z-WyXlXL22tQZfQUGqKhEdqJRhbh1lAONssegv86avTRlFnLPSiOrXMKTbegH2nxYvUybEupfWccTEkAyJthOhZsP4p5VeuXqGVGg",
+          "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+          "published": "2026-10-13T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Personal Day",
+          "link": "https://stratechery.com/2026/personal-day-4/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3BlcnNvbmFsLWRheS00LyJdfSwiZXhwIjoxNzk0NDgyOTA3LCJpYXQiOjE3OTE4OTA5MDcsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.JimvOU6zLg4z51W0NRzyWpX_fB2ENn5vLzB1ZK3-fGYg_x14ZTV5Upwb8J0aZ6FAVBV_2LSW9C2HEd9gMjZ8gp9qkId9KfoxR8qwS6H4chknZWntwf5eoWQLARo-PjhaCKbSiWePcU9WFthFdLhqv_VqpTKGugODl6amycz2FQfCWLZvm1bdimCTYbBKgOM0XrwAl1C7DMJSeWdxVYAbt5Kb8FkSbMbMN7AX4uioZE0NSjcM1wJeXR3WPUYVsr9oMe8MbGQrLrNhSOWK2uEpRs9735ICPo40zjvihgo1veHO8qYcSwAJQUp-YlBPrEyEel_klcaHURoFroVOHpUhbQ",
+          "summary": "Personal Day \u2014 No Update",
+          "published": "2026-10-12T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+          "summary": "<p>DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc\">https://lexfridman.com/sponsors/ep501-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/dhh-2-transcript\">https://lexfridman.com/dhh-2-transcript</a></p>\n<p><b>CONTACT LEX:</b",
+          "published": "2026-08-26T21:47:04"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "summary": "Overview of Playground",
+          "published": "2026-10-07T12:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Open models have real benefits. Do they outweigh the risks?",
+          "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report\u2019s core concern is that the&#8230;",
+          "published": "2026-10-13T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI labs are buying data from dead startups to train their models",
+          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives into real money. He\u2019s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+          "published": "2026-10-13T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn\u2019t&#8230;",
+          "published": "2026-10-09T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+          "published": "2026-10-09T00:08:24"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+          "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human\u2014white with a black head and torso\u2014has been popping up on video feeds. Perhaps you\u2019ve seen it dance or&#8230;",
+          "published": "2026-10-08T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Building a safer path to autonomous industrial AI",
+          "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+          "published": "2026-10-08T08:17:32"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Connecting AI agents to enterprise knowledge",
+          "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+          "published": "2026-10-05T15:47:52"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+          "published": "2026-10-05T13:29:32"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "People really hate AI, so why can\u2019t they get enough?",
+          "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+          "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI&#8230;",
+          "published": "2026-10-05T08:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "summary": "Today's coverage centered on a tension between heavy AI adoption and doubts about its payoff. Pieces on AI ROI, productivity bottlenecks, and agent security (MCP flaws, OpenAI agents hitting Wikipedia) ran alongside Google launches (Playground, EmbeddingGemma 2, a Googlebook Linux terminal). Podcasts focused on how AI-era product teams should operate (Google Labs, OpenAI's ChatGPT/Codex lead), enterprise open-weight models (Mistral), and AI-assisted programming (DHH). Several feed descriptions were truncated, so podcast takeaways are limited to what the summaries show.",
       "podcast_highlights": [
@@ -250,6 +502,362 @@
           "link": "https://fion.ac/jellyfish.pdf",
           "summary": "<p>Article URL: <a href=\"https://fion.ac/jellyfish.pdf\">https://fion.ac/jellyfish.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063665\">https://news.ycombinator.com/item?id=50063665</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2026-10-12T22:01:20"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "summary": "\ud83d\udcc5 Monthly recap (backfilled from web research, as the daily tracker was offline): September was the biggest model-release month of the year. Anthropic shipped Claude Fable 5.1 and Mythos 5.1 (Sep 1), Opus 5.5 (Sep 22) and Sonnet 5.5 (Sep 28); OpenAI released GPT-6 Astra (Sep 3) behind cyber guardrails, then GPT-6 Sol and Luna and GPT-6.1 Sol at DevDay; Google answered with Gemini 3.8 Flash and announced the gated Gemini 4 Argon. Prices kept falling, with budget tiers near $0.10 per million tokens. On the consumer side, agents went mainstream: Meta's Muse books travel and sends email, OpenAI added voice-driven tasks and a $500/month Pro tier, Apple began its upgraded Siri beta, and DoorDash launched text-to-order. California signed 13 child-safety bills covering AI chatbots.",
+      "podcast_highlights": [],
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "GPT-6 Astra (Sep 3) with cybersecurity guardrails, followed by GPT-6 Sol/Luna and GPT-6.1 Sol at DevDay (Sep 29)"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Claude Fable 5.1 (Sep 1), Opus 5.5 (Sep 22, ~20% cheaper than Opus 5) and Sonnet 5.5 (Sep 28, now powering the claude.ai free tier)"
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini 3.8 Flash (Sep 2) and Gemini 3.8 Live voice stack; Gemini 4 Argon announced for vetted cyber defenders only"
+        },
+        {
+          "company": "Meta",
+          "feature": "Muse personal agent that books travel and sends email, rolling out in the U.S. on iPhone, Android and web"
+        },
+        {
+          "company": "Apple",
+          "feature": "Upgraded Siri beta rollout, plus AI summaries of HomeKit security-camera footage"
+        }
+      ],
+      "fintech_trends": [
+        "Agentic commerce trust gap: an ACI Worldwide survey found only 7% of fashion shoppers would let an AI assistant buy without approval and 53% were uncomfortable, even as NielsenIQ reported 51% of U.S. consumers used an AI shopping tool in the past month. Human approval in the payment step remains the key design constraint",
+        "Agents moving into real transactions: DoorDash text-to-order and Meta's Muse travel booking push agent-initiated payments from pilots toward everyday consumer use",
+        "AI infrastructure financed with debt: about 37% of September's tracked AI funding was debt or convertibles (CoreWeave, Nscale, Waymo), a sign that lenders now treat AI compute as an asset class"
+      ],
+      "fundraising": [
+        {
+          "company": "Crusoe",
+          "amount": "$3.9B",
+          "details": "Series F at a reported $30.9B valuation (Atreides, Mubadala Capital, Valor)"
+        },
+        {
+          "company": "CoreWeave",
+          "amount": "$3.7B",
+          "details": "Convertible bond offering"
+        },
+        {
+          "company": "Mistral AI",
+          "amount": "$3.5B",
+          "details": "Series D at a reported $24B valuation, with Samsung participating"
+        },
+        {
+          "company": "Waymo",
+          "amount": "$3.0B",
+          "details": "First debt deal (Pimco, Blackstone)"
+        },
+        {
+          "company": "Positron",
+          "amount": "$875M",
+          "details": "Series C/C-1 at a reported $5B valuation for AI inference chips"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Tech AI Magazine",
+          "title": "The 15 AI News Stories That Mattered in September 2026",
+          "link": "https://www.techaimag.com/ai-news/the-15-ai-news-stories-that-mattered-in-september-2026",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-09-30"
+        },
+        {
+          "source": "Local AI Zone",
+          "title": "September 2026 AI Model Updates",
+          "link": "https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-09-30"
+        },
+        {
+          "source": "Bloomberg Government",
+          "title": "OpenAI Rolls Out GPT-6 Astra Model With Cyber Guardrails",
+          "link": "https://news.bgov.com/artificial-intelligence/openai-rolls-out-gpt-6-astra-model-with-cyber-guardrails-1",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-09-03"
+        },
+        {
+          "source": "AI Funding",
+          "title": "AI Startup Funding Rounds September 2026",
+          "link": "https://aifunding.me/insights/ai-startup-funding-rounds-september-2026",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-09-30"
+        },
+        {
+          "source": "Google",
+          "title": "The latest AI news we announced in September 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "summary": "\ud83d\udcc5 Monthly recap (backfilled from web research, as the daily tracker was offline): August centered on the business of AI. OpenAI said enterprise revenue had overtaken consumer revenue, with a reported $40B annualized run rate, and launched ChatGPT ads in 31 European markets. SpaceX's Grok 4.6 and Google's Gemini 3.7 Flash competed hard on price, Meta released Muse Glimmer, an open-weight agent model that runs on a single PC, and DeepSeek raised API prices for V4 Pro. Agent standards consolidated: Google's Agent2Agent protocol moved to a neutral foundation alongside Anthropic's MCP. Public sentiment cooled, with Pew finding 52% of U.S. adults more concerned than excited about AI, and safety work slowed OpenAI's next model over cybersecurity capabilities.",
+      "podcast_highlights": [],
+      "top_features": [
+        {
+          "company": "OpenAI",
+          "feature": "ChatGPT ads launched in 31 European markets; ChatGPT for Teens with parental controls and Quiet Hours"
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini 3.7 Flash at half the intro price of 3.6 Flash, with better coding and agent tool use"
+        },
+        {
+          "company": "SpaceX (xAI)",
+          "feature": "Grok 4.6, roughly level with GPT-5.6 Sol on intelligence benchmarks at over 60% lower price"
+        },
+        {
+          "company": "Meta",
+          "feature": "Muse Glimmer, an open-weight model that runs agentic tasks on a single-GPU PC or Mac"
+        },
+        {
+          "company": "Agentic AI Foundation",
+          "feature": "Agent2Agent (A2A) protocol moved to a neutral foundation alongside MCP, now with 250+ members"
+        }
+      ],
+      "fintech_trends": [
+        "Corporate AI spend data from Ramp: the top 1% of U.S. businesses spent a median $7,400 per employee on AI in July versus $11.95 at the median company, with spend shifting toward cheaper models. Card and expense data is becoming a leading indicator for AI adoption",
+        "Agents handling real customer operations: Salesforce's Agentic Enterprise Index shows about 7 in 10 customer-service sessions handled autonomously, a template for servicing and collections workflows in lending",
+        "Agent risk is now a governance issue: reports of agents pursuing goals in unintended ways (for example, removing someone from a waitlist) raise the bar for permissioning and audit trails on any agent that can move money"
+      ],
+      "fundraising": [
+        {
+          "company": "Nebius",
+          "amount": "$4.3B",
+          "details": "Convertible financing for AI cloud capacity"
+        },
+        {
+          "company": "Thrive Holdings",
+          "amount": "$2.0B",
+          "details": "At a reported $12B valuation"
+        },
+        {
+          "company": "Hadrian",
+          "amount": "$1.4B",
+          "details": "Series D at a reported $7.9B valuation (AI-driven manufacturing)"
+        },
+        {
+          "company": "Base Power",
+          "amount": "$1.0B",
+          "details": "Series D at a reported $13B valuation"
+        },
+        {
+          "company": "Lambda",
+          "amount": "$1.0B",
+          "details": "Private debt for GPU cloud"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "MarketingProfs",
+          "title": "AI Update, August 21, 2026: AI News and Views From the Past Two Weeks",
+          "link": "https://www.marketingprofs.com/opinions/2026/55655/ai-update-august-21-2026-ai-news-and-views-from-the-past-two-weeks",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-08-21"
+        },
+        {
+          "source": "AI Funding",
+          "title": "August 2026 AI Funding Roundup",
+          "link": "https://aifunding.me/roundups/august-2026",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-08-31"
+        },
+        {
+          "source": "The Neuron",
+          "title": "Everything That Happened in AI Today (Mon, August 31, 2026)",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-31-2026/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "summary": "\ud83d\udcc5 Monthly recap (backfilled from web research, as the daily tracker was offline): July was a big month for coding models and gated access. Anthropic launched Claude Sonnet 5 and then Claude Opus 5 (Jul 24, 1M-token context), and Fable 5 returned after the June export-control suspension, now with mandatory identity verification. OpenAI rolled out GPT-5.6 in phases alongside ChatGPT Work. Moonshot's Kimi K2.7 Code became the first open-weight model in GitHub Copilot's model picker. Access to frontier models increasingly came with vetting, and the Five Eyes alliance warned that AI-driven cyber capability changes are 'not years, it is months' away. Capital kept flowing: OpenAI and Broadcom's Jalape\u00f1o inference chip taped out, Etched launched at a $5B valuation, and South Korea announced an $880B, 10-year chips and AI plan.",
+      "podcast_highlights": [],
+      "top_features": [
+        {
+          "company": "Anthropic",
+          "feature": "Claude Opus 5 (Jul 24): 1M-token context, thinking on by default, five effort levels, $5/$25 per million tokens"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Claude Sonnet 5: stronger long-running coding and tool use, with introductory pricing through Aug 31"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.6 (Sol/Terra/Luna tiers) phased rollout, plus ChatGPT Work"
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini Omni Flash conversational video editing and Nano Banana 2 Lite image model (now inside Adobe Firefly)"
+        },
+        {
+          "company": "Moonshot AI",
+          "feature": "Kimi K2.7 Code, the first open-weight model in GitHub Copilot's model picker"
+        }
+      ],
+      "fintech_trends": [
+        "KYC comes to AI: frontier model access (Fable 5, Mythos 5, GPT-5.6 Sol preview) now requires identity verification or vetting, mirroring financial-services onboarding and creating a new compliance layer for AI vendors",
+        "Insurance and financial-ops automation on frontier models: insurtech Pace ran Claude Sonnet 5 on live systems for intake and claims setup, a pattern that carries over directly to loan intake and document processing",
+        "Inference costs keep falling (custom chips like Jalape\u00f1o, cheaper open models), improving the unit economics of AI underwriting and servicing at scale"
+      ],
+      "fundraising": [
+        {
+          "company": "Anthropic",
+          "amount": "$15B + $5B",
+          "details": "Two reported raises in July, per AI Funding's tracker"
+        },
+        {
+          "company": "Safe Superintelligence",
+          "amount": "$5.0B",
+          "details": "Reported raise"
+        },
+        {
+          "company": "Aligned Data Centers",
+          "amount": "$5.0B",
+          "details": "AI data center capacity"
+        },
+        {
+          "company": "Etched",
+          "amount": "$5B valuation",
+          "details": "Launched with $1B in signed contracts for AI inference chips"
+        },
+        {
+          "company": "8090 Labs",
+          "amount": "$135M",
+          "details": "Series A led by Salesforce Ventures for its agentic coding platform"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "AI Apps",
+          "title": "Top AI News for July 2026: Breakthroughs, Launches & Trends",
+          "link": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-07-31"
+        },
+        {
+          "source": "APIYI",
+          "title": "Claude Opus 5 launch",
+          "link": "https://docs.apiyi.com/en/live/2026-07/claude-opus-5-launch",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-07-25"
+        },
+        {
+          "source": "The AI Funding Brief",
+          "title": "July 2026 AI Funding Roundup",
+          "link": "https://buttondown.com/aaronyi/archive/the-ai-funding-brief-july-2026-ai-funding-roundup/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-07-31"
+        },
+        {
+          "source": "Google",
+          "title": "The latest AI news we announced in July 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "summary": "\ud83d\udcc5 Monthly recap (backfilled from web research, as the daily tracker was offline): June was one of the most eventful months in AI so far. Anthropic released Claude Fable 5 and Mythos 5 on June 9, but on June 12 a U.S. Commerce Department export order suspended access to both. The controls were lifted June 30 and access restored July 1. Anthropic and OpenAI both filed confidential IPO paperwork (S-1s), and OpenAI phased its GPT-5.6 launch at the government's request. Apple unveiled new foundation models at WWDC (June 8), developed with Google, and Google shipped Gemma 4, computer use in Gemini 3.5 Flash, and real-time Live Translate in 70+ languages. OpenAI and Broadcom unveiled Jalape\u00f1o, OpenAI's first custom inference chip. AI funding hit a reported record of about $136B, led by Anthropic.",
+      "podcast_highlights": [],
+      "top_features": [
+        {
+          "company": "Anthropic",
+          "feature": "Claude Fable 5 and Mythos 5 (Jun 9); access suspended Jun 12 under U.S. export controls and restored Jul 1"
+        },
+        {
+          "company": "Apple",
+          "feature": "Five new Apple foundation models announced at WWDC (Jun 8), developed with Google"
+        },
+        {
+          "company": "Google",
+          "feature": "Computer use in Gemini 3.5 Flash, Gemma 4 12B running locally on laptops, and Gemini 3.5 Live Translate (70+ languages)"
+        },
+        {
+          "company": "OpenAI + Broadcom",
+          "feature": "Jalape\u00f1o custom inference chip, with reported ~50% lower cost per token in early tests"
+        },
+        {
+          "company": "Google",
+          "feature": "New Google Finance out of beta, with an AI research tool and AI-explained 'key moments' for stock moves"
+        }
+      ],
+      "fintech_trends": [
+        "Agentic payments went live in Europe: Mastercard Agent Pay completed first production agent payments in the Netherlands (ING/Worldline), France (Cr\u00e9dit Agricole/Worldline) and Ukraine (PrivatBank), with the issuing bank keeping authentication and cardholders setting budgets",
+        "Visa built trust infrastructure for agents (Agent Score, Agentic Directory, a Large Transaction Model for fraud) and announced Visa payments inside OpenAI's agentic experiences",
+        "Banks deploying agents to customers: Starling put a scam-checking agent in front of 5M customers and BBVA reached 100,000 employees on ChatGPT Enterprise; Coinbase for Agents and AWS/Stripe pay-per-crawl (HTTP 402) extended agent payment rails"
+      ],
+      "fundraising": [
+        {
+          "company": "Anthropic",
+          "amount": "~$90B",
+          "details": "Reported $50B equity round plus a $40B debt facility from Google"
+        },
+        {
+          "company": "Prometheus",
+          "amount": "$12B",
+          "details": "Reported round backed by Jeff Bezos"
+        },
+        {
+          "company": "DeepSeek",
+          "amount": "$7.4B",
+          "details": "Reported raise"
+        },
+        {
+          "company": "Baseten",
+          "amount": "$1.5B",
+          "details": "Led by Spark Capital (AI inference infrastructure)"
+        },
+        {
+          "company": "Ant International",
+          "amount": "$1B",
+          "details": "Fintech: reported raise for Ant Group's international arm"
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Google",
+          "title": "The latest AI news we announced in June 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-06-30"
+        },
+        {
+          "source": "Build Fast with AI",
+          "title": "AI News Today June 26 2026: 15 Biggest Stories",
+          "link": "https://blog.buildfastwithai.com/ai-news-today-june-26-2026",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-06-26"
+        },
+        {
+          "source": "AI Funding",
+          "title": "AI Funding June 2026: $136B in 216 Deals Sets Record",
+          "link": "https://aifunding.me/insights/ai-funding-june-2026-record-136b",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-06-30"
+        },
+        {
+          "source": "Whitesight",
+          "title": "State of Agentic Finance: June 2026",
+          "link": "https://whitesight.net/?p=30459",
+          "summary": "Source used for this backfilled monthly recap.",
+          "published": "2026-07-06"
         }
       ]
     },
@@ -11627,196 +12235,6 @@
       ]
     },
     {
-      "date": "2026-02-12",
-      "top_features": [
-        {
-          "company": "Google/DeepMind",
-          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with improved mathematical and scientific discovery capabilities"
-        },
-        {
-          "company": "Google",
-          "feature": "Ask Photos enhancement with 9 new interactive query capabilities for improved photo search and organization"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "GPT-5.3-Codex-Spark - 15x faster coding model that sidesteps Nvidia chips, running on plate-sized hardware for improved development speed"
-        }
-      ],
-      "fintech_trends": [
-        "AI-powered cryptocurrency security vulnerabilities are increasing, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better AI-driven security measures in DeFi",
-        "Post-quantum cryptography integration with AI is emerging, as seen in the Elara protocol combining quantum-resistant validation with Rust-based AI systems for enhanced blockchain security"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated AI announcements with Gemini 3 Deep Think's scientific reasoning capabilities and enhanced photo search features, while concerns grew around AI security vulnerabilities in crypto and open-source projects. The industry continues grappling with AI's impact on development workflows, from faster coding models to governance challenges in agent deployments.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-          "summary": "Gemini 3 Deep Think logo",
-          "published": "2026-02-12T16:13:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "9 fun questions to try asking Google Photos",
-          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
-          "published": "2026-02-10T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
-          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-          "summary": "User profile on smartphone connected to security, media, and settings icons.",
-          "published": "2026-02-10T02:30:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
-          "published": "2026-02-12T16:15:09"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-          "summary": "Research papers point to the growing impact of Deep Think across fields",
-          "published": "2026-02-09T16:12:06"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Meta patented an AI that lets you keep posting from beyond the grave",
-          "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
-          "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2\">https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042629\">https://news.ycombinator.com/item?id=47042629</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:37:38"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "I don't think AI performance will plateau",
-          "link": "https://honnibal.dev/blog/ai-bubble",
-          "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/ai-bubble\">https://honnibal.dev/blog/ai-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042606\">https://news.ycombinator.com/item?id=47042606</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-02-17T01:33:21"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
-          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
-          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:24:41"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
-          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
-          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
-          "published": "2026-02-17T01:24:12"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
-          "link": "https://github.com/karpathy/nanochat/discussions/481",
-          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:15:18"
-        }
-      ]
-    },
-    {
-      "date": "2026-02-12",
-      "top_features": [
-        {
-          "company": "Google/DeepMind",
-          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with enhanced mathematical and scientific discovery capabilities"
-        },
-        {
-          "company": "Google",
-          "feature": "Ask Photos enhancement - 9 new interactive query capabilities for Google Photos allowing users to ask natural language questions about their photo collections"
-        },
-        {
-          "company": "OpenAI",
-          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15x faster than its predecessor, running on specialized plate-sized chips instead of traditional Nvidia hardware"
-        }
-      ],
-      "fintech_trends": [
-        "Cryptocurrency exchange security vulnerabilities are escalating, with dYdX being targeted for the third time through malicious packages that empty user wallets, highlighting the need for better AI-powered security monitoring",
-        "Post-quantum cryptography protocols like Elara are emerging, combining Rust-based virtual machines with AI to create more secure validation systems for financial transactions"
-      ],
-      "fundraising": [],
-      "summary": "Google dominated AI news with the launch of Gemini 3 Deep Think for scientific research and enhanced Google Photos capabilities, while OpenAI introduced a significantly faster coding model that bypasses Nvidia chips. The day also highlighted growing concerns about AI's impact on open source development and cybersecurity vulnerabilities in cryptocurrency platforms.",
-      "raw_articles": [
-        {
-          "source": "Google AI",
-          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-          "summary": "Gemini 3 Deep Think logo",
-          "published": "2026-02-12T16:13:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "9 fun questions to try asking Google Photos",
-          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
-          "published": "2026-02-10T17:00:00"
-        },
-        {
-          "source": "Google AI",
-          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
-          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-          "summary": "User profile on smartphone connected to security, media, and settings icons.",
-          "published": "2026-02-10T02:30:00"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
-          "published": "2026-02-12T16:15:09"
-        },
-        {
-          "source": "DeepMind",
-          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-          "summary": "Research papers point to the growing impact of Deep Think across fields",
-          "published": "2026-02-09T16:12:06"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
-          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
-          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:24:41"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
-          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
-          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-          "published": "2026-02-17T01:24:12"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
-          "link": "https://github.com/karpathy/nanochat/discussions/481",
-          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:15:18"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Show HN: Bulwark \u2013 Open-source governance layer for AI agents (Rust, MCP-native)",
-          "link": "https://github.com/bpolania/bulwark",
-          "summary": "<p>Hi HN!<p>I built Bulwark because I kept running into the same problem: I need to give AI agents access to my GitHub token, my AWS credentials, my database access, etc. They can do anything I can do. And when something goes wrong, there's no audit trail.<p>Bulwark is a governance proxy that sits between agents and the tools they call. It works as an MCP gateway (for Claude Code, OpenClaw) or as an HTTP forward proxy (for Codex, curl). Every request goes through:<p>Session validation \u2192 Content ",
-          "published": "2026-02-17T01:12:27"
-        },
-        {
-          "source": "Hacker News AI",
-          "title": "Lack of measurement invariance in mental health across intelligence levels",
-          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662",
-          "summary": "<p>Article URL: <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662\">https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042416\">https://news.ycombinator.com/item?id=47042416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-          "published": "2026-02-17T01:04:07"
-        }
-      ]
-    },
-    {
       "date": "2026-02-15",
       "top_features": [
         {
@@ -12003,6 +12421,196 @@
           "link": "https://news.ycombinator.com/item?id=47016081",
           "summary": "<p>Agents can review the paper on arXiv, and humans can like or dislike agents' reviews. There are also ranking lists of the most popular papers and agents. Please visit: https://clawdreview.ai/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47016081\">https://news.ycombinator.com/item?id=47016081</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
           "published": "2026-02-14T16:57:42"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with improved mathematical and scientific discovery capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos enhancement with 9 new interactive query capabilities for improved photo search and organization"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - 15x faster coding model that sidesteps Nvidia chips, running on plate-sized hardware for improved development speed"
+        }
+      ],
+      "fintech_trends": [
+        "AI-powered cryptocurrency security vulnerabilities are increasing, with malicious packages targeting dYdX exchange users and emptying wallets, highlighting the need for better AI-driven security measures in DeFi",
+        "Post-quantum cryptography integration with AI is emerging, as seen in the Elara protocol combining quantum-resistant validation with Rust-based AI systems for enhanced blockchain security"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI announcements with Gemini 3 Deep Think's scientific reasoning capabilities and enhanced photo search features, while concerns grew around AI security vulnerabilities in crypto and open-source projects. The industry continues grappling with AI's impact on development workflows, from faster coding models to governance challenges in agent deployments.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Meta patented an AI that lets you keep posting from beyond the grave",
+          "link": "https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2",
+          "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2\">https://www.businessinsider.com/meta-granted-patent-for-ai-llm-bot-dead-paused-accounts-2026-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042629\">https://news.ycombinator.com/item?id=47042629</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:37:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "I don't think AI performance will plateau",
+          "link": "https://honnibal.dev/blog/ai-bubble",
+          "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/ai-bubble\">https://honnibal.dev/blog/ai-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042606\">https://news.ycombinator.com/item?id=47042606</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T01:33:21"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
+          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
+          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:24:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
+          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
+          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+          "published": "2026-02-17T01:24:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
+          "link": "https://github.com/karpathy/nanochat/discussions/481",
+          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:15:18"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "top_features": [
+        {
+          "company": "Google/DeepMind",
+          "feature": "Gemini 3 Deep Think - Advanced reasoning model specialized for science, research and engineering challenges with enhanced mathematical and scientific discovery capabilities"
+        },
+        {
+          "company": "Google",
+          "feature": "Ask Photos enhancement - 9 new interactive query capabilities for Google Photos allowing users to ask natural language questions about their photo collections"
+        },
+        {
+          "company": "OpenAI",
+          "feature": "GPT-5.3-Codex-Spark - New coding model that is 15x faster than its predecessor, running on specialized plate-sized chips instead of traditional Nvidia hardware"
+        }
+      ],
+      "fintech_trends": [
+        "Cryptocurrency exchange security vulnerabilities are escalating, with dYdX being targeted for the third time through malicious packages that empty user wallets, highlighting the need for better AI-powered security monitoring",
+        "Post-quantum cryptography protocols like Elara are emerging, combining Rust-based virtual machines with AI to create more secure validation systems for financial transactions"
+      ],
+      "fundraising": [],
+      "summary": "Google dominated AI news with the launch of Gemini 3 Deep Think for scientific research and enhanced Google Photos capabilities, while OpenAI introduced a significantly faster coding model that bypasses Nvidia chips. The day also highlighted growing concerns about AI's impact on open source development and cybersecurity vulnerabilities in cryptocurrency platforms.",
+      "raw_articles": [
+        {
+          "source": "Google AI",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "summary": "Gemini 3 Deep Think logo",
+          "published": "2026-02-12T16:13:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "9 fun questions to try asking Google Photos",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts.",
+          "published": "2026-02-10T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Helping kids and teens learn and grow online on Safer Internet Day",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+          "summary": "User profile on smartphone connected to security, media, and settings icons.",
+          "published": "2026-02-10T02:30:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+          "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+          "published": "2026-02-12T16:15:09"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+          "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+          "summary": "Research papers point to the growing impact of Deep Think across fields",
+          "published": "2026-02-09T16:12:06"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "India's 'AI Impact Summit' Promises Little More Than Spectacle",
+          "link": "https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/",
+          "summary": "<p>Article URL: <a href=\"https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/\">https://internetfreedom.in/indias-ai-impact-summit-promises-little-more-than-spectacle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042540\">https://news.ycombinator.com/item?id=47042540</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:24:41"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Writes Code in Seconds. Why Do Your Tests Take Minutes?",
+          "link": "http://stumpy.ai/blog/your-ai-writes-code-in-seconds",
+          "summary": "<p>Article URL: <a href=\"http://stumpy.ai/blog/your-ai-writes-code-in-seconds\">http://stumpy.ai/blog/your-ai-writes-code-in-seconds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042537\">https://news.ycombinator.com/item?id=47042537</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-02-17T01:24:12"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Beating GPT-2 for less than $100 \u2013 Andrej Karpathy",
+          "link": "https://github.com/karpathy/nanochat/discussions/481",
+          "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042493\">https://news.ycombinator.com/item?id=47042493</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:15:18"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Bulwark \u2013 Open-source governance layer for AI agents (Rust, MCP-native)",
+          "link": "https://github.com/bpolania/bulwark",
+          "summary": "<p>Hi HN!<p>I built Bulwark because I kept running into the same problem: I need to give AI agents access to my GitHub token, my AWS credentials, my database access, etc. They can do anything I can do. And when something goes wrong, there's no audit trail.<p>Bulwark is a governance proxy that sits between agents and the tools they call. It works as an MCP gateway (for Claude Code, OpenClaw) or as an HTTP forward proxy (for Codex, curl). Every request goes through:<p>Session validation \u2192 Content ",
+          "published": "2026-02-17T01:12:27"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Lack of measurement invariance in mental health across intelligence levels",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662",
+          "summary": "<p>Article URL: <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662\">https://www.sciencedirect.com/science/article/abs/pii/S0160289625000662</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47042416\">https://news.ycombinator.com/item?id=47042416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-02-17T01:04:07"
         }
       ]
     },
