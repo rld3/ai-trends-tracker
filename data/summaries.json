@@ -1,6 +1,254 @@
 {
   "summaries": [
     {
+      "date": "2026-10-14",
+      "summary": "Google dominated the day with the launch of Gemini 4 Argon, along with safety, robotics and Playground announcements and the open EmbeddingGemma 2. Podcasts focused on how AI labs and product teams operate (Google Labs, OpenAI's ChatGPT/Codex), AI's effect on white-collar work, Apple's HomeView and its AI limits, and open-weight enterprise models at Mistral. Broader coverage covered AI-agent risks, open-model tradeoffs, AI labs buying data from defunct startups, and skepticism about robotics and job-loss hype.",
+      "podcast_highlights": [
+        {
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Josh Woodward leads Google Labs, the Gemini app and AI Studio, and has spent over 17 years at Google running its longest-running and largest labs team.",
+            "The central argument is that companies in the AI era need to adopt a lab-style way of working: rapid experimentation and shipping products quickly.",
+            "The episode draws on Labs' track record of launching experimental AI products as a model for other organizations (only the summary opening was available, so details are limited)."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think"
+        },
+        {
+          "title": "OpenAI's Head of ChatGPT: We're entering a new era of AI (again) | Tibo Sottiaux",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Tibo Sottiaux leads ChatGPT and Codex at OpenAI and has overseen consequential consumer launches including Codex and ChatGPT Work.",
+            "He frames the current moment as another new era of AI, with ChatGPT evolving from a chat product into one that does work.",
+            "The summary was truncated, so the most recent launch he discusses is not specified."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white-collar work.",
+            "The episode examines how ChatGPT-style tools could reshape knowledge-work roles."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook's and Microsoft's metaverse announcements.",
+            "They consider how the metaverse future might play out. This is an older archive episode."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "Apple HomeView, The New Apple TV, The App Story",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Apple HomeView is now official, and the key question is how large the addressable market is for expensive devices built on subpar AI.",
+            "Coverage also touches on the new Apple TV and the App Store story."
+          ],
+          "link": "https://stratechery.com/?p=20306"
+        },
+        {
+          "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "SpaceX's mobile strategy is becoming clearer with its latest spectrum purchase, and the analysis suggests it might work.",
+            "The discussion covers Musk's influence on market structure and the idea of distributed cellular networks."
+          ],
+          "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/"
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, discusses the AI-powered smart cart (Caper Cart) as the vehicle for this strategy."
+          ],
+          "link": ""
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues that open-weight models are closing the gap with proprietary AI, a bet Mistral has made since day one.",
+            "He explains why open weights matter for enterprise customers building frontier AI."
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google / DeepMind",
+          "feature": "Gemini 4 Argon, a new flagship model pitched as built for users' hardest problems, released alongside a dedicated responsible-development and safety post and a robotics-focused variant (Gemini 4 Argon for Robotics)."
+        },
+        {
+          "company": "Google",
+          "feature": "Playground, an experimental gaming platform for creating and playing custom AI-generated games."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "EmbeddingGemma 2, an open, lightweight multimodal embedding model, plus a Singapore GovTech collaboration using on-device Gemma models to detect conversational scams in private chats with zero cloud data egress."
+        }
+      ],
+      "fintech_trends": [
+        "AI-assisted deal and legal review is reaching founders: a Show HN tool reviews startup investment agreements and term sheets, pointing to automation of financial and legal documents.",
+        "On-device AI for scam detection (DeepMind and GovTech Singapore using Gemma) signals growing use of private, local models for fraud prevention in consumer messaging and payments contexts.",
+        "Enterprise predictive analytics is shifting toward agentic systems that act on forecasts, and agents need grounding in enterprise knowledge, relevant to financial services workflows. Wind-down startups, including a crypto firm, are selling their data to AI labs."
+      ],
+      "fundraising": [
+        {
+          "company": "Unnamed one-year-old AI startup (six employees)",
+          "amount": "~$100M (estimated)",
+          "details": "Acquired according to Calcalist; the acquirer and company name were not given in the summary."
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+          "summary": "<p><strong>Josh Woodward</strong> is the head of Google Labs, the Gemini app, and AI Studio. He has spent over 17 years at Google and oversees its longest-running and largest labs team, whose products include NotebookLM (now Gemini Notebook), Project Genie, and Flow. His job is to find, experiment with, and scale new AI products, and he has built one of the most distinctive product cultures in the industry for generating ideas, running experiments, and, even more importantly, knowing when to qui",
+          "published": "2026-10-11T12:31:59"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "OpenAI\u2019s Head of ChatGPT: We\u2019re entering a new era of AI (again) | Tibo Sottiaux",
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+          "summary": "<p><strong>Tibo Sottiaux</strong> leads ChatGPT and Codex at OpenAI. Under his stewardship, OpenAI has shipped some of its most consequential consumer launches: Codex, ChatGPT Work, and most recently, the new Dots personal agent platform. He joined me at DevDay, hours after his team launched more than 20 new products, to talk about where things are heading.</p><p></p><p><strong>We discuss:</strong></p><p>1. Dots, OpenAI\u2019s new personal AI assistant</p><p>2. Why most actions on the internet will s",
+          "published": "2026-10-04T12:32:47"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Apple HomeView, The New Apple TV, The App Story",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0yMDMwNiJdfSwiZXhwIjoxNzk0NTY3NjQ0LCJpYXQiOjE3OTE5NzU2NDQsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.NCqaRlsjrO9BSl8khQC-Uy7GX5zWYaloIW4Z7KZHIjnSL7x6ughAkq5uXlmysGediejOqrlRuq5WfdkrDLADTw&p=20306",
+          "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
+          "published": "2026-10-14T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+          "link": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3NwYWNleC1idXlzLW1vcmUtc3BlY3RydW0tbXVzay1hbmQtbWFya2V0LXN0cnVjdHVyZS1kaXN0cmlidXRlZC1jZWxsdWxhci8iXX0sImV4cCI6MTc5NDU2NzY0NCwiaWF0IjoxNzkxOTc1NjQ0LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjY0MjY3NWMxLTg3MjQtNDk1Ni1hZTYzLWJkZTI0NWQ3NWFiNCIsInVzZSI6ImFjY2VzcyJ9.rgHYYiP6aaZat2e2mSJ5TyTFwVBwkBDns_r9xeFT8CHAbrwFBmxwIhwmQ6E0bLEBzUUcepM1gDq1xsQUbE4nPQ",
+          "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+          "published": "2026-10-13T10:00:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "summary": "TBD",
+          "published": "2026-10-13T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "summary": "Overview of Playground",
+          "published": "2026-10-07T12:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "published": "2026-10-14T02:00:14"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "summary": "",
+          "published": "2026-10-13T19:43:07"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 4 Argon for Robotics",
+          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "summary": "",
+          "published": "2026-10-13T16:01:58"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "summary": "",
+          "published": "2026-10-13T16:01:52"
+        },
+        {
+          "source": "DeepMind",
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "summary": "",
+          "published": "2026-10-06T19:57:04"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Kryzz AI \u2013 local-first Android agent workspace (MIT)",
+          "link": "https://github.com/kriddss3/kryzz-ai",
+          "summary": "<p>Article URL: <a href=\"https://github.com/kriddss3/kryzz-ai\">https://github.com/kriddss3/kryzz-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085614\">https://news.ycombinator.com/item?id=50085614</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-14T10:56:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI-assisted PCB design for KiCad 10",
+          "link": "https://github.com/mixelpixx/Konnect",
+          "summary": "<p>Article URL: <a href=\"https://github.com/mixelpixx/Konnect\">https://github.com/mixelpixx/Konnect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085553\">https://news.ycombinator.com/item?id=50085553</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-14T10:51:37"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "OwlLayer \u2013 Make your web UI drivable by AI",
+          "link": "https://borisbob91.github.io/owllayer/",
+          "summary": "<p>Article URL: <a href=\"https://borisbob91.github.io/owllayer/\">https://borisbob91.github.io/owllayer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085437\">https://news.ycombinator.com/item?id=50085437</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-14T10:39:58"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Building an LLM from Scratch in TypeScript",
+          "link": "https://book.humanexperiences.io/",
+          "summary": "<p>I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085332\">https://news.ycomb",
+          "published": "2026-10-14T10:29:56"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "TV4 postpones show after AI agent erases edited material",
+          "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+          "summary": "<p>Article URL: <a href=\"https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage\">https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085323\">https://news.ycombinator.com/item?id=50085323</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+          "published": "2026-10-14T10:28:26"
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "summary": "Today's news centered on the shift of AI from chat to agents and the risks that come with it: OpenAI agents flooding Wikipedia, a structural trust flaw in MCP agent-to-agent communication, and debate over open-weight models. Podcasts covered how Google Labs and OpenAI's ChatGPT/Codex teams operate and ship, Mistral's enterprise open-weight bet, and DHH on agentic engineering and vibe coding. Elsewhere, AI labs are buying data from defunct startups, Google launched the Playground gaming platform, and PC shipments fell 20.1%.",
       "podcast_highlights": [
