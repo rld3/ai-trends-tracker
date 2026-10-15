@@ -1,6 +1,223 @@
 {
   "summaries": [
     {
+      "date": "2026-10-15",
+      "summary": "Google announced Gemini 4 Argon and the Playground gaming platform. Meanwhile, security stories dominated: Anthropic warned about self-replicating small models on IoT devices, OpenAI agents were reported hammering Wikipedia's tools, and a structural flaw was found in MCP for agent-to-agent communication. Podcasts covered AI in Hollywood (Ari Emanuel), open-weight enterprise AI (Mistral), AI-powered retail (Instacart), agentic programming (DHH), and Apple's AI-limited smart home push.",
+      "podcast_highlights": [
+        {
+          "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Hollywood super-agent Ari Emanuel discusses his memoir and how AI is reshaping the entertainment industry.",
+            "The conversation also covers the enduring power of relationships and 'a phone call' in deal-making, even as AI changes content production."
+          ],
+          "link": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/"
+        },
+        {
+          "title": "Apple HomeView, The New Apple TV, The App Story",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Apple's HomeView is now official, and the central question is how big the addressable market is for expensive devices built on subpar AI.",
+            "The discussion also covers the new Apple TV and the state of the App Store ecosystem."
+          ],
+          "link": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/"
+        },
+        {
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "DHH, creator of Ruby on Rails and CTO of 37signals, discusses the future of programming in an era of AI, agentic engineering and vibe coding.",
+            "He also covers Linux (his Omarchy distribution) and his perspective on developer craft."
+          ],
+          "link": "https://lexfridman.com/dhh-2/"
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues open-weight models are closing the gap with proprietary AI, a bet Mistral has made since day one.",
+            "The episode focuses on why open weights matter for building frontier AI for enterprise customers."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, explains how the AI-powered smart cart (Caper) fits into this strategy."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white-collar work."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google",
+          "feature": "Gemini 4 Argon, a new model positioned as built to solve users' hardest problems"
+        },
+        {
+          "company": "Google",
+          "feature": "Playground, an experimental platform for creating and playing custom AI-generated games"
+        },
+        {
+          "company": "Anthropic",
+          "feature": "Research warning that small weight-based AI replicators could spread as a new generation of worms through IoT devices"
+        }
+      ],
+      "fintech_trends": [],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0yMDMxOSJdfSwiZXhwIjoxNzk0NjU2MTI4LCJpYXQiOjE3OTIwNjQxMjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.Mm2_9_NZXM31bfjg9lCpGDKFngXuCFLF5YusEgefdsxKn-55WIUO_SlKGon8XaUsIf5qRnP4Ng-r-T_1xnZALA&p=20319",
+          "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+          "published": "2026-10-15T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Apple HomeView, The New Apple TV, The App Story",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0yMDMwNiJdfSwiZXhwIjoxNzk0NjU2MTI4LCJpYXQiOjE3OTIwNjQxMjgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.oSLTgAgNTHXZVU-k50H3vvJzc-1UCiDcPngaNdkkP6EbKEcVbqF0se3HiihGZGpVaDaPmcHXG-j7q7cupkUw8w&p=20306",
+          "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
+          "published": "2026-10-14T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+          "summary": "<p>DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc\">https://lexfridman.com/sponsors/ep501-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/dhh-2-transcript\">https://lexfridman.com/dhh-2-transcript</a></p>\n<p><b>CONTACT LEX:</b",
+          "published": "2026-08-26T21:47:04"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "summary": "TBD",
+          "published": "2026-10-13T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Introducing Playground: Create and play custom games",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "summary": "Overview of Playground",
+          "published": "2026-10-07T12:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Open models have real benefits. Do they outweigh the risks?",
+          "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report\u2019s core concern is that the&#8230;",
+          "published": "2026-10-13T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI labs are buying data from dead startups to train their models",
+          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives into real money. He\u2019s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+          "published": "2026-10-13T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn\u2019t&#8230;",
+          "published": "2026-10-09T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+          "published": "2026-10-09T00:08:24"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+          "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human\u2014white with a black head and torso\u2014has been popping up on video feeds. Perhaps you\u2019ve seen it dance or&#8230;",
+          "published": "2026-10-08T09:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Building a safer path to autonomous industrial AI",
+          "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+          "published": "2026-10-08T08:17:32"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Connecting AI agents to enterprise knowledge",
+          "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+          "published": "2026-10-05T15:47:52"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+          "published": "2026-10-05T13:29:32"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "People really hate AI, so why can\u2019t they get enough?",
+          "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+          "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI&#8230;",
+          "published": "2026-10-05T08:00:00"
+        },
+        {
+          "source": "Ars Technica AI",
+          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+          "published": "2026-10-14T21:35:09"
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "summary": "Google dominated the day with the launch of Gemini 4 Argon, along with safety, robotics and Playground announcements and the open EmbeddingGemma 2. Podcasts focused on how AI labs and product teams operate (Google Labs, OpenAI's ChatGPT/Codex), AI's effect on white-collar work, Apple's HomeView and its AI limits, and open-weight enterprise models at Mistral. Broader coverage covered AI-agent risks, open-model tradeoffs, AI labs buying data from defunct startups, and skepticism about robotics and job-loss hype.",
       "podcast_highlights": [
