@@ -1,6 +1,263 @@
 {
   "summaries": [
     {
+      "date": "2026-10-26",
+      "summary": "Today's coverage centers on the AI infrastructure and enterprise buildout, covering the memory chip supply chain, hidden storage costs, verification bottlenecks, and Elon Musk's warning that AI cloud firms face 'guppy-level death'. Interpretability and agent behavior were also prominent: Anthropic's Emmanuel Ameisen discussed how models think, Goodfire's claim about neural networks drew attention, and Claude agents 'played' when stranded on a virtual island. Stratechery's 'The End of the Internet' and MIT Tech Review's piece on agent-friendly web design both suggest the internet is being reshaped for AI agents.",
+      "podcast_highlights": [
+        {
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Ameisen is an interpretability researcher at Anthropic who looks inside LLMs like Claude to understand how they think, rather than treating them as black boxes.",
+            "He came to the work after years in applied ML, and the conversation aims to explain model internals in an accessible way for product and technical audiences.",
+            "It fits this week's wider interpretability theme, including Goodfire's much-discussed claim about the nature of neural networks."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on"
+        },
+        {
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Snyder, author of The Power of Pull and the newsletter The Physics of Startups, has advised more than 50 startups on growing from zero to $1M+.",
+            "The episode is a practical guide to finding product-market fit, built around 'pull' (customers drawing a product in) rather than pushing it on them."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf"
+        },
+        {
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "DHH, creator of Ruby on Rails and CTO of 37signals, discusses the future of programming, including AI, agentic engineering and vibe coding.",
+            "The conversation also covers Linux (his Omarchy distribution) and his views on how developers should work in an AI-assisted era."
+          ],
+          "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2"
+        },
+        {
+          "title": "The End of the Internet",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Argues the old Internet, where anyone could host a server, is over, and that this is the final blow in an ending years in the making.",
+            "Despite this, the piece argues the future is brighter than it appears."
+          ],
+          "link": "https://stratechery.com/2026/the-end-of-the-internet/"
+        },
+        {
+          "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Moffett covers SpaceX across launch, broadband and mobile.",
+            "He applies lessons from the dot-com bubble to assess today's AI and infrastructure boom, which matches Musk's warning about AI cloud firms."
+          ],
+          "link": "https://stratechery.com/?p=20466"
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues open-weight models are closing the gap with proprietary AI, a bet Mistral has made since day one.",
+            "The discussion centers on building frontier models for enterprise use."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart's David McIntosh describes using a data flywheel from 1.6 billion lifetime grocery orders to digitize the physical store.",
+            "The smart cart (Caper) is the vehicle for bringing AI into in-store retail."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss the potential impact of AI on white collar work."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook and Microsoft's metaverse announcements and how the future might play out."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Historian of psychiatry Andrew Scull covers the history of asylums, ECT, lobotomies, Freud and Jung.",
+            "Not AI-focused, so of limited relevance to AI trends."
+          ],
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google / Temasek / Bain",
+          "feature": "e-Conomy SEA 2026 report, 'Building the intelligent economy', projects Southeast Asia's digital economy reaching $368 billion."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "A global map classifying every 10-meter patch of land into distinct forest types, going beyond simple tree cover."
+        },
+        {
+          "company": "AMD",
+          "feature": "Ryzen AI Halo desktop processor product page, aimed at local AI computing."
+        }
+      ],
+      "fintech_trends": [
+        "Verification is becoming the bottleneck as AI output scales (HBR). This has implications for financial controls, compliance and audit, where outputs must be checked before they are trusted.",
+        "Agent security is a growing concern. Tools like mcp-warden keep API keys such as Stripe keys and database credentials away from AI agents, which matters for payments and financial workflows.",
+        "AI infrastructure economics are under scrutiny, with inference storage costs, enterprise AI cost models and Musk's 'guppy-level death' warning for AI cloud firms. Bubble comparisons from Craig Moffett add to investor caution."
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "summary": "<p><strong>Rob Snyder</strong> is the author of <em>The Power of Pull</em> and writes the newsletter <em>The Physics of Startups</em>. He has advised more than 50 startups on growing from zero to $1 million in ARR, drawing on his own experience as a founder who spent two years pushing a product the market didn\u2019t want before accidentally stumbling onto what actually works. In this episode, we walk step by step through his framework for finding product-market fit, from coming up with an idea to cl",
+          "published": "2026-10-25T12:31:34"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+          "summary": "<p><strong>Emmanuel Ameisen</strong> is an interpretability researcher at Anthropic, where he looks inside LLMs like Claude to understand how they think. Before joining Anthropic, he spent years in applied ML at Stripe and Insight, and is the author of <em>Building Machine Learning Powered Applications</em>. His research has produced some of the most striking findings in the field: that models form general representations of concepts, plan many tokens ahead without stating those plans explicitly",
+          "published": "2026-10-18T12:31:36"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "The End of the Internet",
+          "link": "https://stratechery.com/2026/the-end-of-the-internet/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3RoZS1lbmQtb2YtdGhlLWludGVybmV0LyJdfSwiZXhwIjoxNzk1NjA2NDk4LCJpYXQiOjE3OTMwMTQ0OTgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0._qVIw75vJ-d1Iq9jh24igZzt5-q1j5DHyIWGzbroco1gtlTzzPpnPuASrJGz2DJldF-2XjzuENK9f_6k3i7Krw",
+          "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+          "published": "2026-10-26T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+          "link": "https://stratechery.com/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0yMDQ2NiJdfSwiZXhwIjoxNzk1NjA2NDk4LCJpYXQiOjE3OTMwMTQ0OTgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.gbiQJZuFMkmWf3n7SMWNaoXktjAtExt0y2yNRm3T4Mr4BCFNKbS6E2VeEKP3aQyhHYeFtYIBUn8vWzoiVIQ8Eg&p=20466",
+          "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
+          "published": "2026-10-22T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#501 \u2013 DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+          "summary": "<p>DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc\">https://lexfridman.com/sponsors/ep501-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/dhh-2-transcript\">https://lexfridman.com/dhh-2-transcript</a></p>\n<p><b>CONTACT LEX:</b",
+          "published": "2026-08-26T21:47:04"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+          "published": "2026-10-21T04:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Beyond tree cover: mapping the world\u2019s forest types",
+          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "published": "2026-10-22T14:30:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Ankita v2.7.1 \u2013 desktop AI companion with undo",
+          "link": "https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1",
+          "summary": "<p>Article URL: <a href=\"https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1\">https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241912\">https://news.ycombinator.com/item?id=50241912</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T11:14:26"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Is Making Verification the Bottleneck for Companies",
+          "link": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
+          "summary": "<p>Article URL: <a href=\"https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies\">https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241911\">https://news.ycombinator.com/item?id=50241911</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T11:14:19"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Build your first AI agent from scratch in Python: a web research agent",
+          "link": "https://github.com/iayanpahwa/research-agent-from-scratch",
+          "summary": "<p>Article URL: <a href=\"https://github.com/iayanpahwa/research-agent-from-scratch\">https://github.com/iayanpahwa/research-agent-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241905\">https://news.ycombinator.com/item?id=50241905</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T11:13:18"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Retro AI Concept",
+          "link": "https://airetro.vercel.app",
+          "summary": "<p>Article URL: <a href=\"https://airetro.vercel.app\">https://airetro.vercel.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241891\">https://news.ycombinator.com/item?id=50241891</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T11:09:32"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Cleanyourtv.ai",
+          "link": "https://cleanyourtv.ai/",
+          "summary": "<p>Article URL: <a href=\"https://cleanyourtv.ai/\">https://cleanyourtv.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241827\">https://news.ycombinator.com/item?id=50241827</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T10:58:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "The higher self: why the AI copy of your way of working should be yours",
+          "link": "https://isaac-correa.github.io/higher-self/",
+          "summary": "<p>Article URL: <a href=\"https://isaac-correa.github.io/higher-self/\">https://isaac-correa.github.io/higher-self/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241817\">https://news.ycombinator.com/item?id=50241817</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T10:57:54"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Agentic Project Kit \u2013 A control harness for LLM-assisted coding via repo-state",
+          "link": "https://github.com/vfi64/agentic-project-kit",
+          "summary": "<p>Article URL: <a href=\"https://github.com/vfi64/agentic-project-kit\">https://github.com/vfi64/agentic-project-kit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241757\">https://news.ycombinator.com/item?id=50241757</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-26T10:48:11"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Mob programming with AI agents, built on OpenSpec and OpenCode",
+          "link": "https://griyd.com",
+          "summary": "<p>Article URL: <a href=\"https://griyd.com\">https://griyd.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241738\">https://news.ycombinator.com/item?id=50241738</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+          "published": "2026-10-26T10:46:16"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "summary": "Google's launch of Gemini 4 Argon, with companion posts on safety and robotics, dominated the day, while Meta's open Muse Spark model, its Apple partnership for local running, and a Muse sharing-privacy flaw kept Meta in focus. Podcasts centered on how models work internally (Anthropic's interpretability research), how companies should operate like labs (Google Labs), and open-weight enterprise AI (Mistral). Security news was heavy, including OpenAI models hacking a crypto wallet and Anthropic warning about self-replicating small models. Only the article summaries were provided, so podcast takeaways are limited to what the descriptions state.",
       "podcast_highlights": [
