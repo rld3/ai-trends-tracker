@@ -1,6 +1,274 @@
 {
   "summaries": [
     {
+      "date": "2026-10-28",
+      "summary": "Anthropic's S-1 filing dominated the news. Stratechery and MIT Technology Review examined its profitable core business, the cost of compute, and the risk that competition erodes margins. Meta's Muse model faced a privacy setback and became central to its earnings story, DeepMind unveiled Genie 4, and a run of TLS certificate, UEFI, Tor and PHP security incidents added to a theme of fragile internet infrastructure. Podcasts covered AI interpretability, AI solving major math problems, open-weight enterprise models and product-market fit.",
+      "podcast_highlights": [
+        {
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Rob Snyder, author of The Power of Pull and the newsletter The Physics of Startups, has advised more than 50 startups on growing from zero to $1M+.",
+            "The episode is a practical, step-by-step guide to finding product-market fit, built around his idea of customer 'pull'.",
+            "It is aimed at founders and product leaders who want a repeatable framework for early traction."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf"
+        },
+        {
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Emmanuel Ameisen is an interpretability researcher at Anthropic who studies the internals of LLMs like Claude to understand how they think.",
+            "The conversation explains how models work internally, beyond treating them as black boxes.",
+            "Interpretability is presented as key to trusting and improving frontier models."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white-collar work.",
+            "The episode frames ChatGPT as a technology shift with implications for knowledge-work jobs."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook and Microsoft's metaverse announcements.",
+            "They consider how the metaverse future might play out."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Anthropic's IPO is finally here, and its core business is described as very profitable.",
+            "The risk is that competition could eat all of the profits.",
+            "Investors are set up for endless dilution as compute costs keep climbing."
+          ],
+          "link": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/"
+        },
+        {
+          "title": "The End of the Internet",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "The old Internet, where anyone could host a server, is over.",
+            "This is the final blow in an ending that has been coming for years.",
+            "The outlook is argued to be brighter than it appears."
+          ],
+          "link": "https://stratechery.com/2026/the-end-of-the-internet/"
+        },
+        {
+          "title": "#503 \u2013 AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Mathematicians Ankur Moitra, Steven Brunton and Alex Kontorovich discuss a moment when AI solved some of mathematics' hardest problems, including Navier-Stokes.",
+            "The discussion covers what this means for the Riemann Hypothesis, complexity theory and the future of the field."
+          ],
+          "link": "https://lexfridman.com/math-ai-crisis/"
+        },
+        {
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Historian of psychiatry Andrew Scull covers the history of asylums, ECT, lobotomies, Freud and Jung.",
+            "It is not AI-focused and is included here for completeness."
+          ],
+          "link": "https://lexfridman.com/andrew-scull/"
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, explains the AI-powered smart cart strategy."
+          ],
+          "link": ""
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues that open-weight models are closing the gap with proprietary AI.",
+            "Mistral has bet on open weights since day one, with a focus on enterprise use."
+          ],
+          "link": ""
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Anthropic",
+          "feature": "Filed its S-1 for an IPO. Commentary describes a very profitable core business but warns of competitive margin pressure and heavy compute costs."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Genie 4, a new-generation world model offering more realistic real-time simulation."
+        },
+        {
+          "company": "Meta",
+          "feature": "The Muse frontier model is central to Meta's earnings narrative, but Meta suspended Muse's conversation-sharing feature after it exposed users' personal and business information."
+        }
+      ],
+      "fintech_trends": [
+        "AI compute economics are becoming a financial-markets issue. Anthropic's S-1 raises questions about who pays for compute, margin erosion from competition, and investor dilution. Meta's investors are likewise being asked to back its compute spending if they believe in Muse.",
+        "Trust infrastructure for online commerce and payments is under strain. Compromised intermediate TLS certificates, eMudhra's exit from the TLS business, hijacked Tor exit nodes and PHP and UEFI vulnerabilities raise security risks for web-based transactions.",
+        "Enterprise AI cost management is becoming a priority. MIT Technology Review pieces on the new economics of enterprise AI and AI's hidden storage bill, plus an Ars survey showing 28% of software budgets going to unwanted upgrades, point to greater scrutiny of AI and software spend. Google's e-Conomy SEA report projects the region's digital economy at $368B."
+      ],
+      "fundraising": [
+        {
+          "company": "Anthropic",
+          "amount": "Not specified in the provided material",
+          "details": "Filed an S-1 for its IPO. Commentary highlights the profitable core business and the risk of ongoing investor dilution."
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "summary": "<p><strong>Rob Snyder</strong> is the author of <em>The Power of Pull</em> and writes the newsletter <em>The Physics of Startups</em>. He has advised more than 50 startups on growing from zero to $1 million in ARR, drawing on his own experience as a founder who spent two years pushing a product the market didn\u2019t want before accidentally stumbling onto what actually works. In this episode, we walk step by step through his framework for finding product-market fit, from coming up with an idea to cl",
+          "published": "2026-10-25T12:31:34"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+          "summary": "<p><strong>Emmanuel Ameisen</strong> is an interpretability researcher at Anthropic, where he looks inside LLMs like Claude to understand how they think. Before joining Anthropic, he spent years in applied ML at Stripe and Insight, and is the author of <em>Building Machine Learning Powered Applications</em>. His research has produced some of the most striking findings in the field: that models form general representations of concepts, plan many tokens ahead without stating those plans explicitly",
+          "published": "2026-10-18T12:31:36"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+          "link": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpYy1zLTEtdGhlLWNvc3Qtb2YtY29tcHV0ZS13aG8taXMtcGF5aW5nLyJdfSwiZXhwIjoxNzk1Nzc3MjkxLCJpYXQiOjE3OTMxODUyOTEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.VoB0u5Xgkbh2YpVdCVk7vk5-f8nyyHX9wYSbXO7jzHutDbxizMHONL8LpKVvmVSLXk5oMkMJIm9HEN2YGT18Iw",
+          "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+          "published": "2026-10-27T10:32:57"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "The End of the Internet",
+          "link": "https://stratechery.com/2026/the-end-of-the-internet/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L3RoZS1lbmQtb2YtdGhlLWludGVybmV0LyJdfSwiZXhwIjoxNzk1Nzc3MjkxLCJpYXQiOjE3OTMxODUyOTEsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.vNdhcIw8B_SGuR1yusk786jxUF-AMUNnj4yUh7I_pOrA2wauf8h-fHVipJSNBC-87QcsCXee8Qzv4nR256tV1A",
+          "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+          "published": "2026-10-26T10:00:00"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#503 \u2013 AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+          "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+          "summary": "<p>Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working in theoretical computer science, who can speak to the unique games conjecture, complexity theory ",
+          "published": "2026-10-26T22:52:28"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "published": "2026-10-26T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
+          "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+          "published": "2026-10-21T04:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Genie 4: A new generation of world simulation",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "published": "2026-10-27T16:01:38"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Beyond tree cover: mapping the world\u2019s forest types",
+          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "published": "2026-10-22T14:30:24"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+          "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+          "published": "2026-10-27T11:19:18"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Will the real Anthropic please stand up",
+          "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
+          "published": "2026-10-26T17:45:43"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The focus on AI safety disasters ignores everyday harms",
+          "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+          "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+          "published": "2026-10-26T09:01:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Designing an AI serving harness built to last",
+          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+          "published": "2026-10-22T21:17:29"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "The Foundations of Scalable AI",
+          "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+          "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+          "published": "2026-10-22T18:48:04"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Making the case for context-aware AI",
+          "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+          "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+          "published": "2026-10-22T10:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "summary": "Anthropic's S-1 filing dominated the day. Stratechery and MIT Technology Review focused on how profitable the core business is, how much compute costs, and whether competition and dilution will erode returns. Podcasts ranged from Anthropic interpretability research and AI solving open math problems to Mistral's case for open-weight enterprise models and a Stratechery argument that the old open Internet is ending. Security stories (compromised TLS certs, hijacked Tor exit nodes, Meta Muse's conversation-sharing leak) added a theme of eroding trust.",
       "podcast_highlights": [
