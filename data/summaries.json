@@ -1,6 +1,254 @@
 {
   "summaries": [
     {
+      "date": "2026-10-29",
+      "summary": "The day's news centers on AI economics and frontier model competition: Anthropic's S-1 puts the cost of compute and the question of who pays for it in the spotlight, Meta's earnings hinge on investor belief in its Muse model, and Google DeepMind announced Gemini 4 Carbon and Genie 4. Podcasts covered Anthropic's interpretability research, Mistral's open-weight enterprise strategy, Palantir's view of the 'AI religious war,' and practical product-market-fit advice. Security stories were also prominent, including a Meta Muse privacy flaw that exposed shared conversations. Note that most items are headline-level summaries, so details are limited.",
+      "podcast_highlights": [
+        {
+          "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Covers AI diffusion and safety, and what the tech battle is actually about, framed as an 'AI religious war'.",
+            "Discusses the forward-deployed engineer model as a way to get AI deployed in real organizations.",
+            "Only a short description was provided, so further detail is not available."
+          ],
+          "link": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/"
+        },
+        {
+          "title": "Meta Earnings, Muse and the Frontier, Musebook",
+          "source": "Stratechery Podcast",
+          "key_points": [
+            "Meta's earnings come as Zuckerberg delivers on his promise of a frontier model (Muse).",
+            "If investors believe in Muse, they must also support Meta's heavy compute spending.",
+            "Includes discussion of a 'Musebook' concept."
+          ],
+          "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/"
+        },
+        {
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Ameisen is an interpretability researcher at Anthropic who looks inside LLMs like Claude to understand how they think.",
+            "The conversation explores how models work internally rather than treating them as black boxes."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on"
+        },
+        {
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Snyder has advised more than 50 startups on growing from zero to $1M+ and writes The Physics of Startups.",
+            "Focuses on finding product-market fit through the 'pull' framework from his book."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf"
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues open-weight models are closing the gap with proprietary AI.",
+            "Mistral has bet on open weights since day one and targets enterprise customers."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, discusses the AI-powered smart cart."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white collar work.",
+            "This appears to be an older archive episode rather than new content."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Discusses Facebook and Microsoft's metaverse announcements and how the future might play out.",
+            "This appears to be an older archive episode rather than new content."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Gemini 4 Carbon, announced as the company's next frontier model (details not provided in the source)."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Genie 4, a new generation of world model offering more realistic real-time simulation."
+        },
+        {
+          "company": "Meta",
+          "feature": "Muse frontier model, a focus of Meta's earnings; Meta suspended Muse's conversation-sharing feature after a report that it exposed users' personal and business secrets."
+        }
+      ],
+      "fintech_trends": [
+        "Anthropic's S-1 filing gives a rare look at AI lab financials: a very profitable core business, but concerns that competition will erode profits and that investors face ongoing dilution.",
+        "Compute costs are driving AI capital allocation, as Meta's spending on compute is tied to investor belief in Muse, and analysts are tracking AI infrastructure financial indicators.",
+        "New pricing models are emerging, such as Endlesstokens, an LLM API billed by time rather than tokens."
+      ],
+      "fundraising": [
+        {
+          "company": "Anthropic",
+          "amount": "Not specified",
+          "details": "S-1 filed for IPO; the amount raised was not given in the summaries."
+        }
+      ],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "summary": "<p><strong>Rob Snyder</strong> is the author of <em>The Power of Pull</em> and writes the newsletter <em>The Physics of Startups</em>. He has advised more than 50 startups on growing from zero to $1 million in ARR, drawing on his own experience as a founder who spent two years pushing a product the market didn\u2019t want before accidentally stumbling onto what actually works. In this episode, we walk step by step through his framework for finding product-market fit, from coming up with an idea to cl",
+          "published": "2026-10-25T12:31:34"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+          "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+          "summary": "<p><strong>Emmanuel Ameisen</strong> is an interpretability researcher at Anthropic, where he looks inside LLMs like Claude to understand how they think. Before joining Anthropic, he spent years in applied ML at Stripe and Insight, and is the author of <em>Building Machine Learning Powered Applications</em>. His research has produced some of the most striking findings in the field: that models form general representations of concepts, plan many tokens ahead without stating those plans explicitly",
+          "published": "2026-10-18T12:31:36"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+          "link": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLXBhbGFudGlyLWN0by1zaHlhbS1zYW5rYXItYWJvdXQtdGhlLWFpLXJlbGlnaW91cy13YXIvIl19LCJleHAiOjE3OTU4NjU5MDgsImlhdCI6MTc5MzI3MzkwOCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI2NDI2NzVjMS04NzI0LTQ5NTYtYWU2My1iZGUyNDVkNzVhYjQiLCJ1c2UiOiJhY2Nlc3MifQ.P_MblGa1_8Mhi5EV5Mc5GXm3JjWPYsgaAS0j_3iX6Ggop51GS51aZN-NqwvTtYGPiBwxlgYCUf2w3f6uwQ18Vw",
+          "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+          "published": "2026-10-29T10:00:00"
+        },
+        {
+          "source": "Stratechery Podcast",
+          "title": "Meta Earnings, Muse and the Frontier, Musebook",
+          "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/?access_token=eyJhbGciOiJFUzI1NiIsImtpZCI6IkxzanFRcEhoMUJUdmU0djJQUUVuejIiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L21ldGEtZWFybmluZ3MtbXVzZS1hbmQtdGhlLWZyb250aWVyLW11c2Vib29rLyJdfSwiZXhwIjoxNzk1ODY1OTA4LCJpYXQiOjE3OTMyNzM5MDgsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNjQyNjc1YzEtODcyNC00OTU2LWFlNjMtYmRlMjQ1ZDc1YWI0IiwidXNlIjoiYWNjZXNzIn0.K-D5hyaejS3iiWjl4VwCHZVSeZFovVrKZLn8IVGfsq50gIFS01Z312Up_L2pcBb-PvTwu2RQJM4uTxNkzHSv3A",
+          "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+          "published": "2026-10-28T10:06:13"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "summary": "",
+          "published": "2026-10-28T17:00:58"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Genie 4: A new generation of world simulation",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "published": "2026-10-27T16:01:38"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Beyond tree cover: mapping the world\u2019s forest types",
+          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "published": "2026-10-22T14:30:24"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AWF \u2013 AI Workflow Framework",
+          "link": "https://awf-project.ai/",
+          "summary": "<p>Article URL: <a href=\"https://awf-project.ai/\">https://awf-project.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287254\">https://news.ycombinator.com/item?id=50287254</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T11:15:46"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Why AI design tools keep making the same flyer",
+          "link": "https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda",
+          "summary": "<p>Article URL: <a href=\"https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda\">https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287227\">https://news.ycombinator.com/item?id=50287227</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T11:11:55"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI infra financials leading/lagging indicators data vis and analysis page",
+          "link": "https://artificialliabilities.com/",
+          "summary": "<p>Article URL: <a href=\"https://artificialliabilities.com/\">https://artificialliabilities.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287110\">https://news.ycombinator.com/item?id=50287110</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:57:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Open Source or Custom in Enterprise AI Systems?",
+          "link": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
+          "summary": "<p>Article URL: <a href=\"https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/\">https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287093\">https://news.ycombinator.com/item?id=50287093</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:56:07"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Control Planes of Agentic AI Infrastructure for Reliable Software Delivery",
+          "link": "https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/",
+          "summary": "<p>Article URL: <a href=\"https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/\">https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287073\">https://news.ycombinator.com/item?id=50287073</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:54:29"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Industry's Gamble on Trump Crashes into New Political Reality",
+          "link": "https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump",
+          "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump\">https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286937\">https://news.ycombinator.com/item?id=50286937</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:36:03"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]",
+          "link": "https://gking.harvard.edu/files/peerless.pdf",
+          "summary": "<p>Article URL: <a href=\"https://gking.harvard.edu/files/peerless.pdf\">https://gking.harvard.edu/files/peerless.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286818\">https://news.ycombinator.com/item?id=50286818</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:18:52"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Show HN: Endlesstokens \u2013 an LLM API billed by time, not tokens",
+          "link": "https://endlesstokens.ai/",
+          "summary": "<p>Article URL: <a href=\"https://endlesstokens.ai/\">https://endlesstokens.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286808\">https://news.ycombinator.com/item?id=50286808</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:17:38"
+        },
+        {
+          "source": "Hacker News AI",
+          "title": "Building a Banana Sorter AI Machine",
+          "link": "https://www.bvaibhav.info/notes/banana-sorter",
+          "summary": "<p>Article URL: <a href=\"https://www.bvaibhav.info/notes/banana-sorter\">https://www.bvaibhav.info/notes/banana-sorter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286792\">https://news.ycombinator.com/item?id=50286792</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published": "2026-10-29T10:15:17"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "summary": "Anthropic's S-1 filing dominated the news. Stratechery and MIT Technology Review examined its profitable core business, the cost of compute, and the risk that competition erodes margins. Meta's Muse model faced a privacy setback and became central to its earnings story, DeepMind unveiled Genie 4, and a run of TLS certificate, UEFI, Tor and PHP security incidents added to a theme of fragile internet infrastructure. Podcasts covered AI interpretability, AI solving major math problems, open-weight enterprise models and product-market fit.",
       "podcast_highlights": [
