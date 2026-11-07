@@ -1,6 +1,245 @@
 {
   "summaries": [
     {
+      "date": "2026-11-07",
+      "summary": "AI infrastructure politics dominated the day: data center buildouts lost at the ballot box, with Texas's position as the AI buildout hub now in question, while Google pressed ahead with Gemini 4 Carbon and Gemini Omni 1.2 Flash. Agent security and governance was the other major theme, with an Anthropic extension backdoored on Cursor, Chainalysis hit by an attack involving AI agents, and calls for real-time monitoring of agents. Podcasts covered AI-driven breakthroughs in mathematics, open-weight enterprise AI at Mistral, Instacart's smart carts, and growth and PMF playbooks.",
+      "podcast_highlights": [
+        {
+          "title": "#503 \u2013 AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+          "source": "Lex Fridman Podcast",
+          "key_points": [
+            "Mathematicians Ankur Moitra, Steven Brunton and Alex Kontorovich discuss a pivotal moment in which AI is described as having solved some of mathematics' hardest problems, including Navier-Stokes.",
+            "The conversation covers how this reshapes the Riemann Hypothesis and complexity theory, and the role of human mathematicians going forward.",
+            "The 'crisis' framing points to open questions about proof verification, understanding and the future of the field."
+          ],
+          "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis"
+        },
+        {
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Mistral cofounder and CTO Timoth\u00e9e Lacroix argues that open-weight models are closing the gap with proprietary AI, a bet Mistral has made since day one.",
+            "He explains why open weights matter for enterprise customers building frontier AI."
+          ],
+          "link": ""
+        },
+        {
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "source": "NVIDIA AI Podcast",
+          "key_points": [
+            "Instacart has 1.6 billion lifetime grocery orders and is using that data flywheel to digitize the physical store.",
+            "David McIntosh, Chief Connected Stores Officer, discusses the AI-powered smart cart (Caper Cart) as the vehicle for this."
+          ],
+          "link": ""
+        },
+        {
+          "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Hector Serrano, Head of Content at Wispr Flow (an AI voice-to-text tool), runs one of Silicon Valley's most innovative paid growth programs.",
+            "The episode traces how he built the program as a 19-year-old intern at a roughly $2B AI company."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the"
+        },
+        {
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "source": "Lenny's Podcast",
+          "key_points": [
+            "Rob Snyder, author of The Power of Pull and The Physics of Startups, has advised more than 50 startups on growing from zero to $1M and beyond.",
+            "The episode is a detailed guide to finding product-market fit."
+          ],
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf"
+        },
+        {
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "source": "Exponent",
+          "key_points": [
+            "Ben Thompson and James Allworth discuss the potential impact of AI on white collar work."
+          ],
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/"
+        },
+        {
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "source": "Exponent",
+          "key_points": [
+            "Ben and James discuss Facebook's and Microsoft's metaverse announcements and how the future might play out."
+          ],
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/"
+        },
+        {
+          "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google's Response to AI",
+          "source": "Stratechery (Sharp Tech)",
+          "key_points": [
+            "Sharp Tech is now available on video for the first time, on YouTube and on Stratechery.",
+            "The episode covers the U.S. vote on data centers, its implications for Big Tech, and Google's response to AI."
+          ],
+          "link": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/"
+        }
+      ],
+      "top_features": [
+        {
+          "company": "Google DeepMind",
+          "feature": "Gemini 4 Carbon announced as Google's next frontier model."
+        },
+        {
+          "company": "Google",
+          "feature": "Gemini Omni 1.2 Flash, a fast and cost-effective multimodal model that supports longer clips."
+        },
+        {
+          "company": "Google DeepMind",
+          "feature": "Agentic cheminformatics with Google Antigravity: Cheminformatics Skills to accelerate drug discovery workflows, search compounds and propose novel rigidified macrocycles. DeepMind also worked with the UK government on AI to speed up planning assessments."
+        }
+      ],
+      "fintech_trends": [
+        "Intuit CEO Sasan Goodarzi discussed how one of tech's oldest software companies is leaning into the AI paradigm shift in accounting and financial software.",
+        "Crypto and financial infrastructure security is under heavy attack: Chainalysis said hackers stole credentials and tokens for all of its customers in a multifront attack that included AI agents, and Binance said the hackers who stole billions in crypto spent months planning, using laptop infections, compromised internal tooling and fake job interviews.",
+        "Enterprise agent governance is emerging as a priority, including data lineage to secure agentic enterprises, real-time monitoring of agent actions and mechanism-design approaches to keep agents within the rules. These matter for regulated financial workflows."
+      ],
+      "fundraising": [],
+      "raw_articles": [
+        {
+          "source": "Lenny's Podcast",
+          "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+          "link": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+          "summary": "<p><strong>Hector Serrano</strong> runs one of the most innovative and successful paid growth programs in Silicon Valley. As Head of Content at Wispr Flow, a leading AI voice-to-text tool, he built a roster of 50 creators who drive 500 to 600 paid user-generated content (UGC) ads every month. The creators are paid a cut of ad spend, and the best of them earn over $13,000 a month. It\u2019s a playbook the best DTC brands have used for years, now adapted for SaaS. Hector joined Wispr Flow at 19, before",
+          "published": "2026-11-01T13:31:36"
+        },
+        {
+          "source": "Lenny's Podcast",
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "summary": "<p><strong>Rob Snyder</strong> is the author of <em>The Power of Pull</em> and writes the newsletter <em>The Physics of Startups</em>. He has advised more than 50 startups on growing from zero to $1 million in ARR, drawing on his own experience as a founder who spent two years pushing a product the market didn\u2019t want before accidentally stumbling onto what actually works. In this episode, we walk step by step through his framework for finding product-market fit, from coming up with an idea to cl",
+          "published": "2026-10-25T12:31:34"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 197 \u2014 ChatGPT (at Normal Speed)",
+          "link": "https://exponent.fm/episode-197-chatgpt-at-normal-speed/",
+          "summary": "<p>Ben and James reunite to discuss the potential impact of AI on white collar work.</p>\n<p><a href=\"https://stratechery.com/stratechery-plus/\">Subscribe to Stratechery Plus</a>, including Sharp Tech and Sharp China.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: AI Homework \u2014 <a href=\"https://stratechery.com/2022/ai-homework/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview With Daniel Gross and Nat Friedman About the Democratization of AI \u2014 <a href=\"https://stratechery.com/2022/a",
+          "published": "2022-12-09T23:29:35"
+        },
+        {
+          "source": "Exponent",
+          "title": "Episode 196 \u2014 Forecasting the Metaverse",
+          "link": "https://exponent.fm/episode-196-forecasting-the-metaverse/",
+          "summary": "<p>Ben and James discuss Facebook and Microsoft&#8217;s metaverse announcements, and how the future might play out.</p>\n<p><strong>Links</strong></p>\n<ul>\n<li>Ben Thompson: Meta \u2014 <a href=\"https://stratechery.com/2021/meta/\">Stratechery</a></li>\n<li>Ben Thompson: An Interview with Mark Zuckerberg about the Metaverse \u2014 <a href=\"https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/\">Stratechery</a></li>\n<li>Ben Thompson: AR vs. VR \u2014\u00a0<a href=\"https://stratechery.com/20",
+          "published": "2021-11-05T13:14:36"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#503 \u2013 AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+          "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+          "summary": "<p>Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working in theoretical computer science, who can speak to the unique games conjecture, complexity theory ",
+          "published": "2026-10-26T22:52:28"
+        },
+        {
+          "source": "Lex Fridman Podcast",
+          "title": "#502 \u2013 Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "summary": "<p>Andrew Scull is a historian of psychiatry.<br />\nThank you for listening \u2764 Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br />\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.</p>\n<p><b>Transcript:</b><br />\n<a href=\"https://lexfridman.com/andrew-scull-transcript\">https://lexfridman.com/andrew-scull-transcript</a></p>\n<p><b>CONTACT LEX:</b><br />\n<b>Feedback</b> &#8211; giv",
+          "published": "2026-09-17T00:40:49"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+          "link": "",
+          "summary": "Instacart has 1.6 billion lifetime grocery orders\u2014and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart\u2014powered by an NVIDIA Jetson\u2122 board and a sensor fusion system combining cameras, weight sensors, and location data\u2014is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store op",
+          "published": "2026-06-24T15:45:00"
+        },
+        {
+          "source": "NVIDIA AI Podcast",
+          "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+          "link": "",
+          "summary": "Open-weight models are closing the gap with proprietary AI \u2014 and Timoth\u00e9e Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permissi",
+          "published": "2026-06-10T16:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+          "published": "2026-11-05T17:00:00"
+        },
+        {
+          "source": "Google AI",
+          "title": "The latest AI news we announced in October 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "summary": "Animated carousel of images from AI posts in October",
+          "published": "2026-11-02T17:45:00"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "summary": "",
+          "published": "2026-11-05T17:05:16"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "published": "2026-11-03T17:01:49"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Speeding up planning decisions with AI",
+          "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "published": "2026-10-30T14:18:30"
+        },
+        {
+          "source": "DeepMind",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "summary": "",
+          "published": "2026-10-28T17:00:58"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "summary": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+          "published": "2026-11-06T10:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+          "published": "2026-11-04T18:50:55"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Securing the agentic enterprise with data lineage",
+          "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+          "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
+          "published": "2026-11-04T13:00:00"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+          "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,&#8230;",
+          "published": "2026-11-03T10:43:41"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+          "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That&#8230;",
+          "published": "2026-11-03T04:18:47"
+        },
+        {
+          "source": "MIT Tech Review AI",
+          "title": "Raising the quality of insights in agentic analytics",
+          "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+          "published": "2026-11-02T17:00:00"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "summary": "Data center buildouts lost at the ballot box, and Stratechery and MIT Tech Review both ask whether American opposition to building is permanent, with Texas's position as an AI buildout hub now in doubt. Google was the main product news source, with Gemini 4 Carbon, Genie 4 and Gemini Omni 1.2 Flash. Agent security and monitoring were a recurring theme, backed by the Anthropic Cursor extension backdoor and reports of OpenAI agents hacking Hugging Face. Podcasts covered AI's progress on hard math problems, open-weight enterprise models at Mistral, and growth and PMF playbooks. Only titles and short summaries were available for the podcasts, so the points below are limited to what those summaries state.",
       "podcast_highlights": [
